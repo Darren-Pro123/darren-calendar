@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-normal-school-day-reminder-2026-07-13
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260713T074500
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -18,7 +18,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ before 7:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-class-farewell-miss-lam-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -30,7 +30,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-email-delivery-test-2026-07-12
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -41,7 +41,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-11
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -73,12 +73,12 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nDaily Apple
  hain leak concerns. No school action required. | Stock and news round-up
  \; not a school-calendar item. | AAPL fell -0.28% to $315.32 on supply-c
  hain/Tata Electronics leak concerns. Next update at 09:00. | AAPL stock 
- summary and Apple news for Saturday 11 Jul 2026.\n\n(from Darren's Study
-  Pipeline)
+ summary and Apple news for Saturday 11 Jul 2026. | Automated Apple stock
+  + news digest. Not a school event.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-2026-07-12
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -90,7 +90,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-published-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -100,13 +100,13 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
  via Canva link\; poster attachment included | Read the full issue at htt
  ps://scope2425.my.canva.site/scope2526-issue2 | Read online via Canva li
  nk | Read online at the provided Canva link\n\nAttached:\n📎 《文苑》SCOPE 25
- 26 第二期海報.pdf: https://cgi-neighbor-turn-powerseller.trycloudflare.com/at
- tachments/scope-2526-pdf-scope-issue-2-published\n\n(from Darren's Study
-  Pipeline)
+ 26 第二期海報.pdf: https://pdf-isa-americas-farmers.trycloudflare.com/attachm
+ ents/scope-2526-pdf-scope-issue-2-published\n\n(from Darren's Study Pipe
+ line)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-12
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -117,7 +117,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem deliv
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-11-jul-2026-2026-07-12
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -129,7 +129,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL fell -0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-v1060-turbo-2026-07-12
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -141,7 +141,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-news-brief-11-jul-2026-2026-07-11
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -153,7 +153,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -161,13 +161,13 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: 《文苑》第二期正式出版
 DESCRIPTION:A regular reminder worth keeping on your radar.\n新一期校報出版，含中文部
  精選文章、英文部趣味專欄、活動精華及益智遊戲 | Read the school magazine online at provided lin
- k\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://cgi-neighbor-turn-po
- werseller.trycloudflare.com/attachments/scope-2526-pdf-\n\n(from Darren'
- s Study Pipeline)
+ k\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://pdf-isa-americas-far
+ mers.trycloudflare.com/attachments/scope-2526-pdf-\n\n(from Darren's Stu
+ dy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-miss-lam-farewell-announcement-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -179,7 +179,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nFarewell mes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-delivery-test-2026-07-13
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -191,7 +191,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-project-portfolio-and-achieve-2026-07-04
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -205,7 +205,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nPublish your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-13
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -219,7 +219,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-14
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -231,7 +231,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n📍 St. Paul's
 END:VEVENT
 BEGIN:VEVENT
 UID:study-miss-lam-farewell-message-2b-ict-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -243,7 +243,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-official-homepage-2026-07-04
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -263,7 +263,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nStudents can
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-tech-finance-news-brief-11-j-2026-07-11
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -275,7 +275,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-stock-news-brief-2026-07-11
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -287,7 +287,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-published-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -296,13 +296,13 @@ SUMMARY:📌 NORMAL: 《文苑》Issue 2 Published
 DESCRIPTION:A regular reminder worth keeping on your radar.\nSchool newsl
  etter published. Read online at scope2425.my.canva.site/scope2526-issue2
  . | Read online at https://scope2425.my.canva.site/scope2526-issue2\n\nA
- ttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://cgi-neighbor-turn-powersel
- ler.trycloudflare.com/attachments/scope-2526-pdf-issue-2-published\n\n(f
- rom Darren's Study Pipeline)
+ ttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://pdf-isa-americas-farmers.t
+ rycloudflare.com/attachments/scope-2526-pdf-issue-2-published\n\n(from D
+ arren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-magazine-scope-issue-2-published-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -312,13 +312,13 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
  via Canva link\; includes Chinese and English sections\, activities\, an
  d games. | Read online at scope2425.my.canva.site. Poster attached. | Re
  ad online at https://scope2425.my.canva.site/scope2526-issue2\n\nAttache
- d:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://cgi-neighbor-turn-powerseller.tr
- ycloudflare.com/attachments/scope-2526-pdf-school-magazine-scope-issue-2
- -published\n\n(from Darren's Study Pipeline)
+ d:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://pdf-isa-americas-farmers.tryclou
+ dflare.com/attachments/scope-2526-pdf-school-magazine-scope-issue-2-publ
+ ished\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-13
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -330,7 +330,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated AA
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-14
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -342,7 +342,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-15
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260715
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -355,7 +355,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL -0.28%
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-scope-2526-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -363,13 +363,13 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: 文苑 Issue 2 正式出版 (SCOPE 2526)
 DESCRIPTION:A regular reminder worth keeping on your radar.\n校報第二期已出版，線上瀏
  覽：https://scope2425.my.canva.site/scope2526-issue2\n\nAttached:\n📎 《文苑》S
- COPE 2526 第二期海報.pdf: https://cgi-neighbor-turn-powerseller.trycloudflare
- .com/attachments/scope-2526-pdf-issue-2-scope-2526\n\n(from Darren's Stu
- dy Pipeline)
+ COPE 2526 第二期海報.pdf: https://pdf-isa-americas-farmers.trycloudflare.com/
+ attachments/scope-2526-pdf-issue-2-scope-2526\n\n(from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-farewell-announcement-miss-lam-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -381,7 +381,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-20
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -392,13 +392,14 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-21
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260721
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: Hermes email test
 DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email c
- onfirming Gmail delivery works.\n\n(from Darren's Study Pipeline)
+ onfirming Gmail delivery works. | Confirmation that Gmail delivery works
+ .\n\n(from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
