@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -16,13 +16,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
  school uniform\, return reply slip to class S.A. representative\, F.6 se
  llers email soft copy to Yuen Tsz Hin\, collect unsold books promptly af
  ter sale.\n\nAttached:\n📎 2526 SA Old Book Sale Parents Letter.docx: htt
- ps://cgi-neighbor-turn-powerseller.trycloudflare.com/attachments/2526-sa
- -old-book-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Darren's St
- udy Pipeline)
+ ps://pdf-isa-americas-farmers.trycloudflare.com/attachments/2526-sa-old-
+ book-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-joint-school-singing-cont-2026-07-19
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -78,7 +78,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-reminder-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -92,7 +92,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tram-painting-session-2026-08-24
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -119,13 +119,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  on school-themed tram art. Register via Google Form. | Hands-on large-sc
  ale tram art themed around St. Paul's College. Morning time slots\, at l
  east 1 hour each.\n\nAttached:\n📎 Tram Painting Registration Form: https
- ://cgi-neighbor-turn-powerseller.trycloudflare.com/attachments/tram-pain
- ting-registration-form-tram-painting-session\n\n(from Darren's Study Pip
- eline)
+ ://pdf-isa-americas-farmers.trycloudflare.com/attachments/tram-painting-
+ registration-form-tram-painting-session\n\n(from Darren's Study Pipeline
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-2b-farewell-announcement-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -137,7 +137,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07\
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-13
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260713T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -149,7 +149,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-tram-painting-session-2026-08-24
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -167,14 +167,15 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  ion Form | Large-scale hands-on art activity themed around St. Paul's Co
  llege\; registration required via the provided Google Form | Hands-on la
  rge-scale art activity\; morning time slots\; register via Google Form l
- ink provided\n\nAttached:\n📎 Tram Painting Registration Form: https://cg
- i-neighbor-turn-powerseller.trycloudflare.com/attachments/tram-painting-
- registration-form-f-2-tram-painting-session\n\n(from Darren's Study Pipe
- line)
+ ink provided | Hands-on large-scale tram art celebrating St. Paul's Coll
+ ege. Morning slot\, at least one hour. Register via the provided form.\n
+ \nAttached:\n📎 Tram Painting Registration Form: https://pdf-isa-americas
+ -farmers.trycloudflare.com/attachments/tram-painting-registration-form-f
+ -2-tram-painting-session\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-2026-07-14
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260714T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -188,7 +189,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-first-two-lessons-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -204,7 +205,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-st-paul-s-college-tram-painting-sess-2026-08-24
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -213,14 +214,13 @@ SUMMARY:🎉 EVENT: F.2 St. Paul's College Tram Painting Session
 DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
  g (time slots to be arranged)\nHands-on large-scale art activity themed 
  around school identity\; registration via provided form is required\n\nA
- ttached:\n📎 Tram Painting Registration Form: https://cgi-neighbor-turn-p
- owerseller.trycloudflare.com/attachments/tram-painting-registration-form
- -f-2-st-paul-s-college-tram-painting-sess\n\n(from Darren's Study Pipeli
- ne)
+ ttached:\n📎 Tram Painting Registration Form: https://pdf-isa-americas-fa
+ rmers.trycloudflare.com/attachments/tram-painting-registration-form-f-2-
+ st-paul-s-college-tram-painting-sess\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-farewell-miss-lam-goodbye-2026-07-10
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -233,7 +233,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-guest-reveal-ticket-deadl-2026-07-09
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:Event
 COLOR:#33B679
@@ -247,7 +247,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSpecial
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-2526-issue-2-published-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -257,13 +257,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nNew issu
  e available online at canva.site link. | Read online at scope2425.my.can
  va.site/scope2526-issue2\; poster attached. | Read online at https://sco
  pe2425.my.canva.site/scope2526-issue2\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期
- 海報.pdf: https://cgi-neighbor-turn-powerseller.trycloudflare.com/attachme
- nts/scope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren's Study 
- Pipeline)
+ 海報.pdf: https://pdf-isa-americas-farmers.trycloudflare.com/attachments/s
+ cope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren's Study Pipel
+ ine)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-newspaper-issue-2-published-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -271,13 +271,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: School Newspaper 《文苑》Issue 2 Published
 DESCRIPTION:Something happening on campus. Mark it and show up.\nRead onl
  ine at Canva link\; includes Chinese/English sections\, activities\, gam
- es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://cgi-neighbor-turn-p
- owerseller.trycloudflare.com/attachments/scope-2526-pdf-school-newspaper
- -issue-2-published\n\n(from Darren's Study Pipeline)
+ es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://pdf-isa-americas-fa
+ rmers.trycloudflare.com/attachments/scope-2526-pdf-school-newspaper-issu
+ e-2-published\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-visual-arts-st-paul-s-college-tram-p-2026-08-24
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -291,7 +291,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -299,13 +299,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: 《文苑》SCOPE Issue 2 出版
 DESCRIPTION:Something happening on campus. Mark it and show up.\nSchool m
  agazine published with selected Chinese/English articles\, event highlig
- hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://cgi
- -neighbor-turn-powerseller.trycloudflare.com/attachments/scope-2526-pdf-
- scope-issue-2\n\n(from Darren's Study Pipeline)
+ hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://pdf
+ -isa-americas-farmers.trycloudflare.com/attachments/scope-2526-pdf-scope
+ -issue-2\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrive-before-7-45am-2026-07-15
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260715T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -319,7 +319,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:45
 END:VEVENT
 BEGIN:VEVENT
 UID:study-mathematics-society-committee-recruitmen-2026-07-20
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -341,7 +341,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-28
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -361,11 +361,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 1 of
  a 2\; apply ASAP | 3-day CEO/logistics immersion with SF Express\; targe
  t senior form F.4/F.5\, quota 2\; contact Ms Lai Yi Kwok to apply | 3-da
  y immersive work experience with SF Express senior management. Target F.
- 4/F.5\; quota 2.\n\n(from Darren's Study Pipeline)
+ 4/F.5\; quota 2. | 3-day logistics CEO immersion hosted by police and SF
+  Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if interested.\n\n(
+ from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -381,11 +383,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 2 of
  3\; target F.4–F.5\; quota 2 | 3-day CEO/logistics immersion with SF Exp
  ress\; target senior form F.4/F.5\, quota 2\; contact Ms Lai Yi Kwok to 
  apply | 3-day immersive work experience with SF Express senior managemen
- t. Target F.4/F.5\; quota 2.\n\n(from Darren's Study Pipeline)
+ t. Target F.4/F.5\; quota 2. | 3-day logistics CEO immersion hosted by p
+ olice and SF Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if inte
+ rested.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -401,11 +405,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 3 of
  3\; target F.4–F.5\; quota 2 | 3-day CEO/logistics immersion with SF Exp
  ress\; target senior form F.4/F.5\, quota 2\; contact Ms Lai Yi Kwok to 
  apply | 3-day immersive work experience with SF Express senior managemen
- t. Target F.4/F.5\; quota 2.\n\n(from Darren's Study Pipeline)
+ t. Target F.4/F.5\; quota 2. | 3-day logistics CEO immersion hosted by p
+ olice and SF Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if inte
+ rested.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-hist-ces-ping-shan-heritage-trail-exc-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -414,13 +420,13 @@ SUMMARY:🎉 EVENT: IH Hist & CES - Ping Shan Heritage Trail excursion @ Pin
  g Shan Heritage Trail
 DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
  han Heritage Trail\nPrepare worksheet before excursion\n\nAttached:\n📎 P
- ing Shan Heritage Trail Worksheet: https://cgi-neighbor-turn-powerseller
- .trycloudflare.com/attachments/ping-shan-heritage-trail-worksheet-ih-his
- t-ces-ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipeline)
+ ing Shan Heritage Trail Worksheet: https://pdf-isa-americas-farmers.tryc
+ loudflare.com/attachments/ping-shan-heritage-trail-worksheet-ih-hist-ces
+ -ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-excursion-ih-hi-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -433,7 +439,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-day-start-attend-first-two-lesson-2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -444,7 +450,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrival-before-7-45am-2026-07-16
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260716T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -456,7 +462,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-excursion-ping-shan-heritage--2026-07-06
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -469,7 +475,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-results-release-briefing-form-6-su-2026-07-22
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Event
 COLOR:#33B679
@@ -482,7 +488,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-support-briefing-session-2026-07-20
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -494,7 +500,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 school
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-18
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -512,7 +518,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-19
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -528,7 +534,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-20
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -544,7 +550,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-21
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -560,7 +566,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-22
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -576,7 +582,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-23
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -592,7 +598,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-24
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -608,7 +614,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-society-f-1-3-english-ambassador-2026-08-20
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -616,5 +622,111 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: English Society 幹事招募 (F.1-3 English Ambassadors)
 DESCRIPTION:Something happening on campus. Mark it and show up.\n截止 8/20；
  負責籌備校內英文活動，可獲報告卡幹事記録\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-18
+DTSTAMP:20260721T010745
+DTSTART:20260818T140000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 1) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting Lam Wa
+ i Ho / Yuan Tianle / Chui Cheuk Kiu Isaac / Tse Shing Yau's heavy-metal 
+ test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-19
+DTSTAMP:20260721T010745
+DTSTART:20260819T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 2) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting heavy-
+ metal test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-20
+DTSTAMP:20260721T010745
+DTSTART:20260820T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 3) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting heavy-
+ metal test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-21
+DTSTAMP:20260721T010745
+DTSTART:20260821T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 4) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting heavy-
+ metal test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-22
+DTSTAMP:20260721T010745
+DTSTART:20260822T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 5) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting heavy-
+ metal test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-da-2026-08-23
+DTSTAMP:20260721T010745
+DTSTART:20260823T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Day 6) @ G/F\, Ex
+ hibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Causew
+ ay Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 18:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE — visit PH19 booth supporting heavy-
+ metal test strip project.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-joint-school-science-exhibition-visit-fi-2026-08-24
+DTSTAMP:20260721T010745
+DTSTART:20260824T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Joint School Science Exhibition Visit (Final Day) @ G/F\
+ , Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, Ca
+ useway Bay
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 12:30 · 📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Caus
+ eway Road\, Causeway Bay\n59th JSSE final day — visit PH19 booth support
+ ing heavy-metal test strip project.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
