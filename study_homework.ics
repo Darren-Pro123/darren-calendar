@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-history-e-reading-award-scheme-survey-2026-07-17
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -19,7 +19,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-summer-homework-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -38,7 +38,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-integrated-humanities-history-e-reading--2026-07-17
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -50,7 +50,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -61,7 +61,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-holiday-homework-chinese-form-2-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -72,7 +72,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n\n(fr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -83,7 +83,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n按時完�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-worksheet-2026-07-07
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -97,7 +97,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nPrepa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-4-chinese-summer-homework-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -109,20 +109,20 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nSumme
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-holiday-homework-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Chinese Holiday Homework (暑假作業)
 DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
-  Sep 2026.\n\nAttached:\n📎 2/9_暑假作業: https://cgi-neighbor-turn-powersell
- er.trycloudflare.com/attachments/2-9-chinese-holiday-homework\n\n(from D
- arren's Study Pipeline)
+  Sep 2026.\n\nAttached:\n📎 2/9_暑假作業: https://pdf-isa-americas-farmers.tr
+ ycloudflare.com/attachments/2-9-chinese-holiday-homework\n\n(from Darren
+ 's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2026-summer-homework-chinese-class-2b-gr-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -133,7 +133,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-worksheet-due-ping-shan-herit-2026-07-07
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -144,20 +144,20 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nUploa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-homework-chinese-2026-09-02
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 暑假作業 Summer Homework (Chinese)
 DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
- ete and submit via Google Classroom\n\nAttached:\n📎 2/9_暑假作業: https://cg
- i-neighbor-turn-powerseller.trycloudflare.com/attachments/2-9-summer-hom
- ework-chinese\n\n(from Darren's Study Pipeline)
+ ete and submit via Google Classroom\n\nAttached:\n📎 2/9_暑假作業: https://pd
+ f-isa-americas-farmers.trycloudflare.com/attachments/2-9-summer-homework
+ -chinese\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-2b-group-1-2026-07-08
-DTSTAMP:20260721T001316
+DTSTAMP:20260721T010745
 DTSTART:20260708T235900
 CATEGORIES:Homework
 COLOR:#4285F4
