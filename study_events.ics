@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -22,7 +22,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-joint-school-singing-cont-2026-07-19
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -73,12 +73,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30
  st performer Panther Chan 陳蕾. | Support our finalists: 3C Luk Ka Wang\, 
  4A Au-Yeung Nicholas\, 5D Chan Pak Kui\, 6E Hayden Lau. Guest: Panther C
  han 陳蕾. | Support SPC finalists: 3C Luk Ka Wang\, 4A Au-Yeung Nicholas\,
-  5D Chan Pak Kui\, 6E Hayden Lau. Guest performer: Panther Chan.\n\n(fro
- m Darren's Study Pipeline)
+  5D Chan Pak Kui\, 6E Hayden Lau. Guest performer: Panther Chan. | Suppo
+ rt school finalists (3C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak
+  Kui\, 6E Hayden Lau). Guest performer Panther Chan 陳蕾.\n\n(from Darren'
+ s Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-reminder-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -92,7 +94,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tram-painting-session-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -118,14 +120,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  gister via Google Forms. | F.2 students\; one-hour morning slots. Hands-
  on school-themed tram art. Register via Google Form. | Hands-on large-sc
  ale tram art themed around St. Paul's College. Morning time slots\, at l
- east 1 hour each.\n\nAttached:\n📎 Tram Painting Registration Form: https
- ://pdf-isa-americas-farmers.trycloudflare.com/attachments/tram-painting-
- registration-form-tram-painting-session\n\n(from Darren's Study Pipeline
- )
+ east 1 hour each. | F.2 students invited\; morning time slots\, at least
+  one hour.\n\nAttached:\n📎 Tram Painting Registration Form: https://pdf-
+ isa-americas-farmers.trycloudflare.com/attachments/tram-painting-registr
+ ation-form-tram-painting-session\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-2b-farewell-announcement-2026-07-10
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -137,7 +139,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07\
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-13
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260713T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -149,7 +151,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-tram-painting-session-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -175,7 +177,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-2026-07-14
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260714T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -189,7 +191,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-first-two-lessons-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -205,7 +207,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-st-paul-s-college-tram-painting-sess-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -220,7 +222,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-farewell-miss-lam-goodbye-2026-07-10
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -233,7 +235,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-guest-reveal-ticket-deadl-2026-07-09
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:Event
 COLOR:#33B679
@@ -247,7 +249,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSpecial
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-2526-issue-2-published-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -263,7 +265,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nNew issu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-newspaper-issue-2-published-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -277,7 +279,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nRead onl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-visual-arts-st-paul-s-college-tram-p-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -291,7 +293,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -305,7 +307,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSchool m
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrive-before-7-45am-2026-07-15
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260715T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -319,7 +321,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:45
 END:VEVENT
 BEGIN:VEVENT
 UID:study-mathematics-society-committee-recruitmen-2026-07-20
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -337,11 +339,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
   | Submit application via Google Form by today to join next year's commi
  ttee. | Submit Google Form on or before today (20 Jul) to apply for comm
  ittee next academic year. | Apply via Google Form by 20/7 for next year'
- s committee positions.\n\n(from Darren's Study Pipeline)
+ s committee positions. | Submit Google Form application on or before 20/
+ 7 (Mon).\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-28
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -367,7 +370,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 1 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -389,7 +392,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 2 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -411,7 +414,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 3 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-hist-ces-ping-shan-heritage-trail-exc-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -426,7 +429,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-excursion-ih-hi-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -439,7 +442,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-day-start-attend-first-two-lesson-2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -450,7 +453,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrival-before-7-45am-2026-07-16
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260716T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -462,7 +465,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-excursion-ping-shan-heritage--2026-07-06
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -475,7 +478,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-results-release-briefing-form-6-su-2026-07-22
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Event
 COLOR:#33B679
@@ -488,7 +491,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-support-briefing-session-2026-07-20
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -500,7 +503,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 school
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-18
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -518,7 +521,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-19
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -534,7 +537,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-20
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -550,7 +553,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-21
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -566,7 +569,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-22
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -582,7 +585,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-23
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -598,7 +601,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -614,7 +617,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-society-f-1-3-english-ambassador-2026-08-20
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -625,7 +628,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n截止 8/20；
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-18
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260818T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -641,7 +644,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-19
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -656,7 +659,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-20
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -671,7 +674,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-21
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -686,7 +689,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-22
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -701,7 +704,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-23
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -716,7 +719,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-fi-2026-08-24
-DTSTAMP:20260721T010745
+DTSTAMP:20260721T021355
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
