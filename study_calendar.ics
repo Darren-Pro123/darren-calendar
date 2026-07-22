@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -16,13 +16,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
  school uniform\, return reply slip to class S.A. representative\, F.6 se
  llers email soft copy to Yuen Tsz Hin\, collect unsold books promptly af
  ter sale.\n\nAttached:\n📎 2526 SA Old Book Sale Parents Letter.docx: htt
- ps://legendary-lafayette-potential-outcomes.trycloudflare.com/attachment
- s/2526-sa-old-book-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Da
- rren's Study Pipeline)
+ ps://latino-figure-structural-tutorials.trycloudflare.com/attachments/25
+ 26-sa-old-book-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Darren
+ 's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-history-e-reading-award-scheme-survey-2026-07-17
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -36,7 +36,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-joint-school-singing-cont-2026-07-19
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -93,11 +93,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30
  hool finalists: 3C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak Kui\
  , 6E Hayden Lau. Guest performer: Panther Chan 陳蕾. | Support St. Paul's 
  finalists (3C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak Kui\, 6E 
- Hayden Lau). Guest: Panther Chan 陳蕾.\n\n(from Darren's Study Pipeline)
+ Hayden Lau). Guest: Panther Chan 陳蕾. | Support finalists from our school
+ . Guest performer: Panther Chan 陳蕾.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-reminder-2026-07-13
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260713T074500
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -110,7 +111,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ before 7:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-reminder-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -124,7 +125,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-summer-homework-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -143,7 +144,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-class-farewell-miss-lam-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -155,7 +156,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tram-painting-session-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -186,13 +187,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  table for painting. | F.2 students only. Hands-on large-scale tram art t
  hemed around St. Paul's College. Morning time slots\, at least 1 hour. R
  egister via Google Form.\n\nAttached:\n📎 Tram Painting Registration Form
- : https://legendary-lafayette-potential-outcomes.trycloudflare.com/attac
- hments/tram-painting-registration-form-tram-painting-session\n\n(from Da
- rren's Study Pipeline)
+ : https://latino-figure-structural-tutorials.trycloudflare.com/attachmen
+ ts/tram-painting-registration-form-tram-painting-session\n\n(from Darren
+ 's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-email-delivery-test-2026-07-12
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -203,7 +204,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-11
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -243,7 +244,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nDaily Apple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-2026-07-12
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -255,7 +256,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-integrated-humanities-history-e-reading--2026-07-17
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -267,7 +268,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -278,7 +279,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-2b-farewell-announcement-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -290,7 +291,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07\
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-13
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260713T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -302,7 +303,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-holiday-homework-chinese-form-2-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -313,7 +314,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n\n(fr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-published-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -323,13 +324,13 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
  via Canva link\; poster attachment included | Read the full issue at htt
  ps://scope2425.my.canva.site/scope2526-issue2 | Read online via Canva li
  nk | Read online at the provided Canva link\n\nAttached:\n📎 《文苑》SCOPE 25
- 26 第二期海報.pdf: https://legendary-lafayette-potential-outcomes.trycloudfla
- re.com/attachments/scope-2526-pdf-scope-issue-2-published\n\n(from Darre
- n's Study Pipeline)
+ 26 第二期海報.pdf: https://latino-figure-structural-tutorials.trycloudflare.c
+ om/attachments/scope-2526-pdf-scope-issue-2-published\n\n(from Darren's 
+ Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-tram-painting-session-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -349,13 +350,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  rge-scale art activity\; morning time slots\; register via Google Form l
  ink provided | Hands-on large-scale tram art celebrating St. Paul's Coll
  ege. Morning slot\, at least one hour. Register via the provided form.\n
- \nAttached:\n📎 Tram Painting Registration Form: https://legendary-lafaye
- tte-potential-outcomes.trycloudflare.com/attachments/tram-painting-regis
- tration-form-f-2-tram-painting-session\n\n(from Darren's Study Pipeline)
+ \nAttached:\n📎 Tram Painting Registration Form: https://latino-figure-st
+ ructural-tutorials.trycloudflare.com/attachments/tram-painting-registrat
+ ion-form-f-2-tram-painting-session\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-12
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -366,7 +367,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem deliv
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-11-jul-2026-2026-07-12
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -378,7 +379,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL fell -0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-v1060-turbo-2026-07-12
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -390,7 +391,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-news-brief-11-jul-2026-2026-07-11
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -402,7 +403,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-2026-07-14
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260714T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -416,7 +417,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -427,7 +428,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n按時完�
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -435,13 +436,13 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: 《文苑》第二期正式出版
 DESCRIPTION:A regular reminder worth keeping on your radar.\n新一期校報出版，含中文部
  精選文章、英文部趣味專欄、活動精華及益智遊戲 | Read the school magazine online at provided lin
- k\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://legendary-lafayette-
- potential-outcomes.trycloudflare.com/attachments/scope-2526-pdf-\n\n(fro
- m Darren's Study Pipeline)
+ k\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://latino-figure-struct
+ ural-tutorials.trycloudflare.com/attachments/scope-2526-pdf-\n\n(from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-worksheet-2026-07-07
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -455,7 +456,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nPrepa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-first-two-lessons-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -471,7 +472,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-miss-lam-farewell-announcement-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -483,7 +484,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nFarewell mes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-st-paul-s-college-tram-painting-sess-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -492,14 +493,14 @@ SUMMARY:🎉 EVENT: F.2 St. Paul's College Tram Painting Session
 DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
  g (time slots to be arranged)\nHands-on large-scale art activity themed 
  around school identity\; registration via provided form is required\n\nA
- ttached:\n📎 Tram Painting Registration Form: https://legendary-lafayette
- -potential-outcomes.trycloudflare.com/attachments/tram-painting-registra
- tion-form-f-2-st-paul-s-college-tram-painting-sess\n\n(from Darren's Stu
- dy Pipeline)
+ ttached:\n📎 Tram Painting Registration Form: https://latino-figure-struc
+ tural-tutorials.trycloudflare.com/attachments/tram-painting-registration
+ -form-f-2-st-paul-s-college-tram-painting-sess\n\n(from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-delivery-test-2026-07-13
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -511,7 +512,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-project-portfolio-and-achieve-2026-07-04
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -525,7 +526,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nPublish your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-farewell-miss-lam-goodbye-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -538,7 +539,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-13
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -552,7 +553,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-guest-reveal-ticket-deadl-2026-07-09
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:Event
 COLOR:#33B679
@@ -566,7 +567,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSpecial
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-14
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -578,7 +579,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n📍 St. Paul's
 END:VEVENT
 BEGIN:VEVENT
 UID:study-miss-lam-farewell-message-2b-ict-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -590,7 +591,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-2526-issue-2-published-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -600,13 +601,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nNew issu
  e available online at canva.site link. | Read online at scope2425.my.can
  va.site/scope2526-issue2\; poster attached. | Read online at https://sco
  pe2425.my.canva.site/scope2526-issue2\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期
- 海報.pdf: https://legendary-lafayette-potential-outcomes.trycloudflare.com
- /attachments/scope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren
- 's Study Pipeline)
+ 海報.pdf: https://latino-figure-structural-tutorials.trycloudflare.com/att
+ achments/scope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren's S
+ tudy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-official-homepage-2026-07-04
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -626,7 +627,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nStudents can
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-newspaper-issue-2-published-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -634,13 +635,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: School Newspaper 《文苑》Issue 2 Published
 DESCRIPTION:Something happening on campus. Mark it and show up.\nRead onl
  ine at Canva link\; includes Chinese/English sections\, activities\, gam
- es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://legendary-lafayette
- -potential-outcomes.trycloudflare.com/attachments/scope-2526-pdf-school-
- newspaper-issue-2-published\n\n(from Darren's Study Pipeline)
+ es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://latino-figure-struc
+ tural-tutorials.trycloudflare.com/attachments/scope-2526-pdf-school-news
+ paper-issue-2-published\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-visual-arts-st-paul-s-college-tram-p-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -654,7 +655,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-tech-finance-news-brief-11-j-2026-07-11
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -666,7 +667,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-stock-news-brief-2026-07-11
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -678,7 +679,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-4-chinese-summer-homework-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -690,7 +691,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nSumme
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-published-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -699,13 +700,13 @@ SUMMARY:📌 NORMAL: 《文苑》Issue 2 Published
 DESCRIPTION:A regular reminder worth keeping on your radar.\nSchool newsl
  etter published. Read online at scope2425.my.canva.site/scope2526-issue2
  . | Read online at https://scope2425.my.canva.site/scope2526-issue2\n\nA
- ttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://legendary-lafayette-potent
- ial-outcomes.trycloudflare.com/attachments/scope-2526-pdf-issue-2-publis
- hed\n\n(from Darren's Study Pipeline)
+ ttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://latino-figure-structural-t
+ utorials.trycloudflare.com/attachments/scope-2526-pdf-issue-2-published\
+ n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -713,13 +714,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: 《文苑》SCOPE Issue 2 出版
 DESCRIPTION:Something happening on campus. Mark it and show up.\nSchool m
  agazine published with selected Chinese/English articles\, event highlig
- hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://leg
- endary-lafayette-potential-outcomes.trycloudflare.com/attachments/scope-
- 2526-pdf-scope-issue-2\n\n(from Darren's Study Pipeline)
+ hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://lat
+ ino-figure-structural-tutorials.trycloudflare.com/attachments/scope-2526
+ -pdf-scope-issue-2\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-magazine-scope-issue-2-published-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -729,13 +730,13 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
  via Canva link\; includes Chinese and English sections\, activities\, an
  d games. | Read online at scope2425.my.canva.site. Poster attached. | Re
  ad online at https://scope2425.my.canva.site/scope2526-issue2\n\nAttache
- d:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://legendary-lafayette-potential-ou
- tcomes.trycloudflare.com/attachments/scope-2526-pdf-school-magazine-scop
- e-issue-2-published\n\n(from Darren's Study Pipeline)
+ d:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://latino-figure-structural-tutoria
+ ls.trycloudflare.com/attachments/scope-2526-pdf-school-magazine-scope-is
+ sue-2-published\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-13
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -747,7 +748,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated AA
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrive-before-7-45am-2026-07-15
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260715T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -761,20 +762,20 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:45
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-holiday-homework-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Chinese Holiday Homework (暑假作業)
 DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
-  Sep 2026.\n\nAttached:\n📎 2/9_暑假作業: https://legendary-lafayette-potenti
- al-outcomes.trycloudflare.com/attachments/2-9-chinese-holiday-homework\n
- \n(from Darren's Study Pipeline)
+  Sep 2026.\n\nAttached:\n📎 2/9_暑假作業: https://latino-figure-structural-tu
+ torials.trycloudflare.com/attachments/2-9-chinese-holiday-homework\n\n(f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-14
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -786,7 +787,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-mathematics-society-committee-recruitmen-2026-07-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -806,12 +807,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
  ittee next academic year. | Apply via Google Form by 20/7 for next year'
  s committee positions. | Submit Google Form application on or before 20/
  7 (Mon). | Apply via Google Form on or before 20/7 for next academic yea
- r committee positions. | Submit Google Form application by 20 July.\n\n(
- from Darren's Study Pipeline)
+ r committee positions. | Submit Google Form application by 20 July. | Ap
+ ply via Google Form by 20/7.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-28
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -835,11 +836,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 1 of
   Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if interested. | Ta
  rget: senior form F.4-F.5 students\, Quota: 2. Details to be announced. 
  | Day 1 of 3-day experience for F.4–F.5 students. Quota 2. Contact ASAP.
- \n\n(from Darren's Study Pipeline)
+  | Day 1 of 3-day work experience with SF Express management. Target: F.
+ 4 or F.5. Quota: 2.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -858,12 +860,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 2 of
  t. Target F.4/F.5\; quota 2. | 3-day logistics CEO immersion hosted by p
  olice and SF Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if inte
  rested. | Target: senior form F.4-F.5 students\, Quota: 2. Details to be
-  announced. | Day 2 of 3-day experience for F.4–F.5 students.\n\n(from D
- arren's Study Pipeline)
+  announced. | Day 2 of 3-day experience for F.4–F.5 students. | Day 2 of
+  3-day work experience with SF Express management. Target: F.4 or F.5. Q
+ uota: 2.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -883,11 +886,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 3 of
  olice and SF Express. Quota 2. Senior form (F.4/F.5). Reply ASAP if inte
  rested. | Target: senior form F.4-F.5 students\, Quota: 2. Details to be
   announced. | Day 3 of 3-day experience for F.4–F.5 students. Detailed c
- urriculum to be announced.\n\n(from Darren's Study Pipeline)
+ urriculum to be announced. | Day 3 of 3-day work experience with SF Expr
+ ess management. Target: F.4 or F.5. Quota: 2.\n\n(from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-hist-ces-ping-shan-heritage-trail-exc-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -896,14 +901,14 @@ SUMMARY:🎉 EVENT: IH Hist & CES - Ping Shan Heritage Trail excursion @ Pin
  g Shan Heritage Trail
 DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
  han Heritage Trail\nPrepare worksheet before excursion\n\nAttached:\n📎 P
- ing Shan Heritage Trail Worksheet: https://legendary-lafayette-potential
- -outcomes.trycloudflare.com/attachments/ping-shan-heritage-trail-workshe
- et-ih-hist-ces-ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipe
- line)
+ ing Shan Heritage Trail Worksheet: https://latino-figure-structural-tuto
+ rials.trycloudflare.com/attachments/ping-shan-heritage-trail-worksheet-i
+ h-hist-ces-ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipeline
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2026-summer-homework-chinese-class-2b-gr-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -914,7 +919,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-excursion-ih-hi-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -927,7 +932,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-day-start-attend-first-two-lesson-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -938,7 +943,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-15
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260715
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -951,7 +956,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL -0.28%
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrival-before-7-45am-2026-07-16
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260716T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -963,7 +968,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-excursion-ping-shan-heritage--2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -976,7 +981,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-worksheet-due-ping-shan-herit-2026-07-07
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -987,7 +992,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nUploa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-results-release-briefing-form-6-su-2026-07-22
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Event
 COLOR:#33B679
@@ -1000,20 +1005,20 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-homework-chinese-2026-09-02
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 暑假作業 Summer Homework (Chinese)
 DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
- ete and submit via Google Classroom\n\nAttached:\n📎 2/9_暑假作業: https://le
- gendary-lafayette-potential-outcomes.trycloudflare.com/attachments/2-9-s
- ummer-homework-chinese\n\n(from Darren's Study Pipeline)
+ ete and submit via Google Classroom\n\nAttached:\n📎 2/9_暑假作業: https://la
+ tino-figure-structural-tutorials.trycloudflare.com/attachments/2-9-summe
+ r-homework-chinese\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-support-briefing-session-2026-07-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -1025,7 +1030,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 school
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-18
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1040,12 +1045,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
   Cheuk Kiu Isaac\, Tse Shing Yau | Test strip for heavy metal ion detect
  ion using fluorescent ligand-metal complexes. | Support PH19 team. Exhib
  ition features heavy-metal-ion test-strip concept. | PH19 booth: test st
- rip for heavy metal ion detection. Support St. Paul's project holders.\n
- \n(from Darren's Study Pipeline)
+ rip for heavy metal ion detection. Support St. Paul's project holders. |
+  Exhibition of a test strip for heavy metal ion detection. Project holde
+ rs: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu Isaac\, Tse Shing Yau.\n\n
+ (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-19
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1059,11 +1066,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ion test strip project | Test strip for heavy metal ion detection using 
  fluorescent ligand-metal complexes. | Support PH19 team. Exhibition feat
  ures heavy-metal-ion test-strip concept. | PH19 booth: test strip for he
- avy metal ion detection.\n\n(from Darren's Study Pipeline)
+ avy metal ion detection. | Exhibition of a test strip for heavy metal io
+ n detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu 
+ Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1077,11 +1086,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ion test strip project | Test strip for heavy metal ion detection using 
  fluorescent ligand-metal complexes. | Support PH19 team. Exhibition feat
  ures heavy-metal-ion test-strip concept. | PH19 booth: test strip for he
- avy metal ion detection.\n\n(from Darren's Study Pipeline)
+ avy metal ion detection. | Exhibition of a test strip for heavy metal io
+ n detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu 
+ Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-21
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1095,11 +1106,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ion test strip project | Test strip for heavy metal ion detection using 
  fluorescent ligand-metal complexes. | Support PH19 team. Exhibition feat
  ures heavy-metal-ion test-strip concept. | PH19 booth: test strip for he
- avy metal ion detection.\n\n(from Darren's Study Pipeline)
+ avy metal ion detection. | Exhibition of a test strip for heavy metal io
+ n detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu 
+ Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-22
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1113,11 +1126,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ion test strip project | Test strip for heavy metal ion detection using 
  fluorescent ligand-metal complexes. | Support PH19 team. Exhibition feat
  ures heavy-metal-ion test-strip concept. | PH19 booth: test strip for he
- avy metal ion detection.\n\n(from Darren's Study Pipeline)
+ avy metal ion detection. | Exhibition of a test strip for heavy metal io
+ n detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu 
+ Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-23
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1131,11 +1146,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ion test strip project | Test strip for heavy metal ion detection using 
  fluorescent ligand-metal complexes. | Support PH19 team. Exhibition feat
  ures heavy-metal-ion test-strip concept. | PH19 booth: test strip for he
- avy metal ion detection.\n\n(from Darren's Study Pipeline)
+ avy metal ion detection. | Exhibition of a test strip for heavy metal io
+ n detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu 
+ Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1149,11 +1166,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
   ion test strip project | Test strip for heavy metal ion detection using
   fluorescent ligand-metal complexes. | Support PH19 team. Exhibition fea
  tures heavy-metal-ion test-strip concept. | PH19 booth: test strip for h
- eavy metal ion detection.\n\n(from Darren's Study Pipeline)
+ eavy metal ion detection. | Exhibition of a test strip for heavy metal i
+ on detection. Project holders: Lam Wai Ho\, Yuan Tianle\, Chui Cheuk Kiu
+  Isaac\, Tse Shing Yau.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-scope-2526-2026-07-06
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1161,13 +1180,13 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: 文苑 Issue 2 正式出版 (SCOPE 2526)
 DESCRIPTION:A regular reminder worth keeping on your radar.\n校報第二期已出版，線上瀏
  覽：https://scope2425.my.canva.site/scope2526-issue2\n\nAttached:\n📎 《文苑》S
- COPE 2526 第二期海報.pdf: https://legendary-lafayette-potential-outcomes.tryc
- loudflare.com/attachments/scope-2526-pdf-issue-2-scope-2526\n\n(from Dar
- ren's Study Pipeline)
+ COPE 2526 第二期海報.pdf: https://latino-figure-structural-tutorials.trycloud
+ flare.com/attachments/scope-2526-pdf-issue-2-scope-2526\n\n(from Darren'
+ s Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-society-f-1-3-english-ambassador-2026-08-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -1178,7 +1197,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n截止 8/20；
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-2b-group-1-2026-07-08
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260708T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1190,7 +1209,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-farewell-announcement-miss-lam-2026-07-10
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1202,7 +1221,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1213,7 +1232,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-21
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260721
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1226,7 +1245,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email c
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-18
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260818T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1242,7 +1261,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-19
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1257,7 +1276,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-20
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1272,7 +1291,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-21
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1287,7 +1306,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-22
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1302,7 +1321,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-23
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1317,7 +1336,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-fi-2026-08-24
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1332,7 +1351,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-aapl-stock-news-2026-07-22
-DTSTAMP:20260722T212158
+DTSTAMP:20260722T233458
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1340,6 +1359,7 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 NORMAL: Apple Daily Brief - AAPL Stock & News
 DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL range-b
  ound $314–318 into earnings\; Tata supplier hack and ChangXin memory con
- cerns noted.\n\n(from Darren's Study Pipeline)
+ cerns noted. | Daily stock update and Apple news summary.\n\n(from Darre
+ n's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
