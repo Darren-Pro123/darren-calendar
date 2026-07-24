@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -22,7 +22,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-joint-school-singing-cont-2026-07-19
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -105,12 +105,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30
   performer Panther Chan 陳蕾 | Support school finalists: 3C Luk Ka Wang\, 
  4A Au-Yeung Nicholas\, 5D Chan Pak Kui\, 6E Hayden Lau\; guest performer
   Panther Chan 陳蕾 | Guest performer: Panther Chan 陳蕾. School finalists: 3
- C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak Kui\, 6E Hayden Lau.\
- n\n(from Darren's Study Pipeline)
+ C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak Kui\, 6E Hayden Lau. 
+ | Support SPC finalists: 3C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan
+  Pak Kui\, 6E Hayden Lau. Guest performer: Panther Chan 陳蕾.\n\n(from Dar
+ ren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-reminder-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -124,7 +126,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tram-painting-session-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -161,7 +163,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-2b-farewell-announcement-2026-07-10
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -173,7 +175,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07\
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-13
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260713T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -185,7 +187,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-tram-painting-session-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -211,7 +213,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-2026-07-14
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260714T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -225,7 +227,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-first-two-lessons-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -241,7 +243,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-st-paul-s-college-tram-painting-sess-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -257,7 +259,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-farewell-miss-lam-goodbye-2026-07-10
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -270,7 +272,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-guest-reveal-ticket-deadl-2026-07-09
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:Event
 COLOR:#33B679
@@ -284,7 +286,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSpecial
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-2526-issue-2-published-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -300,7 +302,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nNew issu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-newspaper-issue-2-published-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -314,7 +316,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nRead onl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-visual-arts-st-paul-s-college-tram-p-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -328,7 +330,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -342,7 +344,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSchool m
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrive-before-7-45am-2026-07-15
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260715T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -356,7 +358,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:45
 END:VEVENT
 BEGIN:VEVENT
 UID:study-mathematics-society-committee-recruitmen-2026-07-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -393,12 +395,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
   Application deadline was 20 Jul via Google Form. | Apply via Google For
  m on or before deadline\; chairman Oscar Ma | Apply via Google Form by 2
  0/7 for next academic year committee positions | Application deadline wa
- s 20 July\; fill Google Form to apply for committee position\n\n(from Da
- rren's Study Pipeline)
+ s 20 July\; fill Google Form to apply for committee position | Google Fo
+ rm deadline for committee applications was 20/7 (Mon). Since today is 24
+ /7\, this deadline has passed.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-28
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -442,12 +445,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 1 of
  enior form F.4/F.5\; quota 2\; details TBC | 3-day work experience for F
  .4/F.5 senior students\; quota 2\; register ASAP | 3-day work experience
   for F.4/F.5 students\; quota 2\; runs 28-30 Jul | Target: F.4/F.5. Quot
- a: 2. Detailed schedule TBC. Express interest ASAP.\n\n(from Darren's St
- udy Pipeline)
+ a: 2. Detailed schedule TBC. Express interest ASAP. | 3-day work experie
+ nce for F.4–F.5 students (quota 2). Shadow SF Express GM\, visit warehou
+ se\, learn logistics tech (AI dispatch\, drones). Apply ASAP.\n\n(from D
+ arren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -486,11 +491,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 2 of
  4/F.5\; quota 2 | 3-day work experience for F.4/F.5 senior students\; qu
  ota 2\; register ASAP | 3-day work experience for F.4/F.5 students\; quo
  ta 2\; runs 28-30 Jul | Target: F.4/F.5. Quota: 2. Detailed schedule TBC
- . Express interest ASAP.\n\n(from Darren's Study Pipeline)
+ . Express interest ASAP. | Day 2 of 3-day immersion. Schedule to be anno
+ unced.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -529,12 +535,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 3 of
  y soon. | Day 3 of 3\; senior form F.4/F.5\; quota 2 | 3-day work experi
  ence for F.4/F.5 senior students\; quota 2\; register ASAP | 3-day work 
  experience for F.4/F.5 students\; quota 2\; runs 28-30 Jul | Target: F.4
- /F.5. Quota: 2. Detailed schedule TBC. Express interest ASAP.\n\n(from D
- arren's Study Pipeline)
+ /F.5. Quota: 2. Detailed schedule TBC. Express interest ASAP. | Day 3 of
+  3-day immersion. Schedule to be announced.\n\n(from Darren's Study Pipe
+ line)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-hist-ces-ping-shan-heritage-trail-exc-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -549,7 +556,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-excursion-ih-hi-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -562,7 +569,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-day-start-attend-first-two-lesson-2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -573,7 +580,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrival-before-7-45am-2026-07-16
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260716T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -585,7 +592,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-excursion-ping-shan-heritage--2026-07-06
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -598,7 +605,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-results-release-briefing-form-6-su-2026-07-22
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Event
 COLOR:#33B679
@@ -611,7 +618,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-support-briefing-session-2026-07-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -623,7 +630,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 school
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-18
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -661,11 +668,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
  Cheuk Kiu Isaac\, Tse Shing Yau\; heavy metal ion test strip exhibit | V
  isit booth PH19\; exhibit on heavy metal ion test strip design | Project
   PH19: test strip for heavy metal ions\; free entry | Project PH19: test
-  strip for heavy metal ion detection.\n\n(from Darren's Study Pipeline)
+  strip for heavy metal ion detection. | Visit PH19 booth: heavy-metal-io
+ n test strip using fluorescent ligand-metal complexes. Free admission.\n
+ \n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-19
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -698,12 +707,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  ions detection. | Support PH19 project holders\; heavy metal ion test st
  rip exhibit | Visit booth PH19\; exhibit on heavy metal ion test strip d
  esign | Project PH19: test strip for heavy metal ions\; free entry | Pro
- ject PH19: test strip for heavy metal ion detection.\n\n(from Darren's S
- tudy Pipeline)
+ ject PH19: test strip for heavy metal ion detection. | Visit PH19 booth:
+  heavy-metal-ion test strip using fluorescent ligand-metal complexes. Fr
+ ee admission.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -736,11 +746,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  upport PH19 project holders\; heavy metal ion test strip exhibit | Visit
   booth PH19\; exhibit on heavy metal ion test strip design | Project PH1
  9: test strip for heavy metal ions\; free entry | Project PH19: test str
- ip for heavy metal ion detection.\n\n(from Darren's Study Pipeline)
+ ip for heavy metal ion detection. | Visit PH19 booth: heavy-metal-ion te
+ st strip using fluorescent ligand-metal complexes. Free admission.\n\n(f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-21
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -773,11 +785,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  upport PH19 project holders\; heavy metal ion test strip exhibit | Visit
   booth PH19\; exhibit on heavy metal ion test strip design | Project PH1
  9: test strip for heavy metal ions\; free entry | Project PH19: test str
- ip for heavy metal ion detection.\n\n(from Darren's Study Pipeline)
+ ip for heavy metal ion detection. | Visit PH19 booth: heavy-metal-ion te
+ st strip using fluorescent ligand-metal complexes. Free admission.\n\n(f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-22
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -810,11 +824,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  upport PH19 project holders\; heavy metal ion test strip exhibit | Visit
   booth PH19\; exhibit on heavy metal ion test strip design | Project PH1
  9: test strip for heavy metal ions\; free entry | Project PH19: test str
- ip for heavy metal ion detection.\n\n(from Darren's Study Pipeline)
+ ip for heavy metal ion detection. | Visit PH19 booth: heavy-metal-ion te
+ st strip using fluorescent ligand-metal complexes. Free admission.\n\n(f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-23
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -847,11 +863,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  upport PH19 project holders\; heavy metal ion test strip exhibit | Visit
   booth PH19\; exhibit on heavy metal ion test strip design | Project PH1
  9: test strip for heavy metal ions\; free entry | Project PH19: test str
- ip for heavy metal ion detection.\n\n(from Darren's Study Pipeline)
+ ip for heavy metal ion detection. | Visit PH19 booth: heavy-metal-ion te
+ st strip using fluorescent ligand-metal complexes. Free admission.\n\n(f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -885,11 +903,12 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
  lders\; heavy metal ion test strip exhibit\; last day | Visit booth PH19
  \; exhibit on heavy metal ion test strip design | Project PH19: test str
  ip for heavy metal ions\; free entry | Project PH19: test strip for heav
- y metal ion detection.\n\n(from Darren's Study Pipeline)
+ y metal ion detection. | Final day (half-day). Visit PH19 booth: heavy-m
+ etal-ion test strip. Free admission.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-society-f-1-3-english-ambassador-2026-08-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -900,7 +919,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n截止 8/20；
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-18
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260818T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -916,7 +935,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-19
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -931,7 +950,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -946,7 +965,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-21
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -961,7 +980,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-22
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -976,7 +995,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-23
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -991,7 +1010,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-fi-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1006,7 +1025,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-music-luminatus-2026-2026-07-19
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260719T073000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1020,7 +1039,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 7:30 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-1-2026-07-28
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -1032,7 +1051,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-2-2026-07-29
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -1044,7 +1063,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-3-2026-07-30
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -1056,7 +1075,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-18
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1071,7 +1090,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-19
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1086,7 +1105,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1101,7 +1120,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-21
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1116,7 +1135,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-22
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1131,7 +1150,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-23
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1146,7 +1165,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-24
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1161,7 +1180,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cathay-city-visit-application-deadline-2026-07-26
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260726
 CATEGORIES:Event
 COLOR:#33B679
@@ -1175,7 +1194,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nApply vi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-aviation-club-visit-to-cathay-city-2026-08-05
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1194,11 +1213,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
  e Form | Free half-day visit\; quota 20\; first-come-first-served\; appl
  y by 26/7 | Free\; quota 20\; first-come-first-served\; apply by 26 July
   via Google Form | Free entry. Quota: 20. Apply by 2026-07-26 — first-co
- me\, first-served.\n\n(from Darren's Study Pipeline)
+ me\, first-served. | Half-day visit to Cathay Pacific headquarters led b
+ y alumni. Free of charge\, quota 20. Apply by 26/7 (Sunday).\n\n(from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visit-cathay-city-2026-08-05
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1211,7 +1232,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cathay-city-visit-aviation-club-2026-08-05
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1228,7 +1249,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
 END:VEVENT
 BEGIN:VEVENT
 UID:study-math-society-committee-recruitment-2026-07-20
-DTSTAMP:20260724T130635
+DTSTAMP:20260724T140643
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -1240,5 +1261,17 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nApply vi
  ture-herald-spirit.trycloudflare.com/attachments/https-forms-gle-6rkrcxc
  mxsafccyp8-math-society-committee-recruitment\n\n(from Darren's Study Pi
  peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-aviation-club-cathay-city-visit-applicat-2026-07-26
+DTSTAMP:20260724T140643
+DTSTART;VALUE=DATE:20260726
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Aviation Club Cathay City visit application deadline
+DESCRIPTION:Something happening on campus. Mark it and show up.\nDeadline
+  to apply for the free Cathay City tour (5 Aug). First-come-first-served
+ \, quota 20. Submit form ASAP.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
