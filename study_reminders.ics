@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-normal-school-day-reminder-2026-07-13
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART:20260713T074500
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -18,7 +18,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ before 7:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-class-farewell-miss-lam-2026-07-10
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -30,7 +30,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-email-delivery-test-2026-07-12
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -41,7 +41,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-11
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -81,7 +81,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nDaily Apple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-2026-07-12
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -93,7 +93,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-published-2026-07-06
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -109,7 +109,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-12
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -120,7 +120,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem deliv
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-11-jul-2026-2026-07-12
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -132,7 +132,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL fell -0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-run-report-v1060-turbo-2026-07-12
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260712
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -144,7 +144,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated ag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-news-brief-11-jul-2026-2026-07-11
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -156,7 +156,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-07-06
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -170,7 +170,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n新一期校報出�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-miss-lam-farewell-announcement-2026-07-10
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -182,7 +182,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nFarewell mes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-delivery-test-2026-07-13
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -194,7 +194,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-project-portfolio-and-achieve-2026-07-04
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -208,7 +208,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nPublish your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-13
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -222,7 +222,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-14
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -234,7 +234,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n📍 St. Paul's
 END:VEVENT
 BEGIN:VEVENT
 UID:study-miss-lam-farewell-message-2b-ict-2026-07-10
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -246,7 +246,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-official-homepage-2026-07-04
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -266,7 +266,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nStudents can
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-tech-finance-news-brief-11-j-2026-07-11
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -278,7 +278,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-stock-news-brief-2026-07-11
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -290,7 +290,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nNon-school r
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-published-2026-07-06
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -305,7 +305,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSchool newsl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-magazine-scope-issue-2-published-2026-07-06
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -321,7 +321,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nRead online
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-13
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -333,7 +333,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAutomated AA
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-14
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260714
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -345,7 +345,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-2026-07-15
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260715
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -358,7 +358,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL -0.28%
 END:VEVENT
 BEGIN:VEVENT
 UID:study-issue-2-scope-2526-2026-07-06
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -372,7 +372,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n校報第二期已�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-farewell-announcement-miss-lam-2026-07-10
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART:20260710T110700
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -384,7 +384,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\n⏰ 11:07 AM\n
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-20
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -395,7 +395,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nSystem test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hermes-email-test-2026-07-21
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260721
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -408,7 +408,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nTest email c
 END:VEVENT
 BEGIN:VEVENT
 UID:study-apple-daily-brief-aapl-stock-news-2026-07-22
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -421,7 +421,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar.\nAAPL range-b
 END:VEVENT
 BEGIN:VEVENT
 UID:study-aapl-stock-apple-news-brief-2026-07-23
-DTSTAMP:20260724T181017
+DTSTAMP:20260724T191445
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:Reminder
 COLOR:#9E9E9E
