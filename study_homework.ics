@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-history-e-reading-award-scheme-survey-2026-07-17
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -19,7 +19,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-summer-homework-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -38,7 +38,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-integrated-humanities-history-e-reading--2026-07-17
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -51,7 +51,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -62,7 +62,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-holiday-homework-chinese-form-2-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -73,7 +73,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n\n(fr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -84,7 +84,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n按時完�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-worksheet-2026-07-07
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -99,7 +99,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nPrepa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-4-chinese-summer-homework-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -111,7 +111,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nSumme
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-holiday-homework-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -124,7 +124,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2026-summer-homework-chinese-class-2b-gr-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -135,7 +135,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-worksheet-due-ping-shan-herit-2026-07-07
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -146,7 +146,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nUploa
 END:VEVENT
 BEGIN:VEVENT
 UID:study-summer-homework-chinese-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -159,7 +159,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-2b-group-1-2026-07-08
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260708T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -171,7 +171,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-english-final-exam-revision-exercise-2026-05-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -185,7 +185,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nThe a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-29-5-yangqiao-scanned-version-2026-05-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -198,7 +198,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nNew p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-crp-answers-units-3-4-2026-05-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -210,7 +210,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nAnswe
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hist-ces-ping-shan-heritage-trail-worksh-2026-07-07
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -222,7 +222,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2-9-2026-09-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260902T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -234,7 +234,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-program-solving-challenge-2026-07-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -256,7 +256,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n📍 2B
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-english-summer-holiday-assignment-2026-07-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -268,7 +268,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nAssig
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-extra-practices-2026-07-02
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -279,7 +279,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nExtra
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-ace-best-f-1-video-voting-2026-06-30
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260630T105000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -296,7 +296,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 10:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-biology-dissecting-an-ox-eye-2026-06-27
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260627
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -308,7 +308,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue J
 END:VEVENT
 BEGIN:VEVENT
 UID:study-biology-unit-10-group-presentation-eye-d-2026-06-28
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260628
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -320,7 +320,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue J
 END:VEVENT
 BEGIN:VEVENT
 UID:study-course-dissecting-an-ox-eye-2026-06-27
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260627T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -338,7 +338,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-2b-unit-10-group-presentation-eye-def-2026-06-28
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260628T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -360,7 +360,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-daily-cantonese-challenge-2026-05-19
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260519T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -372,7 +372,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-edpuzzle-film-canister-rocket-2026-05-19
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260519T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -384,7 +384,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-assignment-11-2026-05-18
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260518T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -399,7 +399,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-it-lab-survey-2026-05-21
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260521T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -415,7 +415,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-10-revision-exercise-q-2026-05-21
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260521T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -427,7 +427,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-17
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260517T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -435,22 +435,26 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 中文科 - 周末功課
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
  55\n根據《桃花源記》的簡報及課堂所學，完成單元筆記頁29-30，頁33-34。星期一早上收回檢查。另外，星期四背默《桃花源記》第2段，即「林
- 盡水源，便得一山……黃髮、垂髫，並怡然自樂。」為星期五的測驗準備。\n\n(from Darren's Study Pipeline)
+ 盡水源，便得一山……黃髮、垂髫，並怡然自樂。」為星期五的測驗準備。 | 完成單元筆記頁29-30，頁33-34。星期一早上收回檢查。另外，星期四
+ 背默《桃花源記》第2段，即「林盡水源，便得一山……黃髮、垂髫，並怡然自樂。」為星期五的測驗準備。\n\n(from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-reading-scheme-25-26-2026-05-20
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260520T120000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Science Reading Scheme 25-26
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
- 00\nScience Reading Scheme 25-26\n\n(from Darren's Study Pipeline)
+ 00\nScience Reading Scheme 25-26 | All students must return their readin
+ g record forms by 20 May\, regardless of whether any science books or ar
+ ticles were read.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-2b-edpuzzle-unit-9-p-42-43-acid-corro-2026-05-15
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260515T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -458,16 +462,17 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.42-43 Acid corrodes marbl
  e and limestone
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
- 00 HKT\nOfficial assignment due on 2026-05-15 12:00 HKT\n\nAttached:\n📎 
- Link: Edpuzzle - Unit 9 P.42-43 Acid corrodes marble and limestone (http
- s://edpuzzle.com/assignments/6a051074c6c358d033d25a36/watch): https://ma
- g-zinc-gage-standings.trycloudflare.com/attachments/link-edpuzzle-unit-9
- -p-42-43-acid-corrod-is-2b-edpuzzle-unit-9-p-42-43-acid-corro\n\n(from D
- arren's Study Pipeline)
+ 00 HKT\nOfficial assignment due on 2026-05-15 12:00 HKT | Official assig
+ nment with video link provided in attachments.\n\nAttached:\n📎 Link: Edp
+ uzzle - Unit 9 P.42-43 Acid corrodes marble and limestone (https://edpuz
+ zle.com/assignments/6a051074c6c358d033d25a36/watch): https://mag-zinc-ga
+ ge-standings.trycloudflare.com/attachments/link-edpuzzle-unit-9-p-42-43-
+ acid-corrod-is-2b-edpuzzle-unit-9-p-42-43-acid-corro\n\n(from Darren's S
+ tudy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ih-hist-ces-screenshot-topic-5-dictat-2026-05-13
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260513T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -475,12 +480,12 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2B IH - HIST & CES - Screenshot: Topic 5 Dictation Co
  rrections
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
- 59 HKT\nOfficial assignment due on 2026-05-13 15:59 HKT\n\n(from Darren'
- s Study Pipeline)
+ 59 HKT\nOfficial assignment due on 2026-05-13 15:59 HKT | Dictation corr
+ ection submission due.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ih-hist-ces-google-form-reform-and-op-2026-05-13
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260513T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -497,21 +502,21 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-2b-geog-ws-e4-4-2026-05-18
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260518T155900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2025-2026 2B GEOG - WS E4.4
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
- 59\nOnly work on the first three pages.\n\nAttached:\n📎 E4_WS_Unit 4_eng
- .pdf: https://mag-zinc-gage-standings.trycloudflare.com/attachments/e4-w
- s-unit-4-eng-pdf-2025-2026-2b-geog-ws-e4-4\n\n(from Darren's Study Pipel
- ine)
+ 59\nOnly work on the first three pages. | Only work on the first three p
+ ages.\n\nAttached:\n📎 E4_WS_Unit 4_eng.pdf: https://mag-zinc-gage-standi
+ ngs.trycloudflare.com/attachments/e4-ws-unit-4-eng-pdf-2025-2026-2b-geog
+ -ws-e4-4\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-11
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260511T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -526,7 +531,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-11-5-2026-05-10
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260510T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -540,7 +545,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-is-2b-unit-9-corrosion-of-iron-p-2026-05-18
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260518T000000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -555,7 +560,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-geog-ws-e4-3-2026-05-11
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260511T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -563,15 +568,18 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2B GEOG - WS E4.3
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
  59\n🚨 DUE: 2026-05-11 15:59 HKT - You do not need to work on the parts a
- bout positive impacts of sandstorm and sandstorm in Hong Kong\n\nAttache
- d:\n📎 File: E4_WS_Unit3_eng.pdf (https://drive.google.com/file/d/1po8kvB
- DQWPcn3_cKqZOYNwP5PqeZHR8D/view?usp=drive_web): https://mag-zinc-gage-st
- andings.trycloudflare.com/attachments/file-e4-ws-unit3-eng-pdf-https-dri
- ve-goo-2b-geog-ws-e4-3\n\n(from Darren's Study Pipeline)
+ bout positive impacts of sandstorm and sandstorm in Hong Kong | 🚨 DUE: 2
+ 026-05-11 15:59 HKT. You do not need to work on the parts about positive
+  impacts of sandstorm and sandstorm in Hong Kong. 📎 Attachment: E4_WS_Un
+ it3_eng.pdf\n\nAttached:\n📎 File: E4_WS_Unit3_eng.pdf (https://drive.goo
+ gle.com/file/d/1po8kvBDQWPcn3_cKqZOYNwP5PqeZHR8D/view?usp=drive_web): ht
+ tps://mag-zinc-gage-standings.trycloudflare.com/attachments/file-e4-ws-u
+ nit3-eng-pdf-https-drive-goo-2b-geog-ws-e4-3\n\n(from Darren's Study Pip
+ eline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-9-revision-exercise-q2-2026-05-15
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260515T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -580,11 +588,13 @@ SUMMARY:📃 HOMEWORK: 2B Maths - Homework 9: Revision Exercise Q25\, 27\, 3
  0\, 31\, 33\, 37-40
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
  59\n🚨 DUE: 2026-05-15 15:59 HKT - Please do it in your homework book and
-  submit it before the deadline.\n\n(from Darren's Study Pipeline)
+  submit it before the deadline. | 🚨 DUE: 2026-05-15 15:59 HKT. Please do
+  it in your homework book and submit it before the deadline.\n\n(from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-8-5-2026-05-08
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -602,33 +612,35 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-maths-classwork-44-2026-05-13
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260513T155900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Maths - Classwork 44
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
- 59\n題目：Ex 10D Q15\, 17\, 18\, 21\, 23-27，請在classwork book完成並在截止前提交\n\n(f
- rom Darren's Study Pipeline)
+ 59\n題目：Ex 10D Q15\, 17\, 18\, 21\, 23-27，請在classwork book完成並在截止前提交 | Ex 
+ 10D Q15\, 17\, 18\, 21\, 23-27，繳交截止前請完成\n\n(from Darren's Study Pipeline
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-2b-edpuzzle-unit-9-p-40-acid-corrodes-2026-05-08
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260508T120000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.40 Acid corrodes metal
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
- 00\nDue 2026-05-08 12:00 HKT\n\nAttached:\n📎 https://edpuzzle.com/assign
- ments/69f7e7288e7eef875674cf89/watch: https://mag-zinc-gage-standings.tr
- ycloudflare.com/attachments/https-edpuzzle-com-assignments-69f7e7288-is-
- 2b-edpuzzle-unit-9-p-40-acid-corrodes\n\n(from Darren's Study Pipeline)
+ 00\nDue 2026-05-08 12:00 HKT | Due on 8 May 2026 at 12:00 HKT\n\nAttache
+ d:\n📎 https://edpuzzle.com/assignments/69f7e7288e7eef875674cf89/watch: h
+ ttps://mag-zinc-gage-standings.trycloudflare.com/attachments/https-edpuz
+ zle-com-assignments-69f7e7288-is-2b-edpuzzle-unit-9-p-40-acid-corrodes\n
+ \n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visual-arts-25-26-canvas-painting-submis-2026-05-06
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -640,7 +652,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\nDate
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-04
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260504T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -652,7 +664,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-8-5-2026-05-07
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260507T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -663,7 +675,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-edpuzzle-unit-9-p-37-application-of-neut-2026-05-05
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260505T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -679,7 +691,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-google-form-china-s-reform-and-opening-u-2026-04-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260429T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -694,7 +706,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-maths-classwork-43-ex-10c-q-22-23-27-31-2026-05-08
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260508T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -708,19 +720,19 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-history-history-topic-5-ws-corrections-2026-04-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260429T155900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: History - History Topic 5 WS Corrections
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
- 59\nOfficial assignment\; due 2026-04-29 15:59 HKT\n\n(from Darren's Stu
- dy Pipeline)
+ 59\nOfficial assignment\; due 2026-04-29 15:59 HKT | Screenshot submissi
+ on\, due 2026-04-29 15:59 HKT\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-change-of-temperature-dur-2026-05-01
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -736,7 +748,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-is-2b-edpuzzle-unit-9-p-33-the-n-2026-05-01
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -752,7 +764,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-04-27
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260427T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -760,14 +772,15 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
  nment 8
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
- 59\nDUE: 2026-04-27 15:59 HKT\n\nAttached:\n📎 KS3_83_Trigonometric-Ratio
- s-I_e.pdf: https://mag-zinc-gage-standings.trycloudflare.com/attachments
- /ks3-83-trigonometric-ratios-i-e-pdf-25-26-second-term-form-2-maths-reme
- dial-\n\n(from Darren's Study Pipeline)
+ 59\nDUE: 2026-04-27 15:59 HKT | 🚨 DUE: 2026-04-27 15:59 HKT. Trigonometr
+ ic Ratios I assignment.\n\nAttached:\n📎 KS3_83_Trigonometric-Ratios-I_e.
+ pdf: https://mag-zinc-gage-standings.trycloudflare.com/attachments/ks3-8
+ 3-trigonometric-ratios-i-e-pdf-25-26-second-term-form-2-maths-remedial-\
+ n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-04-27
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260427T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -783,7 +796,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-is-2b-edpuzzle-unit-9-p-29-chang-2026-04-28
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260428T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -799,7 +812,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-classwork-41-ex-10a-q22-31-2026-05-01
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260501T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -811,7 +824,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-23-4-2026-04-23
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260423T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -824,7 +837,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-2b-geog-ws-e4-2-2026-04-29
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260429T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -838,7 +851,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-8-revision-exercise-q9-2026-04-28
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260428T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -851,7 +864,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-04-22
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260422T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -864,7 +877,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-2b-edpuzzle-unit-9-p-24-25-ph-paper-a-2026-04-24
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260424T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -873,15 +886,16 @@ SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.24-25 pH paper and univer
  sal indicator
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
  00 HKT\nDUE: 2026-04-24 12:00 HKT | Link: https://edpuzzle.com/assignmen
- ts/69e6c4eda5b6602c5f17919e/watch\n\nAttached:\n📎 https://edpuzzle.com/a
- ssignments/69e6c4eda5b6602c5f17919e/watch: https://mag-zinc-gage-standin
- gs.trycloudflare.com/attachments/https-edpuzzle-com-assignments-69e6c4ed
- a-is-2b-edpuzzle-unit-9-p-24-25-ph-paper-a\n\n(from Darren's Study Pipel
- ine)
+ ts/69e6c4eda5b6602c5f17919e/watch | [OFFICIAL ASSIGNMENT] Due 2026-04-24
+  12:00 HKT. Link: https://edpuzzle.com/assignments/69e6c4eda5b6602c5f179
+ 19e/watch\n\nAttached:\n📎 https://edpuzzle.com/assignments/69e6c4eda5b66
+ 02c5f17919e/watch: https://mag-zinc-gage-standings.trycloudflare.com/att
+ achments/https-edpuzzle-com-assignments-69e6c4eda-is-2b-edpuzzle-unit-9-
+ p-24-25-ph-paper-a\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ih-hist-ces-screenshot-corrected-a3-u-2026-04-22
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260422T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -891,11 +905,13 @@ SUMMARY:📃 HOMEWORK: 2B IH - HIST & CES - Screenshot: Corrected A3 UT pape
 DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
  59 HKT\nDUE: 2026-04-22 15:59 HKT | Please take a screenshot of your cor
  rected UT paper. Your signed UT paper should be submitted to me tomorrow
- .\n\n(from Darren's Study Pipeline)
+ . | [OFFICIAL ASSIGNMENT] Take a screenshot of your corrected UT paper. 
+ Submit signed UT paper tomorrow. Due 2026-04-22 15:59 HKT.\n\n(from Darr
+ en's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-04-21
-DTSTAMP:20260815T224210
+DTSTAMP:20260815T231840
 DTSTART:20260421T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -909,5 +925,584 @@ DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
  ive.google.com/file/d/18HBuiis33usVjPT1vivcJ0WG-eIuat4N/view?usp=drive_w
  eb: https://mag-zinc-gage-standings.trycloudflare.com/attachments/https-
  drive-google-com-file-d-18hbuiis33-\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ih-project-ace-2026-05-28
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260528
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IH - Project ACE 群組評估表
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n請完成評估
+ 表評估組員表現，如評分2分或以下須提供有效理由。截止日期為5月28日。\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-religious-studies-unit-6-2025-05-26
+DTSTAMP:20260815T231840
+DTSTART:20250526T090400
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Religious Studies - Unit 6
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 09:
+ 04\nGraded. Score: 6/10.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-unit-6-2026-05-26
+DTSTAMP:20260815T231840
+DTSTART:20260526T084100
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Unit 6
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 8:4
+ 1 AM\nWhere is your work\, or who are your groupmates? | Please upload y
+ our work as soon as possible\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-2b-ih-hist-ces-project-ace-eva-2026-05-28
+DTSTAMP:20260815T231840
+DTSTART:20260528T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2025-2026 2B IH - HIST & CES - Project ACE Evaluation
+  Form
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nComplete peer evaluation form. Score below 2 requires valid reason. 
+ Due: 2026-05-28 15:59 HKT\n\nAttached:\n📎 https://forms.gle/xUj2gVWf1Ua6
+ ce6u6: https://mag-zinc-gage-standings.trycloudflare.com/attachments/htt
+ ps-forms-gle-xuj2gvwf1ua6ce6u6-2025-2026-2b-ih-hist-ces-project-ace-eva\
+ n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-tit-hon-ng-classroom-assignment-12-2026-05-26
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260526
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Tit Hon NG (Classroom) - Assignment 12
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nAssig
+ nment 12 due tomorrow | New assignment due May 26\, posted on May 22 at 
+ 4:44 PM\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-4-kahoot-2026-05-26
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260526
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 25-26_中文科_中二第(4)組 - KAHOOT 練習重開
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nThree
+  previously opened Kahoot exercises reopened for exam review\n\n(from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-course-2026-08-19
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260819
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 作文 - Course
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nDarre
+ n Chan (2B Class 4 Group) will submit the essay "我們和解了" on Tuesday morni
+ ng\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-shing-ngat-tse-classroom-20-4-2026-05-22
+DTSTAMP:20260815T231840
+DTSTART:20260522T142300
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Shing Ngat TSE (Classroom) - 20/4_繳交參察中上環活動功課注意事項
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 14:
+ 23\nGraded with score 60/100\, graded on May 22 at 2:23 PM\n\n(from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-second-term-form-2-maths-remedial--2026-05-26
+DTSTAMP:20260815T231840
+DTSTART:20260526T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
+ nment 12
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nDue: 2026-05-26 15:59 HKT. Attachment: mc revision exercise.pdf\n\nA
+ ttached:\n📎 https://drive.google.com/file/d/1THK9yys62LdKvZFLFzB-S_aFfbj
+ hl5eE/view?usp=drive_web: https://mag-zinc-gage-standings.trycloudflare.
+ com/attachments/https-drive-google-com-file-d-1thk9yys62-25-26-second-te
+ rm-form-2-maths-remedial-\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-chinese-weekend-homework-2026-05-25
+DTSTAMP:20260815T231840
+DTSTART:20260525T235500
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - Weekend Homework
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
+ 55\nComplete 25 articles on '篇篇流螢' website\, Kahoot exercises\, and prep
+ are for test.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-lai-yi-kwok-classroom-student-work-2026-05-28
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260528
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Lai Yi KWOK (Classroom) - Student work
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nUploa
+ d one screenshot of AI-vibed work and attach a zip file of the coding. D
+ ue May 28. Posted on May 21.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-mathematics-society-revision-videos-2026-05-28
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260528
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Mathematics Society - Revision Videos
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nFinal
+  Exam Junior Form Revision Classes videos uploaded to Google Drive. Avai
+ lable via Instagram profile description.\n\n(from Darren's Study Pipelin
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-geography-ws-e4-4-2025-05-20
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20250520
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Geography - WS E4.4
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nGrade
+ d assignment by Sze Long HO. Score: 45/45. Graded at 11:30 AM\, May 20 (
+ HKT).\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-chinese-25-5-2025-05-25
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20250525
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - 25/5_風箏溫習
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nAssig
+ nment posted by Shing Ngat TSE. Practice exercises to review kite conten
+ t. Due May 25.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-tit-hon-ng-graded-assignment-11-2026-05-20
+DTSTAMP:20260815T231840
+DTSTART:20260520T084600
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Tit Hon NG - Graded: Assignment 11
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 08:
+ 46\nGrade: 50/100\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-yat-lung-chow-graded-unit-6-page-36-task-2026-05-20
+DTSTAMP:20260815T231840
+DTSTART:20260520T075800
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Yat Lung CHOW - Graded: Unit 6 page 36 Task 3
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 07:
+ 58\nGrade: 10/10\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-4-10-25-2025-05-26
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20250526
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 25-26_中文科_中二第(4)組 - 完成10日篇篇流螢練習(共25篇文章) @ https://fir
+ eflies.chiculture.org.hk/
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n📍 htt
+ ps://fireflies.chiculture.org.hk/\nComplete 10 daily fireflies articles 
+ (total 25 articles) via website\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-hist-ces-screenshot-hist-topic-6-ws-3-co-2026-05-20
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: HIST & CES - Screenshot: HIST Topic 6 WS 3 correction
+ s
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nDue M
+ ay 20. Posted on May 19 at 10:03 AM by Hiu Yee\, Joyce CHAN. | Due May 2
+ 0. Posted on May 19 at 10:03 AM by Hiu Yee\, Joyce CHAN. | Due by 15:59 
+ HKT | Due by 15:59 HKT\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-26-is-2b-edpuzzle-film-canister-roc-2026-05-19
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260519
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2025-26 IS 2B - Edpuzzle Film Canister Rocket @ 2025-
+ 26 IS 2B
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n📍 202
+ 5-26 IS 2B\nDue May 19\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-edpuzzle-making-your-film-canister-rocke-2026-05-19
+DTSTAMP:20260815T231840
+DTSTART:20260519T120000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Edpuzzle - Making your film canister rocket
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
+ 00\nOfficial assignment with link: https://edpuzzle.com/assignments/6a0a
+ 56a077371db3c900f5ca/watch\n\nAttached:\n📎 https://edpuzzle.com/assignme
+ nts/6a0a56a077371db3c900f5ca/watch: https://mag-zinc-gage-standings.tryc
+ loudflare.com/attachments/https-edpuzzle-com-assignments-6a0a56a07-edpuz
+ zle-making-your-film-canister-rocke\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-prepare-sketchbook-for-classwork-marking-2026-05-20
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Prepare sketchbook for classwork marking
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nItems
+ : 1. Basic coloring techniques (color value\, clouds\, mountains\, trees
+ \, sky\, bushes\, night building) 2. Draft of stained glass - Bible stor
+ y 3. Stained-glass artwork statement. Due May 20.\n\n(from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-18-5-2026-05-18
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260518
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 18/5_周末功課
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
+ ete workbook pages 29-30 and 33-34 based on《桃花源記》. Collected Monday morn
+ ing. Recitation of paragraph 2 due Friday for quiz.\n\n(from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-second-term-form-2-maths-remedial--2026-05-18
+DTSTAMP:20260815T231840
+DTSTART:20260518T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
+ nment 11
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nOfficial assignment with attached file KS3_90_Stem-and-leaf-Diagrams
+ _e.pdf\n\nAttached:\n📎 https://drive.google.com/file/d/1XEAFqzouuSXrYTNM
+ diM8TZ27yzzgTW5I/view: https://mag-zinc-gage-standings.trycloudflare.com
+ /attachments/https-drive-google-com-file-d-1xeafqzouu-25-26-second-term-
+ form-2-maths-remedial-\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-visual-arts-acrylic-painting-submissi-2026-05-13
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260513
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B Visual Arts - Acrylic Painting Submission
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nDeadl
+ ine for acrylic painting submission. Note: Students 1\, 4\, 6\, 9-12\, 1
+ 5-18\, 20\, 24-25\, 29-31\, 33\, 34 to take special note.\n\n(from Darre
+ n's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-classwork-10a-10b-and-10c-2026-08-17
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260817
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B Maths - Classwork 10A\, 10B and 10C
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nCompl
+ ete classwork 10A\, 10B\, and 10C before next Monday. Last chapter start
+ ing next week - bring textbook.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-chinese-11-5-weekend-homework-2026-05-10
+DTSTAMP:20260815T231840
+DTSTART:20260510T235500
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - 11/5 Weekend Homework
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
+ 55\n1. Complete edpuzzle peach blossom retreat preview (see separate ins
+ tructions). 2. Review Unit 8 mini-test (test on Thursday). 3. Tuesday re
+ ading assessment 'The Eugene Onegin Club' - open book exam. 4. Log into 
+ 'Fireflies' website (https://fireflies.chiculture.org.hk/) with login se
+ nt via email on Jan 20\, select 10 articles and complete multiple choice
+  (total 15 articles).\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-course-11-5-2026-05-10
+DTSTAMP:20260815T231840
+DTSTART:20260510T235500
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Course - 11/5_桃花源記_預習短篇
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 23:
+ 55\nWatch video and complete exercises\n\nAttached:\n📎 Edpuzzle - 桃花源記: 
+ https://mag-zinc-gage-standings.trycloudflare.com/attachments/edpuzzle-c
+ ourse-11-5\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-course-unit-9-corrosion-of-iron-paper-cl-2026-05-18
+DTSTAMP:20260815T231840
+DTSTART:20260518T000000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Course - Unit 9 Corrosion of iron paper clips
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
+ 00\nLeave paper clips for 5 days\; take one photo every day\n\nAttached:
+ \n📎 [Template] Student Worksheet - Corrosion of iron clips.pdf: https://
+ mag-zinc-gage-standings.trycloudflare.com/attachments/template-student-w
+ orksheet-corrosion-of--course-unit-9-corrosion-of-iron-paper-cl\n\n(from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-08
+DTSTAMP:20260815T231840
+DTSTART:20260508T003000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中文科 - 繳交古文作業 @ Online
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
+ 30 HKT · 📍 Online\n完成頁10-15及四篇古文練習（頁44-47），周五交。參考簡報五及六 | 於以下連結投選最喜歡的三幅明信
+ 片，詳情見learning hub文件\n\nAttached:\n📎 https://drive.google.com/file/d/1oxZ
+ OQ3vZY3mKK_vcXDTw7n_sGHoMJ1hM/view: https://mag-zinc-gage-standings.tryc
+ loudflare.com/attachments/https-drive-google-com-file-d-1oxzoq3vzy-\n📎 h
+ ttps://drive.google.com/file/d/1rnIPt15sHFq7nRTZkTlGL9YTY4u94pzj/view: h
+ ttps://mag-zinc-gage-standings.trycloudflare.com/attachments/https-drive
+ -google-com-file-d-1rnipt15sh-\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-is-2b-edpuzzle-unit-9-p-37-application-o-2026-05-05
+DTSTAMP:20260815T231840
+DTSTART:20260505T120000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.37 Application of Neutral
+ ization - Treatment of soil
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
+ 00\nEdpuzzle assignment on neutralization application in soil treatment 
+ | Edpuzzle assignment on neutralization application in treating bee stin
+ gs\n\nAttached:\n📎 https://edpuzzle.com/assignments/69f2c3032e49de434aea
+ 6e80/watch: https://mag-zinc-gage-standings.trycloudflare.com/attachment
+ s/https-edpuzzle-com-assignments-69f2c3032-is-2b-edpuzzle-unit-9-p-37-ap
+ plication-o\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-ih-hist-ces-google-form-china-s-refor-2026-04-29
+DTSTAMP:20260815T231840
+DTSTART:20260429T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B IH - HIST & CES - Google Form: China's Reform and 
+ Opening up (1)
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nGoogle Form worksheet on China's Reform and Opening-up\n\nAttached:\
+ n📎 https://docs.google.com/forms/d/e/1FAIpQLSc8Bx2E7qBYNliUsqSIvg2oNkcJq
+ Mv3MMerA5srgGE2dyBC5w/viewform: https://mag-zinc-gage-standings.trycloud
+ flare.com/attachments/https-docs-google-com-forms-d-e-1faipqls-2b-ih-his
+ t-ces-google-form-china-s-refor\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-classwork-43-ex-10c-q-22-23-27--2026-05-08
+DTSTAMP:20260815T231840
+DTSTART:20260508T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B Maths - Classwork 43: Ex 10C Q 22\, 23\, 27-31
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nSubmit before deadline in your classwork. | Submit before deadline i
+ n your classwork.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-science-change-of-temperature-during-neu-2026-05-01
+DTSTAMP:20260815T231840
+DTSTART:20260501T120000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Science - Change of temperature during neutralization
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
+ 00\nEdpuzzle assignment\, due 2026-05-01 12:00 HKT\n\nAttached:\n📎 https
+ ://edpuzzle.com/assignments/69f001bf4b7d633f4843c421/watch: https://mag-
+ zinc-gage-standings.trycloudflare.com/attachments/https-edpuzzle-com-ass
+ ignments-69f001bf4-science-change-of-temperature-during-neu\n\n(from Dar
+ ren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-is-2b-edpuzzle-unit-9-p-33-the-new-subst-2026-05-01
+DTSTAMP:20260815T231840
+DTSTART:20260501T120000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.33 The new substances for
+ med during neutralization
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
+ 00\nOfficial assignment due on 2026-05-01 at 12:00 HKT. Link provided in
+  attachment.\n\nAttached:\n📎 https://edpuzzle.com/assignments/69f0017349
+ 338ec08e2a2b9b/watch: https://mag-zinc-gage-standings.trycloudflare.com/
+ attachments/https-edpuzzle-com-assignments-69f001734-is-2b-edpuzzle-unit
+ -9-p-33-the-new-subst\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-27-4-2026-04-27
+DTSTAMP:20260815T231840
+DTSTART:20260427T003000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中文科 - 27/4_周末功課
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
+ 30\n包含硬筆29-30頁、修改作文、整理個人文件夾、參與中國語文菁英網上問答比賽2025-26，須準備默書。參考作文示例：中二單元六寫作示例
+ _《獨愛草莓》.pdf\n\nAttached:\n📎 https://drive.google.com/file/d/108pi7dq3LXa
+ 6jn9pyz60HYF9nWQwMnXn/view?usp=drive_web: https://mag-zinc-gage-standing
+ s.trycloudflare.com/attachments/https-drive-google-com-file-d-108pi7dq3l
+ -27-4\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-is-2b-edpuzzle-unit-9-p-29-change-of-ph--2026-04-28
+DTSTAMP:20260815T231840
+DTSTART:20260428T120000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IS 2B - Edpuzzle - Unit 9 P.29 Change of pH values du
+ ring neutralization
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 12:
+ 00\n觀看 Edpuzzle 影片並完成相關題目\n\nAttached:\n📎 https://edpuzzle.com/assignmen
+ ts/69eabd29dda5ae01dd62f5da/watch: https://mag-zinc-gage-standings.trycl
+ oudflare.com/attachments/https-edpuzzle-com-assignments-69eabd29d-is-2b-
+ edpuzzle-unit-9-p-29-change-of-ph-\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-maths-classwork-41-ex-10a-q22-31-2026-05-01
+DTSTAMP:20260815T231840
+DTSTART:20260501T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Maths - Classwork 41: Ex 10A Q22-31
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\n需在課本上完成並在截止前交回\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-04-23
+DTSTAMP:20260815T231840
+DTSTART:20260423T003000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中文科 - 繳交說「勤」、學需多問_小組匯報工作紙；以及派發課堂簡報
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
+ 30\n各組紀錄員須拍攝工作紙並上傳，記得列出組員姓名或學號。附件：說「勤」、學需多問_小組匯報.pdf\n\nAttached:\n📎 htt
+ ps://drive.google.com/file/d/1oNJS4pBnsmfEgY6b_Px6ok0YuQ0t6v57/view?usp=
+ drive_web: https://mag-zinc-gage-standings.trycloudflare.com/attachments
+ /https-drive-google-com-file-d-1onjs4pbns-\n\n(from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ws-e4-2-2026-04-29
+DTSTAMP:20260815T231840
+DTSTART:20260429T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 地理科 - WS E4.2
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\n無需完成最後兩頁。附件：Revision Worksheet E4.2 (Student version).pdf\n\nAttache
+ d:\n📎 https://drive.google.com/file/d/1sS2fb5n_nLhWtrtBG2LSdngsEPM4p1GY/
+ view?usp=drive_web: https://mag-zinc-gage-standings.trycloudflare.com/at
+ tachments/https-drive-google-com-file-d-1ss2fb5n-n-ws-e4-2\n\n(from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-8-revision-exercise-q9-10-13-14-2026-04-28
+DTSTAMP:20260815T231840
+DTSTART:20260428T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 數學科 - Homework 8: Revision Exercise Q9\, 10\, 13\, 14
+ \, 16-20
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\n請於指定時間前於作業本上完成並繳交。\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-classwork-40-ex-9b-q12-18-2026-04-28
+DTSTAMP:20260815T231840
+DTSTART:20260428T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B Maths - Classwork 40: Ex 9B Q12-18
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 15:
+ 59\nDue on 2026-04-28 at 15:59 HKT\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-course-2026-04-22
+DTSTAMP:20260815T231840
+DTSTART;VALUE=DATE:20260422
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Course - 單元六測驗簽名
+DESCRIPTION:Don't leave this to the last minute — chip away early.\nDUE: 
+ 2026-04-22 00:30 HKT\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-4-2026-04-21
+DTSTAMP:20260815T231840
+DTSTART:20260421T003000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中文科 2B(4) - 為學一首示子姪_簡報及課堂活動
+DESCRIPTION:Don't leave this to the last minute — chip away early.\n⏰ 00:
+ 30\n[OFFICIAL ASSIGNMENT] Complete workbook page 26 based on presentatio
+ n. Choose a point\, provide supporting example with personal introductio
+ n\, and argue why the example fits the point. Submit screenshot of compl
+ eted work. Due 2026-04-21 00:30 HKT. Reference file attached.\n\nAttache
+ d:\n📎 https://drive.google.com/file/d/18HBuiis33usVjPT1vivcJ0WG-eIuat4N/
+ view?usp=drive_web: https://mag-zinc-gage-standings.trycloudflare.com/at
+ tachments/https-drive-google-com-file-d-18hbuiis33-2b-4\n\n(from Darren'
+ s Study Pipeline)
 END:VEVENT
 END:VCALENDAR
