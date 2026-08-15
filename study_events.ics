@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -16,13 +16,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
  school uniform\, return reply slip to class S.A. representative\, F.6 se
  llers email soft copy to Yuen Tsz Hin\, collect unsold books promptly af
  ter sale.\n\nAttached:\n📎 2526 SA Old Book Sale Parents Letter.docx: htt
- ps://listen-bears-foundations-escape.trycloudflare.com/attachments/2526-
- sa-old-book-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Darren's 
- Study Pipeline)
+ ps://mag-zinc-gage-standings.trycloudflare.com/attachments/2526-sa-old-b
+ ook-sale-parents-letter-doc-s-a-old-book-sale\n\n(from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-joint-school-singing-cont-2026-07-19
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -116,11 +116,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30
  rformer Panther Chan 陳蕾. | Support school finalists\; guest performer Pa
  nther Chan 陳蕾 | Support school finalists (3C Luk Ka Wang\, 4A Au-Yeung N
  icholas\, 5D Chan Pak Kui\, 6E Hayden Lau). Guest: Panther Chan 陳蕾. Tick
- ets at art-mate.net/doc/97305.\n\n(from Darren's Study Pipeline)
+ ets at art-mate.net/doc/97305. | Special guest performer announced on 9/
+ 7. Ticket sales open at https://www.art-mate.net/doc/97305\n\n(from Darr
+ en's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-reminder-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -134,7 +136,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tram-painting-session-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -165,13 +167,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  table for painting. | F.2 students only. Hands-on large-scale tram art t
  hemed around St. Paul's College. Morning time slots\, at least 1 hour. R
  egister via Google Form.\n\nAttached:\n📎 Tram Painting Registration Form
- : https://listen-bears-foundations-escape.trycloudflare.com/attachments/
- tram-painting-registration-form-tram-painting-session\n\n(from Darren's 
- Study Pipeline)
+ : https://mag-zinc-gage-standings.trycloudflare.com/attachments/tram-pai
+ nting-registration-form-tram-painting-session\n\n(from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ict-2b-farewell-announcement-2026-07-10
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -183,7 +185,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07\
 END:VEVENT
 BEGIN:VEVENT
 UID:study-class-2b-normal-school-day-2026-07-13
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260713T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -195,7 +197,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-tram-painting-session-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -215,13 +217,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ mornin
  rge-scale art activity\; morning time slots\; register via Google Form l
  ink provided | Hands-on large-scale tram art celebrating St. Paul's Coll
  ege. Morning slot\, at least one hour. Register via the provided form.\n
- \nAttached:\n📎 Tram Painting Registration Form: https://listen-bears-fou
- ndations-escape.trycloudflare.com/attachments/tram-painting-registration
- -form-f-2-tram-painting-session\n\n(from Darren's Study Pipeline)
+ \nAttached:\n📎 Tram Painting Registration Form: https://mag-zinc-gage-st
+ andings.trycloudflare.com/attachments/tram-painting-registration-form-f-
+ 2-tram-painting-session\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-2026-07-14
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260714T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -235,7 +237,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-first-two-lessons-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -251,7 +253,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-st-paul-s-college-tram-painting-sess-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -260,14 +262,13 @@ SUMMARY:🎉 EVENT: F.2 St. Paul's College Tram Painting Session
 DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
  g (time slots to be arranged)\nHands-on large-scale art activity themed 
  around school identity\; registration via provided form is required\n\nA
- ttached:\n📎 Tram Painting Registration Form: https://listen-bears-founda
- tions-escape.trycloudflare.com/attachments/tram-painting-registration-fo
- rm-f-2-st-paul-s-college-tram-painting-sess\n\n(from Darren's Study Pipe
- line)
+ ttached:\n📎 Tram Painting Registration Form: https://mag-zinc-gage-stand
+ ings.trycloudflare.com/attachments/tram-painting-registration-form-f-2-s
+ t-paul-s-college-tram-painting-sess\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-farewell-miss-lam-goodbye-2026-07-10
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -280,7 +281,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:07
 END:VEVENT
 BEGIN:VEVENT
 UID:study-luminatus-2026-guest-reveal-ticket-deadl-2026-07-09
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:Event
 COLOR:#33B679
@@ -294,7 +295,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSpecial
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-2526-issue-2-published-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -304,13 +305,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nNew issu
  e available online at canva.site link. | Read online at scope2425.my.can
  va.site/scope2526-issue2\; poster attached. | Read online at https://sco
  pe2425.my.canva.site/scope2526-issue2\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期
- 海報.pdf: https://listen-bears-foundations-escape.trycloudflare.com/attach
- ments/scope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren's Stud
- y Pipeline)
+ 海報.pdf: https://mag-zinc-gage-standings.trycloudflare.com/attachments/sc
+ ope-2526-pdf-scope-2526-issue-2-published\n\n(from Darren's Study Pipeli
+ ne)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-newspaper-issue-2-published-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -318,13 +319,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: School Newspaper 《文苑》Issue 2 Published
 DESCRIPTION:Something happening on campus. Mark it and show up.\nRead onl
  ine at Canva link\; includes Chinese/English sections\, activities\, gam
- es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://listen-bears-founda
- tions-escape.trycloudflare.com/attachments/scope-2526-pdf-school-newspap
- er-issue-2-published\n\n(from Darren's Study Pipeline)
+ es\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://mag-zinc-gage-stand
+ ings.trycloudflare.com/attachments/scope-2526-pdf-school-newspaper-issue
+ -2-published\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-visual-arts-st-paul-s-college-tram-p-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260824
 CATEGORIES:Event
 COLOR:#33B679
@@ -338,7 +339,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-scope-issue-2-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -346,13 +347,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: 《文苑》SCOPE Issue 2 出版
 DESCRIPTION:Something happening on campus. Mark it and show up.\nSchool m
  agazine published with selected Chinese/English articles\, event highlig
- hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://lis
- ten-bears-foundations-escape.trycloudflare.com/attachments/scope-2526-pd
- f-scope-issue-2\n\n(from Darren's Study Pipeline)
+ hts\, and puzzles.\n\nAttached:\n📎 《文苑》SCOPE 2526 第二期海報.pdf: https://mag
+ -zinc-gage-standings.trycloudflare.com/attachments/scope-2526-pdf-scope-
+ issue-2\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrive-before-7-45am-2026-07-15
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260715T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -366,7 +367,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:45
 END:VEVENT
 BEGIN:VEVENT
 UID:study-mathematics-society-committee-recruitmen-2026-07-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -413,7 +414,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-28
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -473,7 +474,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 1 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -525,7 +526,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 2 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -578,7 +579,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nDay 3 of
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-hist-ces-ping-shan-heritage-trail-exc-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -587,13 +588,13 @@ SUMMARY:🎉 EVENT: IH Hist & CES - Ping Shan Heritage Trail excursion @ Pin
  g Shan Heritage Trail
 DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
  han Heritage Trail\nPrepare worksheet before excursion\n\nAttached:\n📎 P
- ing Shan Heritage Trail Worksheet: https://listen-bears-foundations-esca
- pe.trycloudflare.com/attachments/ping-shan-heritage-trail-worksheet-ih-h
- ist-ces-ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipeline)
+ ing Shan Heritage Trail Worksheet: https://mag-zinc-gage-standings.trycl
+ oudflare.com/attachments/ping-shan-heritage-trail-worksheet-ih-hist-ces-
+ ping-shan-heritage-trail-exc\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ping-shan-heritage-trail-excursion-ih-hi-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -606,7 +607,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-school-day-start-attend-first-two-lesson-2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -617,7 +618,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-normal-school-day-arrival-before-7-45am-2026-07-16
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260716T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -629,7 +630,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ before
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ih-history-excursion-ping-shan-heritage--2026-07-06
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -642,7 +643,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-results-release-briefing-form-6-su-2026-07-22
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:Event
 COLOR:#33B679
@@ -655,7 +656,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hkdse-support-briefing-session-2026-07-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -667,7 +668,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 school
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-18
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -721,7 +722,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-19
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -770,7 +771,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -818,7 +819,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-21
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -866,7 +867,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-22
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -914,7 +915,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-23
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -962,7 +963,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-59th-joint-school-science-exhibition-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1011,18 +1012,20 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-society-f-1-3-english-ambassador-2026-08-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: English Society 幹事招募 (F.1-3 English Ambassadors)
 DESCRIPTION:Something happening on campus. Mark it and show up.\n截止 8/20；
- 負責籌備校內英文活動，可獲報告卡幹事記録\n\n(from Darren's Study Pipeline)
+ 負責籌備校內英文活動，可獲報告卡幹事記録 | Sign up by Aug 20 to join the English Society com
+ mittee. Includes event planning experience and committee role on report 
+ card.\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-18
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260818T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1042,7 +1045,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-19
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1059,7 +1062,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1076,7 +1079,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-21
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1093,7 +1096,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-22
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1110,7 +1113,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-da-2026-08-23
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1127,7 +1130,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-joint-school-science-exhibition-visit-fi-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1144,7 +1147,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
 END:VEVENT
 BEGIN:VEVENT
 UID:study-music-luminatus-2026-2026-07-19
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260719T073000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1158,7 +1161,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 7:30 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-1-2026-07-28
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -1170,7 +1173,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-2-2026-07-29
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -1182,7 +1185,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-project-legacy-x-day-3-2026-07-30
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -1194,7 +1197,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n3-day lo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-18
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260818T020000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1209,7 +1212,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 2:00 p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-19
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1224,7 +1227,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1239,7 +1242,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-21
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1254,7 +1257,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-22
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1269,7 +1272,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-23
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1284,7 +1287,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-59th-joint-school-science-exhibi-2026-08-24
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1299,7 +1302,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cathay-city-visit-application-deadline-2026-07-26
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260726
 CATEGORIES:Event
 COLOR:#33B679
@@ -1315,7 +1318,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\nApply vi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-aviation-club-visit-to-cathay-city-2026-08-05
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1349,7 +1352,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visit-cathay-city-2026-08-05
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1363,7 +1366,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cathay-city-visit-aviation-club-2026-08-05
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -1382,7 +1385,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ Half d
 END:VEVENT
 BEGIN:VEVENT
 UID:study-math-society-committee-recruitment-2026-07-20
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Event
 COLOR:#33B679
@@ -1391,14 +1394,13 @@ SUMMARY:🎉 EVENT: Math Society Committee Recruitment
 DESCRIPTION:Something happening on campus. Mark it and show up.\nApply vi
  a Google Form by 2026-07-20. Roles: poster design\, event organisation. 
  | Application deadline was 20/7\; submit via Google Form if interested\n
- \nAttached:\n📎 https://forms.gle/6rKRcxcMXSAFCCYP8: https://listen-bears
- -foundations-escape.trycloudflare.com/attachments/https-forms-gle-6rkrcx
- cmxsafccyp8-math-society-committee-recruitment\n\n(from Darren's Study P
- ipeline)
+ \nAttached:\n📎 https://forms.gle/6rKRcxcMXSAFCCYP8: https://mag-zinc-gag
+ e-standings.trycloudflare.com/attachments/https-forms-gle-6rkrcxcmxsafcc
+ yp8-math-society-committee-recruitment\n\n(from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-aviation-club-cathay-city-visit-applicat-2026-07-26
-DTSTAMP:20260815T013152
+DTSTAMP:20260815T224210
 DTSTART;VALUE=DATE:20260726
 CATEGORIES:Event
 COLOR:#33B679
@@ -1407,5 +1409,672 @@ SUMMARY:🎉 EVENT: Aviation Club Cathay City visit application deadline
 DESCRIPTION:Something happening on campus. Mark it and show up.\nDeadline
   to apply for the free Cathay City tour (5 Aug). First-come-first-served
  \, quota 20. Submit form ASAP.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-26-steam-team-project-legacy-x-stea-2026-07-28
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-26 STEAM Team - Project Legacy x STEAM  - 與順豐高層沉浸體驗
+DESCRIPTION:Something happening on campus. Mark it and show up.\nThree-da
+ y work experience with SF Express for F.4/F.5 students. Quota: 2. Detail
+ s to be announced.\n\nAttached:\n📎 https://drive.google.com/file/d/1JRX3
+ i0MO9MTIvHYgW_3uCoUMmkpeGbYF/view?usp=drive_web: https://mag-zinc-gage-s
+ tandings.trycloudflare.com/attachments/https-drive-google-com-file-d-1jr
+ x3i0mo9-2025-26-steam-team-project-legacy-x-stea\n\n(from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-26-steam-team-project-legacy-x-stea-2026-07-30
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260730
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-26 STEAM Team - Project Legacy x STEAM  - 與順豐高層沉浸體驗
+DESCRIPTION:Something happening on campus. Mark it and show up.\nFinal da
+ y of three-day work experience with SF Express.\n\n(from Darren's Study 
+ Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2526-2b-music-luminatus-2026-2026-07-19
+DTSTAMP:20260815T224210
+DTSTART:20260719T193000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2526 2B Music - LUMINATUS 2026 全港聯校歌唱比賽 @ Jockey Club Au
+ ditorium\, The Hong Kong Polytechnic University
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 19:30 
+ · 📍 Jockey Club Auditorium\, The Hong Kong Polytechnic University\nLUMIN
+ ATUS 2026 Inter-school Singing Contest featuring Panther Chan 陳蕾. Finali
+ sts from our school: 3C Luk Ka Wang\, 4A Au-Yeung Nicholas\, 5D Chan Pak
+  Kui\, 6E Hayden Lau.\n\nAttached:\n📎 https://www.art-mate.net/doc/97305
+ : https://mag-zinc-gage-standings.trycloudflare.com/attachments/https-ww
+ w-art-mate-net-doc-97305-2526-2b-music-luminatus-2026\n\n(from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-f-1-3-english-ambassadors-comm-2026-08-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260820
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-2026 F.1-3 English Ambassadors - Committee Members 
+ Recruitment
+DESCRIPTION:Something happening on campus. Mark it and show up.\nJoin the
+  English Society committee. Deadline: Aug 20. Sign up: https://forms.gle
+ /cuXiwmzKc5X4rkae7\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-students-association-s-a-old-book-sale-2026-07-14
+DTSTAMP:20260815T224210
+DTSTART:20260714T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Students' Association - S.A. Old Book Sale @ History and
+  C.S.D. Room (6/F)
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 9:00 A
+ M – 12:00 PM · 📍 History and C.S.D. Room (6/F)\nReply slip due\; full sc
+ hool uniform required\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-steam-team-alipayhk-dvice-ux-2026-2026-06-25
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260625
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - AlipayHK αdvice – 青年科創UX設計比賽暨工作影子計劃 2026
+DESCRIPTION:Something happening on campus. Mark it and show up.\nInternal
+  deadline for F.5 teams\; group leaders must email member names\n\n(from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-recruitment-student-ambassadors-for-the--2026-06-25
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260625
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Recruitment - Student Ambassadors for the JC LevelMind S
+ cheme
+DESCRIPTION:Something happening on campus. Mark it and show up.\nApplicat
+ ion deadline for the Student Ambassadors program (originally postponed d
+ ue to low applications).\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-old-book-sales-reply-slip-submission-dea-2026-07-03
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260703
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Old Book Sales - Reply Slip Submission Deadline @ 2025-2
+ 026 Class 2B
+DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 2025-2
+ 026 Class 2B\nSubmit reply slips to SA representative\, monitor\, or vic
+ e monitor by tomorrow (July 3).\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sepa-certificates-prize-giving-ceremony-2026-07-02
+DTSTAMP:20260815T224210
+DTSTART:20260702T134000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: SEPA Certificates - Prize-Giving Ceremony @ Gallant Ho H
+ all
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 13:40 
+ · 📍 Gallant Ho Hall\nBring iPad for e-certificates. Reply by July 2nd\n\
+ n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sepa-prize-giving-ceremony-2026-07-02
+DTSTAMP:20260815T224210
+DTSTART:20260702T134000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: SEPA Prize-Giving Ceremony @ Gallant Ho Hall
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 13:40 
+ · 📍 Gallant Ho Hall\nPlease bring your iPad for e-certificates. Reply to
+  confirm attendance.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-man-wai-catherine-wong-sepa-certificates-2026-08-21
+DTSTAMP:20260815T224210
+DTSTART:20260821T134000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Man Wai\, Catherine WONG - SEPA Certificates @ Gallant H
+ o Hall
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 13:40 
+ · 📍 Gallant Ho Hall\nPlease confirm attendance and bring iPad\n\n(from D
+ arren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-2b-ih-hist-ces-excursion-prepa-2025-07-06
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20250706
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-2026 2B IH - HIST & CES - Excursion Preparation @ P
+ ing Shan Heritage Trail
+DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Ping S
+ han Heritage Trail\nPrepare for Ping Shan Heritage Trail Worksheet befor
+ e excursion on 6 July\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-2b-ih-hist-ces-assignment-due-2025-07-07
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20250707
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-2026 2B IH - HIST & CES - Assignment Due @ Online
+DESCRIPTION:Something happening on campus. Mark it and show up.\n📍 Online
+ \nComplete and upload Ping Shan Heritage Trail Worksheet by 7 July\n\n(f
+ rom Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-lai-yi-kwok-visit-hk-science-fair-finals-2026-06-28
+DTSTAMP:20260815T224210
+DTSTART:20260628T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Lai Yi KWOK - Visit HK Science Fair Finals @ Booth A015\
+ , Hall 3FG (Old Wing)\, Hong Kong Convention and Exhibition Centre
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 10:00-
+ 15:00 · 📍 Booth A015\, Hall 3FG (Old Wing)\, Hong Kong Convention and Ex
+ hibition Centre\nVote for school project at Booth A015. Free admission\,
+  pre-registration required. Visit: https://www.hksciencefair.org.hk/\n\n
+ Attached:\n📎 Link: Hong Kong Science Fair – A platform to showcase stude
+ nts’ creative talents (https://www.hksciencefair.org.hk/): https://mag-z
+ inc-gage-standings.trycloudflare.com/attachments/link-hong-kong-science-
+ fair-a-platform-t-lai-yi-kwok-visit-hk-science-fair-finals\n\n(from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-shing-ngat-tse-classroom-4-snt-2026-08-15
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260815
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Shing Ngat TSE (Classroom) - 各位﹕今天第4節課時，請帶備平板來上課。SNT
+DESCRIPTION:Something happening on campus. Mark it and show up.\nBring ta
+ blet to 4th period class today.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ngo-tin-ip-classroom-project-ace-celebra-2025-06-30
+DTSTAMP:20260815T224210
+DTSTART:20250630T010000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Ngo Tin IP (Classroom) - Project ACE celebration event @
+  Hall
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ after 
+ 1st recess · 📍 Hall\nBring iPad to Hall after 1st recess\n\n(from Darren
+ 's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-2b-ih-hist-ces-excursion-for-c-2026-07-06
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260706
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-2026 2B IH - HIST & CES - Excursion for classes 2B 
+ and 3C
+DESCRIPTION:Something happening on campus. Mark it and show up.\nStudents
+  must complete the Google Form and submit a parent's letter for dismissa
+ l permission.\n\nAttached:\n📎 https://docs.google.com/forms/d/e/1FAIpQLS
+ erKpCmWwdWrkK52bYAnn069IaTE8UkhZZmMbVkIiDvVp5-xw/viewform?usp=header: ht
+ tps://mag-zinc-gage-standings.trycloudflare.com/attachments/https-docs-g
+ oogle-com-forms-d-e-1faipqls-2025-2026-2b-ih-hist-ces-excursion-for-c\n\
+ n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-ih-hist-ces-project-ace-submission-of-2026-06-23
+DTSTAMP:20260815T224210
+DTSTART:20260623T075800
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Project ACE: Submission of Promotio
+ nal Video
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 07:58\
+ nGraded: 10/10 by Hiu Yee\, Joyce CHAN | Graded: 10/10 by Hiu Yee\, Joyc
+ e CHAN (notification forwarded by Tsz Hon Eugene CHEUNG)\n\n(from Darren
+ 's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-06-25
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260625
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 
+DESCRIPTION:Something happening on campus. Mark it and show up.\nApplicat
+ ion deadline for Student Ambassadors for the JC LevelMind Scheme. Reply 
+ to email by this date.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-recruiting-new-prefects-for-the-academic-2026-06-21
+DTSTAMP:20260815T224210
+DTSTART:20260621T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Recruiting New Prefects for the Academic Year 2026-2027
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 23:59\
+ nApplication deadline for General Prefect. Submit filled application for
+ m by replying to email.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-delivery-status-notification-delay-2026-06-15
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Delivery Status Notification (Delay)
+DESCRIPTION:Something happening on campus. Mark it and show up.\nLast att
+ empt date for email delivery delay | Last attempt date for email deliver
+ y delay\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-delivery-status-notification-delay-2026-06-17
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260617
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Delivery Status Notification (Delay)
+DESCRIPTION:Something happening on campus. Mark it and show up.\nWill-ret
+ ry-until date for email delivery delay\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-delivery-status-notification-delay-2026-06-16
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260616
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Delivery Status Notification (Delay)
+DESCRIPTION:Something happening on campus. Mark it and show up.\nWill-ret
+ ry-until date for email delivery delay\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-iet-faraday-challenge-days-2026-first-ro-2026-06-27
+DTSTAMP:20260815T224210
+DTSTART:20260627T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IET - Faraday Challenge Days 2026 First Round @ Youth Co
+ llege (Kowloon Bay)
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 09:00-
+ 17:00 · 📍 Youth College (Kowloon Bay)\nSTEM competition for F2-F4 studen
+ ts. External deadline: 11 June 2026. HK$500 fee (school subsidized).\n\n
+ Attached:\n📎 IEF.jpg: https://mag-zinc-gage-standings.trycloudflare.com/
+ attachments/ief-jpg-iet-faraday-challenge-days-2026-first-ro\n\n(from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-iet-faraday-challenge-days-2026-grand-fi-2026-11-07
+DTSTAMP:20260815T224210
+DTSTART:20261107T140000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IET - Faraday Challenge Days 2026 Grand Final @ Hong Kon
+ g Institute of Information Technology
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:00-
+ 17:00 · 📍 Hong Kong Institute of Information Technology\nSTEM competitio
+ n for F2-F4 students.\n\nAttached:\n📎 IEF.jpg: https://mag-zinc-gage-sta
+ ndings.trycloudflare.com/attachments/ief-jpg-iet-faraday-challenge-days-
+ 2026-grand-fi\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-music-notes-2026-06-03
+DTSTAMP:20260815T224210
+DTSTART:20260603T114100
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music Notes
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 11:41 
+ AM\nSPC S2 curriculum 25-26.pdf provided by Ms Tsoi for exams preparatio
+ n | SPC S2 curriculum 25-26.pdf provided by Ms Tsoi for exams preparatio
+ n | SPC S2 curriculum 25-26.pdf provided by Ms Tsoi for exams preparatio
+ n\n\nAttached:\n📎 https://drive.google.com/file/d/1_cFfeNdyvzqwSyKG07M2s
+ zr1D8Nh1ikb/view?usp=drive_web: https://mag-zinc-gage-standings.trycloud
+ flare.com/attachments/https-drive-google-com-file-d-1-cffendyv-music-not
+ es\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-steam-team-final-steam-team-member-list-2026-06-19
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260619
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - Final STEAM Team Member List
+DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit p
+ roof of STEAM activity completion via Google Form by 19 June if not on f
+ inal list.\n\nAttached:\n📎 Google Forms: Sign-in: https://mag-zinc-gage-
+ standings.trycloudflare.com/attachments/google-forms-sign-in-steam-team-
+ final-steam-team-member-list\n📎 Final STEAM Team Member List 25-26: http
+ s://mag-zinc-gage-standings.trycloudflare.com/attachments/final-steam-te
+ am-member-list-25-26-steam-team-final-steam-team-member-list\n\n(from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-prefects-council-recruiting-new-prefects-2026-06-21
+DTSTAMP:20260815T224210
+DTSTART:20260621T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Prefects’ Council - Recruiting New Prefects for Academic
+  Year 2026-2027
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 23:59\
+ nFill out application form and submit by 21 June 2026 (Sunday) 23:59. Sh
+ ortlisted applicants will be interviewed.\n\n(from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-ih-hist-ces-submission-deadline-2025-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20250520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Submission Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up.\nCut-off 
+ date for submission of screenshots / google forms is 20 May (Wed). Pleas
+ e upload all corrections if not done so.\n\n(from Darren's Study Pipelin
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-unit-test-2026-08-21
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260821
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - Unit Test
+DESCRIPTION:Something happening on campus. Mark it and show up.\nThis Fri
+ day's unit test will only cover '桃花源記'. '湖心亭看雪' will not be assessed. Ot
+ her parts remain unchanged.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-visual-arts-25-26-sketchbook-collecti-2026-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Visual Arts 25-26 - Sketchbook Collection for Classwo
+ rk Marking
+DESCRIPTION:Something happening on campus. Mark it and show up.\nPlease p
+ repare the sketchbook with: 1) Basic coloring techniques (color value\, 
+ clouds\, mountains\, trees\, sky\, bushes\, building at night - complete
+ d March 2026)\; 2) Draft of stained glass - Bible story (completed May 2
+ 026 VA lesson)\; 3) Stained-glass artwork statement (to be completed May
+  2026 VA lesson). The Sketchbook will be collected on Wednesday\, May 20
+ .\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-visual-arts-25-26-ai-storybook-certif-2026-05-19
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260519
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Visual Arts 25-26 - AI Storybook Certification Online
+  Surveys
+DESCRIPTION:Something happening on campus. Mark it and show up.\nAs part 
+ of the AI Storybook for the Future Certification Course (March-April)\, 
+ complete online surveys required by IT Lab funding and STEAM Team by Tue
+ sday\, May 19.\n\nAttached:\n📎 https://www.it-lab.gov.hk/survey_form.php
+ ?schoolName=ST.%20PAUL%27S%20COLLEGE%20%E8%81%96%E4%BF%9D%E7%BE%85%E6%9B
+ %B8%E9%99%A2&ecaName=AI%20Storybook%20For%20the%20Future%20Certification
+ %20Course&ecaVenue=Art%20Room&frDate=2026-03-23&toDate=2026-04-30&expDat
+ e=2026-06-06&cs=78acd8594b31fc920ed89a69b2fc500d7a754f3e96040f58bd3a9538
+ 7ba1b58d&ref=ITLAB64593B96E64: https://mag-zinc-gage-standings.trycloudf
+ lare.com/attachments/https-www-it-lab-gov-hk-survey-form-php--2b-visual-
+ arts-25-26-ai-storybook-certif\n📎 https://forms.gle/g8CUx1bR1rGfKCe47: h
+ ttps://mag-zinc-gage-standings.trycloudflare.com/attachments/https-forms
+ -gle-g8cux1br1rgfkce47-2b-visual-arts-25-26-ai-storybook-certif\n\n(from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-ultimate-homework-deadline-2026-05-21
+DTSTAMP:20260815T224210
+DTSTART:20260521T210000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Maths - Ultimate homework deadline
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 21:00\
+ nPosted on May 15 (HKT) - Deadline is upcoming Thursday 9 pm\n\n(from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ai-vibe-coding-thur-student-work-assignm-2026-05-28
+DTSTAMP:20260815T224210
+DTSTART:20260528T155900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: AI Vibe Coding (Thur) - Student work assignment
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 15:59\
+ nUpload screenshot of AI-vibed work and attach coding zip file\n\nAttach
+ ed:\n📎 zip file: https://mag-zinc-gage-standings.trycloudflare.com/attac
+ hments/zip-file-ai-vibe-coding-thur-student-work-assignm\n\n(from Darren
+ 's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-classwork-48-ex-11d-q6-10-2026-05-21
+DTSTAMP:20260815T224210
+DTSTART:20260521T155900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Maths - Classwork 48: Ex 11D Q6-10
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 15:59\
+ n[OFFICIAL ASSIGNMENT] Due by 15:59 HKT. Complete in classwork book and 
+ submit before deadline. | Please do it in your classwork book and submit
+  it before the deadline.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-18
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260518
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - 課節安排
+DESCRIPTION:Something happening on campus. Mark it and show up.\n收《桃花源記》單
+ 元筆記；派發、講解實用文_調查報告；派發、講解議論文閱理練習\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-19
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260519
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - 課節安排
+DESCRIPTION:Something happening on campus. Mark it and show up.\n講解單元六、八、
+ 九文言字詞及練習\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - 課節安排
+DESCRIPTION:Something happening on campus. Mark it and show up.\n派發單元八測驗，
+ 完成25年大考閱理練習\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-21
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260521
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - 課節安排
+DESCRIPTION:Something happening on campus. Mark it and show up.\n默寫《桃花源記》
+ 第二段，講解三首考核唐詩、完成25年大考語文運用練習\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-22
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260522
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中文科 - 課節安排
+DESCRIPTION:Something happening on campus. Mark it and show up.\n單元九測驗\n\
+ n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-steam-team-world-robot-olympiad-2026-06-11
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260611
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - World Robot Olympiad
+DESCRIPTION:Something happening on campus. Mark it and show up.\nExternal
+  registration deadline: 11 June 2026 - Please see the requirement of eac
+ h category and find a teacher advisor for the competition. Send me the n
+ ame of your teacher advisor and students in the team via email for the s
+ chool record.\n\nAttached:\n📎 Link: 【WRO香港區選拔賽2026】 - 【WRO】HONG KONG Off
+ icial Page｜WRO香港區官方網站 (https://www.peachcp.com/wro-hk/hk-selection/wro20
+ 26/): https://mag-zinc-gage-standings.trycloudflare.com/attachments/link
+ -wro-2026-wro-hong-kong-official-pag-steam-team-world-robot-olympiad\n📎 
+ Link: 𝐒𝐢𝐥𝐯𝐞𝐫 𝐀𝐰𝐚𝐫𝐝 🥈 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭 𝐚𝐭... - St. Paul's College 聖保羅書院 | Face
+ book (https://www.facebook.com/share/p/1AkmxE21bZ/): https://mag-zinc-ga
+ ge-standings.trycloudflare.com/attachments/link-st-paul-s-college-facebo
+ ok-https-ww-steam-team-world-robot-olympiad\n\n(from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ih-ces-2026-05-22
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260522
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IH-CES - 預考複習課
+DESCRIPTION:Something happening on campus. Mark it and show up.\n預計在5月22日
+ 舉行，請留意即將公佈的考試大綱\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ih-hist-ces-ih-hist-pre-exam-revision-2026-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IH - HIST & CES - IH-Hist Pre-exam revision
+DESCRIPTION:Something happening on campus. Mark it and show up.\nSchedule
+ d by Ms. Chan. Refer to syllabus announced soon.\n\n(from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-class-2b-friday-timetable-reminder-2026-05-09
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260509
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Class 2B - Friday Timetable Reminder
+DESCRIPTION:Something happening on campus. Mark it and show up.\nFollowin
+ g Friday Timetable tomorrow.\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-ai-vibe-coding-class-time-reminder-2026-05-06
+DTSTAMP:20260815T224210
+DTSTART:20260506T143000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: AI Vibe Coding - Class Time Reminder
+DESCRIPTION:Something happening on campus. Mark it and show up.\n⏰ 14:30-
+ 16:30\nClass time is 2:30-4:30pm\; note that May has passed but no futur
+ e occurrence specified\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-visual-arts-this-is-the-last-ai-lesson-s-2026-04-29
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260429
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Visual Arts - This is the last AI lesson\, scheduled for
+  Wednesday\, April 29. Please complete all image generation\, content\, 
+ and audio for the final stages of the storybook\, and be punctual.
+DESCRIPTION:Something happening on campus. Mark it and show up.\nThe acry
+ lic painting would be collected after the VA lesson. Thank you.\n\n(from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-homework-checking-submission-2026-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Maths - Homework checking & submission
+DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit h
+ omework book (2nd term\, from chapter 7) by Wednesday\n\n(from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-strict-deadline-for-hoho-ernest-2026-05-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260520
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2B Maths - Strict deadline for Hoho\, Ernest and Eason
+DESCRIPTION:Something happening on campus. Mark it and show up.\nSubmit a
+ ll homework and classwork regarding chapter 9 by Wednesday\n\n(from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2025-2026-form-2-integrated-humanities-h-2026-05-15
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260515
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2025-2026 Form 2 Integrated Humanities - History e-readi
+ ng Award Scheme
+DESCRIPTION:Something happening on campus. Mark it and show up.\nDeadline
+  for completing all articles is 15 May (Friday). Complete 7 articles acc
+ urately. 5% of classwork mark allocated. Login details sent to school em
+ ail.\n\nAttached:\n📎 Screenshot 2026-04-24 at 13.27.18.png: https://mag-
+ zinc-gage-standings.trycloudflare.com/attachments/screenshot-2026-04-24-
+ at-13-27-18-png-2025-2026-form-2-integrated-humanities-h\n\n(from Darren
+ 's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
