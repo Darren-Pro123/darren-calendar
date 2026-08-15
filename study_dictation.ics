@@ -5,26 +5,26 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-history-transformation-of-china-dictatio-2026-05-06
-DTSTAMP:20260815T231840
+DTSTAMP:20260815T235202
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Dictation
 COLOR:#F6BF26
 X-APPLE-CALENDAR-COLOR:#F6BF26
 SUMMARY:📘 DICTATION: History - Transformation of China Dictation
-DESCRIPTION:Dictation scheduled. Practice the passage so you're ready.\nH
- istory dictation on Transformation of China will be held next Wednesday 
- (6 May) | Dictation on Transformation of China\, scheduled for next Wedn
- esday (6 May)\n\n(from Darren's Study Pipeline)
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
+ story dictation on Transformation of China will be held next Wednesday (
+ 6 May) | Dictation on Transformation of China\, scheduled for next Wedne
+ sday (6 May)  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-course-2026-04-27
-DTSTAMP:20260815T231840
+DTSTAMP:20260815T235203
 DTSTART;VALUE=DATE:20260427
 CATEGORIES:Dictation
 COLOR:#F6BF26
 X-APPLE-CALENDAR-COLOR:#F6BF26
 SUMMARY:📘 DICTATION: Course - 背默《為學一首示子姪》第一及二段
-DESCRIPTION:Dictation scheduled. Practice the passage so you're ready.\nD
- UE: 2026-04-27 00:30 HKT\n\n(from Darren's Study Pipeline)
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. DU
+ E: 2026-04-27 00:30 HKT  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
