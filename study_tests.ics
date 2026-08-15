@@ -3,4 +3,62 @@ VERSION:2.0
 PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:study-2b-maths-chapter-10-sin-cos-tan-2026-08-18
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260818
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 2B Maths - Chapter 10 (sin cos tan)
+DESCRIPTION:Time to prep — here's what you've got.\nTest on trigonometric
+  functions (sin\, cos\, tan)\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-chapter-11-2026-08-19
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260819
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 2B Maths - Chapter 11
+DESCRIPTION:Time to prep — here's what you've got.\nOpen-book test due to
+  tight schedule | Test scheduled for upcoming Wednesday\n\n(from Darren'
+ s Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-maths-chapter-11-2026-08-20
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260820
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 2B Maths - Chapter 11
+DESCRIPTION:Time to prep — here's what you've got.\nOpen-book test contin
+ uation | Test scheduled for upcoming Thursday\n\n(from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study--2026-05-12
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260512
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 中史 - 第二次小測範圍
+DESCRIPTION:Time to prep — here's what you've got.\n考試範圍：Ｐ１３３－１５９（包括P159地
+ 圖：中日甲午戰爭路線圖），本次小測將有資料題\n\n(from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-4-2026-05-14
+DTSTAMP:20260815T224210
+DTSTART:20260514T003000
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 25-26_中文科_中二第(4)組 - 單元八小測
+DESCRIPTION:Time to prep — here's what you've got.\n⏰ 00:30\n🚨 DUE: 2026-
+ 05-14 00:30 HKT | 內容包括: 《為學一首示子姪》、《說「勤」》、《學需多問》；一篇文言閱理；文言讀本練習(頁10-13) | 
+ 總分28-30分\n\n(from Darren's Study Pipeline)
+END:VEVENT
 END:VCALENDAR
