@@ -3,4 +3,16 @@ VERSION:2.0
 PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:study-history-transformation-of-china-dictatio-2026-05-06
+DTSTAMP:20260815T224210
+DTSTART;VALUE=DATE:20260506
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: History - Transformation of China Dictation
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready.\nH
+ istory dictation on Transformation of China will be held next Wednesday 
+ (6 May)\n\n(from Darren's Study Pipeline)
+END:VEVENT
 END:VCALENDAR
