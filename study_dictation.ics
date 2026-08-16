@@ -3,4 +3,16 @@ VERSION:2.0
 PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:study-hist-ces-transformation-of-china-2026-05-06
+DTSTAMP:20260817T011708
+DTSTART;VALUE=DATE:20260506
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: HIST & CES - Transformation of China
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
+ story dictation on next Wednesday (6 May) relative to posted date 2026-0
+ 4-28  (from Darren's Study Pipeline)
+END:VEVENT
 END:VCALENDAR
