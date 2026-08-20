@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-yat-lung-chow-classroom-graded-unit-6-2026-05-26
-DTSTAMP:20260821T051049
+DTSTAMP:20260821T061158
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -19,7 +19,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 9:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-pui-wing-cheung-classroom-graded-listeni-2026-05-26
-DTSTAMP:20260821T051049
+DTSTAMP:20260821T061158
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -28,5 +28,21 @@ SUMMARY:📌 NORMAL: Pui Wing CHEUNG (Classroom) - Graded: Listening Assessm
  ent 4 LB p. 84-85
 DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 8:5
  1 AM with score 26/33  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-man-wai-catherine-wong-basic-environment-2026-06-06
+DTSTAMP:20260821T061158
+DTSTART:20260606T170000
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 NORMAL: Man Wai\, Catherine WONG - Basic Environmental Badge Go
+ ogle Form Due
+DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 17:00 Fill 
+ in Google Form by this Saturday (6th June) 17:00. Posted 2026-06-02.  At
+ tached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://cemetery-polished
+ -undefined-salary.trycloudflare.com/attachments/https-forms-gle-dyrmxrza
+ 2pm742kh9-man-wai-catherine-wong-basic-environment  (from Darren's Study
+  Pipeline)
 END:VEVENT
 END:VCALENDAR
