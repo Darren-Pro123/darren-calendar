@@ -3,4 +3,30 @@ VERSION:2.0
 PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:study-yat-lung-chow-classroom-graded-unit-6-2026-05-26
+DTSTAMP:20260821T002605
+DTSTART;VALUE=DATE:20260526
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 NORMAL: Yat Lung CHOW (Classroom) - Graded: Unit 6
+DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 9:0
+ 4 AM with score 6/10 | Comment at 8:41 AM: 'Where is your work\, or who 
+ are your groupmates?' | Comment at 9:00 AM: 'Please upload your work as 
+ soon as possible' | Comment at 9:04 AM: 'Thank you'  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-pui-wing-cheung-classroom-graded-listeni-2026-05-26
+DTSTAMP:20260821T002605
+DTSTART;VALUE=DATE:20260526
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 NORMAL: Pui Wing CHEUNG (Classroom) - Graded: Listening Assessm
+ ent 4 LB p. 84-85
+DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 8:5
+ 1 AM with score 26/33  (from Darren's Study Pipeline)
+END:VEVENT
 END:VCALENDAR
