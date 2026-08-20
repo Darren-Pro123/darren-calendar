@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -16,7 +16,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 10 (si
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-20
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -27,7 +27,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-21
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -38,7 +38,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-12
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260512
 CATEGORIES:Test
 COLOR:#EA4335
@@ -50,7 +50,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test covers P133-P159
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-06
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Test
 COLOR:#EA4335
@@ -61,7 +61,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-07
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260507
 CATEGORIES:Test
 COLOR:#EA4335
@@ -72,7 +72,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-test-midterm-check-2026-04-30
-DTSTAMP:20260821T002605
+DTSTAMP:20260821T011741
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:Test
 COLOR:#EA4335
@@ -81,5 +81,17 @@ SUMMARY:📝 TEST: 2B Maths - Chapter 9 Test (Midterm Check)
 DESCRIPTION:Time to prep — here's what you've got. Long questions on Thur
  sday (moved due to holiday on next Friday)  (from Darren's Study Pipelin
  e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-project-ace-submission-of-promotional-vi-2026-06-23
+DTSTAMP:20260821T011741
+DTSTART;VALUE=DATE:20260623
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Project ACE: Submission of Promotional Video
+DESCRIPTION:Time to prep — here's what you've got. Graded 10/10 by Hiu Ye
+ e\, Joyce CHAN. View grade via provided link.  (from Darren's Study Pipe
+ line)
 END:VEVENT
 END:VCALENDAR
