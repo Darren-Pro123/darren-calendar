@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-cantopop-club-season-4-school-performanc-2026-06-29
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART:20260629T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -19,7 +19,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 -
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hiu-yee-joyce-chan-ces-module-2-4-ws-1-2026-05-20
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART:20260520T073500
 CATEGORIES:Event
 COLOR:#33B679
@@ -31,7 +31,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:35 P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-it-lab-survey-2026-06-13
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART;VALUE=DATE:20260613
 CATEGORIES:Event
 COLOR:#33B679
@@ -43,7 +43,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Survey li
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-bring-textbooks-2026-05-03
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART;VALUE=DATE:20260503
 CATEGORIES:Event
 COLOR:#33B679
@@ -55,7 +55,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Students
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-class-resumes-2026-05-05
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:Event
 COLOR:#33B679
@@ -67,7 +67,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. No class
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-form-2-integrated-humanities-h-2026-05-15
-DTSTAMP:20260818T132118
+DTSTAMP:20260821T002605
 DTSTART;VALUE=DATE:20260515
 CATEGORIES:Event
 COLOR:#33B679
@@ -77,8 +77,21 @@ SUMMARY:🎉 EVENT: 2025-2026 Form 2 Integrated Humanities - History e-readi
 DESCRIPTION:Something happening on campus. Mark it and show up. 📍 http://
  history-reading-award.iclass.hk Complete 7 articles\; 5% classwork mark\
  ; deadline Friday  Attached: 📎 Screenshot_2026-04-24_at_13.27.18.png: ht
- tps://look-mount-mario-fireplace.trycloudflare.com/attachments/screensho
- t-2026-04-24-at-13-27-18-png-2025-2026-form-2-integrated-humanities-h  (
- from Darren's Study Pipeline)
+ tps://cemetery-polished-undefined-salary.trycloudflare.com/attachments/s
+ creenshot-2026-04-24-at-13-27-18-png-2025-2026-form-2-integrated-humanit
+ ies-h  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-season-4-school-performance-tour-2026-06-29
+DTSTAMP:20260821T002605
+DTSTART:20260629T143000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 【電笠】人人和音 Season 4 School Performance Tour @ School Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30-1
+ 5:30 · 📍 School Hall All F.1-F.6 students invited. Enrollment via Google
+  Form\, first-come first-served. Souvenirs provided.  (from Darren's Stu
+ dy Pipeline)
 END:VEVENT
 END:VCALENDAR
