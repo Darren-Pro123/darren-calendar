@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-hist-ces-transformation-of-china-2026-05-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -17,7 +17,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-announcement-2026-05-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -26,5 +26,17 @@ SUMMARY:📘 DICTATION: 25-26_中文科_中二第(4)組 Announcement
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Di
  ctation canceled for tomorrow (posted on 2026-05-20). Tang Poetry lesson
   to proceed.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sepa-basic-environmental-badge-google-fo-2026-06-06
+DTSTAMP:20260821T141631
+DTSTART:20260606T170000
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: SEPA - Basic Environmental Badge Google Form
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. ⏰ 
+ 17:00 Deadline to fill the Google Form for the Basic Environmental Badge
+  application  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
