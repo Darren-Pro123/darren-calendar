@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-ai-storybook-file-upload-deadline-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -17,7 +17,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visual-arts-ai-storybook-exhibition-2026-06-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260619
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -29,7 +29,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Refine
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-student-work-2026-05-28
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -41,7 +41,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. AI Vib
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-2025-2026-classwork-48-ex-11d-q-2026-05-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -53,7 +53,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Please
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cantopop-club-season-4-school-performanc-2026-06-29
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260629T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -67,7 +67,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 -
 END:VEVENT
 BEGIN:VEVENT
 UID:study-sze-long-ho-ws-e4-4-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -79,7 +79,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Graded
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-25-5-2026-05-25
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260525
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -91,7 +91,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tit-hon-ng-assignment-11-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260520T084600
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -102,7 +102,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-yat-lung-chow-unit-6-page-36-task-3-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260520T075800
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -113,7 +113,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 07:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hiu-yee-joyce-chan-ces-module-2-4-ws-1-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260520T073500
 CATEGORIES:Event
 COLOR:#33B679
@@ -125,7 +125,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:35 P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-10-2026-05-25
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260525T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -136,7 +136,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-edpuzzle-making-your-film-canist-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -148,7 +148,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-yiu-classroom-mandarin-daily-challen-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -159,7 +159,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-kiu-wong-classroom-edpuzzle-assignme-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -171,7 +171,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f2gp4-pth-mandarin-daily-challenge-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -182,7 +182,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -193,7 +193,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 10 (si
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -204,7 +204,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -215,7 +215,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-student-work-assignm-2026-05-28
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260528T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -229,7 +229,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-it-lab-survey-2026-06-13
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260613
 CATEGORIES:Event
 COLOR:#33B679
@@ -241,7 +241,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Survey li
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-classwork-47-ex-11c-q5-8-2026-05-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260521T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -253,7 +253,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-11
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260511T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -268,7 +268,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-08
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -286,7 +286,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-12
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260512
 CATEGORIES:Test
 COLOR:#EA4335
@@ -298,7 +298,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test covers P133-P159
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-visual-arts-canvas-painting-submissio-2026-05-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -310,7 +310,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submis
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-bring-textbooks-2026-05-03
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260503
 CATEGORIES:Event
 COLOR:#33B679
@@ -322,7 +322,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Students
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Test
 COLOR:#EA4335
@@ -333,7 +333,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-07
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260507
 CATEGORIES:Test
 COLOR:#EA4335
@@ -344,7 +344,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hist-ces-transformation-of-china-2026-05-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -356,7 +356,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-change-of-temperature-dur-2026-05-01
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -372,7 +372,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-the-new-substances-formed-2026-05-01
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -388,7 +388,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-submission-2026-04-29
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -400,7 +400,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-homework-2026-04-29
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -413,7 +413,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Strict
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-class-resumes-2026-05-05
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:Event
 COLOR:#33B679
@@ -425,7 +425,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. No class
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-04-27
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260427T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -440,7 +440,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-form-2-integrated-humanities-h-2026-05-15
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260515
 CATEGORIES:Event
 COLOR:#33B679
@@ -456,7 +456,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 http://
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-test-midterm-check-2026-04-30
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:Test
 COLOR:#EA4335
@@ -468,7 +468,7 @@ DESCRIPTION:Time to prep — here's what you've got. Long questions on Thur
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-04-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260421T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -485,7 +485,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-assignment-12-due-tomorrow-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -496,7 +496,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-26-5-due-tomorrow-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -507,7 +507,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-due-tuesday-2026-05-27
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -518,7 +518,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Studen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-yat-lung-chow-classroom-graded-unit-6-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -532,7 +532,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 9:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-pui-wing-cheung-classroom-graded-listeni-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -544,7 +544,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 8:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-2b-ih-hist-ces-ping-shan-herit-2026-07-07
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260707T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -561,7 +561,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-46-ex-11b-q8-14-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260520T153200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -573,7 +573,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-45-ex-11a-q6-12-2026-05-20
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260520T152200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -585,7 +585,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-announcement-2026-05-21
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -597,7 +597,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Di
 END:VEVENT
 BEGIN:VEVENT
 UID:study-season-4-school-performance-tour-2026-06-29
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260629T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -610,7 +610,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30-1
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ih-hist-ces-excursion-for-classes-2b--2026-07-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -627,7 +627,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Complete
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-re-upload-deadline-2026-06-25
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -645,7 +645,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-ace-submission-of-promotional-vi-2026-06-23
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260623
 CATEGORIES:Test
 COLOR:#EA4335
@@ -657,7 +657,7 @@ DESCRIPTION:Time to prep — here's what you've got. Graded 10/10 by Hiu Ye
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ai-storybook-re-upload-finalised-work-2026-06-25
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -675,19 +675,20 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Urgent
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-student-innovation-award-2026-07-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: Steam Team - Student Innovation Award
 DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline for teams of 1-5 members with teacher advisor  (from Darren's S
- tudy Pipeline)
+ deadline for teams of 1-5 members with teacher advisor | Internal deadli
+ ne for F.1-F.6 teams to apply for the Student Innovation Award  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-environmental-science-basic-environmenta-2026-06-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260606T170000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -703,7 +704,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 17:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ngo-tin-ip-classroom-f2-ih-exam-reminder-2026-05-19
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Event
 COLOR:#33B679
@@ -716,7 +717,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-classroom-26-5-10-25-2026-05-26
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -728,7 +729,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Assign
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-student-innovation-2026-07-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -741,7 +742,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Internal
 END:VEVENT
 BEGIN:VEVENT
 UID:study-man-wai-catherine-wong-basic-environment-2026-06-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260606T170000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -757,7 +758,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 17:00 Fill
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-steam-team-student-innovation-aw-2026-07-06
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -772,7 +773,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Internal
 END:VEVENT
 BEGIN:VEVENT
 UID:study-student-ambassadors-recruitment-postpone-2026-07-02
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260702T084200
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -784,7 +785,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:42 AM Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-program-solving-challenge-2026-07-02
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260702T115500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -796,7 +797,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 11:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-mathematics-old-book-sales-reply-slip-2026-07-03
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260703T102100
 CATEGORIES:Event
 COLOR:#33B679
@@ -808,7 +809,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:21 A
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-english-convince-us-to-go-travel-pit-2026-07-02
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260702T084200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -820,7 +821,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-mathematics-extra-practices-for-next--2026-07-02
-DTSTAMP:20260821T130828
+DTSTAMP:20260821T141631
 DTSTART:20260702T080400
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -829,5 +830,73 @@ SUMMARY:📌 NORMAL: 2B Mathematics - Extra Practices for Next Year
 DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:04 AM Ad
  ditional practice materials shared for upcoming academic year.  (from Da
  rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-project-legacy-x-steam-sf-executive-imme-2026-07-28
+DTSTAMP:20260821T141631
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Project Legacy x STEAM - SF Executive Immersive Experien
+ ce
+DESCRIPTION:Something happening on campus. Mark it and show up. 3-day pro
+ gram (Jul 28-30) with SF Express executives\; Quota: 2 senior form stude
+ nts. Detailed program attached.  Attached: 📎 傳承 x STEAM - SF Express Pro
+ gram (20260728)_v2.docx: https://cemetery-polished-undefined-salary.tryc
+ loudflare.com/attachments/x-steam-sf-express-program-20260728-v2-d-proje
+ ct-legacy-x-steam-sf-executive-imme  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sepa-basic-environmental-badge-google-fo-2026-06-06
+DTSTAMP:20260821T141631
+DTSTART:20260606T170000
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: SEPA - Basic Environmental Badge Google Form
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. ⏰ 
+ 17:00 Deadline to fill the Google Form for the Basic Environmental Badge
+  application  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2b-music-listening-excerpts-preparation-2026-06-02
+DTSTAMP:20260821T141631
+DTSTART;VALUE=DATE:20260602
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2B Music - Listening Excerpts Preparation
+DESCRIPTION:Don't leave this to the last minute — chip away early. New ve
+ rsion of listening excerpts and vocabulary list attached for exam prepar
+ ation  Attached: 📎 S2 Final Exam Listening Excerpts (new).docx: https://
+ cemetery-polished-undefined-salary.trycloudflare.com/attachments/s2-fina
+ l-exam-listening-excerpts-new-doc-2b-music-listening-excerpts-preparatio
+ n 📎 F1 music exam summary.docx: https://cemetery-polished-undefined-sala
+ ry.trycloudflare.com/attachments/f1-music-exam-summary-docx-2b-music-lis
+ tening-excerpts-preparation  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-chinese-unit-9-test-2026-06-01
+DTSTAMP:20260821T141631
+DTSTART;VALUE=DATE:20260601
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Chinese - Unit 9 Test
+DESCRIPTION:Time to prep — here's what you've got. Reference answers for 
+ Unit 9 uploaded\; exam scheduled for tomorrow  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-chinese-unit-9-test-reference-answers-2026-05-31
+DTSTAMP:20260821T141631
+DTSTART;VALUE=DATE:20260531
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 NORMAL: Chinese - Unit 9 Test Reference Answers
+DESCRIPTION:A regular reminder worth keeping on your radar. Reference ans
+ wers for Unit 9 test uploaded for review  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
