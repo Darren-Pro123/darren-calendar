@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-ai-storybook-file-upload-deadline-2026-05-26
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -17,7 +17,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visual-arts-ai-storybook-exhibition-2026-06-19
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260619
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -29,7 +29,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Refine
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-student-work-2026-05-28
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -41,7 +41,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. AI Vib
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-2025-2026-classwork-48-ex-11d-q-2026-05-21
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -53,7 +53,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Please
 END:VEVENT
 BEGIN:VEVENT
 UID:study-sze-long-ho-ws-e4-4-2026-05-20
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -65,7 +65,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Graded
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-25-5-2026-05-25
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260525
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -77,7 +77,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tit-hon-ng-assignment-11-2026-05-20
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260520T084600
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -88,7 +88,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-yat-lung-chow-unit-6-page-36-task-3-2026-05-20
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260520T075800
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -99,7 +99,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 07:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-10-2026-05-25
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260525T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -110,7 +110,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-edpuzzle-making-your-film-canist-2026-05-19
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -122,7 +122,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-yiu-classroom-mandarin-daily-challen-2026-05-19
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -133,7 +133,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-kiu-wong-classroom-edpuzzle-assignme-2026-05-19
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -145,7 +145,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f2gp4-pth-mandarin-daily-challenge-2026-05-19
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -156,7 +156,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-student-work-assignm-2026-05-28
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260528T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -164,13 +164,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: AI Vibe Coding (Thur) - Student Work Assignment
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 HKT Upload a screenshot of AI-vibed work and a zip file of coding.  At
- tached: 📎 Student work.zip: https://cemetery-polished-undefined-salary.t
- rycloudflare.com/attachments/student-work-zip-ai-vibe-coding-thur-studen
- t-work-assignm  (from Darren's Study Pipeline)
+ tached: 📎 Student work.zip: https://equality-consortium-photographic-pro
+ mpt.trycloudflare.com/attachments/student-work-zip-ai-vibe-coding-thur-s
+ tudent-work-assignm  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-classwork-47-ex-11c-q5-8-2026-05-21
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260521T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -182,7 +182,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-11
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260511T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -191,13 +191,13 @@ SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
  nment 10
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Due by 15:59 HKT  Attached: 📎 KS3_93_Freq-Polygons-and-Cumulative-Freq
- -Polygons_e.pdf: https://cemetery-polished-undefined-salary.trycloudflar
- e.com/attachments/ks3-93-freq-polygons-and-cumulative-freq-25-26-second-
- term-form-2-maths-remedial-  (from Darren's Study Pipeline)
+ -Polygons_e.pdf: https://equality-consortium-photographic-prompt.tryclou
+ dflare.com/attachments/ks3-93-freq-polygons-and-cumulative-freq-25-26-se
+ cond-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-08
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -206,16 +206,16 @@ SUMMARY:📃 HOMEWORK: 中文科 - 考察明信片投票
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  0 HKT DUE: 2026-05-08 00:30 HKT. Vote for 3 favorite postcards via the f
  orm link. Submission deadline: 8/5 or earlier.  Attached: 📎 Link: https:
- //forms.gle/5YAwuS6wP94CrEeD6: https://cemetery-polished-undefined-salar
- y.trycloudflare.com/attachments/link-https-forms-gle-5yawus6wp94creed6- 
- 📎 File: https://drive.google.com/file/d/1zpYO2X_vuC_8LqYwtrYhBJ6K8azcRz_
- i/view?usp=drive_web: https://cemetery-polished-undefined-salary.tryclou
- dflare.com/attachments/file-https-drive-google-com-file-d-1zpyo-  (from 
- Darren's Study Pipeline)
+ //forms.gle/5YAwuS6wP94CrEeD6: https://equality-consortium-photographic-
+ prompt.trycloudflare.com/attachments/link-https-forms-gle-5yawus6wp94cre
+ ed6- 📎 File: https://drive.google.com/file/d/1zpYO2X_vuC_8LqYwtrYhBJ6K8a
+ zcRz_i/view?usp=drive_web: https://equality-consortium-photographic-prom
+ pt.trycloudflare.com/attachments/file-https-drive-google-com-file-d-1zpy
+ o-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-visual-arts-canvas-painting-submissio-2026-05-06
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -227,7 +227,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submis
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-change-of-temperature-dur-2026-05-01
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -236,14 +236,14 @@ SUMMARY:📃 HOMEWORK: IS - Unit 9 P.33 Change of temperature during neutral
  ization
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
  0 HKT Edpuzzle assignment due 2026-05-01  Attached: 📎 https://edpuzzle.c
- om/assignments/69f001bf4b7d633f4843c421/watch: https://cemetery-polished
- -undefined-salary.trycloudflare.com/attachments/https-edpuzzle-com-assig
- nments-69f001bf4-is-unit-9-p-33-change-of-temperature-dur  (from Darren'
- s Study Pipeline)
+ om/assignments/69f001bf4b7d633f4843c421/watch: https://equality-consorti
+ um-photographic-prompt.trycloudflare.com/attachments/https-edpuzzle-com-
+ assignments-69f001bf4-is-unit-9-p-33-change-of-temperature-dur  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-the-new-substances-formed-2026-05-01
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -252,14 +252,14 @@ SUMMARY:📃 HOMEWORK: IS - Unit 9 P.33 The new substances formed during neu
  tralization
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
  0 HKT Edpuzzle assignment due 2026-05-01  Attached: 📎 https://edpuzzle.c
- om/assignments/69f0017349338ec08e2a2b9b/watch: https://cemetery-polished
- -undefined-salary.trycloudflare.com/attachments/https-edpuzzle-com-assig
- nments-69f001734-is-unit-9-p-33-the-new-substances-formed  (from Darren'
- s Study Pipeline)
+ om/assignments/69f0017349338ec08e2a2b9b/watch: https://equality-consorti
+ um-photographic-prompt.trycloudflare.com/attachments/https-edpuzzle-com-
+ assignments-69f001734-is-unit-9-p-33-the-new-substances-formed  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-submission-2026-04-29
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -271,7 +271,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-homework-2026-04-29
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -284,7 +284,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Strict
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-04-27
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260427T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -293,13 +293,13 @@ SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
  nment 8
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Official assignment\; trigonometric ratios topic  Attached: 📎 KS3_83_T
- rigonometric-Ratios-I_e.pdf: https://cemetery-polished-undefined-salary.
- trycloudflare.com/attachments/ks3-83-trigonometric-ratios-i-e-pdf-25-26-
- second-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
+ rigonometric-Ratios-I_e.pdf: https://equality-consortium-photographic-pr
+ ompt.trycloudflare.com/attachments/ks3-83-trigonometric-ratios-i-e-pdf-2
+ 5-26-second-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-04-21
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260421T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -310,13 +310,13 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  le (introduce the person and background)\, and argue why the example fit
  s the argument. Submit screenshot upload. Due 2026-04-21 00:30 HKT.  Att
  ached: 📎 為學一首示子姪_課堂活動.pdf (https://drive.google.com/file/d/18HBuiis33usV
- jPT1vivcJ0WG-eIuat4N/view?usp=drive_web): https://cemetery-polished-unde
- fined-salary.trycloudflare.com/attachments/pdf-https-drive-google-com-fi
- le-d-18hbui-25-26-4  (from Darren's Study Pipeline)
+ jPT1vivcJ0WG-eIuat4N/view?usp=drive_web): https://equality-consortium-ph
+ otographic-prompt.trycloudflare.com/attachments/pdf-https-drive-google-c
+ om-file-d-18hbui-25-26-4  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-assignment-12-due-tomorrow-2026-05-26
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -327,7 +327,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-26-5-due-tomorrow-2026-05-26
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -338,7 +338,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-due-tuesday-2026-05-27
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -349,7 +349,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Studen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-2b-ih-hist-ces-ping-shan-herit-2026-07-07
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260707T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -359,14 +359,14 @@ SUMMARY:📃 HOMEWORK: 2025-2026 2B IH - HIST & CES - Ping Shan Heritage Tra
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Official assignment due before the excursion on 6 July. Upload by 7 Ju
  ly 15:59 HKT.  Attached: 📎 https://drive.google.com/file/d/1D2bpZK2oSD7g
- GTlyLtqOXArMHXm6DPBo/view?usp=drive_web: https://cemetery-polished-undef
- ined-salary.trycloudflare.com/attachments/https-drive-google-com-file-d-
- 1d2bpzk2os-2025-2026-2b-ih-hist-ces-ping-shan-herit  (from Darren's Stud
- y Pipeline)
+ GTlyLtqOXArMHXm6DPBo/view?usp=drive_web: https://equality-consortium-pho
+ tographic-prompt.trycloudflare.com/attachments/https-drive-google-com-fi
+ le-d-1d2bpzk2os-2025-2026-2b-ih-hist-ces-ping-shan-herit  (from Darren's
+  Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-46-ex-11b-q8-14-2026-05-20
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260520T153200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -378,7 +378,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-45-ex-11a-q6-12-2026-05-20
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260520T152200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -390,7 +390,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-re-upload-deadline-2026-06-25
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -400,15 +400,15 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
   finalized work by Thursday\, 25 June. Links: https://tramplus-portal.ve
  rcel.app/storybook/SPC2B/group-1/2-OPENCODE-USES-THESE-LAYOUTS/1-Storybo
  ok%20Layout.html and https://tramplus-portal.vercel.app/learn  Attached:
-  📎 Opencode download guide: https://cemetery-polished-undefined-salary.t
- rycloudflare.com/attachments/opencode-download-guide-ai-storybook-re-upl
- oad-deadline 📎 Storybook preview: https://cemetery-polished-undefined-sa
- lary.trycloudflare.com/attachments/storybook-preview-ai-storybook-re-upl
- oad-deadline  (from Darren's Study Pipeline)
+  📎 Opencode download guide: https://equality-consortium-photographic-pro
+ mpt.trycloudflare.com/attachments/opencode-download-guide-ai-storybook-r
+ e-upload-deadline 📎 Storybook preview: https://equality-consortium-photo
+ graphic-prompt.trycloudflare.com/attachments/storybook-preview-ai-storyb
+ ook-re-upload-deadline  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ai-storybook-re-upload-finalised-work-2026-06-25
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -416,17 +416,17 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2B - AI Storybook: Re-upload Finalised Work
 DESCRIPTION:Don't leave this to the last minute — chip away early. Urgent
  : Resolve missing content and re-upload by Thursday  Attached: 📎 https:/
- /tramplus-portal.vercel.app/learn: https://cemetery-polished-undefined-s
- alary.trycloudflare.com/attachments/https-tramplus-portal-vercel-app-lea
- rn-2b-ai-storybook-re-upload-finalised-work 📎 file:///Users/SPC/Download
- s/2026_Opencode-self-installation-guide%20(2).html: https://cemetery-pol
- ished-undefined-salary.trycloudflare.com/attachments/file-users-spc-down
- loads-2026-opencode-s-2b-ai-storybook-re-upload-finalised-work  (from Da
- rren's Study Pipeline)
+ /tramplus-portal.vercel.app/learn: https://equality-consortium-photograp
+ hic-prompt.trycloudflare.com/attachments/https-tramplus-portal-vercel-ap
+ p-learn-2b-ai-storybook-re-upload-finalised-work 📎 file:///Users/SPC/Dow
+ nloads/2026_Opencode-self-installation-guide%20(2).html: https://equalit
+ y-consortium-photographic-prompt.trycloudflare.com/attachments/file-user
+ s-spc-downloads-2026-opencode-s-2b-ai-storybook-re-upload-finalised-work
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-environmental-science-basic-environmenta-2026-06-06
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260606T170000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -435,26 +435,27 @@ SUMMARY:📃 HOMEWORK: Environmental Science - Basic Environmental Badge Goo
  gle Form
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 17:0
  0 Reply Required for the application of the Basic Environmental Badge  A
- ttached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://cemetery-polishe
- d-undefined-salary.trycloudflare.com/attachments/https-forms-gle-dyrmxrz
- a2pm742kh9-environmental-science-basic-environmenta  (from Darren's Stud
- y Pipeline)
+ ttached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://equality-consort
+ ium-photographic-prompt.trycloudflare.com/attachments/https-forms-gle-dy
+ rmxrza2pm742kh9-environmental-science-basic-environmenta  (from Darren's
+  Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-classroom-26-5-10-25-2026-05-26
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Shing Ngat TSE (Classroom) - 26/5_完成10日篇篇流螺練習(共25篇文章)
 DESCRIPTION:Don't leave this to the last minute — chip away early. Assign
- ment due May 26. Requires completing 25 articles on '篇篇流螺' website.  (fr
- om Darren's Study Pipeline)
+ ment due May 26. Requires completing 25 articles on '篇篇流螺' website. | We
+ ekend homework with three tasks due May 26. Posted by Shing Ngat TSE at 
+ 2:00 PM on 2026-05-22.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-program-solving-challenge-2026-07-02
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260702T115500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -466,7 +467,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 11:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-english-convince-us-to-go-travel-pit-2026-07-02
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260702T084200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -478,7 +479,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-music-listening-excerpts-preparation-2026-06-02
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260602
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -487,15 +488,15 @@ SUMMARY:📃 HOMEWORK: 2B Music - Listening Excerpts Preparation
 DESCRIPTION:Don't leave this to the last minute — chip away early. New ve
  rsion of listening excerpts and vocabulary list attached for exam prepar
  ation  Attached: 📎 S2 Final Exam Listening Excerpts (new).docx: https://
- cemetery-polished-undefined-salary.trycloudflare.com/attachments/s2-fina
- l-exam-listening-excerpts-new-doc-2b-music-listening-excerpts-preparatio
- n 📎 F1 music exam summary.docx: https://cemetery-polished-undefined-sala
- ry.trycloudflare.com/attachments/f1-music-exam-summary-docx-2b-music-lis
- tening-excerpts-preparation  (from Darren's Study Pipeline)
+ equality-consortium-photographic-prompt.trycloudflare.com/attachments/s2
+ -final-exam-listening-excerpts-new-doc-2b-music-listening-excerpts-prepa
+ ration 📎 F1 music exam summary.docx: https://equality-consortium-photogr
+ aphic-prompt.trycloudflare.com/attachments/f1-music-exam-summary-docx-2b
+ -music-listening-excerpts-preparation  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-9-revision-exercise-q2-2026-05-15
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260515T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -507,7 +508,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-8-5-2026-05-08
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -516,16 +517,16 @@ SUMMARY:📃 HOMEWORK: 25-26_中文科_中二第(4)組 - 8/5_繳交古文作業
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  0 HKT Pages 10-15 and 44-47\; Friday deadline | Vote for 3 favorite post
  cards via link before 8/5 deadline  Attached: 📎 https://drive.google.com
- /file/d/1oxZOQ3vZY3mKK_vcXDTw7n_sGHoMJ1hM/view: https://cemetery-polishe
- d-undefined-salary.trycloudflare.com/attachments/https-drive-google-com-
- file-d-1oxzoq3vzy-25-26-4-8-5 📎 https://drive.google.com/file/d/1rnIPt15
- sHFq7nRTZkTlGL9YTY4u94pzj/view: https://cemetery-polished-undefined-sala
- ry.trycloudflare.com/attachments/https-drive-google-com-file-d-1rnipt15s
- h-25-26-4-8-5  (from Darren's Study Pipeline)
+ /file/d/1oxZOQ3vZY3mKK_vcXDTw7n_sGHoMJ1hM/view: https://equality-consort
+ ium-photographic-prompt.trycloudflare.com/attachments/https-drive-google
+ -com-file-d-1oxzoq3vzy-25-26-4-8-5 📎 https://drive.google.com/file/d/1rn
+ IPt15sHFq7nRTZkTlGL9YTY4u94pzj/view: https://equality-consortium-photogr
+ aphic-prompt.trycloudflare.com/attachments/https-drive-google-com-file-d
+ -1rnipt15sh-25-26-4-8-5  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-unit-9-test-answers-2026-05-31
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -536,7 +537,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Posted
 END:VEVENT
 BEGIN:VEVENT
 UID:study-re-upload-the-finalised-ai-storybook-wor-2026-06-25
-DTSTAMP:20260823T232050
+DTSTAMP:20260825T011305
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -545,15 +546,45 @@ SUMMARY:📃 HOMEWORK: Re-upload the finalised AI storybook work
 DESCRIPTION:Don't leave this to the last minute — chip away early. by Thu
  rsday\, 25 June - includes Opencode guide and download links  Attached: 
  📎 https://tramplus-portal.vercel.app/storybook/SPC2B/group-1/2-OPENCODE-
- USES-THESE-LAYOUTS/1-Storybook%20Layout.html: https://cemetery-polished-
- undefined-salary.trycloudflare.com/attachments/https-tramplus-portal-ver
- cel-app-storybo-re-upload-the-finalised-ai-storybook-wor 📎 https://tramp
- lus-portal.vercel.app/learn: https://cemetery-polished-undefined-salary.
- trycloudflare.com/attachments/https-tramplus-portal-vercel-app-learn-re-
- upload-the-finalised-ai-storybook-wor 📎 file:///Users/SPC/Downloads/2026
- _Opencode-self-installation-guide%20(2).html: https://cemetery-polished-
- undefined-salary.trycloudflare.com/attachments/file-users-spc-downloads-
- 2026-opencode-s-re-upload-the-finalised-ai-storybook-wor  (from Darren's
-  Study Pipeline)
+ USES-THESE-LAYOUTS/1-Storybook%20Layout.html: https://equality-consortiu
+ m-photographic-prompt.trycloudflare.com/attachments/https-tramplus-porta
+ l-vercel-app-storybo-re-upload-the-finalised-ai-storybook-wor 📎 https://
+ tramplus-portal.vercel.app/learn: https://equality-consortium-photograph
+ ic-prompt.trycloudflare.com/attachments/https-tramplus-portal-vercel-app
+ -learn-re-upload-the-finalised-ai-storybook-wor 📎 file:///Users/SPC/Down
+ loads/2026_Opencode-self-installation-guide%20(2).html: https://equality
+ -consortium-photographic-prompt.trycloudflare.com/attachments/file-users
+ -spc-downloads-2026-opencode-s-re-upload-the-finalised-ai-storybook-wor 
+  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-shing-ngat-tse-classroom-20-4-2026-05-22
+DTSTAMP:20260825T011305
+DTSTART;VALUE=DATE:20260522
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Shing Ngat TSE (Classroom) - 20/4_繳交參察中上環活動功課注意事項
+DESCRIPTION:Don't leave this to the last minute — chip away early. Graded
+  homework submission (grade: 60/100). Posted by Shing Ngat TSE at 2:23 P
+ M on 2026-05-22. | New material: Unit 8 test reference answers. Posted o
+ n 2026-05-22.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-25-26-second-term-form-2-maths-remedial--2026-05-26
+DTSTAMP:20260825T011305
+DTSTART:20260526T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
+ nment 12
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
+ 9 🚨 DUE: 2026-05-26 15:59 HKT. Attachments: mc revision exercise.pdf.  A
+ ttached: 📎 File: mc revision exercise.pdf (https://drive.google.com/file
+ /d/1THK9yys62LdKvZFLFzB-S_aFfbjhl5eE/view?usp=drive_web): https://equali
+ ty-consortium-photographic-prompt.trycloudflare.com/attachments/file-mc-
+ revision-exercise-pdf-https-driv-25-26-second-term-form-2-maths-remedial
+ -  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
