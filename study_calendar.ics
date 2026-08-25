@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-ai-storybook-file-upload-deadline-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -17,7 +17,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-visual-arts-ai-storybook-exhibition-2026-06-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260619
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -29,7 +29,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Refine
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-student-work-2026-05-28
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -41,7 +41,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. AI Vib
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-2025-2026-classwork-48-ex-11d-q-2026-05-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -53,7 +53,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Please
 END:VEVENT
 BEGIN:VEVENT
 UID:study-cantopop-club-season-4-school-performanc-2026-06-29
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260629T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -67,7 +67,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 -
 END:VEVENT
 BEGIN:VEVENT
 UID:study-sze-long-ho-ws-e4-4-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -79,7 +79,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Graded
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-25-5-2026-05-25
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260525
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -91,7 +91,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tit-hon-ng-assignment-11-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260520T084600
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -102,7 +102,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-yat-lung-chow-unit-6-page-36-task-3-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260520T075800
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -113,7 +113,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 07:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hiu-yee-joyce-chan-ces-module-2-4-ws-1-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260520T073500
 CATEGORIES:Event
 COLOR:#33B679
@@ -125,7 +125,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:35 P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-10-2026-05-25
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260525T235500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -136,7 +136,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-science-edpuzzle-making-your-film-canist-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -148,7 +148,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-yiu-classroom-mandarin-daily-challen-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -159,7 +159,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-wai-kiu-wong-classroom-edpuzzle-assignme-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -171,7 +171,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f2gp4-pth-mandarin-daily-challenge-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -182,7 +182,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -193,7 +193,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 10 (si
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -204,7 +204,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-chapter-11-2026-05-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -215,7 +215,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-student-work-assignm-2026-05-28
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260528T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -224,13 +224,13 @@ SUMMARY:📃 HOMEWORK: AI Vibe Coding (Thur) - Student Work Assignment
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 HKT Upload a screenshot of AI-vibed work and a zip file of coding. | D
  ue on 2026-05-28 15:59 HKT. Upload screenshot and zip file.  Attached: 📎
-  Student work.zip: https://equality-consortium-photographic-prompt.trycl
- oudflare.com/attachments/student-work-zip-ai-vibe-coding-thur-student-wo
- rk-assignm  (from Darren's Study Pipeline)
+  Student work.zip: https://allow-computing-answered-plymouth.trycloudfla
+ re.com/attachments/student-work-zip-ai-vibe-coding-thur-student-work-ass
+ ignm  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-thur-it-lab-survey-2026-06-13
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260613
 CATEGORIES:Event
 COLOR:#33B679
@@ -242,7 +242,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Survey li
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-classwork-47-ex-11c-q5-8-2026-05-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260521T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -254,7 +254,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-11
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260511T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -263,13 +263,13 @@ SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
  nment 10
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Due by 15:59 HKT  Attached: 📎 KS3_93_Freq-Polygons-and-Cumulative-Freq
- -Polygons_e.pdf: https://equality-consortium-photographic-prompt.tryclou
- dflare.com/attachments/ks3-93-freq-polygons-and-cumulative-freq-25-26-se
- cond-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
+ -Polygons_e.pdf: https://allow-computing-answered-plymouth.trycloudflare
+ .com/attachments/ks3-93-freq-polygons-and-cumulative-freq-25-26-second-t
+ erm-form-2-maths-remedial-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-08
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -278,16 +278,16 @@ SUMMARY:📃 HOMEWORK: 中文科 - 考察明信片投票
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  0 HKT DUE: 2026-05-08 00:30 HKT. Vote for 3 favorite postcards via the f
  orm link. Submission deadline: 8/5 or earlier.  Attached: 📎 Link: https:
- //forms.gle/5YAwuS6wP94CrEeD6: https://equality-consortium-photographic-
- prompt.trycloudflare.com/attachments/link-https-forms-gle-5yawus6wp94cre
- ed6- 📎 File: https://drive.google.com/file/d/1zpYO2X_vuC_8LqYwtrYhBJ6K8a
- zcRz_i/view?usp=drive_web: https://equality-consortium-photographic-prom
- pt.trycloudflare.com/attachments/file-https-drive-google-com-file-d-1zpy
- o-  (from Darren's Study Pipeline)
+ //forms.gle/5YAwuS6wP94CrEeD6: https://allow-computing-answered-plymouth
+ .trycloudflare.com/attachments/link-https-forms-gle-5yawus6wp94creed6- 📎
+  File: https://drive.google.com/file/d/1zpYO2X_vuC_8LqYwtrYhBJ6K8azcRz_i
+ /view?usp=drive_web: https://allow-computing-answered-plymouth.trycloudf
+ lare.com/attachments/file-https-drive-google-com-file-d-1zpyo-  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-12
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260512
 CATEGORIES:Test
 COLOR:#EA4335
@@ -299,7 +299,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test covers P133-P159
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-visual-arts-canvas-painting-submissio-2026-05-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -312,7 +312,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submis
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-bring-textbooks-2026-05-03
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260503
 CATEGORIES:Event
 COLOR:#33B679
@@ -324,7 +324,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Students
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Test
 COLOR:#EA4335
@@ -335,7 +335,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-8-test-2026-05-07
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260507
 CATEGORIES:Test
 COLOR:#EA4335
@@ -346,7 +346,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-hist-ces-transformation-of-china-2026-05-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -358,7 +358,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-change-of-temperature-dur-2026-05-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -367,14 +367,14 @@ SUMMARY:📃 HOMEWORK: IS - Unit 9 P.33 Change of temperature during neutral
  ization
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
  0 HKT Edpuzzle assignment due 2026-05-01  Attached: 📎 https://edpuzzle.c
- om/assignments/69f001bf4b7d633f4843c421/watch: https://equality-consorti
- um-photographic-prompt.trycloudflare.com/attachments/https-edpuzzle-com-
- assignments-69f001bf4-is-unit-9-p-33-change-of-temperature-dur  (from Da
- rren's Study Pipeline)
+ om/assignments/69f001bf4b7d633f4843c421/watch: https://allow-computing-a
+ nswered-plymouth.trycloudflare.com/attachments/https-edpuzzle-com-assign
+ ments-69f001bf4-is-unit-9-p-33-change-of-temperature-dur  (from Darren's
+  Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-is-unit-9-p-33-the-new-substances-formed-2026-05-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260501T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -383,14 +383,14 @@ SUMMARY:📃 HOMEWORK: IS - Unit 9 P.33 The new substances formed during neu
  tralization
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
  0 HKT Edpuzzle assignment due 2026-05-01  Attached: 📎 https://edpuzzle.c
- om/assignments/69f0017349338ec08e2a2b9b/watch: https://equality-consorti
- um-photographic-prompt.trycloudflare.com/attachments/https-edpuzzle-com-
- assignments-69f001734-is-unit-9-p-33-the-new-substances-formed  (from Da
- rren's Study Pipeline)
+ om/assignments/69f0017349338ec08e2a2b9b/watch: https://allow-computing-a
+ nswered-plymouth.trycloudflare.com/attachments/https-edpuzzle-com-assign
+ ments-69f001734-is-unit-9-p-33-the-new-substances-formed  (from Darren's
+  Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-submission-2026-04-29
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -402,7 +402,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-homework-2026-04-29
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -415,7 +415,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Strict
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-vibe-coding-class-resumes-2026-05-05
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:Event
 COLOR:#33B679
@@ -427,7 +427,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. No class
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-04-27
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260427T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -436,13 +436,13 @@ SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
  nment 8
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Official assignment\; trigonometric ratios topic  Attached: 📎 KS3_83_T
- rigonometric-Ratios-I_e.pdf: https://equality-consortium-photographic-pr
- ompt.trycloudflare.com/attachments/ks3-83-trigonometric-ratios-i-e-pdf-2
- 5-26-second-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
+ rigonometric-Ratios-I_e.pdf: https://allow-computing-answered-plymouth.t
+ rycloudflare.com/attachments/ks3-83-trigonometric-ratios-i-e-pdf-25-26-s
+ econd-term-form-2-maths-remedial-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-form-2-integrated-humanities-h-2026-05-15
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260515
 CATEGORIES:Event
 COLOR:#33B679
@@ -452,13 +452,13 @@ SUMMARY:🎉 EVENT: 2025-2026 Form 2 Integrated Humanities - History e-readi
 DESCRIPTION:Something happening on campus. Mark it and show up. 📍 http://
  history-reading-award.iclass.hk Complete 7 articles\; 5% classwork mark\
  ; deadline Friday  Attached: 📎 Screenshot_2026-04-24_at_13.27.18.png: ht
- tps://equality-consortium-photographic-prompt.trycloudflare.com/attachme
- nts/screenshot-2026-04-24-at-13-27-18-png-2025-2026-form-2-integrated-hu
- manities-h  (from Darren's Study Pipeline)
+ tps://allow-computing-answered-plymouth.trycloudflare.com/attachments/sc
+ reenshot-2026-04-24-at-13-27-18-png-2025-2026-form-2-integrated-humaniti
+ es-h  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-chapter-9-test-midterm-check-2026-04-30
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:Test
 COLOR:#EA4335
@@ -470,7 +470,7 @@ DESCRIPTION:Time to prep — here's what you've got. Long questions on Thur
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-04-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260421T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -481,13 +481,13 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  le (introduce the person and background)\, and argue why the example fit
  s the argument. Submit screenshot upload. Due 2026-04-21 00:30 HKT.  Att
  ached: 📎 為學一首示子姪_課堂活動.pdf (https://drive.google.com/file/d/18HBuiis33usV
- jPT1vivcJ0WG-eIuat4N/view?usp=drive_web): https://equality-consortium-ph
- otographic-prompt.trycloudflare.com/attachments/pdf-https-drive-google-c
- om-file-d-18hbui-25-26-4  (from Darren's Study Pipeline)
+ jPT1vivcJ0WG-eIuat4N/view?usp=drive_web): https://allow-computing-answer
+ ed-plymouth.trycloudflare.com/attachments/pdf-https-drive-google-com-fil
+ e-d-18hbui-25-26-4  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-assignment-12-due-tomorrow-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -498,7 +498,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-26-5-due-tomorrow-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -509,7 +509,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-due-tuesday-2026-05-27
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -520,7 +520,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Studen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-yat-lung-chow-classroom-graded-unit-6-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -534,7 +534,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 9:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-pui-wing-cheung-classroom-graded-listeni-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -546,7 +546,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 8:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-2b-ih-hist-ces-ping-shan-herit-2026-07-07
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260707T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -556,14 +556,14 @@ SUMMARY:📃 HOMEWORK: 2025-2026 2B IH - HIST & CES - Ping Shan Heritage Tra
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 Official assignment due before the excursion on 6 July. Upload by 7 Ju
  ly 15:59 HKT.  Attached: 📎 https://drive.google.com/file/d/1D2bpZK2oSD7g
- GTlyLtqOXArMHXm6DPBo/view?usp=drive_web: https://equality-consortium-pho
- tographic-prompt.trycloudflare.com/attachments/https-drive-google-com-fi
- le-d-1d2bpzk2os-2025-2026-2b-ih-hist-ces-ping-shan-herit  (from Darren's
-  Study Pipeline)
+ GTlyLtqOXArMHXm6DPBo/view?usp=drive_web: https://allow-computing-answere
+ d-plymouth.trycloudflare.com/attachments/https-drive-google-com-file-d-1
+ d2bpzk2os-2025-2026-2b-ih-hist-ces-ping-shan-herit  (from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-46-ex-11b-q8-14-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260520T153200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -575,7 +575,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-classwork-45-ex-11a-q6-12-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260520T152200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -587,7 +587,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-announcement-2026-05-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -599,7 +599,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Di
 END:VEVENT
 BEGIN:VEVENT
 UID:study-season-4-school-performance-tour-2026-06-29
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260629T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -612,7 +612,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30-1
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ih-hist-ces-excursion-for-classes-2b--2026-07-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -623,13 +623,13 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Complete
  s.google.com/forms/d/e/1FAIpQLSerKpCmWwdWrkK52bYAnn069IaTE8UkhZZmMbVkIiD
  vVp5-xw/viewform?usp=header | Complete Google Form and submit parent's l
  etter for dismissal point  Attached: 📎 Link: Excursion on 6 July 2026 (M
- onday): https://equality-consortium-photographic-prompt.trycloudflare.co
- m/attachments/link-excursion-on-6-july-2026-monday-2b-ih-hist-ces-excurs
- ion-for-classes-2b-  (from Darren's Study Pipeline)
+ onday): https://allow-computing-answered-plymouth.trycloudflare.com/atta
+ chments/link-excursion-on-6-july-2026-monday-2b-ih-hist-ces-excursion-fo
+ r-classes-2b-  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ai-storybook-re-upload-deadline-2026-06-25
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -639,15 +639,15 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
   finalized work by Thursday\, 25 June. Links: https://tramplus-portal.ve
  rcel.app/storybook/SPC2B/group-1/2-OPENCODE-USES-THESE-LAYOUTS/1-Storybo
  ok%20Layout.html and https://tramplus-portal.vercel.app/learn  Attached:
-  📎 Opencode download guide: https://equality-consortium-photographic-pro
- mpt.trycloudflare.com/attachments/opencode-download-guide-ai-storybook-r
- e-upload-deadline 📎 Storybook preview: https://equality-consortium-photo
- graphic-prompt.trycloudflare.com/attachments/storybook-preview-ai-storyb
- ook-re-upload-deadline  (from Darren's Study Pipeline)
+  📎 Opencode download guide: https://allow-computing-answered-plymouth.tr
+ ycloudflare.com/attachments/opencode-download-guide-ai-storybook-re-uplo
+ ad-deadline 📎 Storybook preview: https://allow-computing-answered-plymou
+ th.trycloudflare.com/attachments/storybook-preview-ai-storybook-re-uploa
+ d-deadline  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-ace-submission-of-promotional-vi-2026-06-23
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260623
 CATEGORIES:Test
 COLOR:#EA4335
@@ -659,7 +659,7 @@ DESCRIPTION:Time to prep — here's what you've got. Graded 10/10 by Hiu Ye
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ai-storybook-re-upload-finalised-work-2026-06-25
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -667,17 +667,17 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2B - AI Storybook: Re-upload Finalised Work
 DESCRIPTION:Don't leave this to the last minute — chip away early. Urgent
  : Resolve missing content and re-upload by Thursday  Attached: 📎 https:/
- /tramplus-portal.vercel.app/learn: https://equality-consortium-photograp
- hic-prompt.trycloudflare.com/attachments/https-tramplus-portal-vercel-ap
- p-learn-2b-ai-storybook-re-upload-finalised-work 📎 file:///Users/SPC/Dow
- nloads/2026_Opencode-self-installation-guide%20(2).html: https://equalit
- y-consortium-photographic-prompt.trycloudflare.com/attachments/file-user
- s-spc-downloads-2026-opencode-s-2b-ai-storybook-re-upload-finalised-work
-   (from Darren's Study Pipeline)
+ /tramplus-portal.vercel.app/learn: https://allow-computing-answered-plym
+ outh.trycloudflare.com/attachments/https-tramplus-portal-vercel-app-lear
+ n-2b-ai-storybook-re-upload-finalised-work 📎 file:///Users/SPC/Downloads
+ /2026_Opencode-self-installation-guide%20(2).html: https://allow-computi
+ ng-answered-plymouth.trycloudflare.com/attachments/file-users-spc-downlo
+ ads-2026-opencode-s-2b-ai-storybook-re-upload-finalised-work  (from Darr
+ en's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-student-innovation-award-2026-07-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -690,7 +690,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Internal
 END:VEVENT
 BEGIN:VEVENT
 UID:study-environmental-science-basic-environmenta-2026-06-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260606T170000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -699,14 +699,14 @@ SUMMARY:📃 HOMEWORK: Environmental Science - Basic Environmental Badge Goo
  gle Form
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 17:0
  0 Reply Required for the application of the Basic Environmental Badge  A
- ttached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://equality-consort
- ium-photographic-prompt.trycloudflare.com/attachments/https-forms-gle-dy
- rmxrza2pm742kh9-environmental-science-basic-environmenta  (from Darren's
-  Study Pipeline)
+ ttached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://allow-computing-
+ answered-plymouth.trycloudflare.com/attachments/https-forms-gle-dyrmxrza
+ 2pm742kh9-environmental-science-basic-environmenta  (from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-ngo-tin-ip-classroom-f2-ih-exam-reminder-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Event
 COLOR:#33B679
@@ -719,7 +719,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-classroom-26-5-10-25-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -735,7 +735,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Assign
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-student-innovation-2026-07-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -748,7 +748,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Internal
 END:VEVENT
 BEGIN:VEVENT
 UID:study-man-wai-catherine-wong-basic-environment-2026-06-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260606T170000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -757,14 +757,14 @@ SUMMARY:📌 NORMAL: Man Wai\, Catherine WONG - Basic Environmental Badge Go
  ogle Form Due
 DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 17:00 Fill 
  in Google Form by this Saturday (6th June) 17:00. Posted 2026-06-02.  At
- tached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://equality-consorti
- um-photographic-prompt.trycloudflare.com/attachments/https-forms-gle-dyr
- mxrza2pm742kh9-man-wai-catherine-wong-basic-environment  (from Darren's 
- Study Pipeline)
+ tached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://allow-computing-a
+ nswered-plymouth.trycloudflare.com/attachments/https-forms-gle-dyrmxrza2
+ pm742kh9-man-wai-catherine-wong-basic-environment  (from Darren's Study 
+ Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-steam-team-student-innovation-aw-2026-07-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -773,13 +773,13 @@ SUMMARY:🎉 EVENT: 2025-26 STEAM Team - Student Innovation Award Internal D
  eadline
 DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
  deadline for Student Innovation Award (HKICTA 2026). Posted 2026-06-02. 
-  Attached: 📎 https://icta.itda.hk/: https://equality-consortium-photogra
- phic-prompt.trycloudflare.com/attachments/https-icta-itda-hk-2025-26-ste
- am-team-student-innovation-aw  (from Darren's Study Pipeline)
+  Attached: 📎 https://icta.itda.hk/: https://allow-computing-answered-ply
+ mouth.trycloudflare.com/attachments/https-icta-itda-hk-2025-26-steam-tea
+ m-student-innovation-aw  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-student-ambassadors-recruitment-postpone-2026-07-02
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260702T084200
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -791,7 +791,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:42 AM Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-program-solving-challenge-2026-07-02
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260702T115500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -803,7 +803,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 11:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-mathematics-old-book-sales-reply-slip-2026-07-03
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260703T102100
 CATEGORIES:Event
 COLOR:#33B679
@@ -815,7 +815,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:21 A
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-2-english-convince-us-to-go-travel-pit-2026-07-02
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260702T084200
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -827,7 +827,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-mathematics-extra-practices-for-next--2026-07-02
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260702T080400
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -839,7 +839,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:04 AM Ad
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-sf-executive-imme-2026-07-28
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -850,14 +850,14 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 3-day pro
  gram (Jul 28-30) with SF Express executives\; Quota: 2 senior form stude
  nts. Detailed program attached. | Three-day immersive experience with SF
   Express executives\; quota for 2 senior form students  Attached: 📎 傳承 x
-  STEAM - SF Express Program (20260728)_v2.docx: https://equality-consort
- ium-photographic-prompt.trycloudflare.com/attachments/x-steam-sf-express
- -program-20260728-v2-d-project-legacy-x-steam-sf-executive-imme  (from D
- arren's Study Pipeline)
+  STEAM - SF Express Program (20260728)_v2.docx: https://allow-computing-
+ answered-plymouth.trycloudflare.com/attachments/x-steam-sf-express-progr
+ am-20260728-v2-d-project-legacy-x-steam-sf-executive-imme  (from Darren'
+ s Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-sepa-basic-environmental-badge-google-fo-2026-06-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260606T170000
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -869,7 +869,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. ⏰
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-music-listening-excerpts-preparation-2026-06-02
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260602
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -878,15 +878,15 @@ SUMMARY:📃 HOMEWORK: 2B Music - Listening Excerpts Preparation
 DESCRIPTION:Don't leave this to the last minute — chip away early. New ve
  rsion of listening excerpts and vocabulary list attached for exam prepar
  ation  Attached: 📎 S2 Final Exam Listening Excerpts (new).docx: https://
- equality-consortium-photographic-prompt.trycloudflare.com/attachments/s2
- -final-exam-listening-excerpts-new-doc-2b-music-listening-excerpts-prepa
- ration 📎 F1 music exam summary.docx: https://equality-consortium-photogr
- aphic-prompt.trycloudflare.com/attachments/f1-music-exam-summary-docx-2b
- -music-listening-excerpts-preparation  (from Darren's Study Pipeline)
+ allow-computing-answered-plymouth.trycloudflare.com/attachments/s2-final
+ -exam-listening-excerpts-new-doc-2b-music-listening-excerpts-preparation
+  📎 F1 music exam summary.docx: https://allow-computing-answered-plymouth
+ .trycloudflare.com/attachments/f1-music-exam-summary-docx-2b-music-liste
+ ning-excerpts-preparation  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-unit-9-test-2026-06-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -898,7 +898,7 @@ DESCRIPTION:Time to prep — here's what you've got. Reference answers for
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-unit-9-test-reference-answers-2026-05-31
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -910,7 +910,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Reference ans
 END:VEVENT
 BEGIN:VEVENT
 UID:study-steam-team-world-robot-olympiad-2026-06-11
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260611
 CATEGORIES:Event
 COLOR:#33B679
@@ -918,16 +918,16 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: STEAM Team - World Robot Olympiad
 DESCRIPTION:Something happening on campus. Mark it and show up. External 
  registration deadline: 11 June 2026  Attached: 📎 https://www.peachcp.com
- /wro-hk/hk-selection/wro2026/: https://equality-consortium-photographic-
- prompt.trycloudflare.com/attachments/https-www-peachcp-com-wro-hk-hk-sel
- ectio-steam-team-world-robot-olympiad 📎 https://www.facebook.com/share/p
- /1AkmxE21bZ/: https://equality-consortium-photographic-prompt.trycloudfl
- are.com/attachments/https-www-facebook-com-share-p-1akmxe21b-steam-team-
- world-robot-olympiad  (from Darren's Study Pipeline)
+ /wro-hk/hk-selection/wro2026/: https://allow-computing-answered-plymouth
+ .trycloudflare.com/attachments/https-www-peachcp-com-wro-hk-hk-selectio-
+ steam-team-world-robot-olympiad 📎 https://www.facebook.com/share/p/1Akmx
+ E21bZ/: https://allow-computing-answered-plymouth.trycloudflare.com/atta
+ chments/https-www-facebook-com-share-p-1akmxe21b-steam-team-world-robot-
+ olympiad  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-homework-9-revision-exercise-q2-2026-05-15
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260515T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -939,7 +939,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-8-5-2026-05-08
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260508T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -948,16 +948,16 @@ SUMMARY:📃 HOMEWORK: 25-26_中文科_中二第(4)組 - 8/5_繳交古文作業
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
  0 HKT Pages 10-15 and 44-47\; Friday deadline | Vote for 3 favorite post
  cards via link before 8/5 deadline  Attached: 📎 https://drive.google.com
- /file/d/1oxZOQ3vZY3mKK_vcXDTw7n_sGHoMJ1hM/view: https://equality-consort
- ium-photographic-prompt.trycloudflare.com/attachments/https-drive-google
- -com-file-d-1oxzoq3vzy-25-26-4-8-5 📎 https://drive.google.com/file/d/1rn
- IPt15sHFq7nRTZkTlGL9YTY4u94pzj/view: https://equality-consortium-photogr
- aphic-prompt.trycloudflare.com/attachments/https-drive-google-com-file-d
- -1rnipt15sh-25-26-4-8-5  (from Darren's Study Pipeline)
+ /file/d/1oxZOQ3vZY3mKK_vcXDTw7n_sGHoMJ1hM/view: https://allow-computing-
+ answered-plymouth.trycloudflare.com/attachments/https-drive-google-com-f
+ ile-d-1oxzoq3vzy-25-26-4-8-5 📎 https://drive.google.com/file/d/1rnIPt15s
+ HFq7nRTZkTlGL9YTY4u94pzj/view: https://allow-computing-answered-plymouth
+ .trycloudflare.com/attachments/https-drive-google-com-file-d-1rnipt15sh-
+ 25-26-4-8-5  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -966,13 +966,13 @@ SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
 DESCRIPTION:Something happening on campus. Mark it and show up. Second da
  y of the three-day immersive experience with SF Express executives  Atta
  ched: 📎 https://drive.google.com/file/d/1JRX3i0MO9MTIvHYgW_3uCoUMmkpeGbY
- F/view: https://equality-consortium-photographic-prompt.trycloudflare.co
- m/attachments/https-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-
- steam  (from Darren's Study Pipeline)
+ F/view: https://allow-computing-answered-plymouth.trycloudflare.com/atta
+ chments/https-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-steam 
+  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -981,13 +981,13 @@ SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
 DESCRIPTION:Something happening on campus. Mark it and show up. Final day
   of the three-day immersive experience with SF Express executives  Attac
  hed: 📎 https://drive.google.com/file/d/1JRX3i0MO9MTIvHYgW_3uCoUMmkpeGbYF
- /view: https://equality-consortium-photographic-prompt.trycloudflare.com
- /attachments/https-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-s
- team  (from Darren's Study Pipeline)
+ /view: https://allow-computing-answered-plymouth.trycloudflare.com/attac
+ hments/https-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-steam  
+ (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-basic-environmental-badge-application-2026-06-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260606T170000
 CATEGORIES:Event
 COLOR:#33B679
@@ -998,7 +998,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:00 D
 END:VEVENT
 BEGIN:VEVENT
 UID:study-student-innovation-award-2026-07-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -1009,7 +1009,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Internal
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chinese-exam-unit-9-2026-06-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1020,7 +1020,7 @@ DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (annou
 END:VEVENT
 BEGIN:VEVENT
 UID:study-unit-9-test-answers-2026-05-31
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1031,7 +1031,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Posted
 END:VEVENT
 BEGIN:VEVENT
 UID:study-re-upload-the-finalised-ai-storybook-wor-2026-06-25
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1040,20 +1040,20 @@ SUMMARY:📃 HOMEWORK: Re-upload the finalised AI storybook work
 DESCRIPTION:Don't leave this to the last minute — chip away early. by Thu
  rsday\, 25 June - includes Opencode guide and download links  Attached: 
  📎 https://tramplus-portal.vercel.app/storybook/SPC2B/group-1/2-OPENCODE-
- USES-THESE-LAYOUTS/1-Storybook%20Layout.html: https://equality-consortiu
- m-photographic-prompt.trycloudflare.com/attachments/https-tramplus-porta
- l-vercel-app-storybo-re-upload-the-finalised-ai-storybook-wor 📎 https://
- tramplus-portal.vercel.app/learn: https://equality-consortium-photograph
- ic-prompt.trycloudflare.com/attachments/https-tramplus-portal-vercel-app
- -learn-re-upload-the-finalised-ai-storybook-wor 📎 file:///Users/SPC/Down
- loads/2026_Opencode-self-installation-guide%20(2).html: https://equality
- -consortium-photographic-prompt.trycloudflare.com/attachments/file-users
- -spc-downloads-2026-opencode-s-re-upload-the-finalised-ai-storybook-wor 
-  (from Darren's Study Pipeline)
+ USES-THESE-LAYOUTS/1-Storybook%20Layout.html: https://allow-computing-an
+ swered-plymouth.trycloudflare.com/attachments/https-tramplus-portal-verc
+ el-app-storybo-re-upload-the-finalised-ai-storybook-wor 📎 https://trampl
+ us-portal.vercel.app/learn: https://allow-computing-answered-plymouth.tr
+ ycloudflare.com/attachments/https-tramplus-portal-vercel-app-learn-re-up
+ load-the-finalised-ai-storybook-wor 📎 file:///Users/SPC/Downloads/2026_O
+ pencode-self-installation-guide%20(2).html: https://allow-computing-answ
+ ered-plymouth.trycloudflare.com/attachments/file-users-spc-downloads-202
+ 6-opencode-s-re-upload-the-finalised-ai-storybook-wor  (from Darren's St
+ udy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-classroom-20-4-2026-05-22
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260522
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1066,7 +1066,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Graded
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yi-kwok-classroom-asian-science-camp-2026-05-27
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260527T080000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1075,14 +1075,13 @@ SUMMARY:🎉 EVENT: Lai Yi KWOK (Classroom) - Asian Science Camp 2026
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 I
  nternal deadline for student nominations (Aug 2-8\, 2026 camp). Posted o
  n 2026-05-22.  Attached: 📎 File: Invitation letter for ASC 2026 (attache
- d in original announcement): https://equality-consortium-photographic-pr
- ompt.trycloudflare.com/attachments/file-invitation-letter-for-asc-2026-a
- tta-lai-yi-kwok-classroom-asian-science-camp  (from Darren's Study Pipel
- ine)
+ d in original announcement): https://allow-computing-answered-plymouth.t
+ rycloudflare.com/attachments/file-invitation-letter-for-asc-2026-atta-la
+ i-yi-kwok-classroom-asian-science-camp  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-second-term-form-2-maths-remedial--2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260526T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1092,14 +1091,14 @@ SUMMARY:📃 HOMEWORK: 25-26 Second Term Form 2 Maths Remedial Class - Assig
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 🚨 DUE: 2026-05-26 15:59 HKT. Attachments: mc revision exercise.pdf.  A
  ttached: 📎 File: mc revision exercise.pdf (https://drive.google.com/file
- /d/1THK9yys62LdKvZFLFzB-S_aFfbjhl5eE/view?usp=drive_web): https://equali
- ty-consortium-photographic-prompt.trycloudflare.com/attachments/file-mc-
- revision-exercise-pdf-https-driv-25-26-second-term-form-2-maths-remedial
- -  (from Darren's Study Pipeline)
+ /d/1THK9yys62LdKvZFLFzB-S_aFfbjhl5eE/view?usp=drive_web): https://allow-
+ computing-answered-plymouth.trycloudflare.com/attachments/file-mc-revisi
+ on-exercise-pdf-https-driv-25-26-second-term-form-2-maths-remedial-  (fr
+ om Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-bring-textbooks-to-class-2026-05-03
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260503
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1110,7 +1109,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Remember to b
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-on-chapter-8-wednesday-2026-05-06
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1121,7 +1120,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-on-chapter-8-thursday-2026-05-07
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260507
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1132,7 +1131,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-unit-8-dictation-weekend-homewor-2026-05-07
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260507
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1141,13 +1140,13 @@ SUMMARY:📃 HOMEWORK: 25-26_中文科_中二第(4)組 - Unit 8 Dictation (Weeke
  k)
 DESCRIPTION:Don't leave this to the last minute — chip away early. Due: 2
  026-05-07 23:55 HKT. Read and recite vocabulary from Unit 8.  Attached: 
- 📎 單元八讀默範圍.pdf: https://equality-consortium-photographic-prompt.trycloudf
- lare.com/attachments/pdf-25-26-4-unit-8-dictation-weekend-homewor  (from
-  Darren's Study Pipeline)
+ 📎 單元八讀默範圍.pdf: https://allow-computing-answered-plymouth.trycloudflare.c
+ om/attachments/pdf-25-26-4-unit-8-dictation-weekend-homewor  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-26-is-2b-edpuzzle-application-of-ne-2026-05-05
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1156,14 +1155,14 @@ SUMMARY:📃 HOMEWORK: 2025-26 IS 2B - Edpuzzle - Application of Neutralizat
  ion - Treatment of soil
 DESCRIPTION:Don't leave this to the last minute — chip away early. Due: 2
  026-05-05 12:00 HKT  Attached: 📎 Edpuzzle - Unit 9 P.37 Application of N
- eutralization - Treatment of soil: https://equality-consortium-photograp
- hic-prompt.trycloudflare.com/attachments/edpuzzle-unit-9-p-37-applicatio
- n-of-neut-2025-26-is-2b-edpuzzle-application-of-ne  (from Darren's Study
-  Pipeline)
+ eutralization - Treatment of soil: https://allow-computing-answered-plym
+ outh.trycloudflare.com/attachments/edpuzzle-unit-9-p-37-application-of-n
+ eut-2025-26-is-2b-edpuzzle-application-of-ne  (from Darren's Study Pipel
+ ine)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-chun-hei-lin-classroom-english-society-c-2026-08-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1172,13 +1171,13 @@ SUMMARY:📃 HOMEWORK: Chun Hei LIN (Classroom) - English Society Committee
  Sign-up
 DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
  ne to join English Society committee: Aug 20  Attached: 📎 https://forms.
- gle/cuXiwmzKc5X4rkae7: https://equality-consortium-photographic-prompt.t
- rycloudflare.com/attachments/https-forms-gle-cuxiwmzkc5x4rkae7-chun-hei-
- lin-classroom-english-society-c  (from Darren's Study Pipeline)
+ gle/cuXiwmzKc5X4rkae7: https://allow-computing-answered-plymouth.tryclou
+ dflare.com/attachments/https-forms-gle-cuxiwmzkc5x4rkae7-chun-hei-lin-cl
+ assroom-english-society-c  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2025-2026-f-1-3-english-ambassadors-engl-2026-08-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1187,13 +1186,13 @@ SUMMARY:📃 HOMEWORK: 2025-2026 F.1-3 English Ambassadors - English Society
   Committee Sign-up
 DESCRIPTION:Don't leave this to the last minute — chip away early. Deadli
  ne to join English Society committee: Aug 20  Attached: 📎 https://forms.
- gle/cuXiwmzKc5X4rkae7: https://equality-consortium-photographic-prompt.t
- rycloudflare.com/attachments/https-forms-gle-cuxiwmzkc5x4rkae7-2025-2026
- -f-1-3-english-ambassadors-engl  (from Darren's Study Pipeline)
+ gle/cuXiwmzKc5X4rkae7: https://allow-computing-answered-plymouth.tryclou
+ dflare.com/attachments/https-forms-gle-cuxiwmzkc5x4rkae7-2025-2026-f-1-3
+ -english-ambassadors-engl  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-26-5-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1204,7 +1203,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due to
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-27
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1215,7 +1214,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Studen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-ambassadors-committee-signup-dea-2026-08-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -1227,7 +1226,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:study-f-1-3-english-ambassadors-committee-sign-2026-08-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -1238,7 +1237,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-ict-classroom-farewell-announcement-2026-07-10
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260710T110700
 CATEGORIES:Event
 COLOR:#33B679
@@ -1251,7 +1250,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 11:07 P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-english-ambassadors-call-for-english-soc-2026-07-08
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260708T094700
 CATEGORIES:Event
 COLOR:#33B679
@@ -1265,7 +1264,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:47 P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-test-2026-06-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1276,7 +1275,7 @@ DESCRIPTION:Time to prep — here's what you've got. Announcement: Test tom
 END:VEVENT
 BEGIN:VEVENT
 UID:study-tit-hon-ng-classroom-assignment-12-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1288,7 +1287,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Due to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-untitled-course-composition-submission-2026-05-27
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1300,7 +1299,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Studen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-assignment-11-2026-05-18
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260518T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1308,14 +1307,14 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2B Maths - Assignment 11
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
  9 HKT Due on 2026-05-18 15:59 HKT. Attachments: KS3_90_Stem-and-leaf-Dia
- grams_e.pdf  Attached: 📎 KS3_90_Stem-and-leaf-Diagrams_e.pdf: https://eq
- uality-consortium-photographic-prompt.trycloudflare.com/attachments/ks3-
- 90-stem-and-leaf-diagrams-e-pdf-2b-maths-assignment-11  (from Darren's S
- tudy Pipeline)
+ grams_e.pdf  Attached: 📎 KS3_90_Stem-and-leaf-Diagrams_e.pdf: https://al
+ low-computing-answered-plymouth.trycloudflare.com/attachments/ks3-90-ste
+ m-and-leaf-diagrams-e-pdf-2b-maths-assignment-11  (from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-ultimate-homework-deadline-2026-05-21
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART:20260521T210000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1326,7 +1325,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 21:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-on-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1338,7 +1337,7 @@ DESCRIPTION:Time to prep — here's what you've got. Test on upcoming Tuesd
 END:VEVENT
 BEGIN:VEVENT
 UID:study-2b-maths-test-on-chapter-11-2026-05-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1349,7 +1348,7 @@ DESCRIPTION:Time to prep — here's what you've got. Open-book test for Cha
 END:VEVENT
 BEGIN:VEVENT
 UID:study-shing-ngat-tse-classroom-2026-06-01
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1360,7 +1359,7 @@ DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (poste
 END:VEVENT
 BEGIN:VEVENT
 UID:study-31-5-2026-05-31
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -1371,7 +1370,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Un
 END:VEVENT
 BEGIN:VEVENT
 UID:study--2026-05-31
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1382,7 +1381,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Student inqui
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-2026-05-31
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1393,7 +1392,7 @@ DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (poste
 END:VEVENT
 BEGIN:VEVENT
 UID:study-music-notes-2026-05-30
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260530
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1404,7 +1403,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Student reque
 END:VEVENT
 BEGIN:VEVENT
 UID:study-lai-yin-darren-chan-composition-submissi-2026-05-26
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1416,7 +1415,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dear-all-english-ambassadors-have-you-ev-2026-08-20
-DTSTAMP:20260825T071256
+DTSTAMP:20260825T082404
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -1425,5 +1424,30 @@ SUMMARY:🎉 EVENT: Dear all English Ambassadors: Have you ever wanted to ge
  t hands-on experience on how to plan and ho
 DESCRIPTION:Something happening on campus. Mark it and show up. Sign-up f
  orm for English Society committee  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-man-wai-catherine-wong-sepa-certificates-2026-07-02
+DTSTAMP:20260825T082404
+DTSTART:20260702T134000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Man Wai\, Catherine WONG - SEPA Certificates Prize-Givin
+ g Ceremony @ Gallant Ho Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
+  📍 Gallant Ho Hall Reply required to confirm attendance\; bring iPad for
+  e-certificates  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sepa-certificates-reply-required-2026-07-02
+DTSTAMP:20260825T082404
+DTSTART:20260702T134000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: SEPA Certificates - Reply Required @ Gallant Ho Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
+  📍 Gallant Ho Hall Reply required to confirm attendance\; bring iPad for
+  e-certificates  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
