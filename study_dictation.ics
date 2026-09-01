@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-hist-ces-transformation-of-china-2026-05-06
-DTSTAMP:20260828T091953
+DTSTAMP:20260901T212221
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -17,7 +17,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Hi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-25-26-4-announcement-2026-05-21
-DTSTAMP:20260828T091953
+DTSTAMP:20260901T212221
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -29,7 +29,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Di
 END:VEVENT
 BEGIN:VEVENT
 UID:study-sepa-basic-environmental-badge-google-fo-2026-06-06
-DTSTAMP:20260828T091953
+DTSTAMP:20260901T212221
 DTSTART:20260606T170000
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -41,7 +41,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. ⏰
 END:VEVENT
 BEGIN:VEVENT
 UID:study-31-5-2026-05-31
-DTSTAMP:20260828T091953
+DTSTAMP:20260901T212221
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -49,5 +49,18 @@ X-APPLE-CALENDAR-COLOR:#F6BF26
 SUMMARY:📘 DICTATION: 31/5_單元九_測驗參考答案
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Un
  it 9 test answer key uploaded.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-f-2-english-25-26-dictation-2026-06-15
+DTSTAMP:20260901T212221
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: F.2 English 25-26 - Dictation
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Re
+ view Prescribed Vocabulary List on Page 2 of Examination Syllabus. Dicta
+ tion scheduled for next week (week of 2026-06-15). Exact day not specifi
+ ed.  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
