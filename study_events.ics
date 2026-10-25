@@ -4,860 +4,2525 @@ PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:study-cantopop-club-season-4-school-performanc-2026-06-29
-DTSTAMP:20260901T212221
-DTSTART:20260629T143000
+UID:study-event-cantopop-club-elka-lollytalk-buski-2026-09-19
+DTSTAMP:20261025T080056
+DTSTART:20260919T160000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Cantopop Club - 【電笠】人人和音 Season 4 School Performance Tou
- r @ School Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 -
-  15:30 · 📍 School Hall All F.1-F.6 students eligible. Seats limited\; en
- roll via Google Form. Souvenirs provided. Posted=2026-05-20.  (from Darr
- en's Study Pipeline)
+SUMMARY:🎉 EVENT: Cantopop Club - Elka @LollyTalk Busking Session @ Happy 
+ Valley
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
+  📍 Happy Valley Register via the Google Form to secure one of 25 spots —
+  the session includes a live busking performance and a 1:1 photo with El
+ ka@LollyTalk\, free for F3-F6 students. | Register via the Google Form t
+ o secure one of only 25 spots for the busking session and 1:1 photo with
+  Elka@LollyTalk on September 19 — it's free and open to F3-F6 students. 
+ | 填寫 Google Form 報名參加 9 月 19 日（星期六）下午 4 時在跑馬地舉行的 busking session，名額僅 25 
+ 人，費用全免，活動包括 1:1 合照環節。 | Register via the Google Form to secure one of on
+ ly 25 spots for the busking session and 1:1 photo opportunity — the even
+ t is free and open to all SPC students. | 活動於9月19日下午4時在跑馬地舉行，名額僅25人，費用全免
+ 。請盡快填寫Google Form報名，成功後會收到確認訊息。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-hiu-yee-joyce-chan-ces-module-2-4-ws-1-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART:20260520T073500
+UID:study-event-visual-arts-acrylic-sheet-order-co-2026-09-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260910
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Hiu Yee\, Joyce CHAN - CES Module 2.4 WS 1
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:35 P
- osted on 7:35 AM\, May 20 by Hiu Yee\, Joyce CHAN  (from Darren's Study 
- Pipeline)
+SUMMARY:🎉 EVENT: Visual Arts - Acrylic Sheet Order Confirmation
+DESCRIPTION:Something happening on campus. Mark it and show up. Confirm y
+ our acrylic sheet order today via Google Classroom — check the attached 
+ image for the order details and respond promptly. | Put your acrylic she
+ et work side by side on the table and take a photo of the works — upload
+  it to Google Classroom for the teacher. | Bring $21 to the VA lesson to
+ morrow for materials — remember to pack it tonight so you are ready for 
+ the class. | Bring $21 to your VA lesson tomorrow — the teacher needs it
+  for class materials.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-ai-vibe-coding-thur-it-lab-survey-2026-06-13
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260613
+UID:study-event-2026-09-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260914
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: AI Vibe Coding (Thur) - IT Lab Survey
-DESCRIPTION:Something happening on campus. Mark it and show up. Survey li
- nk expires on 2026-06-13. Access via https://www.it-lab.gov.hk/survey_fo
- rm.php...  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: 中國歷史 - 第九屆「紫荊杯」全港中小學生「中國歷史文化」知識競賽（個人網上初賽）
+DESCRIPTION:Something happening on campus. Mark it and show up. 登入功課幫網站並進
+ 入活動專區，以學校電郵及初始密碼 hkbud2026 參加網上初賽，比賽由9月14日至10月11日進行，每天可激答5次，成績優異有機會參與團體賽
+ 。 | 下星期一（9月14日）課堂上進行閱讀評估（暑期課業），閉卷測試，題目包括選擇題及短問答。同時熟讀《江雪》及《九月九日憶山東兄弟》兩首詩。
+  | 下星期一（9月14日）課堂上進行閱讀評估（暑期課業），閉卷測試，題目包括選擇題及短問答。同時熟讀《江雪》及《九月九日憶山東兄弟》兩首詩。 
+ | 由9月14日起登入功課幫網站 https://www.hkbud.com 參加網上初賽，每天可進行5次激答，每次限時1分鐘。  (from 
+ Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chinese-bring-textbooks-2026-05-03
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260503
+UID:study-event-english-speech-festival-enrollment-2026-09-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260913
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese - Bring Textbooks
-DESCRIPTION:Something happening on campus. Mark it and show up. Students 
- must bring textbooks to class on posted date  (from Darren's Study Pipel
- ine)
+SUMMARY:🎉 EVENT: English - Speech Festival Enrollment
+DESCRIPTION:Something happening on campus. Mark it and show up. Sign up f
+ or the Speech Festival before the September 13 deadline using Class Code
+  i27snjy4 — events include Solo Verse Speaking\, Solo Prose Speaking\, N
+ ews Feature Presentation\, and Dramatic Duologue. | Sign up for the Spee
+ ch Festival before the September 13 deadline using Class Code i27snjy4 —
+  events include Solo Verse Speaking\, Solo Prose Speaking\, News Feature
+  Presentation\, and Dramatic Duologue. | Sign up for the Speech Festival
+  before the September 13 deadline using Class Code i27snjy4 — events inc
+ lude Solo Verse Speaking\, Solo Prose Speaking\, News Feature Presentati
+ on\, and Dramatic Duologue.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-ai-vibe-coding-class-resumes-2026-05-05
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260505
+UID:study-event-integrated-humanities-student-envi-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: AI Vibe Coding - Class Resumes
-DESCRIPTION:Something happening on campus. Mark it and show up. No class 
- in the week of April 26\, resumes in May. Next session assumed to be fir
- st Thursday in May.  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: Integrated Humanities - Student Environmental Protection
+  Ambassador Scheme (SEPA) Application
+DESCRIPTION:Something happening on campus. Mark it and show up. Fill in t
+ he Google Form to apply for the SEPA by Friday\, 18 September 2026 — onl
+ y 10 places are available for junior form students on a first-come\, fir
+ st-served basis. | Fill in the Google Form to apply for the SEPA by Frid
+ ay\, 18 September 2026 — only 10 places are available for junior form st
+ udents on a first-come\, first-served basis. | Submit the Google Form to
+  apply for the SEPA scheme by Friday\, 18 September 2026 — only 10 junio
+ r form places are available on a first-come\, first-served basis.  (from
+  Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2025-2026-form-2-integrated-humanities-h-2026-05-15
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260515
+UID:study-event-students-association-presidential--2026-09-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260909
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2025-2026 Form 2 Integrated Humanities - History e-readi
- ng Award Scheme @ http://history-reading-award.iclass.hk
-DESCRIPTION:Something happening on campus. Mark it and show up. 📍 http://
- history-reading-award.iclass.hk Complete 7 articles\; 5% classwork mark\
- ; deadline Friday  Attached: 📎 Screenshot_2026-04-24_at_13.27.18.png: ht
- tps://ward-remainder-make-apt.trycloudflare.com/attachments/screenshot-2
- 026-04-24-at-13-27-18-png-2025-2026-form-2-integrated-humanities-h  (fro
- m Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: Students' Association Presidential Election Voting @ F.1
+ -6 Classrooms
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 F.1-6 C
+ lassrooms Cast your vote during Period 1 in your classroom — the propose
+ d cabinet needs at least 50% support to be elected\, so your participati
+ on matters. | Attend the vote counting session after school at 1:45pm in
+  the History Room — all students are welcome to witness the results. | C
+ ast your vote during Period 1 in your classroom — S.A. helpers will visi
+ t your class after roll call\, and a 50% support rate is needed for the 
+ proposed cabinet to be elected. | Attend the vote counting session after
+  school at 1:45pm in the History Room — all students are welcome to obse
+ rve the results.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-season-4-school-performance-tour-2026-06-29
-DTSTAMP:20260901T212221
-DTSTART:20260629T143000
+UID:study-event-robotics-team-recruitment-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 【電笠】人人和音 Season 4 School Performance Tour @ School Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30-1
- 5:30 · 📍 School Hall All F.1-F.6 students invited. Enrollment via Google
-  Form\, first-come first-served. Souvenirs provided.  (from Darren's Stu
+SUMMARY:🎉 EVENT: Robotics Team Recruitment @ Innovation Centre (6/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Innovat
+ ion Centre (6/F) Submit the Google Form to join the Robotics Team by 18 
+ September — meetings are on Wednesdays 15:45-17:00 at the Innovation Cen
+ tre. | 如對機械人隊有興趣，請填寫Google Form申請。截止日期為9月18日。會議時間為星期三下午3:45至5:00，地點為6樓創新
+ 中心。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-ar-vr-workshop-2026-09-14
+DTSTAMP:20261025T080056
+DTSTART:20260914T143000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - AR/VR Workshop @ Innovation Centre (6/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 ·
+  📍 Innovation Centre (6/F) Join the AR/VR Workshop on 14 September from 
+ 2:30-4pm at the Innovation Centre (6/F) — learn to build AR/VR 360 image
+ s with cameras and apps taught by senior STREAM Team students. | Join th
+ e AR/VR workshop on 14 Sept (Mon) 2:30-4pm at the Innovation Centre (6/F
+ ) — learn to build AR/VR 360 images with a camera or app\, taught by sen
+ ior STREAM Team students. Sign up via the Google Form. | Attend the AR/V
+ R 360 image workshop on Monday 2:30-4pm at the Innovation Centre — senio
+ r STREAM students will teach you to build AR/VR content with a camera or
+  app.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-library-club-student-librarian-rec-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Library Club - Student Librarian Recruitment @ 5/F Libra
+ ry
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 5/F Lib
+ rary Submit your Student Librarian application form to the 5/F Library o
+ n or before 18 September — interviews will be held between 21-23 Septemb
+ er. | Return your completed application form to the 5/F Library on or be
+ fore Friday 18 September — interviews will be held from 21 to 23 Septemb
+ er.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-first-tech-challenge-robotics-team-2026-09-12
+DTSTAMP:20261025T080056
+DTSTART:20260912T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: FIRST Tech Challenge Robotics Team - Sign-up
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
+ omplete the Google Form to join the FTC Robotics Team by Saturday\, 12 S
+ eptember 23:59 — 15 spots are available across technical (CAD\, hardware
+ \, coding\, electrical) and outreach roles\, and no prior experience is 
+ required.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-3e-physics-class-invitation-2026-09-04
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260904
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 3E Physics - Class Invitation
+DESCRIPTION:Something happening on campus. Mark it and show up. Join the 
+ 3E Physics Google Classroom to access course materials and announcements
+  — check your email invitation and accept it.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-captain-recruitment-2026-09-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260915
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team Captain Recruitment
+DESCRIPTION:Something happening on campus. Mark it and show up. Email Mis
+ s Kwok by 15 Sept with one new idea you would bring to the team or how y
+ ou would mentor junior members — F.4 to F.5 students are eligible to app
+ ly.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-polyu-mathematics-enrichment-progr-2026-09-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260917
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: PolyU Mathematics Enrichment Programme - Online Assessme
+ nt Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Reply to 
+ Mr Ha by 17 September with your Full Name\, Class and Class Number if yo
+ u wish to join the online assessment — the programme fee is HK$1\,500.  
+ (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-join-2026-2027-3e-english--2026-09-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260903
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English - Join 2026-2027 3E English Classroom
+DESCRIPTION:Something happening on campus. Mark it and show up. Accept th
+ e Google Classroom invitation for 2026-2027 3E English — all course mate
+ rials and assignments will be posted there.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-3e-2026-2027-classroom-2026-09-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260903
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中國歷史 - 加入3E中國歷史(2026-2027) Classroom
+DESCRIPTION:Something happening on campus. Mark it and show up. 接受Google 
+ Classroom邀請加入3E中國歷史(2026-2027) — 所有課程資料及測驗通知將在此發佈。  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ces-join-26-27-f3-ces-classroom-2026-09-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260903
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: CES - Join 26-27 F3 CES Classroom
+DESCRIPTION:Something happening on campus. Mark it and show up. Accept th
+ e Google Classroom invitation for 26-27 F3 CES — check the class page fo
+ r upcoming materials and notices.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-mathematics-mathematical-modelling-2026-09-22
+DTSTAMP:20261025T080056
+DTSTART:20260922T154500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Mathematics - Mathematical Modelling Course @ To be conf
+ irmed
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
+  📍 To be confirmed Fill in the Google Form to sign up for the Mathematic
+ al Modelling Course starting 22 Sep — completing the course gives you a 
+ chance to be selected for IMMC\, MMCSS\, and SPC competitions. | Sign up
+  via the Google Form for this free F.1-F.5 course running Tuesdays from 
+ 22 Sep to 15 Dec — completing it gives you a chance to be selected for I
+ MMC\, MMCSS and SPC competitions in the second term.  (from Darren's Stu
  dy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-ih-hist-ces-excursion-for-classes-2b--2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
+UID:study-event-2026-2027-team-registration-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Excursion for Classes 2B and 3C
-DESCRIPTION:Something happening on campus. Mark it and show up. Complete 
- Google Form and provide parent's letter for dismissal. Link: https://doc
- s.google.com/forms/d/e/1FAIpQLSerKpCmWwdWrkK52bYAnn069IaTE8UkhZZmMbVkIiD
- vVp5-xw/viewform?usp=header | Complete Google Form and submit parent's l
- etter for dismissal point  Attached: 📎 Link: Excursion on 6 July 2026 (M
- onday): https://ward-remainder-make-apt.trycloudflare.com/attachments/li
- nk-excursion-on-6-july-2026-monday-2b-ih-hist-ces-excursion-for-classes-
- 2b-  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: 中電智能都會創新能源比賽2026-2027 - Team Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of four and find a teacher advisor\, then submit your team registrati
+ on\, project name\, description\, and budget plan by 16 Oct — selected t
+ eams receive up to HK$20\,000 in funding. | Form a team of four F.4-5 st
+ udents and find a teacher advisor\, then submit your team registration\,
+  project name\, description and budget plan by 16 Oct 2026 — selected te
+ ams receive up to HK$20\,000 in funding to build their project.  (from D
+ arren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-steam-team-student-innovation-award-2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
+UID:study-event-ih-ces-google-classroom-2026-09-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260902
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Steam Team - Student Innovation Award
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline for teams of 1-5 members with teacher advisor | Internal deadli
- ne for F.1-F.6 teams to apply for the Student Innovation Award  (from Da
+SUMMARY:🎉 EVENT: IH-CES - 加入Google Classroom
+DESCRIPTION:Something happening on campus. Mark it and show up. 接受2026-20
+ 27 3E IH-CES課堂邀請，以便接收所有課程資訊和評估通知。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-google-classroom-2026-09-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260902
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 音樂 - 加入Google Classroom
+DESCRIPTION:Something happening on campus. Mark it and show up. 接受2627 3E
+  Music課堂邀請，以便接收課程資料和老師通知。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-2026-27-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - 豐盛宜居：科技創想大賽(2026-27) 隊伍申請
+DESCRIPTION:Something happening on campus. Mark it and show up. 請於9月18日或之
+ 前自行組隊並提交申請，有興趣的同學需先報名參加8月28日的ZOOM簡介會，入選隊伍可獲理大免費創意思維工作坊及最高HK$1\,000材料資助。 
+  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-27-2026-08-28
+DTSTAMP:20261025T080056
+DTSTART:20260828T160000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 豐盛宜居：科技創想大賽(2026-27) 線上簡介會 @ ZOOM
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
+  📍 ZOOM 請報名參加8月28日下午4時至5時的ZOOM簡介會，屆時將講解比賽流程、訓練日程、隊伍配對支援及評審準則，有助你了解參賽安排。 
+  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-iet-hong-kong-faraday-challenge-da-2026-09-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260909
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IET Hong Kong Faraday Challenge Days 2026 校內報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 請於9月9日或之前
+ 組成3至6人隊伍，並由隊長電郵老師報名，第二輪比賽將於10月17日在VTC青衣綜合大樓舉行，勝出隊伍可晉級11月7日總決賽。  (from Da
  rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-ngo-tin-ip-classroom-f2-ih-exam-reminder-2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
+UID:study-event-iet-hong-kong-faraday-challenge-da-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T090000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Ngo Tin IP (Classroom) - F2 IH Exam Reminder (Updated)
-DESCRIPTION:Something happening on campus. Mark it and show up. Announcem
- ent with attached F2 IH Exam reminder. Posted on May 19. | Announcement 
- with attached Final Exam Reminder for F2 IH. Posted on May 19.  (from Da
- rren's Study Pipeline)
+SUMMARY:🎉 EVENT: IET Hong Kong Faraday Challenge Days 2026 - Second Round
+  @ Hong Kong Institute of Information Technology (VTC Tsing Yi Complex\,
+  20A Tsing Yi Road\, Tsing Yi Island\, New Territories)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 Hong Kong Institute of Information Technology (VTC Tsing Yi Complex\,
+  20A Tsing Yi Road\, Tsing Yi Island\, New Territories) 第二輪比賽於10月17日上午9時
+ 至下午5時在VTC青衣綜合大樓舉行，主題為環境保護與保育，請預留全日時間並準時到達會場。  (from Darren's Study Pipel
+ ine)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-lai-yi-kwok-classroom-student-innovation-2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Lai Yi KWOK (Classroom) - Student Innovation Award Inter
- nal Deadline
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline for Student Innovation Award. Posted 2026-06-02.  (from Darren'
- s Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2025-26-steam-team-student-innovation-aw-2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2025-26 STEAM Team - Student Innovation Award Internal D
- eadline
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline for Student Innovation Award (HKICTA 2026). Posted 2026-06-02. 
-  Attached: 📎 https://icta.itda.hk/: https://ward-remainder-make-apt.tryc
- loudflare.com/attachments/https-icta-itda-hk-2025-26-steam-team-student-
- innovation-aw  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-mathematics-old-book-sales-reply-slip-2026-07-03
-DTSTAMP:20260901T212221
-DTSTART:20260703T102100
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B Mathematics - Old Book Sales Reply Slip Submission
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:21 A
- M Submit reply slip by tomorrow (2026-07-03) to SA representative/monito
- r/vice monitor.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-project-legacy-x-steam-sf-executive-imme-2026-07-28
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260728
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Project Legacy x STEAM - SF Executive Immersive Experien
- ce
-DESCRIPTION:Something happening on campus. Mark it and show up. 3-day pro
- gram (Jul 28-30) with SF Express executives\; Quota: 2 senior form stude
- nts. Detailed program attached. | Three-day immersive experience with SF
-  Express executives\; quota for 2 senior form students  Attached: 📎 傳承 x
-  STEAM - SF Express Program (20260728)_v2.docx: https://ward-remainder-m
- ake-apt.trycloudflare.com/attachments/x-steam-sf-express-program-2026072
- 8-v2-d-project-legacy-x-steam-sf-executive-imme  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-steam-team-world-robot-olympiad-2026-06-11
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: STEAM Team - World Robot Olympiad
-DESCRIPTION:Something happening on campus. Mark it and show up. External 
- registration deadline: 11 June 2026  Attached: 📎 https://www.peachcp.com
- /wro-hk/hk-selection/wro2026/: https://ward-remainder-make-apt.trycloudf
- lare.com/attachments/https-www-peachcp-com-wro-hk-hk-selectio-steam-team
- -world-robot-olympiad 📎 https://www.facebook.com/share/p/1AkmxE21bZ/: ht
- tps://ward-remainder-make-apt.trycloudflare.com/attachments/https-www-fa
- cebook-com-share-p-1akmxe21b-steam-team-world-robot-olympiad  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-project-legacy-x-steam-2026-07-29
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
-DESCRIPTION:Something happening on campus. Mark it and show up. Second da
- y of the three-day immersive experience with SF Express executives  Atta
- ched: 📎 https://drive.google.com/file/d/1JRX3i0MO9MTIvHYgW_3uCoUMmkpeGbY
- F/view: https://ward-remainder-make-apt.trycloudflare.com/attachments/ht
- tps-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-steam  (from Dar
- ren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-project-legacy-x-steam-2026-07-30
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260730
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
-DESCRIPTION:Something happening on campus. Mark it and show up. Final day
-  of the three-day immersive experience with SF Express executives  Attac
- hed: 📎 https://drive.google.com/file/d/1JRX3i0MO9MTIvHYgW_3uCoUMmkpeGbYF
- /view: https://ward-remainder-make-apt.trycloudflare.com/attachments/htt
- ps-drive-google-com-file-d-1jrx3i0mo9-project-legacy-x-steam  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-basic-environmental-badge-application-2026-06-06
-DTSTAMP:20260901T212221
-DTSTART:20260606T170000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Basic Environmental Badge Application
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:00 D
- eadline to fill Google Form  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-student-innovation-award-2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Student Innovation Award
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline: 6 July  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-lai-yi-kwok-classroom-asian-science-camp-2026-05-27
-DTSTAMP:20260901T212221
-DTSTART:20260527T080000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Lai Yi KWOK (Classroom) - Asian Science Camp 2026
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 I
- nternal deadline for student nominations (Aug 2-8\, 2026 camp). Posted o
- n 2026-05-22.  Attached: 📎 File: Invitation letter for ASC 2026 (attache
- d in original announcement): https://ward-remainder-make-apt.trycloudfla
- re.com/attachments/file-invitation-letter-for-asc-2026-atta-lai-yi-kwok-
- classroom-asian-science-camp  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-english-ambassadors-committee-signup-dea-2026-08-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260820
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: English Ambassadors - Committee signup deadline
-DESCRIPTION:Something happening on campus. Mark it and show up. Deadline 
- to join English Society committee | Deadline for joining English Society
-  committee | Sign-up deadline for English Society committee members | Si
- gn-up deadline for English Society committee members via Google Forms  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-f-1-3-english-ambassadors-committee-sign-2026-08-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260820
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: F.1-3 English Ambassadors - Committee signup deadline
-DESCRIPTION:Something happening on campus. Mark it and show up. Deadline 
- to join English Society committee | Deadline to join English Society com
- mittee. Sign up link: https://forms.gle/cuXiwmzKc5X4rkae7  (from Darren'
- s Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-ict-classroom-farewell-announcement-2026-07-10
-DTSTAMP:20260901T212221
-DTSTART:20260710T110700
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B ICT (Classroom) - Farewell announcement
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 11:07 P
- osted on 11:07 AM\, Jul 10 (HKT) by Ching Wah\, Annie Lam | Posted on 11
- :07 AM\, Jul 10 (HKT) by Ching Wah\, Annie Lam - My dear 2B students far
- ewell message  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-english-ambassadors-call-for-english-soc-2026-07-08
-DTSTAMP:20260901T212221
-DTSTART:20260708T094700
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: English Ambassadors - Call for English Society committee
-  members
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:47 P
- osted on 9:47 AM\, Jul 8 (HKT) by Chun Hei LIN - Sign up deadline: Aug 2
- 0 | Posted on 9:47 AM\, Jul 8 (HKT) by English Society - Sign up deadlin
- e: Aug 20 - Google Forms link provided  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-dear-all-english-ambassadors-have-you-ev-2026-08-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260820
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Dear all English Ambassadors: Have you ever wanted to ge
- t hands-on experience on how to plan and ho
-DESCRIPTION:Something happening on campus. Mark it and show up. Sign-up f
- orm for English Society committee | Dead-line for English Society commit
- tee application is Aug 20. Posted date is Jul 8\, 2026. Link: https://fo
- rms.gle/cuXiwmzKc5X4rkae7 | Dead-line for English Society committee appl
- ication is Aug 20. Posted date is Jul 8\, 2026. Attachment includes Goog
- le Forms link: https://forms.gle/cuXiwmzKc5X4rkae7 | Deadline for Englis
- h Society committee sign-up via Google Forms. | English Society committe
- e sign-up deadline. Includes Google Forms link.  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-man-wai-catherine-wong-sepa-certificates-2026-07-02
-DTSTAMP:20260901T212221
-DTSTART:20260702T134000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Man Wai\, Catherine WONG - SEPA Certificates Prize-Givin
- g Ceremony @ Gallant Ho Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
-  📍 Gallant Ho Hall Reply required to confirm attendance\; bring iPad for
-  e-certificates  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-sepa-certificates-reply-required-2026-07-02
-DTSTAMP:20260901T212221
-DTSTART:20260702T134000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SEPA Certificates - Reply Required @ Gallant Ho Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
-  📍 Gallant Ho Hall Reply required to confirm attendance\; bring iPad for
-  e-certificates | Bring iPad for e-certificates\; reply to confirm atten
- dance | Reply to confirm attendance\; bring iPad for e-certificates | Br
- ing iPad for e-certificates  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-ngo-tin-ip-f2-integrated-humanities-exam-2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Ngo Tin IP - F2 Integrated Humanities Exam Reminder
-DESCRIPTION:Something happening on campus. Mark it and show up. Exam remi
- nder announcement posted\, study hard and good luck | Final exam reminde
- r announcement posted\, study hard and best of luck  (from Darren's Stud
- y Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2025-26-steam-team-world-robot-olympiad-2026-06-11
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2025-26 STEAM Team - World Robot Olympiad @ External
-DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Externa
- l Registration deadline: 11 June 2026 | Find teacher advisor  Attached: 
- 📎 WRO Official Page: https://ward-remainder-make-apt.trycloudflare.com/a
- ttachments/wro-official-page-2025-26-steam-team-world-robot-olympiad 📎 S
- ilver Award Announcement: https://ward-remainder-make-apt.trycloudflare.
- com/attachments/silver-award-announcement-2025-26-steam-team-world-robot
- -olympiad  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chun-hei-lin-english-ambassadors-committ-2026-08-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260820
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chun Hei LIN - English Ambassadors Committee Invitation
-DESCRIPTION:Something happening on campus. Mark it and show up. Deadline 
- to join English Society committee. Sign up link: https://forms.gle/cuXiw
- mzKc5X4rkae7  Attached: 📎 Google Forms: Sign-in (https://forms.gle/cuXiw
- mzKc5X4rkae7): https://ward-remainder-make-apt.trycloudflare.com/attachm
- ents/google-forms-sign-in-https-forms-gle-cux-chun-hei-lin-english-ambas
- sadors-committ  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-sepa-certificates-prize-ceremony-2026-07-01
-DTSTAMP:20260901T212221
-DTSTART:20260701T134000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SEPA Certificates - Prize Ceremony @ Gallant Ho Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
-  📍 Gallant Ho Hall Bring iPad  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-sepa-certificates-prize-ceremony-2026-07-07
-DTSTAMP:20260901T212221
-DTSTART:20260707T134000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SEPA Certificates - Prize Ceremony @ Gallant Ho Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
-  📍 Gallant Ho Hall Bring iPad  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-sepa-certificates-ceremony-2026-07-03
-DTSTAMP:20260901T212221
-DTSTART:20260703T134000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SEPA Certificates Ceremony @ Gallant Ho Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
-  📍 Gallant Ho Hall Bring iPad for e-certificates  (from Darren's Study P
- ipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-iet-hong-kong-faraday-challenge-days-202-2026-06-27
-DTSTAMP:20260901T212221
-DTSTART:20260627T090000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: IET Hong Kong Faraday Challenge Days 2026 - First Round 
- @ Youth College (Kowloon Bay)
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00–1
- 7:00 · 📍 Youth College (Kowloon Bay) Hands-on STEM competition on enviro
- nmental protection. Target: F2–F4 students\, 3–6 per team with teacher. 
- Application Fee: HK$500 (school subsidized). Prizes: Cash up to HK$2\,00
- 0 and certificates for all. | Hands-on STEM competition on environmental
-  protection. Target: F2–F4 students\, 3–6 per team with teacher. Applica
- tion Fee: HK$500 (school subsidized). Prizes: Cash up to HK$2\,000 and c
- ertificates for all.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-iet-hong-kong-faraday-challenge-days-202-2026-11-07
-DTSTAMP:20260901T212221
+UID:study-event-iet-hong-kong-faraday-challenge-da-2026-11-07
+DTSTAMP:20261025T080056
 DTSTART:20261107T140000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: IET Hong Kong Faraday Challenge Days 2026 - Grand Final 
  @ Hong Kong Institute of Information Technology
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00–1
- 7:00 · 📍 Hong Kong Institute of Information Technology Same competition 
- details as First Round. | Same competition details as First Round.  (fro
- m Darren's Study Pipeline)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00 ·
+  📍 Hong Kong Institute of Information Technology 總決賽於11月7日下午2時至5時在HKIT舉行
+ ，勝出隊伍可獲最高HK$2\,000現金獎，請預留時間出席。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-2025-9-9-2-13-3-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART:20260520T234300
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B 中史_2025 - 活動２＿上載截圖＿第9屆中國歷史校際精英問答比賽（9/2-13/3）
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:43 G
- raded at 11:43 PM on posted date by Pui Yan LEE  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-2025-edb-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART:20260520T234000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B 中史_2025 - 活動１＿上載截圖＿EDB網上閱讀比賽_截取最後一題螢幕畫面
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:40 G
- raded at 11:40 PM on posted date by Pui Yan LEE  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-visual-arts-25-26-sketchbook-collecti-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260520
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B Visual Arts 25-26 - Sketchbook Collection @ Class
-DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Class S
- ketchbook will be collected on Wednesday\, May 20. Includes basic colori
- ng techniques\, stained glass draft\, and artwork statement. | Prepare s
- ketchbook with basic coloring techniques\, stained glass draft\, and art
- work statement for classwork marking.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-schedule-monday-activities-2026-05-18
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260518
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese Schedule - Monday Activities
-DESCRIPTION:Something happening on campus. Mark it and show up. Collect '
- Peach Blossom Source' notes\; distribute practical writing (Survey Repor
- t) and argumentative exercises  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-schedule-tuesday-activities-2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese Schedule - Tuesday Activities
-DESCRIPTION:Something happening on campus. Mark it and show up. Explain u
- nits 6\, 8\, 9 of classical Chinese vocabulary and practice  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-schedule-wednesday-activities-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260520
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese Schedule - Wednesday Activities
-DESCRIPTION:Something happening on campus. Mark it and show up. Distribut
- e Unit 8 test\; complete 25-year exam exercises  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-schedule-thursday-activities-2026-05-21
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260521
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese Schedule - Thursday Activities
-DESCRIPTION:Something happening on campus. Mark it and show up. Memorize 
- 'Peach Blossom Source' Section 2\; explain 3 exam Tang poems\; complete 
- language exercises  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-schedule-friday-activities-2026-05-22
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260522
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese Schedule - Friday Activities
-DESCRIPTION:Something happening on campus. Mark it and show up. Unit 9 te
- st  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-steam-team-2026-public-voting-period-sta-2026-08-14
-DTSTAMP:20260901T212221
-DTSTART:20260814T000000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: STEAM Team - 三菱電機綠續創科盃 2026 Public Voting Period Start
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 00:00 –
-  23:59 Voting period starts. Team S04 (CARBONMATE) needs support. Link: 
- https://www.cuhk-greenstem.com/mitsubishielectricecotechcup26/public-vot
- ing  Attached: 📎 https://www.cuhk-greenstem.com/mitsubishielectricecotec
- hcup26/public-voting: https://ward-remainder-make-apt.trycloudflare.com/
- attachments/https-www-cuhk-greenstem-com-mitsubishie-steam-team-2026-pub
- lic-voting-period-sta  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-steam-team-2026-public-voting-period-end-2026-08-20
-DTSTAMP:20260901T212221
+UID:study-event-2026-2026-08-20
+DTSTAMP:20261025T080056
 DTSTART:20260820T235900
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: STEAM Team - 三菱電機綠續創科盃 2026 Public Voting Period End
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 V
- oting period ends. Team S04 (CARBONMATE) seeks final votes.  (from Darre
- n's Study Pipeline)
+SUMMARY:🎉 EVENT: 三菱電機綠續創科盃 2026 - 公眾最喜愛作品投票
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 請
+ 於8月20日晚上11時59分前到投票連結支持SPC Team S04的CARBONMATE「碳索足迹」項目，投票期由8月14日開始，你的支持有助
+ 隊伍爭取公眾最喜愛作品獎。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2025-2026-2b-ih-hist-ces-ih-ces-pre-exam-2026-05-22
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260522
+UID:study-event-2026-2026-08-14
+DTSTAMP:20261025T080056
+DTSTART:20260814T000000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2025-2026 2B IH - HIST & CES - IH-CES pre-exam revision
-DESCRIPTION:Something happening on campus. Mark it and show up. Exam syll
- abus will be announced soon. Scheduled by Ms. Chan.  (from Darren's Stud
- y Pipeline)
+SUMMARY:🎉 EVENT: 三菱電機綠續創科盃 2026 - 公眾投票開始
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 00:00 公
+ 眾投票由8月14日凌晨零時開始至8月20日晚上11時59分結束，請到投票連結支持SPC Team S04的CARBONMATE「碳索足迹」項目。
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-alipayhk-dvice-ux-2026-2026-09-07
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260907
+UID:study-event-aviation-club-visit-to-cathay-city-2026-08-30
+DTSTAMP:20261025T080056
+DTSTART:20260830T123000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: AlipayHK 𝛂dvice – 青年科創UX設計比賽暨工作影子計劃 2026
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline for submissions  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: Aviation Club - Visit to Cathay City @ Cathay City (8 Sc
+ enic Road)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 12:30 ·
+  📍 Cathay City (8 Scenic Road) Attend the Cathay City visit from 12:30 t
+ o 14:30 — meet at 8 Scenic Road and bring your emergency contact details
+  for registration.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-submission-of-old-book-sales-reply-slip-2026-07-03
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260703
+UID:study-event-aviation-club-cathay-city-visit-re-2026-08-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260810
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Submission of old book sales reply slip
-DESCRIPTION:Something happening on campus. Mark it and show up. Due by 20
- 26-07-03 (tomorrow after posting date 2026-07-02)  (from Darren's Study 
- Pipeline)
+SUMMARY:🎉 EVENT: Aviation Club - Cathay City Visit Registration Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up. Message Y
+ eung Xing Hei via WhatsApp at 9313 8180 with your emergency contact deta
+ ils (preferred title\, phone number\, and relationship) by 10 August — p
+ laces are first-come\, first-served.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-attendance-reminder-tomorrow-morning-2026-09-02
-DTSTAMP:20260901T212221
-DTSTART:20260902T074500
+UID:study-event-aviation-club-visit-to-cathay-city-2026-08-05
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Attendance Reminder - Tomorrow Morning @ School
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 7:45 a.
- m. · 📍 School Students must tap cards by 7:45 a.m. tomorrow  (from Darre
- n's Study Pipeline)
+SUMMARY:🎉 EVENT: Aviation Club - Visit to Cathay City (Original Event) @ 
+ Cathay City (8 Scenic Road)
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Cathay 
+ City (8 Scenic Road) Note that the original Cathay City visit was schedu
+ led for 5 August — check with the Aviation Club for any updates or chang
+ es to the arrangement.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2026-27-online-briefing-2026-08-28
-DTSTAMP:20260901T212221
-DTSTART:20260828T160000
+UID:study-event-aviation-club-cathay-city-visit-ap-2026-07-26
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260726
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 豐盛宜居：科技創想大賽(2026-27) - Online Briefing @ ZOOM
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00-1
- 7:00 · 📍 ZOOM Online briefing for competition\; ZOOM registration link p
- rovided | Online briefing for competition\; ZOOM registration link provi
- ded  Attached: 📎 https://forms.cloud.microsoft/pages/responsepage.aspx?i
- d=3bukt5xuKUm1pGVQ_urXfG3dp9bQkxhPt0UD7GzHEsNURFJXRFZGM1g2RzhGUkdSM1NZWE
- dRUDJJUC4u&route=shorturl: https://ward-remainder-make-apt.trycloudflare
- .com/attachments/https-forms-cloud-microsoft-pages-respon-2026-27-online
- -briefing 📎 https://drive.google.com/drive/folders/1h8kDd4-Ovp2WbPJmNJV0
- WccHyLwsbGpM?usp=sharing: https://ward-remainder-make-apt.trycloudflare.
- com/attachments/https-drive-google-com-drive-folders-1h8-2026-27-online-
- briefing  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: Aviation Club - Cathay City Visit Application Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
+ e Google Form application for the Cathay City visit by 26 July — places 
+ are limited to 20 and allocated on a first-come\, first-served basis.  (
+ from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-s-a-old-book-sale-2026-07-14
-DTSTAMP:20260901T212221
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-18
+DTSTAMP:20261025T080056
+DTSTART:20260818T140000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Visit the JSSE booth to support our school
+ 's project holders — they are presenting a heavy metal ion test strip de
+ sign and your presence encourages the team.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-19
+DTSTAMP:20261025T080056
+DTSTART:20260819T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Drop by the JSSE exhibition to see the flu
+ orescent test strip project — the team values your support and it is a g
+ reat chance to learn about applied chemistry.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-20
+DTSTAMP:20261025T080056
+DTSTART:20260820T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Visit the JSSE booth to support our school
+ 's project holders — they are presenting a heavy metal ion test strip de
+ sign and your presence encourages the team.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-21
+DTSTAMP:20261025T080056
+DTSTART:20260821T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Drop by the JSSE exhibition to see the flu
+ orescent test strip project — the team values your support and it is a g
+ reat chance to learn about applied chemistry.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-22
+DTSTAMP:20261025T080056
+DTSTART:20260822T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Visit the JSSE booth to support our school
+ 's project holders — they are presenting a heavy metal ion test strip de
+ sign and your presence encourages the team.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-23
+DTSTAMP:20261025T080056
+DTSTART:20260823T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Drop by the JSSE exhibition to see the flu
+ orescent test strip project — the team values your support and it is a g
+ reat chance to learn about applied chemistry.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-59th-joint-school-science-exhibiti-2026-08-24
+DTSTAMP:20261025T080056
+DTSTART:20260824T100000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 59th Joint School Science Exhibition - Booth Visit @ G/F
+ \, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Road\, C
+ auseway Bay\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 G/F\, Exhibition Gallery\, Hong Kong Central Library\, 66 Causeway Ro
+ ad\, Causeway Bay\, Hong Kong Visit the JSSE booth to support our school
+ 's project holders — they are presenting a heavy metal ion test strip de
+ sign and your presence encourages the team.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-project-legacy-x-steam-2026-07-28
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
+DESCRIPTION:Something happening on campus. Mark it and show up. Apply for
+  the three-day SF Express work experience if you are F.4 or F.5 — only 2
+  spots available\, so contact Miss Kwok as soon as possible.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-project-legacy-x-steam-2026-07-29
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e SF Express immersion programme to shadow the general manager and explo
+ re logistics technology — a rare chance to see business strategy in acti
+ on.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-project-legacy-x-steam-2026-07-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260730
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Project Legacy x STEAM - 與順豐高層沉浸體驗
+DESCRIPTION:Something happening on campus. Mark it and show up. Complete 
+ the final day of the SF Express work experience — make the most of the i
+ nvestor meeting and warehouse tour to deepen your understanding of the i
+ ndustry.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-luminatus-2026-2026-07-19
+DTSTAMP:20261025T080056
+DTSTART:20260719T193000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: LUMINATUS 2026 全港聯校歌唱比賽 @ Jockey Club Auditorium\, The H
+ ong Kong Polytechnic University
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 19:30 ·
+  📍 Jockey Club Auditorium\, The Hong Kong Polytechnic University Buy you
+ r tickets early and come support our school finalists — Panther Chan 陳蕾 
+ will be the guest performer at this inter-school singing competition. | 
+ Reserve your tickets via the Art-mate link before Jul 9 — the joint-scho
+ ol singing contest is on Jul 19 at 19:30 at PolyU Jockey Club Auditorium
+  and seats may fill up fast.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-society-committee-member-r-2026-08-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260820
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English Society Committee Member Recruitment
+DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
+ ia the Google Form by Aug 20 to join the English Society committee — you
+ 'll help plan form-wide events and earn a committee role on your report 
+ card.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-normal-school-day-arrive-before-7--2026-07-06
+DTSTAMP:20261025T080056
+DTSTART:20260706T074500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Normal School Day - Arrive Before 7:45am @ School
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:45 ·
+  📍 School Arrive at school before 7:45am on Jul 6 for a normal school da
+ y — you will attend the first two lessons\, so be punctual and bring you
+ r materials.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-students-association-old-book-sale-2026-07-14
+DTSTAMP:20261025T080056
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: S.A. Old Book Sale @ History and C.S.D. Room (6/F)
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 9:00 AM
-  – 12:00 PM · 📍 History and C.S.D. Room (6/F) Reply slips must be return
- ed tomorrow (2026-07-03). All students must submit slips regardless of p
- articipation. F.6 sellers submit via email.  (from Darren's Study Pipeli
- ne)
+SUMMARY:🎉 EVENT: Students' Association - Old Book Sale @ History and C.S.
+ D. Room (6/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 History and C.S.D. Room (6/F) Wear full school uniform and run your a
+ ssigned stall from 9:00 AM to 12:00 PM — collect unsold books and leave 
+ school grounds promptly afterwards.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-ih-hist-ces-ping-shan-heritage-trail--2026-07-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260706
+UID:study-event-sepa-prize-giving-ceremony-2026-07-02
+DTSTAMP:20261025T080056
+DTSTART:20260702T134000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Ping Shan Heritage Trail Excursion
-DESCRIPTION:Something happening on campus. Mark it and show up. Excursion
-  date mentioned in assignment post. Prepare worksheet before excursion. 
-  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: SEPA Prize-Giving Ceremony @ Gallant Ho Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
+  📍 Gallant Ho Hall Attend the SEPA prize-giving ceremony this Thursday a
+ fter school at 13:40 in Gallant Ho Hall — bring your iPad as only e-cert
+ ificates will be issued. | Attend the SEPA prize-giving ceremony this Th
+ ursday at 13:40 in Gallant Ho Hall and bring your iPad — e-certificates 
+ will be issued. | Reply to Miss Wong to confirm your attendance at the S
+ EPA prize-giving ceremony this Thursday at 13:40 in Gallant Ho Hall\, an
+ d bring your iPad for e-certificates.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-steam-team-hk-science-fair-finals-2026-06-28
-DTSTAMP:20260901T212221
+UID:study-event-stream-team-alipayhk-dvice-ux-2026-2026-09-07
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260907
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - AlipayHK αdvice UX設計比賽暨工作影子計劃 2026
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a gr
+ oup of four and have your group leader email the teacher with member nam
+ es and classes by 7 Sept — this is a great opportunity for F.1-F.5 stude
+ nts to gain UX design and job shadowing experience.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-steam-team-fifth-hong-kong-science-2026-06-28
+DTSTAMP:20261025T080056
 DTSTART:20260628T100000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: STEAM Team - HK Science Fair Finals @ Booth A015\, Hall 
- 3FG (Old Wing)\, Hong Kong Convention and Exhibition Centre
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10AM to
-  3PM · 📍 Booth A015\, Hall 3FG (Old Wing)\, Hong Kong Convention and Exh
- ibition Centre Vote for Most Popular Award\, project A015\, senior secon
- dary category. Free admission but pre-registration required at https://w
- ww.hksciencefair.org.hk/  Attached: 📎 https://www.hksciencefair.org.hk/:
-  https://ward-remainder-make-apt.trycloudflare.com/attachments/https-www
- -hksciencefair-org-hk-steam-team-hk-science-fair-finals  (from Darren's 
- Study Pipeline)
+SUMMARY:🎉 EVENT: STEAM Team - Fifth Hong Kong Science Fair Finals Visit @
+  Booth A015\, Hall 3FG (Old Wing)\, Hong Kong Convention and Exhibition 
+ Centre
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
+  📍 Booth A015\, Hall 3FG (Old Wing)\, Hong Kong Convention and Exhibitio
+ n Centre Visit the HK Science Fair on Sunday 28 June from 10AM to 3PM an
+ d vote for our school's project A015 in the senior secondary category — 
+ pre-register on the official website so your vote counts for the Most Po
+ pular Award.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-f-2-english-25-26-speech-festival-drama--2026-06-29
-DTSTAMP:20260901T212221
-DTSTART:20260629T040000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: F.2 English 25-26 - Speech Festival & Drama Performances
-  Appreciation Session @ School Hall
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ Periods
-  4 to 6 · 📍 School Hall No need to bring iPad. Arrive on time and sit wi
- th classes.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-ih-hist-ces-project-ace-submission-of-2026-06-23
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260623
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Project ACE: Submission of Promotio
- nal Video Graded
-DESCRIPTION:Something happening on campus. Mark it and show up. Grade: 10
- /10  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-ih-hist-ces-project-ace-submission-of-2026-06-23
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260623
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2B IH - HIST & CES - Project ACE: Submission of Promotio
- nal Video Graded (Duplicate)
-DESCRIPTION:Something happening on campus. Mark it and show up. Grade: 10
- /10  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2025-26-is-2b-unit-10-group-presentation-2026-06-29
-DTSTAMP:20260901T212221
+UID:study-event-english-speech-festival-and-drama--2026-06-29
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260629
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2025-26 IS 2B - Unit 10 Group Presentation Eye Defects (
- Presentation)
-DESCRIPTION:Something happening on campus. Mark it and show up. Presentat
- ion held on 2026-06-29 (interpreted from 296/2026)  (from Darren's Study
-  Pipeline)
+SUMMARY:🎉 EVENT: English - Speech Festival and Drama Performances Appreci
+ ation Session @ School Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 School 
+ Hall Attend the Speech Festival and Drama Performances Appreciation Sess
+ ion on Monday 29 June from Periods 4 to 6 in the School Hall — arrive on
+  time\, sit with your class\, and leave your iPad behind.  (from Darren'
+ s Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-prefects-council-general-prefect-applica-2026-06-21
-DTSTAMP:20260901T212221
-DTSTART:20260621T235900
+UID:study-event-4-2026-06-26
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260626
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Prefects' Council - General Prefect Application Deadline
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 A
- pplication closes 2026-06-21 23:59  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: 中文 - 第4節課帶備平板
+DESCRIPTION:Something happening on campus. Mark it and show up. 第4節中文課時請帶
+ 備平板電腦上課，以便完成課堂活動。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2026-27-stream-team-student-innovation-a-2026-07-06
-DTSTAMP:20260901T212221
+UID:study-event-integrated-humanities-project-ace--2026-06-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260630
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Integrated Humanities - Project ACE Celebration @ Hall
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hall Br
+ ing your iPad to the Hall after the 1st recess for the Project ACE celeb
+ ration event.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ih-hist-ces-excursion-dismissal-ar-2026-07-06
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: 2026-27 STREAM Team - Student Innovation Award
-DESCRIPTION:Something happening on campus. Mark it and show up. Internal 
- deadline: 6 July. Apply via email with teacher advisor.  Attached: 📎 htt
- ps://icta.itda.hk/: https://ward-remainder-make-apt.trycloudflare.com/at
- tachments/https-icta-itda-hk-2026-27-stream-team-student-innovation-a  (
+SUMMARY:🎉 EVENT: IH (HIST & CES) - Excursion Dismissal Arrangement
+DESCRIPTION:Something happening on campus. Mark it and show up. Complete 
+ the Google Form to choose your dismissal point for the 6 July excursion\
+ , and bring a parent's letter as permission.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-student-ambassadors-for-the-jc-lev-2026-06-25
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260625
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Student Ambassadors for the JC LevelMind Scheme
+DESCRIPTION:Something happening on campus. Mark it and show up. Reply to 
+ Miss Wong's email by 25 June if you want to join the 30 student ambassad
+ ors — training is in July and you will run two mental health sessions du
+ ring the F1 Bridging Course.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-general-prefect-application-2026-2-2026-06-21
+DTSTAMP:20261025T080056
+DTSTART:20260621T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: General Prefect Application 2026-2027
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 D
+ ownload the application PDF\, fill it in by hand\, and reply to Ryan Chi
+ ang's email by 21 June 23:59 — shortlisted applicants will be invited to
+  a selection interview.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-steam-team-iet-hong-kong-faraday-c-2026-06-11
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260611
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - IET Hong Kong Faraday Challenge Days 2026 R
+ egistration
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of 3-6 F2-F4 students and find a teacher advisor to register by 11 Ju
+ ne — the first round is on 27 June at Youth College (Kowloon Bay) and th
+ e school subsidizes the HK$500 fee.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-steam-team-iet-hong-kong-faraday-c-2026-06-27
+DTSTAMP:20261025T080056
+DTSTART:20260627T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - IET Hong Kong Faraday Challenge Days 2026 F
+ irst Round @ Youth College (Kowloon Bay)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 Youth College (Kowloon Bay) Attend the first round from 09:00 to 17:0
+ 0 at Youth College (Kowloon Bay) — the exact engineering task on environ
+ mental protection will only be revealed on the day.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-steam-team-iet-hong-kong-faraday-c-2026-11-07
+DTSTAMP:20261025T080056
+DTSTART:20261107T140000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEAM Team - IET Hong Kong Faraday Challenge Days 2026 G
+ rand Final @ Hong Kong Institute of Information Technology
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00 ·
+  📍 Hong Kong Institute of Information Technology Qualify from the first 
+ round to compete in the Grand Final from 14:00 to 17:00 at the Hong Kong
+  Institute of Information Technology for cash prizes up to HK$2\,000.  (
  from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chin-hin-kwok-classroom-class-invitation-2026-08-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260831
+UID:study-event-steam-team-final-member-list-googl-2026-06-19
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260619
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chin Hin KWOK (Classroom) - Class invitation: 🖥️ 3E ICT-
- A
-DESCRIPTION:Something happening on campus. Mark it and show up. Class inv
- itation  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: STEAM Team - Final Member List Google Form Submission
+DESCRIPTION:Something happening on campus. Mark it and show up. Fill out 
+ the Google Form on or before 19 June if you fulfilled the STEAM activity
+  or external competition requirement but are not on the final member lis
+ t — Ms Kwok needs your proof to confirm your membership. | Submit the Go
+ ogle Form by 19 June if you have fulfilled the STEAM Team requirements b
+ ut are not on the final list — this determines your official membership 
+ status.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-arshu-thapa-magar-classroom-class-invita-2026-09-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260901
+UID:study-event-prefects-council-general-prefect-a-2026-06-21
+DTSTAMP:20261025T080056
+DTSTART:20260621T235900
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Arshu THAPA MAGAR (Classroom) - Class invitation: F.3 26
- -27 English
-DESCRIPTION:Something happening on campus. Mark it and show up. Class inv
- itation  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: Prefects' Council - General Prefect Application
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 D
+ ownload the application form\, fill it by hand\, and reply to the email 
+ by 21 June 23:59 — shortlisted applicants will be invited to a selection
+  interview.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-ka-chun-david-chan-attendance-reminder-f-2026-09-02
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260902
+UID:study-event-steam-team-student-innovation-awar-2026-07-06
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Ka Chun\, David CHAN - Attendance Reminder for Tomorrow 
- Morning
-DESCRIPTION:Something happening on campus. Mark it and show up. Attendanc
- e reminder for tomorrow morning  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: STEAM Team - Student Innovation Award Application
+DESCRIPTION:Something happening on campus. Mark it and show up. Email you
+ r teacher by 6 July if you plan to apply — form a team of 1–5 with a tea
+ cher advisor and use your project from this year or create a new one. | 
+ Email your teacher by 6 July if you will apply — teams of 1–5 with a tea
+ cher advisor can use existing projects or develop new ones for the HKICT
+ A Student Innovation Award.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-arshu-thapa-magar-classroom-class-invita-2026-08-12
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260812
+UID:study-event-sepa-basic-environmental-badge-app-2026-06-06
+DTSTAMP:20261025T080056
+DTSTART:20260606T170000
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Arshu THAPA MAGAR (Classroom) - Class invitation: F.3 26
- -27 English
-DESCRIPTION:Something happening on campus. Mark it and show up. Class inv
- itation  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: SEPA - Basic Environmental Badge Application Form
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:00 F
+ ill in the Google Form by this Saturday 6 June 17:00 — Miss Wong needs y
+ our information to proceed with the Basic Environmental Badge applicatio
+ n.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chin-hin-kwok-classroom-class-invitation-2026-08-12
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260812
+UID:study-event-ict-presentation-2026-05-29
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260529
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chin Hin KWOK (Classroom) - Class invitation: 🖥️ 3E ICT-
- A
-DESCRIPTION:Something happening on campus. Mark it and show up. Class inv
- itation  (from Darren's Study Pipeline)
+SUMMARY:🎉 EVENT: ICT Presentation
+DESCRIPTION:Something happening on campus. Mark it and show up. Prepare a
+  10-minute presentation with a live demo option — Miss Lam confirmed the
+  time limit and welcomes live demonstrations\, so rehearse your demo flo
+ w tonight.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-visual-arts-va-lesson-ipad-2026-06-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260624
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Visual Arts - VA Lesson iPad
+DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
+ r iPad to the VA lesson on Wednesday\, June 24 — you will need it for th
+ e class activities.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-asian-science-camp-2026-nomination-2026-05-27
+DTSTAMP:20261025T080056
+DTSTART:20260527T080000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Asian Science Camp 2026 Nomination
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 S
+ ubmit your ASC 2026 nomination email by 27 May 8AM — include your full n
+ ame\, class\, STEAM achievements\, and a personal statement confirming f
+ ull commitment from 2–8 August at HKU.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ftc-robotics-team-sign-up-deadline-2026-09-12
+DTSTAMP:20261025T080056
+DTSTART:20260912T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: FTC Robotics Team - Sign-up Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
+ omplete the Google form by Saturday 23:59 to join the FIRST Tech Challen
+ ge team — no prior experience needed\, and 15 spots are available across
+  technical and outreach roles.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-printing-fee-payment-2026-09-11
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260911
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English - Printing Fee Payment
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit an
+  $80 cheque payable to St. Paul's College by Friday — the SCMP subscript
+ ion fee will be collected separately later.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-instrumental-class-applicati-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Instrumental Class Application Form
+DESCRIPTION:Something happening on campus. Mark it and show up. 填寫2026-20
+ 27樂器班申請表，截止日期前提交。同時可透過同一表格申請音樂團隊。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-music-team-application-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Music Team Application
+DESCRIPTION:Something happening on campus. Mark it and show up. 如對音樂團隊有興趣
+ ，請填寫樂器班申請表內的音樂團隊申請部分。截止日期前提交。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-f3gp8-pth-2026-09-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: F3GP8-PTH - 個人短講安排表格
+DESCRIPTION:Something happening on campus. Mark it and show up. 查看個人短講安排表
+ 格，已按日期順序排列，請確認自己的短講日期並做好準備。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-instrumental-class-google-fo-2026-09-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260924
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Instrumental Class Google Form (二胡/嗩吶)
+DESCRIPTION:Something happening on campus. Mark it and show up. If you wi
+ sh to apply for 二胡 or 嗩吶\, fill out the instrumental class Google Form a
+ gain — these two instruments have been newly added to the options.  (fro
+ m Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-imperial-global-hackathon-r-2026-09-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260924
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - Imperial Global Hackathon Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of 4-5 members and find a teacher supervisor to register for the Impe
+ rial Global Hackathon by 24 September — each school can nominate only th
+ ree teams\, so act quickly.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-imperial-global-hackathon-o-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART:20261015T190000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - Imperial Global Hackathon Online Briefing Works
+ hop
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 19:00 A
+ ttend the online briefing workshop on 15 October at 7:00pm HKT — registe
+ red teams will receive the challenge briefing packs and important compet
+ ition details.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-imperial-global-hackathon-t-2026-10-25
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261025
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - Imperial Global Hackathon Team Submission
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur team's innovative solution by 25 October — develop\, test\, and prese
+ nt a solution addressing responsible AI\, smart ageing\, green innovatio
+ n\, health and life sciences\, or smart infrastructure.  (from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-imperial-global-hackathon-g-2026-11-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261114
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - Imperial Global Hackathon Grand Final @ Data Te
+ chnology Hub\, Tseung Kwan O InnoPark\, HKSTP\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Data Te
+ chnology Hub\, Tseung Kwan O InnoPark\, HKSTP\, Hong Kong Prepare for th
+ e Grand Final on 14 November at the Data Technology Hub\, Tseung Kwan O 
+ InnoPark — present your team's solution to the judges and compete agains
+ t other schools.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-imperial-global-hackathon-hong-kon-2026-09-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260924
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Imperial Global Hackathon Hong Kong & Macau - Registrati
+ on Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up. Form your
+  team of 4-5 members and secure a teacher supervisor before registering 
+ on the Imperial website — registration closes 24 September and each scho
+ ol may only nominate three teams.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-imperial-global-hackathon-online-b-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART:20261015T190000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Imperial Global Hackathon - Online Briefing Workshop
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 19:00 J
+ oin the online briefing workshop at 7:00pm HKT — registered teams must a
+ ttend to receive this year's challenge briefing packs.  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-imperial-global-hackathon-team-sub-2026-10-25
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261025
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Imperial Global Hackathon - Team Submission Deadline
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur team's innovative solution by 25 October — develop\, test and present
+  your project on responsible AI\, smart ageing\, green innovation\, heal
+ th and life sciences\, or smart infrastructure.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-imperial-global-hackathon-grand-fi-2026-11-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261114
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Imperial Global Hackathon - Grand Final @ Data Technolog
+ y Hub\, Tseung Kwan O InnoPark\, HKSTP\, Hong Kong
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Data Te
+ chnology Hub\, Tseung Kwan O InnoPark\, HKSTP\, Hong Kong Prepare your f
+ inal presentation for the Grand Final at Data Technology Hub\, Tseung Kw
+ an O InnoPark — showcase your team's solution to the judges.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ih-ces-3-file-payment-collection-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IH-CES - $3 File Payment Collection
+DESCRIPTION:Something happening on campus. Mark it and show up. Bring $3 
+ cash to your IH-CES class teacher this Friday — Ms. Chan is collecting p
+ ayment for the IH-CES file. | Prepare $3 cash for your IH-CES file and p
+ ass it to your IH-CES class teacher — check with your teacher about the 
+ submission deadline. | Bring $3 cash to your IH-CES class teacher this F
+ riday — Ms. Chan is collecting payment for the IH-CES file. | Prepare $3
+  cash for your IH-CES file and pass it to your IH-CES class teacher — ch
+ eck with your teacher about the submission deadline.  (from Darren's Stu
+ dy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-samsung-solve-for-tomorrow-2026-27-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Samsung Solve for Tomorrow 2026-27 - Concept Proposal Re
+ gistration
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of 2-5 students\, find a teacher advisor\, and register by October 16
+  — the theme is 'See the Need. Prompt the Future.' covering inclusion\, 
+ sports tech\, and sustainability. | 與老師商討並組成2至5人小隊，由老師顧問於10月16日前完成報名。組長需
+ 電郵提交組員姓名、班別及老師顧問名稱，入圍後再提交原型製作預算。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-samsung-solve-for-tomorrow--2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - Samsung Solve for Tomorrow 2026-27 比賽報名
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of 2-5 students\, find a teacher advisor\, and have your team leader 
+ email Ms. Kwok with all names\, classes\, and advisor details before the
+  October 16 registration deadline.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ih-ces-file-payment-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IH-CES File Payment
+DESCRIPTION:Something happening on campus. Mark it and show up. Bring $3 
+ cash for the IH-CES file and pass it to Ms. Chan on Friday — she will co
+ llect it in class. | Bring $3 cash for the IH-CES file and pass it to Ms
+ . Chan on Friday — she will collect it in class.  (from Darren's Study P
+ ipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-sustainability-society-internation-2026-09-21
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Sustainability Society - International Day of Peace 2026
+ : Invest in Peace
+DESCRIPTION:Something happening on campus. Mark it and show up. Explore t
+ his year's theme 'Invest in Peace' by reducing food waste — the Sustaina
+ bility Society is running food donation booths from 18–23 September next
+  to the covered playground in collaboration with Food Grace.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-sustainability-society-food-donati-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Sustainability Society - Food Donation Drive (18–23 Sep)
+  @ Next to the covered playground
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Next to
+  the covered playground Bring your food donations to the booth next to t
+ he covered playground every morning\, at recess\, and during lunchtime f
+ rom 18–23 September — all donations go to Food Grace to support those in
+  need. | 可持續發展學會於9月18日至23日在有蓋操場旁設置攤位，每天小息及午膳時間收集食物捐贈。請參閱附件指引，捐出多餘食物支持有需要
+ 人士。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-90-2026-10-08
+DTSTAMP:20261025T080056
+DTSTART:20261008T155900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中國歷史 - 中國工農紅軍長征勝利90周年問答比賽
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:59 完
+ 成問答比賽後，把分數頁截圖呈交。比賽日期為10月2日至10月8日，試玩日期為9月28日，詳情請參閱附件及學校網頁Learning Hub的中國歷
+ 史閱讀材料。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-spc-cantopop-club-x-trevi-music-el-2026-09-19
+DTSTAMP:20261025T080056
+DTSTART:20260919T160000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: SPC Cantopop Club x Trevi Music: Elka @ Lolly Talk Buski
+ ng Session @ Happy Valley
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
+  📍 Happy Valley Register via the Google Form to secure one of 25 spots f
+ or the busking session and 1:1 photo opportunity with Elka@LollyTalk — f
+ ree of charge and open to all SPC students.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-90-2026-10-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261002
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中國歷史 - 中國工農紅軍長征勝利90周年問答比賽
+DESCRIPTION:Something happening on campus. Mark it and show up. 比賽由10月2日至
+ 10月8日舉行，試玩日為9月28日。完成比賽後，請把分數頁截圖呈交，並到學校網頁Learning Hub瀏覽相關閱讀材料。  (from Dar
+ ren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-hku-m-programme-reply-to-join-scre-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: HKU M³ Programme - Reply to Join Screening Test and Modu
+ les
+DESCRIPTION:Something happening on campus. Mark it and show up. Reply to 
+ Mr. Wan by 30 September if you wish to join the HKU M³ screening test or
+  the upcoming modules on Squares and Sets\, Relations and Functions — pl
+ aces are limited and the programme is designed for students passionate a
+ bout mathematics. | Reply to Mr. Wan's email by Wednesday 30 September i
+ f you are interested in the upcoming M³ modules or the screening test — 
+ late replies may miss the enrolment window.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-campus-corner-story-writing-175th--2026-11-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261101
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Campus' Corner Story Writing - 175th Anniversary
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit a 
+ story (within 200 words\, English or Chinese) about a campus location th
+ at holds personal meaning to you by Sunday 1 November via the Google For
+ m. Successful entries will be archived in the Story Vending Machine and 
+ displayed during Open Days — all participants receive a souvenir. | Subm
+ it a story about a meaningful campus location by 1 November via the Goog
+ le Form — entries within 200 words in English or Chinese will be archive
+ d and displayed during Open Days.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-2026-27-1st-stream-tea-2026-09-28
+DTSTAMP:20261025T080056
+DTSTART:20260928T154500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - 2026-27 1st STREAM Team Meeting @ History 
+ Room (6/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
+  📍 History Room (6/F) Attend the first STREAM Team meeting on 28 Sept at
+  3:45-4:30pm in the History Room (6/F) — all F.1 to F.5 members are expe
+ cted\, so email Miss Kwok in advance if you cannot make it. | Mark your 
+ calendar for the first STREAM Team meeting on 28 Sept at 3:45-4:30pm in 
+ the History Room (6/F) — all F.1 to F.5 members should attend\, and you 
+ must email the teacher beforehand if you are unable to come. | Attend th
+ e STREAM Team meeting on 28 Sept at 3:45pm in the History Room (6/F) — a
+ ll F.1 to F.5 members are expected\, and you must email the teacher in a
+ dvance if you cannot come.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-specialist-recruitment-2026-09-27
+DTSTAMP:20261025T080056
+DTSTART:20260927T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - Specialist Recruitment Application
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 S
+ ubmit your STREAM Team Specialist application via the Google Form by 27 
+ September — Form 3 to 5 students with expertise in Science\, Technology\
+ , Reading/Writing\, Engineering\, Arts\, or Math are eligible\, and shor
+ tlisted applicants may be invited to an interview. | Fill in the Google 
+ Form to apply as a STREAM Team Specialist by Sunday — Form 3 to 5 studen
+ ts with expertise in Science\, Technology\, Reading/Writing\, Engineerin
+ g\, Arts\, or Math are welcome\, and interviews may follow.  (from Darre
+ n's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-students-association-official-and--2026-09-25
+DTSTAMP:20261025T080056
+DTSTART:20260925T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Students' Association - Official and Sub-Committee Membe
+ r Application
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 E
+ mail your completed application form to spczenthoria@gmail.com by 25 Sep
+ tember 23:59 — officials are open to F.1-F.5 and sub-committees to F.3-F
+ .5\, and late submissions will not be accepted. | Submit your completed 
+ application form to spczenthoria@gmail.com by 23:59 on Friday — late sub
+ missions will not be accepted\, and shortlisted applicants will be invit
+ ed to an interview. | Cast your vote for your favourite affiliated club 
+ via the Google Form by 23:59 on Sep 25 — your vote helps recognise outst
+ anding clubs at the Inauguration Ceremony. | Cast your vote for your fav
+ ourite affiliated club via the Google Form before the deadline — every s
+ tudent has the right to vote and can leave comments or suggestions.  (fr
+ om Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-integrated-humanities-territory-wi-2026-09-23
+DTSTAMP:20261025T080056
+DTSTART:20260923T080000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Integrated Humanities - Territory-wide Inter-school Nati
+ onal Security Knowledge Challenge (2026/27)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 C
+ omplete the online National Security Knowledge Challenge between 23 Sep 
+ and 7 Oct\, 8am–6pm — take a screenshot upon completion and submit it to
+  your IH-CES teacher. | Complete the online National Security Knowledge 
+ Challenge between 23 Sep and 7 Oct\, 8am–6pm — log in with your student 
+ account\, take a screenshot upon completion\, and ask your IH-CES teache
+ r for the link.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-integrated-humanities-territory-wi-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART:20261007T180000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Integrated Humanities - Territory-wide Inter-school Nati
+ onal Security Knowledge Challenge (2026/27)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 18:00 F
+ inish the online National Security Knowledge Challenge by 6pm on 7 Oct —
+  review the reference links on Google Classroom beforehand and remember 
+ to screenshot your result.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-cad-course-registration-2026-09-28
+DTSTAMP:20261025T080056
+DTSTART:20260928T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: CAD Course - Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
+ omplete the Google Form to register for the 12-week CAD course — spots a
+ re capped at 24 and allocated first-come\, first-served\, so sign up ear
+ ly to secure your place. | Complete the Google Form to register for the 
+ 12-week CAD course before 28 September 23:59 — spots are capped at 24 an
+ d allocated first-come\, first-served\, with lessons every Friday after 
+ school.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-10-24
+DTSTAMP:20261025T080056
+DTSTART:20261024T093000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 航天創科體驗日 @ HK Science Park 香港科學園
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:30 ·
+  📍 HK Science Park 香港科學園 Fill in the Google Form to join the aerospace i
+ nnovation day — visit InnoCarnival booths\, the Experience Centre\, and 
+ attend a youth aerospace workshop\; only selected participants will be c
+ onfirmed by 2 Oct.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-hk-phil-national-day-concert-2026-09-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260924
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - HK Phil National Day Concert: Zitong Wang Plays 
+ Prokofiev
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ is concert as a potential example for your Concert Report — check the pr
+ ogramme and take notes for your write-up. | Consider attending this conc
+ ert as a possible example for your concert report — it takes place today
+  and features Prokofiev performed by Zitong Wang.  (from Darren's Study 
+ Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-hong-kong-sinfonietta-kevin--2026-09-26
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260926
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Hong Kong Sinfonietta: Kevin Zhu Plays Lalo
+DESCRIPTION:Something happening on campus. Mark it and show up. Consider 
+ attending this concert for your Concert Report — it is a suitable exampl
+ e listed by your Music teacher. | Note this concert as a candidate for y
+ our concert report — Kevin Zhu performs Lalo with the Hong Kong Sinfonie
+ tta this Saturday.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-hong-kong-sinfonietta-reinho-2026-10-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261024
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Hong Kong Sinfonietta: Reinhold Friedrich Plays 
+ Weinberg Trumpet Concerto
+DESCRIPTION:Something happening on campus. Mark it and show up. This conc
+ ert is listed as a possible example for your Concert Report — plan ahead
+  if you wish to attend and write about it. | Keep this concert in mind a
+ s a concert report option — Reinhold Friedrich performs Weinberg's Trump
+ et Concerto with the Hong Kong Sinfonietta.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-final-fantasy-vii-remake-orc-2026-11-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261113
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - Final Fantasy VII REMAKE Orchestra World Tour
+DESCRIPTION:Something happening on campus. Mark it and show up. This conc
+ ert runs 13-14 Nov and is a listed example for your Concert Report — che
+ ck ticket availability and consider attending. | Consider this orchestra
+  world tour as a concert report example — it runs 13-14 November and fea
+ tures music from Final Fantasy VII REMAKE.  (from Darren's Study Pipelin
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-st-paul-s-college-175th-anni-2026-10-01
+DTSTAMP:20261025T080056
+DTSTART:20261001T163000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music - St. Paul's College 175th Anniversary Concert
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 A
+ ttend the 175th Anniversary Concert as a possible example for your Conce
+ rt Report — it starts at 4:30 PM on 1 Oct. | Mark this anniversary conce
+ rt as a possible concert report example — it starts at 4:30pm on 1 Octob
+ er and celebrates the college's 175th anniversary.  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-2026-10-24
+DTSTAMP:20261025T080056
+DTSTART:20261024T093000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - 航天創科體驗日 @ HK Science Park 香港科學園
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:30 ·
+  📍 HK Science Park 香港科學園 Sign up via the Google Form if you are interest
+ ed in this aerospace innovation day — it runs 9:30am to 2pm at HK Scienc
+ e Park on 24 October\, with only 20 spots and confirmation emails sent b
+ y 2 October.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-registr-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
+ e Google Form by 9 Oct if you want to join — the competition runs from t
+ he Kick Off Ceremony on 27 Feb 2027 through the Finale on 15 May 2027\, 
+ and teams will be formed after all registrations are collected. | Submit
+  the Google form by 9 Oct if you want to join — the competition runs fro
+ m the Kick Off Ceremony on 27 Feb 2027 through the Finale on 15 May 2027
+ \, and is open to F.3 to F.5 students.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-kick-of-2027-02-27
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270227
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Kick Off Ceremony
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e Kick Off Ceremony on 27 Feb 2027 (Saturday) — this marks the start of 
+ the 3-month STEM+E journey where you will work with senior business exec
+ utives and students from other schools. | Attend the Kick Off Ceremony o
+ n 27 Feb 2027 — this marks the start of the 3-month STEM+E journey with 
+ workshops\, coaching and case company meetings.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-solutio-2027-03-06
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270306
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Solution Pitching Workshop
+DESCRIPTION:Something happening on campus. Mark it and show up. Join the 
+ Solution Pitching Workshop on 6 Mar 2027 (Saturday) — it will help you s
+ harpen your entrepreneurial pitch before meeting the case companies. | J
+ oin the Solution Pitching Workshop on 6 Mar 2027 — it builds the pitchin
+ g skills you will need for the semi-final and finale.  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-meeting-2027-03-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270313
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Meeting with Case Companies
+  1
+DESCRIPTION:Something happening on campus. Mark it and show up. Prepare f
+ or your first meeting with the case companies on 13 Mar 2027 (Saturday) 
+ — review your initial ideas so you can make the most of the executives' 
+ guidance. | Prepare for your first meeting with the case companies on 13
+  Mar 2027 — review the business case beforehand so you can contribute me
+ aningfully.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-meeting-2027-03-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270320
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Meeting with Coaches 1
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e first coaches' meeting on 20 Mar 2027 (Saturday) — use this session to
+  refine your business case with expert feedback. | Meet your assigned co
+ ach on 20 Mar 2027 — bring your team's initial ideas and questions to ma
+ ke the most of the guidance.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-meeting-2027-04-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270410
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Meeting with Case Companies
+  2
+DESCRIPTION:Something happening on campus. Mark it and show up. Prepare f
+ or your second meeting with the case companies on 10 Apr 2027 (Saturday)
+  — incorporate the feedback from your coaches and first meeting. | Atten
+ d the second case company meeting on 10 Apr 2027 — use this session to r
+ efine your solution based on their feedback.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-meeting-2027-04-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270417
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Meeting with Coaches 2
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e second coaches' meeting on 17 Apr 2027 (Saturday) — finalise your solu
+ tion before the validation camp. | Join the second coach meeting on 17 A
+ pr 2027 — finalise your pitch and address any remaining gaps before the 
+ validation camp.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-i-t-sol-2027-04-24
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270424
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - I&T Solution Validation Day
+  Camp
+DESCRIPTION:Something happening on campus. Mark it and show up. Join the 
+ I&T Solution Validation Day Camp on 24 Apr 2027 (Saturday) — this is you
+ r chance to test and validate your solution before the Semi Final. | Par
+ ticipate in the I&T Solution Validation Day Camp on 24 Apr 2027 — this i
+ s your chance to stress-test your solution before the semi-final.  (from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-semi-fi-2027-05-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270508
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Semi Final
+DESCRIPTION:Something happening on campus. Mark it and show up. Prepare t
+ horoughly for the Semi Final on 8 May 2027 (Saturday) — deliver your bes
+ t pitch to secure a place in the Finale. | Compete in the Semi Final on 
+ 8 May 2027 — deliver a polished pitch to advance to the finale and prize
+  presentation.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stem-e-competition-2026-27-finale--2027-05-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270515
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STEM+E Competition 2026/27 - Finale & Prize Presentation
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e Finale & Prize Presentation on 15 May 2027 (Saturday) — this is the cu
+ lmination of the competition where results will be announced. | Attend t
+ he Finale & Prize Presentation on 15 May 2027 — this is the culminating 
+ event where winners are announced and prizes awarded.  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-robotics-team-regular-meeting-2026-09-23
+DTSTAMP:20261025T080056
+DTSTART:20260923T154500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Robotics Team - Regular Meeting @ Innovation Centre (6/F
+ )
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
+  📍 Innovation Centre (6/F) Attend the Robotics Team regular meeting at t
+ he Innovation Centre (6/F) on Wednesday from 15:45 to 17:00 — check the 
+ special timetable for adjusted times and come prepared to work on your b
+ uild.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-robotics-team-meeting-2026-09-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260909
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Robotics Team - Meeting @ Computer Room 1 (7/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Compute
+ r Room 1 (7/F) Head to Computer Room 1 (7/F) for today's Robotics Team m
+ eeting instead of the Innovation Centre — the usual room is reserved for
+  a teachers' meeting\, so don't go to the wrong place.  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-programming-team-selection-test-ap-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Programming Team - Selection Test Application
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
+ e Google Form to apply for the Programming Team selection test by 9 Octo
+ ber — late applications may not be accepted. If you cannot attend the sc
+ heduled test slot\, complete the form and contact Mr. Kwok or the team c
+ aptain. | Complete the Google Form to apply for the Programming Team sel
+ ection test by 9 October — if you cannot attend the scheduled slot\, sub
+ mit the form and contact Mr. Kwok or the team captain in 5F.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-ambassadors-briefing-sessi-2026-10-05
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261005
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English Ambassadors - Briefing Session
+DESCRIPTION:Something happening on campus. Mark it and show up. Watch Goo
+ gle Classroom for the exact date\, time\, and venue of the English Ambas
+ sadors briefing session next week — attendance is expected to learn your
+  roles and the activity calendar. Prepare any questions you may have for
+  Ms. Mohammad. | Attend the English Ambassadors briefing session next we
+ ek — it will outline your roles\, expectations\, and the activity calend
+ ar for the year. Watch Google Classroom for the exact date\, time\, and 
+ location.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-s-a-affiliated-clubs-registration-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART:20260930T175900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: S.A. Affiliated Clubs Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:59 S
+ ubmit the Club Registration Google Form by 17:59 on September 30 (Wednes
+ day) — late submissions will not be accepted. If your club already exist
+ s\, confirm with your club chief advisor before filling in the form. | S
+ ubmit the Club Registration Google Form by 17:59 on September 30 — late 
+ submissions will not be accepted. If you want to be a club chairman for 
+ an existing club\, confirm with the club chief advisor first before fill
+ ing in the form.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-chemistry-lesson-rescheduled-2026-10-05
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261005
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Chemistry - Lesson Rescheduled
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend Ch
+ emistry during Period 7-8 on Monday — Miss Kwok rearranged the lesson be
+ cause she will be away next Tuesday. | Note the new arrangement: Chemist
+ ry will be held on Monday\, 5 Oct during Periods 7-8 — check your timeta
+ ble and prepare accordingly. | Note the Chemistry lesson on Monday\, 5 O
+ ct\, Periods 7-8 — Ms. Kwok will be away next Tuesday\, so check the upd
+ ated schedule and come prepared. | Pack your Chemistry textbook and note
+ s for tomorrow — there is a Chemistry lesson at periods 7-8 and Ms. Kwok
+  expects everyone prepared.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ih-lesson-rescheduled-2026-10-06
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261006
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: IH - Lesson Rescheduled
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend IH
+  during Period 8 (WHY) and Period 9 (HYC) on Tuesday — the lessons were 
+ moved due to Miss Kwok's absence. | Note the new arrangement: IH will be
+  held on Tuesday\, 6 Oct with WHY in Period 8 and HYC in Period 9 — chec
+ k your timetable and prepare accordingly. | Attend IH on Tuesday\, 6 Oct
+ \, Period 8 (WHY) and Period 9 (HYC) — the teacher is away\, so follow t
+ he new arrangement and bring your materials.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ict-road-safety-steam-competition--2027-03-31
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270331
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: ICT - Road Safety STEAM Competition 2026-27
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of 1-6 and prepare a PowerPoint proposal plus a 3-minute video on a r
+ oad safety theme — submit by 31 March 2027 to compete for book vouchers 
+ and trophies. | Form a team of 1 to 6 members and prepare a PowerPoint p
+ roposal of no more than 15 slides plus a 3-minute video — choose from pe
+ destrian safety\, road safety education\, cycling safety\, or inattentiv
+ e driving prevention\, and email Mr. Q. Lee to register. | Form a team o
+ f 1 to 6 and submit a PowerPoint proposal plus a 3-minute video on one o
+ f the four road safety themes — email Mr. Q. Lee if you are interested i
+ n joining.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-math-hku-m-programme-reply-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Math - HKU M³ Programme Reply
+DESCRIPTION:Something happening on campus. Mark it and show up. Reply to 
+ Mr. Wan by Wednesday if you want to join the HKU M³ modules or the scree
+ ning test on 17 October — late replies may miss the enrolment.  (from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-8-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中三 中文 第8組 - 課堂
+DESCRIPTION:Something happening on campus. Mark it and show up. 記得今天上堂帶ip
+ ad，中文課堂需要用到，請準時帶齊。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-biology-society-x-igem-biotech-wor-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART:20261007T153000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Biology Society X iGEM - BioTech Workshop @ SPC Biology 
+ Lab 1 (4/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:30 ·
+  📍 SPC Biology Lab 1 (4/F) Sign up via the enrollment form to secure one
+  of 20 spots — you will conduct SynBio experiments with pipettes and gel
+  electrophoresis. First come\, first served. | Sign up via the enrollmen
+ t form to secure one of only 20 spots — the workshop runs 15:30-17:00 in
+  Biology Lab 1 and covers pipetting\, dye experiments\, and gel electrop
+ horesis. No prior knowledge needed\; all F1-F4 students welcome. | Sign 
+ up for the BioTech Workshop at Biology Lab 1 on 7 Oct (3:30-5:00 PM) — s
+ pots are limited to 20 students on a first-come-first-served basis\, so 
+ fill in the enrollment form early to secure your place.  (from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-filmit-2027-read-to-reel-informati-2026-10-08
+DTSTAMP:20261025T080056
+DTSTART:20261008T131500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Filmit 2027: Read to Reel - Information Session @ Histor
+ y Room
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
+  📍 History Room Attend the briefing at lunchtime (1:15 PM) or after scho
+ ol (3:45 PM) to learn about roles in scriptwriting\, directing\, and fil
+ m production. Join the Google Classroom (code: ymlehyhy) for updates. | 
+ Attend the Filmit 2027 briefing at lunchtime (1:15 PM) or after school (
+ 3:45 PM) in the History Room — no experience needed\, just bring your en
+ thusiasm for filmmaking.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-8-ipad-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART:20260930T081200
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中三 中文 第8組 - 課堂帶iPad
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:12 記
+ 得帶iPad上中文堂——老師提醒今日課堂需要使用電子設備，請提前充電並確認已安裝所需應用程式。 | 記得帶iPad上中文堂——老師提醒今日課堂需
+ 要使用電子設備，請提前充電並確認已安裝所需應用程式。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-filmit-2027-briefing-sessi-2026-10-08
+DTSTAMP:20261025T080056
+DTSTART:20261008T131500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English - Filmit 2027 Briefing Session @ History Room
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
+  📍 History Room 參加Filmit 2027短片比賽簡介會——10月8日午膳或放學後於歷史室舉行，歡迎對編劇、拍攝或演戲有興趣的同
+ 學出席。 | Attend the Filmit 2027 briefing at the History Room during luncht
+ ime (1:15 PM) or after school (3:45 PM) — this short film competition on
+  Hong Kong heritage is a great chance to explore scriptwriting\, directi
+ ng\, or acting. | Attend the Filmit 2027 briefing at the History Room du
+ ring lunchtime (1:15 PM) or after school (3:45 PM) — join the dedicated 
+ Google Classroom (code: ymlehyhy) to stay updated on this short film com
+ petition. | Attend the Filmit 2027 briefing at lunchtime (1:15 PM) or af
+ ter school (3:45 PM) in the History Room — learn how to take part in cel
+ ebrating Hong Kong's heritage through film.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-checkpoint-completion-brin-2026-10-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261002
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English - Checkpoint Completion (Bring Writing Booklet &
+  Grammar Booklet)
+DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
+ r Writing Booklet and Grammar Booklet to English class on Friday — you w
+ ill complete the Checkpoint together in class\, so having both booklets 
+ ready is essential. | Bring your Writing Booklet and Grammar Booklet to 
+ English class on Friday — you will complete the Checkpoint together in c
+ lass\, so come prepared with both booklets.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-ambassadors-briefing-sessi-2026-10-06
+DTSTAMP:20261025T080056
+DTSTART:20261006T131500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English Ambassadors Briefing Session @ 5/F Balcony
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
+  📍 5/F Balcony Attend the English Ambassadors briefing at 1:15 PM on the
+  5/F Balcony — eat lunch beforehand\, arrive on time\, and mark your att
+ endance with an English Society Committee member. If you cannot attend\,
+  email Ms Mohammad or the English Society Secretary Gordon Tung at least
+  one day in advance with a valid reason. | Attend the English Ambassador
+ s briefing at 1:15 PM on 6 October at the 5/F Balcony — eat lunch before
+ hand\, arrive on time\, and mark your attendance with a committee member
+ . | Attend the English Ambassadors briefing on Tuesday\, 6 October at 1:
+ 15 PM on the 5/F Balcony — eat lunch beforehand\, arrive on time\, and m
+ ark your attendance with an English Society Committee member. If you can
+ not attend\, email Ms Mohammad or the English Society Secretary Gordon T
+ ung (5D) at least one day in advance with a valid reason. | Head to the 
+ 5/F Balcony at 1:15 PM for a short 10–15 minute briefing — Ms Mohammad w
+ ill share key updates for English Ambassadors. | Attend the English Amba
+ ssadors briefing at 1:15 PM on the 5/F Balcony — Ms Mohammad will share 
+ key updates for the year\, so arrive on time. | Head to the 5/F Balcony 
+ at 1:15 PM tomorrow for the English Ambassadors briefing — Ms. Mohammad 
+ will share important updates for the programme.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-biotech-workshop-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART:20261007T153000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: BioTech Workshop @ Biology Lab 1 (4/F)
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:30 ·
+  📍 Biology Lab 1 (4/F) Attend the BioTech Workshop this Wednesday from 1
+ 5:30 to 17:00 in Biology Lab 1 — your application was successful\, so do
+ n't miss this hands-on opportunity. | Attend the BioTech Workshop this W
+ ednesday from 3:30 to 5:00 PM in Biology Lab 1 — your application was su
+ ccessful\, so don't miss this hands-on opportunity.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-3e-picnic-day-grouping-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261007
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 3E Picnic Day Grouping
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur picnic day grouping preferences by October 7 — the teacher needs the 
+ list to organize teams for the class outing. | Check the picnic day grou
+ ping spreadsheet and confirm your group before the 3:59 PM deadline — th
+ e class needs finalized groups for the outing.  (from Darren's Study Pip
+ eline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-cityuhk-science-patent-challenge-o-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART:20261009T174500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: CityUHK Science Patent Challenge - Online Information Se
+ ssion @ Online via Zoom
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
+  📍 Online via Zoom Join the online information session this Friday at 5:
+ 45 pm via Zoom to learn about the patent challenge — registration closes
+  on 7 October\, so sign up today if you're interested.  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-cityuhk-science-patent-challenge-i-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: CityUHK Science Patent Challenge - Intellectual Property
+  Workshop @ CityUHK Campus
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 CityUHK Campus Register for the IP workshop by 11 October — it runs f
+ rom 9:00 am to 12:30 pm at CityUHK Campus and covers patents and the inn
+ ovation-to-invention journey.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2026-11-04
+DTSTAMP:20261025T080056
+DTSTART:20261104T163000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健常識問答比賽2026 - 網上簡介會
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 如
+ 對職安健常識問答比賽有興趣，請於10月12日前填寫Google Form報名，網上簡介會將於11月4日下午4時30分舉行。 | 準時參加網上簡介
+ 會 — 下午4時30分至5時15分舉行，了解比賽詳情及規則。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2026-12-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261214
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健常識問答比賽2026 - 初賽 @ 職安局職安健學院 (新界青衣涌美路62號)
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 職安局職安健學
+ 院 (新界青衣涌美路62號) 初賽將於12月14日及15日在職安局職安健學院舉行，有興趣的同學請於10月12日前報名。 | 準時到達職安局職安健
+ 學院參加初賽 — 初賽於12月14日及15日舉行，請提前準備並確認比賽安排。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2027-03-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270302
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健常識問答比賽2026 - 總決賽 @ 待定
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 待定 總決賽將
+ 於2027年3月2日舉行，地點待定，請留意後續通知。 | 預留時間參加總決賽 — 地點待定，請留意後續通知。  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-optional-scmp-subscription-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English - Optional SCMP Subscription
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
+ e e-Notice form and a $250 cheque to your English teacher by 13 October 
+ — write your name\, class\, class number\, and 'HKM' on the back. Late s
+ ubmissions will not be accepted. | Complete the e-Notice form and submit
+  a $250 cheque to your teacher in class by next Tuesday — write your ful
+ l name\, class\, class number\, and core English teacher initials (HKM) 
+ on the back. Late submissions will not be accepted.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-cityuhk-science-patent-chal-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART:20261009T174500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - CityUHK Science Patent Challenge Online Informa
+ tion Session @ Online via Zoom
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
+  📍 Online via Zoom Register for the online information session by 7 Octo
+ ber — it runs 9 October 5:45–6:15 pm via Zoom and explains how to enter 
+ the patent challenge.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-cityuhk-intellectual-proper-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - CityUHK Intellectual Property Workshop @ CityUH
+ K Campus
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 CityUHK Campus Sign up for the IP workshop by 11 October — it runs 17
+  October 9:00 am–12:30 pm at CityUHK and earns a Certificate of Completi
+ on.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-11-04
+DTSTAMP:20261025T080056
+DTSTART:20261104T163000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健 - 網上簡介會
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 報
+ 名參加職安健常識問答比賽的網上簡介會，11月4日下午4時30分至5時15分舉行，了解比賽詳情。  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健 - 常識問答比賽報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 有興趣參加職安健常
+ 識問答比賽的同學，請於10月12日前填寫Google Form報名，每隊3至5人。 | 放學後出校門先打電話俾媽媽，然後自己去中醫診所打脈拿藥。
+ 今日一定要去，因為聽日中醫師放假唔喺診所。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 職安健常識問答比賽2026 - 報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 填寫 Google
+  form 報名參加職安健常識問答比賽 — 截止日期為10月12日，比賽旨在提升職安健水平，有興趣的同學請盡快報名。  (from Darren
+ 's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-cityuhk-science-patent-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART:20261007T174500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - CityUHK Science Patent Challenge Online In
+ formation Session @ Online via Zoom
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
+  📍 Online via Zoom Register via the link by 7 October if you want to lea
+ rn how patents turn ideas into inventions — the session runs 5:45–6:15 p
+ m in Cantonese with English slides.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-cityuhk-science-patent-2026-10-11
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261011
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - CityUHK Science Patent Challenge IP Worksh
+ op Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Sign up f
+ or the Intellectual Property Workshop by 11 October — it runs 17 October
+ \, 9:00 am–12:30 pm at CityUHK Campus and earns a Certificate of Complet
+ ion.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-cityuhk-science-patent-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T090000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - CityUHK Science Patent Challenge Intellect
+ ual Property Workshop @ CityUHK Campus
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
+  📍 CityUHK Campus Attend the workshop delivered by a Patent Attorney cov
+ ering patents\, real-life cases\, and the innovation-to-invention journe
+ y — complete it to receive a Certificate of Completion.  (from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-2026-2027-2026-12-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261215
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - 「綠色空間　由我創造」學生比賽 2026-2027 校內報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 校內報名截止日期為
+ 12月15日（星期二）— 組隊（最多6人）或個人參賽，組長需收集姓名、班別、電話及電郵後聯絡郭老師報名。  (from Darren's Stu
+ dy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-2026-2026-10-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM - 2026 青少年創科實踐挑戰賽報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 於10月30日或之
+ 前填寫報名表格 — 以生成式AI製作海洋（初中）或五個主題（高中）的影片，詳見附件指引。  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-2026-2027-2026-12-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261215
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - 「綠色空間 由我創造」學生比賽 2026-2027 校內報名
+DESCRIPTION:Something happening on campus. Mark it and show up. 有興趣參加綠色建築
+ 比賽的同學，請於12月15日或之前組成最多6人小隊，並將中英文姓名、班別班號、手機號碼及電郵交予老師作校內報名。  (from Darren's
+  Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-2026-2026-10-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - 2026 青少年創科實踐挑戰賽報名
+DESCRIPTION:Something happening on campus. Mark it and show up. F.1至F.5同學
+ 可以個人或小組形式參賽，用生成式AI製作海洋或五大主題影片，請於10月30日或之前填妥報名表，如需負責老師資料可電郵老師查詢。  (from D
+ arren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2026-10-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 2026 青少年創科實踐挑戰賽
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur application form on or before 30 Oct — use gen AI to create a video a
+ bout ocean themes and email the teacher-in-charge for details.  (from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-2027-2026-12-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261215
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 「綠色空間　由我創造」學生比賽 2026-2027
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am of up to 6 students and approach the teacher for group registration b
+ y 15 Dec — gather names\, class\, phone\, and email for the green buildi
+ ng competition.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ole-team-executive-committee-recru-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART:20261016T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: OLE Team Executive Committee Recruitment 2026-2027
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 S
+ ubmit your application form by 16 October 2026 (Friday) 23:59 — a compul
+ sory face-to-face interview follows for shortlisted Form 3 and Form 4 ca
+ ndidates. | Submit your application form by 16 October 2026 (Friday) 23:
+ 59 — a compulsory face-to-face interview will follow for shortlisted For
+ m 3 and Form 4 candidates.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-ambassadors-spc-national-a-2026-10-14
+DTSTAMP:20261025T080056
+DTSTART:20261014T130500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English Ambassadors - SPC National and World History Gam
+ e Show (F1) @ 6/F History Room
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
+  📍 6/F History Room F1 English Ambassadors should arrive at the 6/F Hist
+ ory Room by 1:05 PM — eat lunch beforehand and mark your attendance with
+  an English Society Committee member on arrival. | Attend the English So
+ ciety activity at 1:00 PM in the 6/F History Room on 14 October — mark y
+ our attendance upon arrival and arrive promptly as the activity commence
+ s at 1:05 PM. | Mark your attendance with an English Society Committee m
+ ember upon arrival at the 6/F History Room — have lunch beforehand and a
+ rrive by 1:00 PM since the activity starts at 1:05 PM. If you cannot att
+ end\, email Ms. Mohammad or Gordon Tung (5D) today with a valid reason. 
+ | Attend the English Society activity at 1:00 PM in the 6/F History Room
+  — mark your attendance with a committee member on arrival and arrive pr
+ omptly as the session begins at 1:05 PM.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-english-ambassadors-spc-national-a-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART:20261015T130500
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: English Ambassadors - SPC National and World History Gam
+ e Show (F2) @ 6/F History Room
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
+  📍 6/F History Room F2 English Ambassadors should arrive at the 6/F Hist
+ ory Room by 1:05 PM — eat lunch beforehand and mark your attendance with
+  an English Society Committee member on arrival. | Attend the English So
+ ciety activity at 1:00 PM in the 6/F History Room on 15 October — mark y
+ our attendance upon arrival and arrive promptly as the activity commence
+ s at 1:05 PM. | Mark your attendance with an English Society Committee m
+ ember upon arrival at the 6/F History Room — have lunch beforehand and a
+ rrive by 1:00 PM since the activity starts at 1:05 PM. If you cannot att
+ end\, email Ms. Mohammad or Gordon Tung (5D) today with a valid reason. 
+ | Attend the English Society activity at 1:00 PM in the 6/F History Room
+  — have your lunch beforehand\, mark your attendance on arrival\, and em
+ ail Ms Mohammad or Gordon Tung by today if you cannot attend.  (from Dar
+ ren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T150000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 中國歷史 - 舞台劇「無名碑」 @ 牛池灣文娛中心文娛廳
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:00 ·
+  📍 牛池灣文娛中心文娛廳 請於10月14日早上8:30前交$100現金或支票給中史科老師報名——名額有限，出席後費用將全數退還，記得穿校服出席
+ 。 | 如想參加，請於10月14日早上8:30前交$100現金或支票俾中史科老師，名額有限。活動當日必須穿校服，下午3時在牛池灣文娛中心文娛廳集
+ 合，出席後費用全數退還。 | Submit $100 cash or cheque to your Chinese History teache
+ r by 8:30 am on 14 Oct to secure your ticket — the school will fully ref
+ und the fee after you attend\, and you must wear your school uniform to 
+ the 3:00 pm performance on 17 Oct.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-scmp-subscription-cheque-submissio-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: SCMP Subscription Cheque Submission
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur SCMP subscription cheque to Ms. Mou in person tomorrow — this is the 
+ final deadline and late submissions will not be accepted. | Submit your 
+ SCMP subscription cheque to Ms. Mou in person tomorrow — this is the fin
+ al deadline\, so don't miss it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-175th-anniversary-open-day-helper--2026-10-21
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261021
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 175th Anniversary Open Day Helper Sign-Up
+DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
+ ia the Google Form by next Wednesday (21/10) to help run STREAM game boo
+ ths and workshops — your support makes the 175th Open Day a success.  (f
+ rom Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-stream-team-175th-anniversary-open-2026-10-21
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261021
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: STREAM Team - 175th Anniversary Open Day Helper Sign-Up
+DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
+ ia the Google Form by next Wednesday (21/10) to help run the STREAM game
+  booths and workshops — your support makes the 175th Open Day a success.
+  | Fill in the Google Form by next Wednesday (21/10) if you want to help
+  run STREAM game booths and workshops — your support will make the 175th
+  Open Day a success.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-robotics-team-meeting-rescheduled-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261020
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Robotics Team Meeting (Rescheduled)
+DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
+ e Robotics Team meeting on Tuesday\, 20th October — it has been moved fr
+ om Wednesday to Tuesday\, so update your schedule accordingly. | Attend 
+ the Robotics Team meeting on Tuesday\, 20th October — it has been resche
+ duled from Wednesday\, so update your schedule accordingly.  (from Darre
+ n's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-10-18
+DTSTAMP:20261025T080056
+DTSTART:20261018T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 課外活動 - 聯屬學會報名
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 把
+ 握機會在10月18日晚上11時59分前填寫Google Form報名參加聯屬學會，豐富校園生活。  (from Darren's Study P
+ ipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART:20261020T160000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 心理學及攝影治療工作坊 @ CSD
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
+  📍 CSD 工作坊於10月20日下午4時至6時在CSD舉行，名額20人，費用全免，請帶備iPad或智能手機，並盡快填寫Google Form報
+ 名。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-psychology-and-photography-therapy-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART:20261020T160000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Psychology and Photography Therapy Workshop @ CSD
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
+  📍 CSD Register now via the Google Form — only 20 spots are available an
+ d it's first come\, first served. Bring your iPad or smartphone to explo
+ re emotions through photography with Mr. Corum Chu. | Attend the Psychol
+ ogy and Photography Therapy Workshop at the CSD from 16:00 to 18:00 — br
+ ing your iPad or smartphone to explore emotions through photography. | A
+ ttend the workshop at the CSD from 16:00 to 18:00 — bring your iPad or s
+ martphone to explore photography as emotional expression. Spots were lim
+ ited to 20 students.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-affiliated-clubs-online-enrolment-2026-10-18
+DTSTAMP:20261025T080056
+DTSTART:20261018T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Affiliated Clubs Online Enrolment
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
+ omplete the Google Form by this Sunday 18 Oct at 11:59 p.m. to sign up f
+ or an affiliated club. Join at least one club but be mindful of your sch
+ edule.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-27-2026-12-15
+DTSTAMP:20261025T080056
+DTSTART:20261215T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 國民身份認同應用程式設計比賽2026/27 - 校內報名
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 於
+ 12月15日或之前完成校內報名，可個人或組隊參加（每隊最多4人），主題圍繞歷史與自然、體育和藝術等。 | MENTOR NOTE: 請於12月1
+ 5日前完成校內報名，個人或組隊（每隊最多4人）參加均可。比賽主題涵蓋歷史與自然、體育和藝術、文化遺產、科技及航天等，是展現創新科技與認識國家的好
+ 機會。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-27-2027-04-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270410
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 國民身份認同應用程式設計比賽2026/27 - 決賽
+DESCRIPTION:Something happening on campus. Mark it and show up. 入圍隊伍需於202
+ 7年4月10日（星期六）以視像形式參與15分鐘評審面試，請提前準備演示內容。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-ole-team-executive-committee-recru-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART:20261020T235900
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: OLE Team Executive Committee Recruitment 2026-2027 - 申請
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 於
+ 10月20日晚上11時59分前提交OLE Team執行委員會申請表，入圍者需參加面試。 | Submit your OLE Team Execu
+ tive Committee application form by 23:59 on Tuesday\, 20 October — the d
+ eadline has been extended\, and shortlisted candidates will be invited f
+ or a compulsory face-to-face interview.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-27-internal-registration-2026-12-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261215
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 國民身份認同應用程式設計比賽2026/27 - Internal Registration
+DESCRIPTION:Something happening on campus. Mark it and show up. Register 
+ your team of up to 4 members for the National Identity App Design Compet
+ ition by 15 December — explore topics like history\, sports\, arts\, or 
+ technology and prepare to submit your app concept.  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-2026-27-internal-product-submissio-2027-01-04
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270104
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 國民身份認同應用程式設計比賽2026/27 - Internal Product Submission
+DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
+ ur 300-word app introduction PDF and presentation slides by 4 January — 
+ your work should explain how the app promotes national identity and will
+  be evaluated for the preliminary round.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-music-festival-fee-cheque-submissi-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261020
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Music Festival Fee Cheque Submission @ 3/F staff room
+DESCRIPTION:Something happening on campus. Mark it and show up. 📍 3/F sta
+ ff room Submit your Music Festival fee cheque to Mr. Koo in the 3/F staf
+ f room during 1st recess — late submissions will not be accepted.  (from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-psychology-and-photography-therapy-2026-10-19
+DTSTAMP:20261025T080056
+DTSTART:20261019T200000
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Psychology and Photography Therapy Workshop Application
+DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 20:00 S
+ ubmit your application form for the workshop before the deadline — spots
+  are limited to 20 students on a first come\, first served basis.  (from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-3e-picnic-day-whatsapp-contact-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261017
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: 3E 中國歷史 - Picnic Day WhatsApp contact
+DESCRIPTION:Something happening on campus. Mark it and show up. Save the 
+ Picnic Day WhatsApp contact for emergency use only — it was shared on Cl
+ assroom and is not for general chatting.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-event-student-innovation-competition-202-2027-01-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270108
+CATEGORIES:Event
+COLOR:#33B679
+X-APPLE-CALENDAR-COLOR:#33B679
+SUMMARY:🎉 EVENT: Student Innovation Competition 2026/27 Application
+DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
+ am and submit the completed application form to your teacher by 8 Jan 20
+ 27 — this competition lets you develop innovative solutions for family\,
+  campus\, and community challenges. | Form a team with classmates from t
+ he same school and prepare an original project addressing real needs in 
+ family\, campus\, or community settings. Submit the application excel to
+  Ms Kwok by email before the internal deadline of 8 January 2027 — this 
+ is your chance to showcase innovation and represent the school.  (from D
+ arren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
