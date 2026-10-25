@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-test-mathematics-team-selection-test-2026-09-11
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART:20260911T143000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -27,7 +27,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:30 · 📍 6/F Histo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-singing-exam-2026-11-09
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261109
 CATEGORIES:Test
 COLOR:#EA4335
@@ -40,7 +40,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your singing p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-instrumental-exam-2027-03-02
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Test
 COLOR:#EA4335
@@ -53,7 +53,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your instrumen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-07
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -66,7 +66,7 @@ DESCRIPTION:Time to prep — here's what you've got. 記得準備閱讀評估（
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-10
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -78,7 +78,7 @@ DESCRIPTION:Time to prep — here's what you've got. 準備9月10日的地圖測
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-2026-08-31
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Test
 COLOR:#EA4335
@@ -90,7 +90,7 @@ DESCRIPTION:Time to prep — here's what you've got. Complete the music the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-06-01
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -101,7 +101,7 @@ DESCRIPTION:Time to prep — here's what you've got. 查閱單元九測驗參考
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch10-test-sin-cos-tan-2026-05-19
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -114,7 +114,7 @@ DESCRIPTION:Time to prep — here's what you've got. Revise Chapter 10 on s
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-2026-05-20
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -127,7 +127,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-day-2-2026-05-21
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -139,7 +139,7 @@ DESCRIPTION:Time to prep — here's what you've got. Sit the second Chapter
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-2026-09-07
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -151,7 +151,7 @@ DESCRIPTION:Time to prep — here's what you've got. Submit your summer rea
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-1-test-laws-of-integra-2026-09-17
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
@@ -161,36 +161,25 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
  r 1 Test on 17 September (Thursday) — it covers Laws of Integral Indices
  \, Scientific Notation\, and the Binary Number System. Review your class
   notes and practice the short division algorithm for denary-to-binary co
- nversions.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-maths-chapter-1-test-laws-of-integr-2026-09-17
-DTSTAMP:20261025T183057
-DTSTART;VALUE=DATE:20260917
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Maths - Chapter 1 Test (Laws of Integral Indices)
-DESCRIPTION:Time to prep — here's what you've got. Revise scientific nota
- tion and the binary number system tonight — the Chapter 1 test covers La
- ws of Integral Indices and is on 17 September (Thursday).  (from Darren'
- s Study Pipeline)
+ nversions. | Revise scientific notation and the binary number system ton
+ ight — the Chapter 1 test covers Laws of Integral Indices and is on 17 S
+ eptember (Thursday).  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-2026-10-15
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 3E 中國歷史 - 測驗一
 DESCRIPTION:Time to prep — here's what you've got. 中國歷史測驗一將於 2026 年 10 月 
- 15 日（星期四）舉行，範圍為 P.4–P.39，題型包括選擇題及資料題，請提前溫習。  (from Darren's Study Pipeli
- ne)
+ 15 日（星期四）舉行，範圍為 P.4–P.39，題型包括選擇題及資料題，請提前溫習。 | 測驗範圍為P.4至P.39，題型包括選擇題及資料題。
+ 請提前溫習課本內容，並留意老師在課堂上的補充說明。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-p-4-p-39-2026-10-15
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -200,19 +189,8 @@ DESCRIPTION:Time to prep — here's what you've got. 溫習課本第4至39頁，
  ，請提早準備以免臨急抱佛腳。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-test-2026-10-15
-DTSTAMP:20261025T183057
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 中國歷史 - 測驗一
-DESCRIPTION:Time to prep — here's what you've got. 測驗範圍為P.4至P.39，題型包括選擇題及
- 資料題。請提前溫習課本內容，並留意老師在課堂上的補充說明。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-test-hku-m-programme-screening-test-2026-10-17
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART:20261017T140000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -229,7 +207,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:00 Sit the HKU M³
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-2-test-2026-10-15
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -262,7 +240,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-programming-team-selection-test-2026-10-12
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART:20261012T154500
 CATEGORIES:Test
 COLOR:#EA4335
@@ -280,7 +258,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 15:45 · 📍 CR1 and C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-05
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
@@ -293,7 +271,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀《阿Q正傳》並�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-physics-chapter-1-2026-10-16
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
@@ -307,7 +285,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-q-2026-10-09
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -318,7 +296,7 @@ DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-ih-ces-revision-test-2026-10-30
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
@@ -326,24 +304,14 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: IH-CES - Revision Test
 DESCRIPTION:Time to prep — here's what you've got. Revise the learning fo
  cuses for the IH-CES Revision Test on 30 October — review all key topics
-  covered in class. | 溫習學習重點準備測驗 — 測驗於10月30日進行，請參考老師提供的學習重點。  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-ih-ces-module-3-1-revision-test-2026-10-30
-DTSTAMP:20261025T183057
-DTSTART;VALUE=DATE:20261030
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: IH-CES - Module 3.1 Revision Test
-DESCRIPTION:Time to prep — here's what you've got. Review the Module 3.1 
- learning focuses for the revision test on 30 October — this is the secon
- d of two F.3 IH-CES assessments.  (from Darren's Study Pipeline)
+  covered in class. | 溫習學習重點準備測驗 — 測驗於10月30日進行，請參考老師提供的學習重點。 | Review the
+  Module 3.1 learning focuses for the revision test on 30 October — this 
+ is the second of two F.3 IH-CES assessments.  (from Darren's Study Pipel
+ ine)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-09
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -358,7 +326,7 @@ DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-08
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Test
 COLOR:#EA4335
@@ -369,7 +337,7 @@ DESCRIPTION:Time to prep — here's what you've got. 明天進行《阿Q正傳�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-singing-exam-because-he-lives-2026-10-26
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
@@ -385,7 +353,7 @@ DESCRIPTION:Time to prep — here's what you've got. 揀一首詩歌，同另一
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-2026-10-20
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -397,7 +365,7 @@ DESCRIPTION:Time to prep — here's what you've got. 下星期二將進行《爸
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-10-20
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -415,7 +383,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀劉紹銘《吃馬鈴
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-chapter-3-factorization-2026-11-05
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
@@ -433,7 +401,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare steadily for t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chemistry-ch1-2-test-correction-2026-10-21
-DTSTAMP:20261025T183057
+DTSTAMP:20261025T183534
 DTSTART:20261021T003000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -442,6 +410,9 @@ SUMMARY:📝 TEST: Chemistry Ch1-2 Test Correction
 DESCRIPTION:Time to prep — here's what you've got. ⏰ 00:30 Complete your 
  Ch1-2 test corrections and submit them by the deadline — reviewing your 
  mistakes now will strengthen your understanding before the next assessme
- nt.  (from Darren's Study Pipeline)
+ nt. | Complete your corrections for the Chapter 1-2 Chemistry test and s
+ ubmit them by 21 October. Reviewing your mistakes carefully will strengt
+ hen your understanding before the next assessment.  (from Darren's Study
+  Pipeline)
 END:VEVENT
 END:VCALENDAR
