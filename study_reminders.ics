@@ -4,257 +4,899 @@ PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:study-yat-lung-chow-classroom-graded-unit-6-2026-05-26
-DTSTAMP:20260901T212221
+UID:study-reminder-chemistry-lab-rules-2026-09-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - Lab Rules
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
+ b Rules material posted on Google Classroom — familiarise yourself with 
+ the safety guidelines before your next practical session. | 查閱實驗室規則，確保安全
+ 及遵守實驗室守則。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-integrated-humanities-curriculu-2026-09-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260903
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Integrated Humanities - Curriculum and Assessment Det
+ ails
+DESCRIPTION:A regular reminder worth keeping on your radar. Read the atta
+ ched IH curriculum and assessment documents carefully — they outline the
+  scope and grading for the whole year. | Check Google Classroom regularl
+ y — IH curriculum\, exam notices\, and competition information will be p
+ osted here throughout the year. | Download and review the IH curriculum 
+ and assessment PDFs from Google Classroom — they detail the full-year sy
+ llabus and grading scheme.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-09-04
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260904
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 全年影印費用
+DESCRIPTION:A regular reminder worth keeping on your radar. 明天請帶備150元回校繳交
+ 中文科全年影印費用 — 請準時交給中文科老師。 | 明天請帶備150元回校繳交中文科全年影印費用 — 請準時交齊，以免影響課堂材料派發。  (f
+ rom Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-09-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260902
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中三中文 - 學習中文常用網站
+DESCRIPTION:A regular reminder worth keeping on your radar. 收藏這些中文學習網站——字
+ 典、粵語讀音和古詩文選讀資源，對你的中文學習很有幫助。 | 查看Google Classroom上的中三上冊教材，為接下來的普通話課做好準備。 
+ | 填寫樂器音樂資料提交表格——老師需要這些資訊來安排本學年的音樂課程。 | 溫習暑期閱讀測驗筆記中的孟子部分，為中文測驗做好準備。 | 盡快填
+ 寫樂器音樂資料提交表格——老師需要這些資訊來安排本學年的音樂課程。 | 收藏這些中文學習網站——字典、粵語讀音和古詩文選讀資源，對你的中文學習很
+ 有幫助。 | 按時完成暑期作業並於九月二日或之前提交——這份作業涵蓋本學年重點內容，準時完成有助你開學後順利銜接課程。  (from Darre
+ n's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-8-2026-09-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260902
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中三中文第8組 - 上課地點通知 @ GP3 (五樓圖書館那邊)
+DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (五樓圖書館那
+ 邊) 記住中三中文第8組在GP3上課，即五樓圖書館那邊——下次上課直接去正確的課室。  (from Darren's Study Pipelin
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ih-ces-2026-09-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260902
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: IH-CES - 課堂資訊及課本安排
+DESCRIPTION:A regular reminder worth keeping on your radar. 記住星期一第7節和星期五第
+ 5節是IH-CES課——每次上課要帶CES課本。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-f-3-26-27-english-google-classr-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: F.3 26-27 English Google Classroom
+DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
+ ogle Classroom invitation from Mr. Thapa Magar to join F.3 26-27 English
+  — all class materials and announcements will be posted there.  (from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-3e-ict-a-google-classroom-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 3E ICT-A Google Classroom
+DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
+ ogle Classroom invitation from Mr. Kwok to join 3E ICT-A — course resour
+ ces and assignments will be shared through this class.  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-f3gp8-pth-2627-google-classroom-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: F3GP8-PTH-2627 第八組 Google Classroom
+DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
+ ogle Classroom invitation from Mr. Yiu to join F3GP8-PTH-2627 第八組 — puto
+ nghua class materials and notices will be posted there.  (from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-8-26-27-google-classroom-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中三 中文 第8組 26-27 Google Classroom
+DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
+ ogle Classroom invitation from Mr. Chu to join 中三中文第8組 — Chinese languag
+ e assignments and announcements will be shared through this class.  (fro
+ m Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-3e-music-first-lesson-venue-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 3E Music First Lesson Venue
+DESCRIPTION:A regular reminder worth keeping on your radar. Stay in your 
+ own classroom for the first Music lesson — your teacher will give furthe
+ r instructions there.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-8-2026-09-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260901
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中三中文第8組上課地點 @ GP3 (5/F near the Library)
+DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (5/F ne
+ ar the Library) 中三中文第8組的課堂在GP3（五樓圖書館那邊）進行，請準時前往正確地點上課。  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-stream-team-member-2026-27-2026-08-31
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260831
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: STREAM Team Member 2026-27 招募
+DESCRIPTION:A regular reminder worth keeping on your radar. 請填寫Google For
+ m申請繼續參加STREAM Team，初級同學須完成至少一項STREAM活動、工作坊或校外比賽，高級同學須完成至少一項校外比賽，方可於學年末獲認
+ 可為隊員。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-junior-mathematics-subject-outl-2026-08-28
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260828
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Junior Mathematics Subject Outline
+DESCRIPTION:A regular reminder worth keeping on your radar. 請查閱Junior Mat
+ hematics Subject Outline.pdf並加入Goodnotes Classroom，以掌握本學年數學科的課程範圍及要求。  (
+ from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-27-3e-chemistry-google-cla-2026-08-27
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260827
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 2026-27 3E Chemistry Google Classroom 邀請
+DESCRIPTION:A regular reminder worth keeping on your radar. 請接受2026-27 3E
+  Chemistry的Google Classroom邀請，以便接收化學科的課堂資訊及教材。  (from Darren's Study Pip
+ eline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-07-06
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260706
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 《文苑》第二期出版
+DESCRIPTION:A regular reminder worth keeping on your radar. 瀏覽最新一期校報《文苑》，
+ 內有中文部精選文章、英文部專欄及活動精華報道，透過連結閱讀完整內容以擴闊視野。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-steam-team-project-portfolio-su-2026-07-04
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260704
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: STEAM Team - Project Portfolio Submission
+DESCRIPTION:A regular reminder worth keeping on your radar. Publish your 
+ work or open source code at the STEAM Team Project Portfolio — check the
+  official homepage to see competitions and achievements not posted on th
+ e school Facebook.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-steam-team-project-portfolio-an-2026-07-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260703
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: STEAM Team - Project Portfolio and Achievements
+DESCRIPTION:A regular reminder worth keeping on your radar. Visit the STE
+ AM Team official homepage to publish your project work and browse the Ac
+ hievement section — it showcases competitions not featured on the school
+  Facebook.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-05-27
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260527
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 文言練習及閱理練習答案更新
+DESCRIPTION:A regular reminder worth keeping on your radar. 查閱已更新的文言練習答案清
+ 晰版本及今天的閱理練習答案，核對自己的作答並修正錯誤。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ces-module-2-4-ws-2-2026-05-27
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260527
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: CES - Module 2.4 WS 2 佳作參考
+DESCRIPTION:A regular reminder worth keeping on your radar. 查看 CES Module
+  2.4 WS 2 的佳作範例，參考同學的答題方式以改進自己的作業。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ih-history-and-ces-pre-exam-rev-2026-05-26
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Yat Lung CHOW (Classroom) - Graded: Unit 6
-DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 9:0
- 4 AM with score 6/10 | Comment at 8:41 AM: 'Where is your work\, or who 
- are your groupmates?' | Comment at 9:00 AM: 'Please upload your work as 
- soon as possible' | Comment at 9:04 AM: 'Thank you'  (from Darren's Stud
- y Pipeline)
+SUMMARY:📌 REMINDER: IH - History and CES Pre-Exam Revision
+DESCRIPTION:A regular reminder worth keeping on your radar. 下載 History 及 
+ CES 的考試前溫習資料，盡早開始複習以準備考試。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-pui-wing-cheung-classroom-graded-listeni-2026-05-26
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260526
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Pui Wing CHEUNG (Classroom) - Graded: Listening Assessm
- ent 4 LB p. 84-85
-DESCRIPTION:A regular reminder worth keeping on your radar. Graded at 8:5
- 1 AM with score 26/33  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-man-wai-catherine-wong-basic-environment-2026-06-06
-DTSTAMP:20260901T212221
-DTSTART:20260606T170000
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Man Wai\, Catherine WONG - Basic Environmental Badge Go
- ogle Form Due
-DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 17:00 Fill 
- in Google Form by this Saturday (6th June) 17:00. Posted 2026-06-02.  At
- tached: 📎 https://forms.gle/DYrmXrZa2PM742kH9: https://ward-remainder-ma
- ke-apt.trycloudflare.com/attachments/https-forms-gle-dyrmxrza2pm742kh9-m
- an-wai-catherine-wong-basic-environment  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-student-ambassadors-recruitment-postpone-2026-07-02
-DTSTAMP:20260901T212221
-DTSTART:20260702T084200
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Student Ambassadors Recruitment - Postponed Program
-DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:42 AM Pr
- ogram postponed due to low applications. Reply deadline was 2026-06-25 (
- before posted date).  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2b-mathematics-extra-practices-for-next--2026-07-02
-DTSTAMP:20260901T212221
-DTSTART:20260702T080400
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 2B Mathematics - Extra Practices for Next Year
-DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:04 AM Ad
- ditional practice materials shared for upcoming academic year.  (from Da
- rren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-unit-9-test-reference-answers-2026-05-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260531
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Chinese - Unit 9 Test Reference Answers
-DESCRIPTION:A regular reminder worth keeping on your radar. Reference ans
- wers for Unit 9 test uploaded for review | Uploaded on May 31  (from Dar
- ren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-25-26-4-bring-textbooks-to-class-2026-05-03
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260503
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 25-26_中文科_中二第(4)組 - Bring textbooks to class
-DESCRIPTION:A regular reminder worth keeping on your radar. Remember to b
- ring textbooks to class today  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study--2026-05-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260531
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 成語
-DESCRIPTION:A regular reminder worth keeping on your radar. Student inqui
- ry about idiom coverage.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-music-notes-2026-05-30
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260530
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Music Notes
-DESCRIPTION:A regular reminder worth keeping on your radar. Student reque
- sting missing music notes.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-hiu-yee-joyce-chan-good-work-hist-topic--2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Hiu Yee\, Joyce CHAN - Good work: Hist Topic 6 WS1
-DESCRIPTION:A regular reminder worth keeping on your radar. New material 
- posted for 2025-2026 2B IH - HIST & CES  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-my-dear-2b-students-so-glad-to-2026-07-10
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260710
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: My dear 2B students\, So glad to…
-DESCRIPTION:A regular reminder worth keeping on your radar. Farewell anno
- uncement from Miss Lam to 2B students. Posted date is the announcement d
- ate. | Duplicate farewell announcement from 2B ICT (Miss Lam). Posted da
- te is the announcement date.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-music-notes-renaissance-baroque-period-p-2026-05-30
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260530
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Music Notes - Renaissance & Baroque Period PDFs
-DESCRIPTION:A regular reminder worth keeping on your radar. Darren Chan r
- equesting missing music note PDFs for two PowerPoint presentations.  (fr
- om Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-f-2-english-final-exam-revision-answer-k-2026-05-29
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260529
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: F.2 English - Final Exam Revision Answer Key
-DESCRIPTION:A regular reminder worth keeping on your radar. Answer key fo
- r Final Exam Revision Exercises attached\; review before exam.  (from Da
- rren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-chinese-29-5-2026-05-29
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260529
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Chinese - 29/5_積少成多_楊橋掃瞄版
-DESCRIPTION:A regular reminder worth keeping on your radar. Scanned pract
- ice materials and answer key for classical Chinese exercises.  (from Dar
- ren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-f-2-english-crp-answers-units-3-4-2026-05-29
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260529
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: F.2 English - CRP Answers (Units 3 & 4)
-DESCRIPTION:A regular reminder worth keeping on your radar. Answer key fo
- r CRP Units 3 & 4 provided as new material.  (from Darren's Study Pipeli
- ne)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-2425f2t2paper1sectionams-2026-05-28
-DTSTAMP:20260901T212221
+UID:study-reminder-2026-05-28
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 2425F2T2Paper1SectionAMS
-DESCRIPTION:A regular reminder worth keeping on your radar. Unidentified 
- paper submission from Darren Chan\; no additional details provided.  (fr
- om Darren's Study Pipeline)
+SUMMARY:📌 REMINDER: 中文 - 中二作文溫習重點
+DESCRIPTION:A regular reminder worth keeping on your radar. 預先閱讀 5月28日課堂上
+ 將重溫的作文溫習重點，為課堂討論做好準備。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-26-6-2026-06-26
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260626
+UID:study-reminder-2025-2026-05-27
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 25-26_中文科_中二第(4)組 - 26/6_課堂閱讀
-DESCRIPTION:A regular reminder worth keeping on your radar. Reading mater
- ial for class.  (from Darren's Study Pipeline)
+SUMMARY:📌 REMINDER: 中文 - 2025閱理練習答案參考
+DESCRIPTION:A regular reminder worth keeping on your radar. 查閱上星期完成的 2025
+  閱理練習參考答案及分析，核對自己的答案並理解答題思路。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-unit-9-test-answers-2026-05-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260531
+UID:study-reminder-integrated-humanities-f-3-ih-cu-2026-09-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: 25-26_中文科_中二第(4)組 - Unit 9 Test Answers
-DESCRIPTION:A regular reminder worth keeping on your radar. New material:
-  Reference answers for Unit 9 test.  (from Darren's Study Pipeline)
+SUMMARY:📌 REMINDER: Integrated Humanities - F.3 IH Curriculum Document Up
+ dated
+DESCRIPTION:A regular reminder worth keeping on your radar. Check the upd
+ ated F.3 IH Curriculum document on Google Classroom — review the new sco
+ pe to stay on track.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-course-idioms-2026-05-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260531
+UID:study-reminder-english-unit-1-scheme-of-work-2026-09-11
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260911
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Course - Idioms
-DESCRIPTION:A regular reminder worth keeping on your radar. Student asked
-  if idioms section will be covered in exam.  (from Darren's Study Pipeli
- ne)
+SUMMARY:📌 REMINDER: English - Unit 1 Scheme of Work
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the Un
+ it 1 Scheme of Work for Form 3 English — it contains important dates for
+  Dictation and Uniform Test as well as learning tasks for the first term
+ .  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-hiu-yee-joyce-chan-classroom-new-materia-2026-05-28
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260528
+UID:study-reminder-3e-integrated-humanities-histor-2026-09-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260917
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Hiu Yee\, Joyce CHAN (Classroom) - New material: "Sugge
- sted answer: HIST Topic 6 WS 1\, 2…"
-DESCRIPTION:A regular reminder worth keeping on your radar. Suggested ans
- wers for HIST Topic 6 Worksheets 1\, 2 & 3.  (from Darren's Study Pipeli
- ne)
+SUMMARY:📌 REMINDER: 3E Integrated Humanities History - Three Major Effect
+  Models (English Version)
+DESCRIPTION:A regular reminder worth keeping on your radar. 查閱 Google Cla
+ ssroom 上的 'Three Major Effect Models_Eng.pdf' 附件，為課堂討論做好準備。  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-shing-ngat-tse-classroom-new-material-28-2026-05-28
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260528
+UID:study-reminder-chemistry-hazard-chemicals-2026-09-15
+DTSTAMP:20261025T080056
+DTSTART:20260915T124200
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 NORMAL: Shing Ngat TSE (Classroom) - New material: "28/5_2025大考
- 實用文_評分量表"
-DESCRIPTION:A regular reminder worth keeping on your radar. Scoring rubri
- c for May 28\, 2025 test shared as today's class material.  (from Darren
+SUMMARY:📌 REMINDER: Chemistry - Hazard Chemicals
+DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 12:42 Revie
+ w the new Hazard Chemicals material posted on Google Classroom — it cove
+ rs key content for your 2026-27 3E Chemistry course.  (from Darren's Stu
+ dy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-english-writing-booklet-lesson-2026-09-22
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260922
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: English - Writing Booklet Lesson
+DESCRIPTION:A regular reminder worth keeping on your radar. Prepare your 
+ Writing Booklet for Tuesday's lesson — the class will go through it toge
+ ther instead of the listening Data File.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-chapter-2-physical-an-2026-09-18
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - Chapter 2 Physical and Chemical Changes N
+ otes
+DESCRIPTION:A regular reminder worth keeping on your radar. Download and 
+ review the Chapter 2 notes on Physical and Chemical Changes — print them
+  out or use iPad Goodnotes so you are ready for class.  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-math-answers-to-chapter-tests-2026-09-19
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260919
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Math - Answers to Chapter Tests
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the po
+ sted answers to the Chapter Tests on Google Classroom — use them to chec
+ k your work and clarify any mistakes before the next topic. | Review the
+  posted answers to the Chapter Tests on Classroom — use them to check yo
+ ur work and clarify any mistakes before the next assessment.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-physics-chapter-1-reflection-2026-09-19
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260919
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Physics - Chapter 1 Reflection
+DESCRIPTION:A regular reminder worth keeping on your radar. Open the Chap
+ ter 1 Reflection material on Google Classroom — it supports the homework
+  Miss Wong assigned and will help you revise the lesson content. | Check
+  the new Chapter 1 Reflection material posted on Classroom — it supports
+  your understanding of reflection concepts for upcoming lessons. | Check
+  Google Classroom for the Physics notes Miss Wong will upload — they wil
+ l help you complete the homework she assigned.  (from Darren's Study Pip
+ eline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-sepa-environmental-badge-status-2026-09-21
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: SEPA - Environmental Badge Status Reply
+DESCRIPTION:A regular reminder worth keeping on your radar. Reply to Mr Y
+ u's email stating whether you have achieved the Basic Environmental Badg
+ e\, the Specific Environmental Badge\, or None — include your name in th
+ e reply.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-biology-chapter-2-the-cell-as-t-2026-09-22
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260922
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Biology - Chapter 2: The cell as the basic unit of li
+ fe
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
+ apter 2 worksheet\, PowerPoint and revision notes posted on Google Class
+ room — these cover the cell as the basic unit of life and will prepare y
+ ou for upcoming classwork and assessments.  (from Darren's Study Pipelin
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-math-chapter-1-test-parent-sign-2026-09-26
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260926
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Math - Chapter 1 Test Parent Signature
+DESCRIPTION:A regular reminder worth keeping on your radar. Get your pare
+ nt's signature on your corrected Chapter 1 test paper and return it to M
+ r. Ng — this is required for record-keeping.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-biology-lab-rules-2026-09-28
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260928
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Biology - Lab Rules
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
+ b Rules posted on Google Classroom for Form 3E Biology — knowing them ke
+ eps you safe and compliant during practicals. Check the announcement for
+  any details you may have missed. | Review the lab safety rules posted o
+ n Google Classroom before your next Biology practical — knowing them is 
+ essential for safe and responsible lab work.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ih-ces-module-3-1-worksheet-1-2026-09-28
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260928
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: IH-CES - Module 3.1 Worksheet 1
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the Mo
+ dule 3.1 Worksheet 1 material posted on Google Classroom for IH-CES — it
+  highlights good work and can guide your understanding of the topic. Che
+ ck the details for any feedback or instructions. | Check the Module 3.1 
+ Worksheet 1 feedback posted on Google Classroom — review your work and n
+ ote any areas for improvement. Keep it for your revision.  (from Darren'
+ s Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-chapter-3-elements-2026-09-28
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260928
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - Chapter 3 Elements
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
+ apter 3 Elements material posted on Google Classroom for Chemistry — it 
+ covers key concepts you will need for upcoming lessons and assessments. 
+ Check the details for any additional notes or exercises. | Review the Ch
+ apter 3 Elements material posted on Google Classroom — it covers the key
+  concepts for upcoming lessons. Read through the notes before your next 
+ Chemistry class.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-robotics-team-project-list-2026-09-29
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260929
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Robotics Team - Project List
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ro
+ botics Team Project List on Classroom — check which project your team is
+  assigned to before the next meeting.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-exercise-1-correction-2026-09-29
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260929
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - Exercise 1 Corrections
+DESCRIPTION:A regular reminder worth keeping on your radar. Review your g
+ raded Exercise 1 corrections on Classroom — check the feedback to prepar
+ e for upcoming assessments.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-robotics-team-project-list-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Robotics - Team Project List
+DESCRIPTION:A regular reminder worth keeping on your radar. Check the Rob
+ otics Team Project List posted on Google Classroom — review your assigne
+ d project and start planning your build.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-biology-book-1a-suggested-answe-2026-10-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261001
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Biology - Book 1A Suggested Answers
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the su
+ ggested answers for Book 1A posted on Google Classroom to check your wor
+ k and clarify any mistakes before the next lesson.  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-biology-book-1a-suggested-answe-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Biology - Book 1A Suggested Answers
+DESCRIPTION:A regular reminder worth keeping on your radar. 下載Book 1A答案核對
+ 練習——老師已上載答案檔案，請對照自己的答案並標記錯誤，為下次測驗做好準備。 | Review the suggested answers fo
+ r Book 1A posted on Google Classroom — use them to check your work and c
+ larify any concepts you found difficult.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-stream-team-annual-meeting-pres-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: STREAM Team - Annual Meeting Presentation Slides
+DESCRIPTION:A regular reminder worth keeping on your radar. 查閱STREAM Team
+ 年度會議簡報——老師已上載最終版PPT，請重溫會議內容以了解本年度計劃。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-27-stream-team-annual-meet-2026-09-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 2026-27 STREAM Team - Annual Meeting Presentation Sli
+ des
+DESCRIPTION:A regular reminder worth keeping on your radar. Review the pr
+ esentation slides from Monday's annual meeting\, now posted on Google Cl
+ assroom. Check them to stay updated on the STREAM Team's plans for the y
+ ear.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-math-chapter-1-test-parent-sign-2026-10-03
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261003
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Math Chapter 1 Test - Parent Signature
+DESCRIPTION:Heads up: Get your parent's signature on your Chapter 1 test 
+ paper and return it to Mr. Ng — this is required for his records.  (from
+  Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-bring-textbook-and-no-2026-10-04
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261004
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - Bring Textbook and Notes
+DESCRIPTION:Heads up: Pack your Chemistry textbook and notes for tomorrow
+ 's lesson at periods 7-8 — being prepared keeps you ready for the classw
+ ork.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ih-ces-textbook-for-lesson-swap-2026-10-06
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261006
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: IH-CES Textbook for Lesson Swap
+DESCRIPTION:Heads up: Bring your IH-CES textbook tomorrow — Lesson 9 on 6
+ /10 is swapped to Ms. Chan\, so come prepared for the changed schedule. 
+ | Pack your IH-CES textbook tonight — Ms. Chan swapped lessons with Ms. 
+ Kwok and you need the book for tomorrow's class.  (from Darren's Study P
+ ipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-scmp-subscription-cheque-submis-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: SCMP Subscription Cheque Submission
+DESCRIPTION:A regular reminder worth keeping on your radar. Submit your $
+ 250 cheque for the optional SCMP subscription by next Tuesday\, 13 Octob
+ er — write your full name\, class\, class number\, and teacher initials 
+ (HKM) on the back. Late submissions will not be accepted.  (from Darren'
+ s Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-english-bring-writing-booklet-2026-10-07
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261007
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: English - Bring Writing Booklet
+DESCRIPTION:Heads up: Pack your Writing Booklet for English class tomorro
+ w — Ms. Mou expects everyone to have it ready for the lesson. | 明天帶寫作簿上課
+  — 老師提醒3E班同學攜帶Writing Booklet，請提前準備。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ipad-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 帶iPad
+DESCRIPTION:Heads up: 記得帶iPad上中文堂 — 老師提醒需要用到電子設備，請今晚充好電並放入書包。  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ipad-2026-10-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261008
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 帶iPad
+DESCRIPTION:Heads up: 記得明天上中文堂要帶iPad，老師會用電子教材上課，冇帶會影響課堂學習。 | Remember to 
+ bring your iPad to Chinese class today — you will need it for the lesson
+  activities.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-english-bring-grammar-booklet-a-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: English - Bring Grammar Booklet and Grammar Book
+DESCRIPTION:Heads up: Pack your Grammar Booklet and Grammar Book for Mond
+ ay's class — Ms. Mou asked everyone to bring them. | Have one representa
+ tive per English set submit the Google Form listing the 3 participating 
+ Ambassadors by Monday 23:59 — sets with fewer than 2 Ambassadors should 
+ pick other representatives. | Bring your Grammar Booklet and Grammar Boo
+ k to class next Monday — Ms. Mou will be using them during the lesson.  
+ (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART:20261012T160000
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中醫診所打脈拿藥
+DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 16:00 放學後出校
+ 門口先打電話給媽媽，然後自己去中醫診所打脈拿藥——明天醫師放假，所以必須今天去。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-chapter-4-elements-co-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry Chapter 4 - Elements\, Compounds and Mixtur
+ es 教材已上載
+DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Chapter 
+ 4: Elements\, Compounds and Mixtures嘅教材，記得去Google Classroom查閱同預習，為之後嘅課堂做
+ 好準備。 | Read through the new Chapter 4 material posted on Google Classroo
+ m — it introduces elements\, compounds and mixtures which will be built 
+ on in upcoming lessons.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ipad-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文堂帶iPad
+DESCRIPTION:Heads up: 中文科老師提醒上堂要帶iPad，記得前一晚充好電同放入書包，以免上堂時冇得用。 | 記得下一堂中文課帶
+ iPad — 老師需要你們用平板完成課堂活動，忘記帶會影響學習進度。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chinese-bring-ipad-to-class-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chinese - Bring iPad to Class
+DESCRIPTION:Heads up: Remember to pack your iPad before heading to Chines
+ e class — your teacher expects everyone to have it ready for the lesson.
+   (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-english-listening-booklet-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: English - Listening Booklet
+DESCRIPTION:Heads up: Bring your Listening Booklet to English class tomor
+ row — Ms. Mou expects it in person and you will need it for the listenin
+ g exercises. | Bring your Listening Booklet to English class tomorrow — 
+ Ms. Mou will be checking that everyone has it ready for the lesson. | Br
+ ing your Listening Booklet to English class tomorrow and hand your SCMP 
+ subscription cheque to Ms. Mou in person — tomorrow is the final deadlin
+ e for submission.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-3e-biology-chapter-4-enzymes-an-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 3E Biology Chapter 4 Enzymes and Metabolism
+DESCRIPTION:A regular reminder worth keeping on your radar. Review Chapte
+ r 4 on Enzymes and metabolism — check Google Classroom for the materials
+  posted by your teacher.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ipad-2026-10-13
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 記得帶iPad上堂
+DESCRIPTION:Heads up: 記得帶iPad上中文堂，老師會用電子教材進行課堂活動，唔帶會影響學習進度。  (from Darren
  's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-3e-english-writing-booklet-read-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 3E English - Writing Booklet & Reading Comprehension 
+ 1 Submission
+DESCRIPTION:Heads up: Bring your Writing Booklet to class tomorrow for th
+ e final writing task. Submit Reading Comprehension 1 to Delton or Reese\
+ , and hand in your Gratitude Card if you haven't already — tomorrow is t
+ he final deadline. | Hand in your Gratitude Card to Ms. Mou by tomorrow 
+ — this is the last chance to submit it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ict-a-python-notes-chapter-4-as-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: ICT-A - Python Notes Chapter 4 Assignment
+DESCRIPTION:A regular reminder worth keeping on your radar. Complete and 
+ submit your Python Notes Chapter 4 assignment — it was due on 15th Octob
+ er\, so check Google Classroom for submission details if you haven't tur
+ ned it in.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-robotics-team-spike-legacy-down-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Robotics Team - SPIKE Legacy Downgrade Complete
+DESCRIPTION:A regular reminder worth keeping on your radar. The Sumo Robo
+ ts Group hubs are now running Hub OS 4.0.0.7 — continue working on conne
+ cting and programming the remote controller with the hubs.  (from Darren
+ 's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ipad-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 上堂帶iPad
+DESCRIPTION:Heads up: 記得帶iPad上中文堂，並提醒同組同學一齊帶，以免影響課堂學習。  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chemistry-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chemistry - 化學實驗作業簿費用
+DESCRIPTION:Heads up: 明天將$50交給班會司庫以購買F.3化學實驗作業簿，書價為$49.4。 | Give $50 to t
+ he class treasurer tomorrow for the F.3 Chemistry Experiment Workbook ($
+ 49.4). The treasurer will collect and pass the total to Mrs. Kwok.  (fro
+ m Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-q-2026-10-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中文 - 阿Q正傳閱讀評估成績
+DESCRIPTION:A regular reminder worth keeping on your radar. 你的阿Q正傳閱讀評估已批改
+ ，得分13/15，可查看詳情並檢討表現。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261017
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: 中史 - 話劇及繳費
+DESCRIPTION:Heads up: 星期六下午可去看話劇，記得將$100交給中史老師，並詢問機械人老師下星期三下午是否需要上課。  (fr
+ om Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-english-dictation-1-answer-key-2026-10-14
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: English - Dictation 1 Answer Key
+DESCRIPTION:A regular reminder worth keeping on your radar. 查閱Dictation 1
+  (Seen)答案，並根據答案鍵完成改正。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-f-3-chemistry-experiment-workbo-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: F.3 Chemistry Experiment Workbook Payment
+DESCRIPTION:Heads up: Bring $50 to the class treasurer tomorrow — the F.3
+  Chemistry Experiment Workbook costs $49.4 and payment is due. Settle th
+ is promptly so the treasurer can pass the total to the teacher.  (from D
+ arren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-chinese-lesson-ipad-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: Chinese Lesson iPad
+DESCRIPTION:Heads up: Bring your iPad to Chinese class and remind your gr
+ oupmates to do the same. Mr. Chu expects everyone prepared for the lesso
+ n.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-reminder-ih-module-3-1-ws-2-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Reminder
+COLOR:#9E9E9E
+X-APPLE-CALENDAR-COLOR:#9E9E9E
+SUMMARY:📌 REMINDER: IH - Module 3.1 WS 2 已批改
+DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Module 3
+ .1 WS 2的佳作，到Google Classroom查看並參考同學的答題方式。  (from Darren's Study Pipeline
+ )
 END:VEVENT
 END:VCALENDAR
