@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-event-cantopop-club-elka-lollytalk-buski-2026-09-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260919T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -24,12 +24,23 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
  t is free and open to all SPC students. | 活動於9月19日下午4時在跑馬地舉行，名額僅25人，費用全免
  。請盡快填寫Google Form報名，成功後會收到確認訊息。 | Register via the Google Form to secure
   one of 25 spots for the busking session and 1:1 photo opportunity with 
- Elka@LollyTalk — free of charge and open to all SPC students.  (from Dar
- ren's Study Pipeline)
+ Elka@LollyTalk — free of charge and open to all SPC students. | Register
+  via the Google Form to secure one of 25 spots — the session includes a 
+ live busking performance and a 1:1 photo with Elka@LollyTalk\, free for 
+ F3-F6 students. | Register via the Google Form to secure one of only 25 
+ spots for the busking session and 1:1 photo with Elka@LollyTalk on Septe
+ mber 19 — it's free and open to F3-F6 students. | 填寫 Google Form 報名參加 9 
+ 月 19 日（星期六）下午 4 時在跑馬地舉行的 busking session，名額僅 25 人，費用全免，活動包括 1:1 合照環節。 | 
+ Register via the Google Form to secure one of only 25 spots for the busk
+ ing session and 1:1 photo opportunity — the event is free and open to al
+ l SPC students. | 活動於9月19日下午4時在跑馬地舉行，名額僅25人，費用全免。請盡快填寫Google Form報名，成功後會
+ 收到確認訊息。 | Register via the Google Form to secure one of 25 spots for the
+  busking session and 1:1 photo opportunity with Elka@LollyTalk — free of
+  charge and open to all SPC students.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-moral-and-civic-education-sept--2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260930T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -44,7 +55,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-visual-arts-acrylic-sheet-order-co-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Event
 COLOR:#33B679
@@ -61,7 +72,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Confirm y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-09-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Event
 COLOR:#33B679
@@ -76,7 +87,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 登入功課幫�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-speech-festival-enrollment-2026-09-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260913
 CATEGORIES:Event
 COLOR:#33B679
@@ -95,7 +106,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Sign up f
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-p-4-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -107,7 +118,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成單�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-integrated-humanities-student-envi-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -126,7 +137,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Fill in t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-students-association-presidential--2026-09-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Event
 COLOR:#33B679
@@ -146,7 +157,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 F.1-6 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -160,7 +171,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Check
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-recruitment-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -174,7 +185,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Innovat
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-lab-rules-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -187,7 +198,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-materials-fee-2026-09-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -199,7 +210,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -212,7 +223,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-mathematics-team-selection-test-2026-09-11
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260911T143000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -234,7 +245,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:30 · 📍 6/F Histo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-3-2026-09-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -246,7 +257,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Previe
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-singing-exam-2026-11-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261109
 CATEGORIES:Test
 COLOR:#EA4335
@@ -259,7 +270,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your singing p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-music-concert-report-1st-term-2026-12-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261201
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -278,11 +289,23 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
  December 2026 to avoid mark deductions. | Attend a Western Classical\, O
  pera or Chinese Music Concert and submit a 300-350 word English report w
  ith your ticket attached by 1st December — late submission will incur ma
- rk deductions.  (from Darren's Study Pipeline)
+ rk deductions. | Submit your 1st Term Concert Report by 1 December — att
+ end a concert and write up your reflections as required by Mr. Koo. | 第一
+ 學期音樂會報告於12月1日或之前提交，請預留時間撰寫。 | Attend a Western Classical\, Opera\, or Ch
+ inese Music Concert and write a 300-350 word English report on the provi
+ ded answer sheet. Attach your ticket (compulsory) and program booklet\, 
+ then submit the digital copy on Google Classroom by 1st December — late 
+ submission will incur mark deductions. | Attend a Western Classical\, Op
+ era\, or Chinese Music concert and write a 300-350 word English report o
+ n the answer sheet — attach your ticket and submit the digital copy on G
+ oogle Classroom by 1st December 2026 to avoid mark deductions. | Attend 
+ a Western Classical\, Opera or Chinese Music Concert and submit a 300-35
+ 0 word English report with your ticket attached by 1st December — late s
+ ubmission will incur mark deductions.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-instrumental-exam-2027-03-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Test
 COLOR:#EA4335
@@ -295,7 +318,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your instrumen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-music-concert-report-2nd-term-2027-04-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270425
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -308,7 +331,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -321,7 +344,7 @@ DESCRIPTION:Time to prep — here's what you've got. 記得準備閱讀評估（
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-ar-vr-workshop-2026-09-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260914T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -340,7 +363,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-library-club-student-librarian-rec-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -356,7 +379,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 5/F Lib
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-payment-of-printing-fee-2026-09-11
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -366,12 +389,16 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
  n your $80 printing fee as a cheque payable to St. Paul's College by Fri
  day\, 11 September 2026 — the SCMP subscription fee will not be collecte
  d yet. | Submit an $80 cheque payable to St. Paul's College by Friday — 
- the SCMP subscription fee will be collected separately later.  (from Dar
- ren's Study Pipeline)
+ the SCMP subscription fee will be collected separately later. | Hand in 
+ your $80 printing fee as a cheque payable to St. Paul's College by Frida
+ y\, 11 September 2026 — the SCMP subscription fee will not be collected 
+ yet. | Submit an $80 cheque payable to St. Paul's College by Friday — th
+ e SCMP subscription fee will be collected separately later.  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-first-tech-challenge-robotics-team-2026-09-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260912T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -385,7 +412,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-mathematics-summer-exercise-sub-2026-09-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -402,7 +429,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-3e-physics-class-invitation-2026-09-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Event
 COLOR:#33B679
@@ -415,7 +442,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Join the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-f-2-f-3-summer-holiday--2026-09-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -431,7 +458,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-captain-recruitment-2026-09-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Event
 COLOR:#33B679
@@ -444,7 +471,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Email Mis
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-f-3-exp-wb-order-2026-09-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -460,7 +487,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Let yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-polyu-mathematics-enrichment-progr-2026-09-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Event
 COLOR:#33B679
@@ -474,7 +501,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Reply to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-curriculu-2026-09-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -491,7 +518,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Read the atta
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-content-drawing-che-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -506,7 +533,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-join-2026-2027-3e-english--2026-09-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Event
 COLOR:#33B679
@@ -519,7 +546,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Accept th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -531,7 +558,7 @@ DESCRIPTION:Time to prep — here's what you've got. 準備9月10日的地圖測
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-3e-2026-2027-classroom-2026-09-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Event
 COLOR:#33B679
@@ -543,7 +570,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 接受Google
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-09-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -555,7 +582,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 明天請帶備150�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ces-join-26-27-f3-ces-classroom-2026-09-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Event
 COLOR:#33B679
@@ -567,7 +594,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Accept th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-mathematics-mathematical-modelling-2026-09-22
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260922T154500
 CATEGORIES:Event
 COLOR:#33B679
@@ -585,7 +612,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-team-registration-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -602,7 +629,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-09-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -617,19 +644,20 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 收藏這些中文�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ih-ces-google-classroom-2026-09-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Event
 COLOR:#33B679
 X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: IH-CES - 加入Google Classroom
 DESCRIPTION:Something happening on campus. Mark it and show up. 接受2026-20
- 27 3E IH-CES課堂邀請，以便接收所有課程資訊和評估通知。 | 接受2627 3E Music課堂邀請，以便接收課程資料和老師通知。  
- (from Darren's Study Pipeline)
+ 27 3E IH-CES課堂邀請，以便接收所有課程資訊和評估通知。 | 接受2627 3E Music課堂邀請，以便接收課程資料和老師通知。 |
+  接受2026-2027 3E IH-CES課堂邀請，以便接收所有課程資訊和評估通知。 | 接受2627 3E Music課堂邀請，以便接收課程
+ 資料和老師通知。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-8-2026-09-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -641,7 +669,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (五樓圖�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-2026-09-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -652,7 +680,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 記住星期一第7�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-f-3-26-27-english-google-classr-2026-09-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -665,11 +693,23 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
  — putonghua class materials and notices will be posted there. | Accept t
  he Google Classroom invitation from Mr. Chu to join 中三中文第8組 — Chinese la
  nguage assignments and announcements will be shared through this class. 
-  (from Darren's Study Pipeline)
+ | Accept the Google Classroom invitation from Mr. Thapa Magar to join F.
+ 3 26-27 English — all class materials and announcements will be posted t
+ here. | Accept the Google Classroom invitation from Mr. Yiu to join F3GP
+ 8-PTH-2627 第八組 — putonghua class materials and notices will be posted th
+ ere. | Accept the Google Classroom invitation from Mr. Chu to join 中三中文第
+ 8組 — Chinese language assignments and announcements will be shared throu
+ gh this class. | Accept the Google Classroom invitation from Mr. Thapa M
+ agar to join F.3 26-27 English — all class materials and announcements w
+ ill be posted there. | Accept the Google Classroom invitation from Mr. Y
+ iu to join F3GP8-PTH-2627 第八組 — putonghua class materials and notices wi
+ ll be posted there. | Accept the Google Classroom invitation from Mr. Ch
+ u to join 中三中文第8組 — Chinese language assignments and announcements will 
+ be shared through this class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-ict-a-google-classroom-2026-09-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -682,7 +722,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-stream-team-member-2026-27-regi-2026-09-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -696,7 +736,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Fill i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-music-first-lesson-venue-2026-09-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -708,7 +748,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Stay in your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-8-2026-09-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -720,7 +760,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (5/F ne
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-2026-27-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -732,7 +772,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 請於9月18日�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2026-08-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260828T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -744,7 +784,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-iet-hong-kong-faraday-challenge-da-2026-09-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Event
 COLOR:#33B679
@@ -756,7 +796,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 請於9月9日�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-iet-hong-kong-faraday-challenge-da-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261017T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -772,7 +812,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-iet-hong-kong-faraday-challenge-da-2026-11-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261107T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -783,12 +823,15 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00 ·
   📍 Hong Kong Institute of Information Technology 總決賽於11月7日下午2時至5時在HKIT舉行
  ，勝出隊伍可獲最高HK$2\,000現金獎，請預留時間出席。 | Qualify from the first round to compete
   in the Grand Final from 14:00 to 17:00 at the Hong Kong Institute of In
- formation Technology for cash prizes up to HK$2\,000.  (from Darren's St
- udy Pipeline)
+ formation Technology for cash prizes up to HK$2\,000. | 總決賽於11月7日下午2時至5時
+ 在HKIT舉行，勝出隊伍可獲最高HK$2\,000現金獎，請預留時間出席。 | Qualify from the first round to 
+ compete in the Grand Final from 14:00 to 17:00 at the Hong Kong Institut
+ e of Information Technology for cash prizes up to HK$2\,000.  (from Darr
+ en's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2026-08-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260820T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -800,7 +843,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 請
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2026-08-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260814T000000
 CATEGORIES:Event
 COLOR:#33B679
@@ -812,7 +855,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 00:00 公
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-team-member-2026-27-2026-08-31
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -824,7 +867,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請填寫Google For
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-junior-mathematics-subject-outl-2026-08-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -836,7 +879,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請查閱Junior Mat
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-27-3e-chemistry-google-cla-2026-08-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260827
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -848,7 +891,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請接受2026-27 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-long-questions-and-multipl-2026-08-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -861,7 +904,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-level-1-2026-08-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -874,7 +917,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-2026-08-31
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Test
 COLOR:#EA4335
@@ -886,7 +929,7 @@ DESCRIPTION:Time to prep — here's what you've got. Complete the music the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-aviation-club-visit-to-cathay-city-2026-08-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260830T123000
 CATEGORIES:Event
 COLOR:#33B679
@@ -900,7 +943,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 12:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-aviation-club-cathay-city-visit-re-2026-08-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260810
 CATEGORIES:Event
 COLOR:#33B679
@@ -913,7 +956,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Message Y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-aviation-club-visit-to-cathay-city-2026-08-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:Event
 COLOR:#33B679
@@ -927,7 +970,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Cathay
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-aviation-club-cathay-city-visit-ap-2026-07-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260726
 CATEGORIES:Event
 COLOR:#33B679
@@ -940,7 +983,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260818T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -957,7 +1000,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 14:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260819T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -974,7 +1017,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260820T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -991,7 +1034,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260821T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1008,7 +1051,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-22
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260822T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1025,7 +1068,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260823T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1042,7 +1085,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-59th-joint-school-science-exhibiti-2026-08-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260824T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1059,7 +1102,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-project-legacy-x-steam-2026-07-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -1072,7 +1115,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Apply for
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-project-legacy-x-steam-2026-07-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:Event
 COLOR:#33B679
@@ -1085,7 +1128,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-project-legacy-x-steam-2026-07-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:Event
 COLOR:#33B679
@@ -1098,7 +1141,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Complete
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-luminatus-2026-2026-07-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260719T193000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1115,7 +1158,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 19:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-mathematics-society-committee-r-2026-07-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260720
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1128,7 +1171,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-society-committee-member-r-2026-08-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Event
 COLOR:#33B679
@@ -1141,7 +1184,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-integrated-humanities-ping-shan-2026-07-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260707
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1153,11 +1196,15 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
   it before the excursion so you are ready to discuss your observations i
  n class. | Complete and upload the Ping Shan Heritage Trail Worksheet by
   7 July — prepare it before the excursion on 6 July so you are ready to 
- learn on-site.  (from Darren's Study Pipeline)
+ learn on-site. | Complete and upload your Ping Shan Heritage Trail Works
+ heet by Jul 7 — prepare it before the excursion so you are ready to disc
+ uss your observations in class. | Complete and upload the Ping Shan Heri
+ tage Trail Worksheet by 7 July — prepare it before the excursion on 6 Ju
+ ly so you are ready to learn on-site.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-07-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1168,7 +1215,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 瀏覽最新一期�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-normal-school-day-arrive-before-7--2026-07-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260706T074500
 CATEGORIES:Event
 COLOR:#33B679
@@ -1181,7 +1228,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 07:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-steam-team-project-portfolio-su-2026-07-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1194,7 +1241,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Publish your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-integrated-humanities-history-e-2026-07-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1208,7 +1255,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-steam-team-project-portfolio-an-2026-07-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1221,7 +1268,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Visit the STE
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-students-association-old-book-sale-2026-07-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260714T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1235,7 +1282,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-students-association-old-book-s-2026-07-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1245,12 +1292,16 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Return
   the hard copy reply slip to your Class S.A. Representative or Class Mon
  itor tomorrow — every student must submit one whether or not they are se
  lling. | Submit your Old Book Sale reply slip to the SA representative\,
-  monitor or vice monitor tomorrow — it is required from every student.  
- (from Darren's Study Pipeline)
+  monitor or vice monitor tomorrow — it is required from every student. |
+  Return the hard copy reply slip to your Class S.A. Representative or Cl
+ ass Monitor tomorrow — every student must submit one whether or not they
+  are selling. | Submit your Old Book Sale reply slip to the SA represent
+ ative\, monitor or vice monitor tomorrow — it is required from every stu
+ dent.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-steam-team-alipayhk-dvice-ux-20-2026-09-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1262,11 +1313,17 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Form a
   design competition and job shadowing programme. | Form a group of four 
  and have your group leader email the teacher with member names and class
  es by 7 Sept — this is a great opportunity for F.1-F.5 students to gain 
- UX design and job shadowing experience.  (from Darren's Study Pipeline)
+ UX design and job shadowing experience. | Form a group of four and have 
+ your group leader email Miss Kwok the member names and classes by 7 Sept
+  2026 — this is the internal deadline for the UX design competition and 
+ job shadowing programme. | Form a group of four and have your group lead
+ er email the teacher with member names and classes by 7 Sept — this is a
+  great opportunity for F.1-F.5 students to gain UX design and job shadow
+ ing experience.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-sepa-prize-giving-ceremony-2026-07-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260702T134000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1283,7 +1340,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:40 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-steam-team-fifth-hong-kong-science-2026-06-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260628T100000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1300,7 +1357,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 10:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-is-unit-10-group-presentation-e-2026-06-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260628
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1316,7 +1373,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. The gr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-is-dissecting-an-ox-eye-2026-06-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260627
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1331,7 +1388,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-speech-festival-and-drama--2026-06-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260629
 CATEGORIES:Event
 COLOR:#33B679
@@ -1346,7 +1403,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 School
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-06-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260626
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1358,7 +1415,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 根據《�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-4-2026-06-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260626
 CATEGORIES:Event
 COLOR:#33B679
@@ -1369,7 +1426,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 第4節中文課
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-integrated-humanities-project-ace--2026-06-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:Event
 COLOR:#33B679
@@ -1381,7 +1438,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hall Br
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ai-storybook-finalised-work-re--2026-06-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1394,7 +1451,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Solve
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ih-hist-ces-excursion-dismissal-ar-2026-07-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -1407,7 +1464,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Complete
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-student-ambassadors-for-the-jc-lev-2026-06-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:Event
 COLOR:#33B679
@@ -1420,7 +1477,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Reply to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ai-use-google-form-2026-06-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260623T180000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1433,7 +1490,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 18:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-general-prefect-application-2026-2-2026-06-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260621T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -1444,11 +1501,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 D
  ang's email by 21 June 23:59 — shortlisted applicants will be invited to
   a selection interview. | Download the application form\, fill it by han
  d\, and reply to the email by 21 June 23:59 — shortlisted applicants wil
- l be invited to a selection interview.  (from Darren's Study Pipeline)
+ l be invited to a selection interview. | Download the application PDF\, 
+ fill it in by hand\, and reply to Ryan Chiang's email by 21 June 23:59 —
+  shortlisted applicants will be invited to a selection interview. | Down
+ load the application form\, fill it by hand\, and reply to the email by 
+ 21 June 23:59 — shortlisted applicants will be invited to a selection in
+ terview.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-steam-team-iet-hong-kong-faraday-c-2026-06-11
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260611
 CATEGORIES:Event
 COLOR:#33B679
@@ -1462,7 +1524,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-steam-team-iet-hong-kong-faraday-c-2026-06-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260627T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1477,7 +1539,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-steam-team-final-member-list-googl-2026-06-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260619
 CATEGORIES:Event
 COLOR:#33B679
@@ -1493,7 +1555,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Fill out
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-music-listening-excerpts-and-vo-2026-06-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260602
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1506,7 +1568,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Review
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-steam-team-student-innovation-awar-2026-07-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Event
 COLOR:#33B679
@@ -1521,7 +1583,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Email you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-sepa-basic-environmental-badge-app-2026-06-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260606T170000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1534,7 +1596,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:00 F
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-06-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1545,7 +1607,7 @@ DESCRIPTION:Time to prep — here's what you've got. 查閱單元九測驗參考
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-05-31
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260531
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1556,7 +1618,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱單�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ict-presentation-2026-05-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:Event
 COLOR:#33B679
@@ -1569,7 +1631,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Prepare a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-project-ace-evaluation-form-2026-05-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1582,7 +1644,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-05-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1593,7 +1655,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱已更新的�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ces-module-2-4-ws-2-2026-05-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1604,7 +1666,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查看 CES Module
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-history-and-ces-pre-exam-rev-2026-05-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1615,7 +1677,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 下載 History 及
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-05-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1626,7 +1688,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 預先閱讀 5月28�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2025-2026-05-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1637,7 +1699,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱上星期完�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-ai-storybook-for-ex-2026-06-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260619
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1650,7 +1712,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Refine
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-visual-arts-va-lesson-ipad-2026-06-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260624
 CATEGORIES:Event
 COLOR:#33B679
@@ -1662,7 +1724,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-asian-science-camp-2026-nomination-2026-05-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260527T080000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1675,7 +1737,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-05-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1687,7 +1749,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成30個
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-is-edpuzzle-making-your-film-ca-2026-05-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260519T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1700,7 +1762,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-sketchbook-submissi-2026-05-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1714,7 +1776,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ai-storybook-for-the-future-onl-2026-05-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1727,7 +1789,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-maths-ultimate-homework-deadlin-2026-05-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260521T210000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1741,7 +1803,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 21:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch10-test-sin-cos-tan-2026-05-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1754,7 +1816,7 @@ DESCRIPTION:Time to prep — here's what you've got. Revise Chapter 10 on s
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-2026-05-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1767,7 +1829,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-day-2-2026-05-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1779,7 +1841,7 @@ DESCRIPTION:Time to prep — here's what you've got. Sit the second Chapter
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-is-edpuzzle-unit-9-p-42-43-acid-2026-05-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260515T120000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1793,7 +1855,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ftc-robotics-team-sign-up-deadline-2026-09-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260912T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -1806,7 +1868,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-2026-09-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1818,7 +1880,7 @@ DESCRIPTION:Time to prep — here's what you've got. Submit your summer rea
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-instrumental-class-applicati-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -1829,7 +1891,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 填寫2026-20
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-music-team-application-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -1840,7 +1902,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 如對音樂團�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-module-3-1-learning-focu-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1852,7 +1914,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱附�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1863,7 +1925,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 預習《�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-f3gp8-pth-2026-09-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Event
 COLOR:#33B679
@@ -1874,7 +1936,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 查看個人短�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-f-3-ih-cu-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1887,7 +1949,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check the upd
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-confirm-order-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1899,7 +1961,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Confir
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1911,7 +1973,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1925,7 +1987,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-1-test-laws-of-integra-2026-09-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
@@ -1937,11 +1999,17 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
   notes and practice the short division algorithm for denary-to-binary co
  nversions. | Revise scientific notation and the binary number system ton
  ight — the Chapter 1 test covers Laws of Integral Indices and is on 17 S
- eptember (Thursday).  (from Darren's Study Pipeline)
+ eptember (Thursday). | Prepare for the Chapter 1 Test on 17 September (T
+ hursday) — it covers Laws of Integral Indices\, Scientific Notation\, an
+ d the Binary Number System. Review your class notes and practice the sho
+ rt division algorithm for denary-to-binary conversions. | Revise scienti
+ fic notation and the binary number system tonight — the Chapter 1 test c
+ overs Laws of Integral Indices and is on 17 September (Thursday).  (from
+  Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-instrumental-class-google-fo-2026-09-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Event
 COLOR:#33B679
@@ -1954,7 +2022,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. If you wi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-unit-1-scheme-of-work-2026-09-11
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1967,7 +2035,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Un
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-imperial-global-hackathon-r-2026-09-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Event
 COLOR:#33B679
@@ -1979,11 +2047,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
  ree teams\, so act quickly. | Form your team of 4-5 members and secure a
   teacher supervisor before registering on the Imperial website — registr
  ation closes 24 September and each school may only nominate three teams.
-   (from Darren's Study Pipeline)
+  | Form a team of 4-5 members and find a teacher supervisor to register 
+ for the Imperial Global Hackathon by 24 September — each school can nomi
+ nate only three teams\, so act quickly. | Form your team of 4-5 members 
+ and secure a teacher supervisor before registering on the Imperial websi
+ te — registration closes 24 September and each school may only nominate 
+ three teams.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-imperial-global-hackathon-o-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261015T190000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1995,11 +2068,15 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 19:00 A
  red teams will receive the challenge briefing packs and important compet
  ition details. | Join the online briefing workshop at 7:00pm HKT — regis
  tered teams must attend to receive this year's challenge briefing packs.
-   (from Darren's Study Pipeline)
+  | Attend the online briefing workshop on 15 October at 7:00pm HKT — reg
+ istered teams will receive the challenge briefing packs and important co
+ mpetition details. | Join the online briefing workshop at 7:00pm HKT — r
+ egistered teams must attend to receive this year's challenge briefing pa
+ cks.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-imperial-global-hackathon-t-2026-10-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261025
 CATEGORIES:Event
 COLOR:#33B679
@@ -2011,12 +2088,17 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
  n\, health and life sciences\, or smart infrastructure. | Submit your te
  am's innovative solution by 25 October — develop\, test and present your
   project on responsible AI\, smart ageing\, green innovation\, health an
- d life sciences\, or smart infrastructure.  (from Darren's Study Pipelin
- e)
+ d life sciences\, or smart infrastructure. | Submit your team's innovati
+ ve solution by 25 October — develop\, test\, and present a solution addr
+ essing responsible AI\, smart ageing\, green innovation\, health and lif
+ e sciences\, or smart infrastructure. | Submit your team's innovative so
+ lution by 25 October — develop\, test and present your project on respon
+ sible AI\, smart ageing\, green innovation\, health and life sciences\, 
+ or smart infrastructure.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-imperial-global-hackathon-g-2026-11-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261114
 CATEGORIES:Event
 COLOR:#33B679
@@ -2029,11 +2111,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Data Te
  InnoPark — present your team's solution to the judges and compete agains
  t other schools. | Prepare your final presentation for the Grand Final a
  t Data Technology Hub\, Tseung Kwan O InnoPark — showcase your team's so
- lution to the judges.  (from Darren's Study Pipeline)
+ lution to the judges. | Prepare for the Grand Final on 14 November at th
+ e Data Technology Hub\, Tseung Kwan O InnoPark — present your team's sol
+ ution to the judges and compete against other schools. | Prepare your fi
+ nal presentation for the Grand Final at Data Technology Hub\, Tseung Kwa
+ n O InnoPark — showcase your team's solution to the judges.  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ih-ces-3-file-payment-collection-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -2049,11 +2136,21 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Bring $3
  eck with your teacher about the submission deadline. | Bring $3 cash for
   the IH-CES file and pass it to Ms. Chan on Friday — she will collect it
   in class. | Bring $3 cash for the IH-CES file and pass it to Ms. Chan o
- n Friday — she will collect it in class.  (from Darren's Study Pipeline)
+ n Friday — she will collect it in class. | Bring $3 cash to your IH-CES 
+ class teacher this Friday — Ms. Chan is collecting payment for the IH-CE
+ S file. | Prepare $3 cash for your IH-CES file and pass it to your IH-CE
+ S class teacher — check with your teacher about the submission deadline.
+  | Bring $3 cash to your IH-CES class teacher this Friday — Ms. Chan is 
+ collecting payment for the IH-CES file. | Prepare $3 cash for your IH-CE
+ S file and pass it to your IH-CES class teacher — check with your teache
+ r about the submission deadline. | Bring $3 cash for the IH-CES file and
+  pass it to Ms. Chan on Friday — she will collect it in class. | Bring $
+ 3 cash for the IH-CES file and pass it to Ms. Chan on Friday — she will 
+ collect it in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-form-3-class-librarian-informat-2026-09-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2068,7 +2165,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Fill i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-samsung-solve-for-tomorrow-2026-27-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -2082,11 +2179,17 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
  電郵提交組員姓名、班別及老師顧問名稱，入圍後再提交原型製作預算。 | Form a team of 2-5 students\, find a 
  teacher advisor\, and have your team leader email Ms. Kwok with all name
  s\, classes\, and advisor details before the October 16 registration dea
- dline.  (from Darren's Study Pipeline)
+ dline. | Form a team of 2-5 students\, find a teacher advisor\, and regi
+ ster by October 16 — the theme is 'See the Need. Prompt the Future.' cov
+ ering inclusion\, sports tech\, and sustainability. | 與老師商討並組成2至5人小隊，由老師
+ 顧問於10月16日前完成報名。組長需電郵提交組員姓名、班別及老師顧問名稱，入圍後再提交原型製作預算。 | Form a team of 2-5 
+ students\, find a teacher advisor\, and have your team leader email Ms. 
+ Kwok with all names\, classes\, and advisor details before the October 1
+ 6 registration deadline.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-09-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2099,7 +2202,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 明天上�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-oxford-english-3a-text--2026-09-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2115,7 +2218,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Check
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-sustainability-society-internation-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Event
 COLOR:#33B679
@@ -2130,7 +2233,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Explore t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-sustainability-society-food-donati-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -2146,7 +2249,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Next to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2158,7 +2261,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成寫�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-1-2-2026-09-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -2169,7 +2272,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 字帖
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-integrated-humanities-histor-2026-09-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2182,7 +2285,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱 Google Cla
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -2190,11 +2293,13 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 3E 中國歷史 - 測驗一
 DESCRIPTION:Time to prep — here's what you've got. 中國歷史測驗一將於 2026 年 10 月 
  15 日（星期四）舉行，範圍為 P.4–P.39，題型包括選擇題及資料題，請提前溫習。 | 測驗範圍為P.4至P.39，題型包括選擇題及資料題。
- 請提前溫習課本內容，並留意老師在課堂上的補充說明。  (from Darren's Study Pipeline)
+ 請提前溫習課本內容，並留意老師在課堂上的補充說明。 | 中國歷史測驗一將於 2026 年 10 月 15 日（星期四）舉行，範圍為 P.4–P.
+ 39，題型包括選擇題及資料題，請提前溫習。 | 測驗範圍為P.4至P.39，題型包括選擇題及資料題。請提前溫習課本內容，並留意老師在課堂上的補充
+ 說明。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-90-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2206,11 +2311,22 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 比賽日�
  件及學校網頁Learning Hub的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交 — 比賽今日截止，請盡快完成並上載截圖。 | C
  omplete the quiz and submit a screenshot of your score page by tomorrow 
  — the competition runs from 2 Oct to 8 Oct\, check the Learning Hub for 
- reading materials.  (from Darren's Study Pipeline)
+ reading materials. | 比賽日期為 2026-10-2 至 2026-10-8，試玩日期為 2026-9-28。完成比賽後把分
+ 數頁截圖呈交。詳情請參閱附件及學校網頁 Learning Hub 的「中國歷史」閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交。比賽日期為10
+ 月2日至10月8日，試玩日期為9月28日，詳情請參閱附件及學校網頁Learning Hub的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖
+ 呈交 — 比賽今日截止，請盡快完成並上載截圖。 | Complete the quiz and submit a screenshot of y
+ our score page by tomorrow — the competition runs from 2 Oct to 8 Oct\, 
+ check the Learning Hub for reading materials. | 比賽日期為 2026-10-2 至 2026-1
+ 0-8，試玩日期為 2026-9-28。完成比賽後把分數頁截圖呈交。詳情請參閱附件及學校網頁 Learning Hub 的「中國歷史」閱讀材料。
+  | 完成問答比賽後，把分數頁截圖呈交。比賽日期為10月2日至10月8日，試玩日期為9月28日，詳情請參閱附件及學校網頁Learning Hub
+ 的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交 — 比賽今日截止，請盡快完成並上載截圖。 | Complete the quiz a
+ nd submit a screenshot of your score page by tomorrow — the competition 
+ runs from 2 Oct to 8 Oct\, check the Learning Hub for reading materials.
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-83-2026-09-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260916
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2225,7 +2341,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-p-4-p-39-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -2236,7 +2352,7 @@ DESCRIPTION:Time to prep — here's what you've got. 溫習課本第4至39頁，
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-hazard-chemicals-2026-09-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260915T124200
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2249,7 +2365,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 12:42 Revie
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-90-2026-10-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Event
 COLOR:#33B679
@@ -2261,7 +2377,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 比賽由10月2�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hku-m-programme-reply-to-join-scre-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Event
 COLOR:#33B679
@@ -2279,7 +2395,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Reply to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-hku-m-programme-screening-test-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261017T140000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -2296,7 +2412,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:00 Sit the HKU M³
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-physics-homework-submission-2026-10-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2312,7 +2428,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-module-3-1-worksheet-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2328,7 +2444,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-performance-plus-listen-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2355,7 +2471,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-writing-booklet-lesson-2026-09-22
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260922
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2367,7 +2483,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Prepare your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-2-physical-an-2026-09-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2381,7 +2497,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Download and
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-campus-corner-story-writing-175th--2026-11-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261101
 CATEGORIES:Event
 COLOR:#33B679
@@ -2398,7 +2514,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-answers-to-chapter-tests-2026-09-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2413,7 +2529,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the po
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-physics-chapter-1-reflection-2026-09-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2430,7 +2546,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Open the Chap
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-2-test-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -2463,7 +2579,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-8-26-27-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2471,12 +2587,14 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 中三 中文 第8組 26-27 - 短篇寫作（記敘、描寫、抒情）
 DESCRIPTION:Don't leave this to the last minute — chip away early. 記得帶原稿紙
  回校，明天課堂上即時完成400字以內的記敘描寫文章。可先在家中構思場景與主旨，選定一個地點（如麥當勞），並準備三件事件令內容更豐富。 | 記得帶
- 原稿紙，明天課堂上即時完成400字內的短篇寫作。可先在家中構思，選定一個地點（如麥當勞），並想好主旨，內容要有景、有事、有人、有情、有理。  (
- from Darren's Study Pipeline)
+ 原稿紙，明天課堂上即時完成400字內的短篇寫作。可先在家中構思，選定一個地點（如麥當勞），並想好主旨，內容要有景、有事、有人、有情、有理。 | 
+ 記得帶原稿紙回校，明天課堂上即時完成400字以內的記敘描寫文章。可先在家中構思場景與主旨，選定一個地點（如麥當勞），並準備三件事件令內容更豐富。
+  | 記得帶原稿紙，明天課堂上即時完成400字內的短篇寫作。可先在家中構思，選定一個地點（如麥當勞），並想好主旨，內容要有景、有事、有人、有情、
+ 有理。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-2026-27-1st-stream-tea-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260928T154500
 CATEGORIES:Event
 COLOR:#33B679
@@ -2496,7 +2614,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-specialist-recruitment-2026-09-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260927T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -2514,7 +2632,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-students-association-official-and--2026-09-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260925T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -2536,7 +2654,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-sepa-environmental-badge-status-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2549,7 +2667,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Reply to Mr Y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-1-correction-2026-09-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2564,7 +2682,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-integrated-humanities-territory-wi-2026-09-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260923T080000
 CATEGORIES:Event
 COLOR:#33B679
@@ -2581,7 +2699,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 08:00 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-integrated-humanities-territory-wi-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261007T180000
 CATEGORIES:Event
 COLOR:#33B679
@@ -2601,12 +2719,25 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 18:00 F
  ission. | Submit your image by 6pm today — the online challenge image is
   incomplete or missing\, upload it to Google Classroom immediately. | Up
  load your image to Google Classroom by 6pm today — your submission is cu
- rrently incomplete and must be submitted to avoid penalty.  (from Darren
- 's Study Pipeline)
+ rrently incomplete and must be submitted to avoid penalty. | Finish the 
+ online National Security Knowledge Challenge by 6pm on 7 Oct — review th
+ e reference links on Google Classroom beforehand and remember to screens
+ hot your result. | Complete the 20 MCQs using your student login\, take 
+ a screenshot\, and upload it to Google Classroom by Oct 7 — this challen
+ ge is part of your IH-CES coursework. | Complete the 20 MCQs using the p
+ rovided login details\, take a screenshot upon completion\, and upload i
+ t to Google Classroom by 7 Oct. | Complete the 20 MCQs at the competitio
+ n link by 7 Oct 11:59pm\, take a screenshot of your result and upload it
+  to Google Classroom — Ms. Chan needs it for the official submission. | 
+ Submit your image by 6pm today — the online challenge image is incomplet
+ e or missing\, upload it to Google Classroom immediately. | Upload your 
+ image to Google Classroom by 6pm today — your submission is currently in
+ complete and must be submitted to avoid penalty.  (from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-grammar-book-unit-54-55-2026-09-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2622,7 +2753,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cad-course-registration-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260928T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -2638,7 +2769,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261024T093000
 CATEGORIES:Event
 COLOR:#33B679
@@ -2651,11 +2782,17 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:30 ·
  onfirmed by 2 Oct. | Sign up via the Google Form if you are interested i
  n this aerospace innovation day — it runs 9:30am to 2pm at HK Science Pa
  rk on 24 October\, with only 20 spots and confirmation emails sent by 2 
- October.  (from Darren's Study Pipeline)
+ October. | Fill in the Google Form to join the aerospace innovation day 
+ — visit InnoCarnival booths\, the Experience Centre\, and attend a youth
+  aerospace workshop\; only selected participants will be confirmed by 2 
+ Oct. | Sign up via the Google Form if you are interested in this aerospa
+ ce innovation day — it runs 9:30am to 2pm at HK Science Park on 24 Octob
+ er\, with only 20 spots and confirmation emails sent by 2 October.  (fro
+ m Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-features-2026-09-25
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260925T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2675,7 +2812,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-hk-phil-national-day-concert-2026-09-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Event
 COLOR:#33B679
@@ -2691,7 +2828,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-hong-kong-sinfonietta-kevin--2026-09-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Event
 COLOR:#33B679
@@ -2705,7 +2842,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Consider
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-hong-kong-sinfonietta-reinho-2026-10-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261024
 CATEGORIES:Event
 COLOR:#33B679
@@ -2721,7 +2858,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. This conc
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-final-fantasy-vii-remake-orc-2026-11-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261113
 CATEGORIES:Event
 COLOR:#33B679
@@ -2736,7 +2873,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. This conc
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-st-paul-s-college-175th-anni-2026-10-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261001T163000
 CATEGORIES:Event
 COLOR:#33B679
@@ -2751,7 +2888,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 A
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-chapter-2-the-cell-as-t-2026-09-22
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260922
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2766,7 +2903,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-registr-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Event
 COLOR:#33B679
@@ -2782,7 +2919,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-kick-of-2027-02-27
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270227
 CATEGORIES:Event
 COLOR:#33B679
@@ -2798,7 +2935,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-solutio-2027-03-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270306
 CATEGORIES:Event
 COLOR:#33B679
@@ -2813,7 +2950,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Join the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-meeting-2027-03-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270313
 CATEGORIES:Event
 COLOR:#33B679
@@ -2829,7 +2966,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Prepare f
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-meeting-2027-03-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270320
 CATEGORIES:Event
 COLOR:#33B679
@@ -2843,7 +2980,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-meeting-2027-04-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270410
 CATEGORIES:Event
 COLOR:#33B679
@@ -2859,7 +2996,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Prepare f
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-meeting-2027-04-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270417
 CATEGORIES:Event
 COLOR:#33B679
@@ -2873,7 +3010,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-i-t-sol-2027-04-24
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270424
 CATEGORIES:Event
 COLOR:#33B679
@@ -2889,7 +3026,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Join the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-semi-fi-2027-05-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270508
 CATEGORIES:Event
 COLOR:#33B679
@@ -2903,7 +3040,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Prepare t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-2026-27-finale--2027-05-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270515
 CATEGORIES:Event
 COLOR:#33B679
@@ -2918,7 +3055,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-regular-meeting-2026-09-23
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260923T154500
 CATEGORIES:Event
 COLOR:#33B679
@@ -2933,7 +3070,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-meeting-2026-09-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Event
 COLOR:#33B679
@@ -2947,7 +3084,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Compute
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-supp-ex-2a-q18-ex-2b-q8-16-2026-09-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2961,7 +3098,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-chapter-1-test-parent-sign-2026-09-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2974,7 +3111,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Get your pare
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-programming-team-selection-test-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261012T154500
 CATEGORIES:Test
 COLOR:#EA4335
@@ -2992,7 +3129,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 15:45 · 📍 CR1 and C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-programming-team-selection-test-ap-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Event
 COLOR:#33B679
@@ -3009,7 +3146,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3025,7 +3162,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-stream-team-personal-informatio-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3041,7 +3178,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-features-assig-2026-09-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3058,7 +3195,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Email
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-briefing-sessi-2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Event
 COLOR:#33B679
@@ -3075,7 +3212,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Watch Goo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-module-3-1-worksheet-1-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3091,7 +3228,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Mo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-and-landslide--2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3105,7 +3242,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-3-elements-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3121,7 +3258,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
@@ -3134,7 +3271,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀《阿Q正傳》並�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3147,7 +3284,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 原定
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-lead-paragraph-writing--2026-09-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3170,7 +3307,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-s-a-affiliated-clubs-registration-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20260930T175900
 CATEGORIES:Event
 COLOR:#33B679
@@ -3187,7 +3324,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:59 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-and-landslide--2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3201,7 +3338,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-chemistry-lesson-rescheduled-2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Event
 COLOR:#33B679
@@ -3219,7 +3356,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ih-lesson-rescheduled-2026-10-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Event
 COLOR:#33B679
@@ -3236,7 +3373,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend IH
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-grouping-for-project-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3261,7 +3398,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Confir
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-project-list-2026-09-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3273,7 +3410,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ro
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-survey-completion-2026-09-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3287,7 +3424,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-exercise-1-correction-2026-09-29
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3299,7 +3436,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review your g
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ict-road-safety-steam-competition--2027-03-31
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270331
 CATEGORIES:Event
 COLOR:#33B679
@@ -3318,7 +3455,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-english-dictation-1-seen-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261008T080000
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3333,7 +3470,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. ⏰
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-math-hku-m-programme-reply-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Event
 COLOR:#33B679
@@ -3346,7 +3483,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Reply to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-jcgoai-survey-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3359,7 +3496,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-project-list-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3371,7 +3508,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check the Rob
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-8-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Event
 COLOR:#33B679
@@ -3380,11 +3517,16 @@ SUMMARY:🎉 EVENT: 中三 中文 第8組 - 課堂
 DESCRIPTION:Something happening on campus. Mark it and show up. 記得今天上堂帶ip
  ad，中文課堂需要用到，請準時帶齊。 | 記得帶iPad上中文堂——老師提醒今日課堂需要使用電子設備，請提前充電並確認已安裝所需應用程式。 | 
  記得帶iPad上中文堂——老師提醒今日課堂需要使用電子設備，請提前充電並確認已安裝所需應用程式。 | 閱讀《登基與退位》文章——老師已上載PDF
- ，請細閱內容並準備課堂討論。  (from Darren's Study Pipeline)
+ ，請細閱內容並準備課堂討論。 | 記得今天上堂帶ipad，中文課堂需要用到，請準時帶齊。 | 記得帶iPad上中文堂——老師提醒今日課堂需要使用
+ 電子設備，請提前充電並確認已安裝所需應用程式。 | 記得帶iPad上中文堂——老師提醒今日課堂需要使用電子設備，請提前充電並確認已安裝所需應用程
+ 式。 | 閱讀《登基與退位》文章——老師已上載PDF，請細閱內容並準備課堂討論。 | 記得今天上堂帶ipad，中文課堂需要用到，請準時帶齊。 |
+  記得帶iPad上中文堂——老師提醒今日課堂需要使用電子設備，請提前充電並確認已安裝所需應用程式。 | 記得帶iPad上中文堂——老師提醒今日課
+ 堂需要使用電子設備，請提前充電並確認已安裝所需應用程式。 | 閱讀《登基與退位》文章——老師已上載PDF，請細閱內容並準備課堂討論。  (fro
+ m Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-reading-inference-table-2026-10-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3397,7 +3539,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-biology-society-x-igem-biotech-wor-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261007T153000
 CATEGORIES:Event
 COLOR:#33B679
@@ -3418,11 +3560,24 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:30 ·
   application was successful\, so don't miss this hands-on opportunity. |
   Attend the BioTech Workshop this Wednesday from 3:30 to 5:00 PM in Biol
  ogy Lab 1 — your application was successful\, so don't miss this hands-o
- n opportunity.  (from Darren's Study Pipeline)
+ n opportunity. | Sign up via the enrollment form to secure one of 20 spo
+ ts — you will conduct SynBio experiments with pipettes and gel electroph
+ oresis. First come\, first served. | Sign up via the enrollment form to 
+ secure one of only 20 spots — the workshop runs 15:30-17:00 in Biology L
+ ab 1 and covers pipetting\, dye experiments\, and gel electrophoresis. N
+ o prior knowledge needed\; all F1-F4 students welcome. | Sign up for the
+  BioTech Workshop at Biology Lab 1 on 7 Oct (3:30-5:00 PM) — spots are l
+ imited to 20 students on a first-come-first-served basis\, so fill in th
+ e enrollment form early to secure your place. | Attend the BioTech Works
+ hop this Wednesday from 15:30 to 17:00 in Biology Lab 1 — your applicati
+ on was successful\, so don't miss this hands-on opportunity. | Attend th
+ e BioTech Workshop this Wednesday from 3:30 to 5:00 PM in Biology Lab 1 
+ — your application was successful\, so don't miss this hands-on opportun
+ ity.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-filmit-2027-read-to-reel-informati-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261008T131500
 CATEGORIES:Event
 COLOR:#33B679
@@ -3439,7 +3594,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-1-2026-10-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3451,7 +3606,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Check
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-book-1a-suggested-answe-2026-10-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3464,7 +3619,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the su
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-87-2026-10-01
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3477,7 +3632,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-book-1a-suggested-answe-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3490,7 +3645,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 下載Book 1A答案�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-filmit-2027-briefing-sessi-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261008T131500
 CATEGORIES:Event
 COLOR:#33B679
@@ -3511,7 +3666,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-team-annual-meeting-pres-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3520,12 +3675,15 @@ SUMMARY:📌 REMINDER: STREAM Team - Annual Meeting Presentation Slides
 DESCRIPTION:A regular reminder worth keeping on your radar. 查閱STREAM Team
  年度會議簡報——老師已上載最終版PPT，請重溫會議內容以了解本年度計劃。 | Review the presentation slides fr
  om Monday's annual meeting\, now posted on Google Classroom. Check them 
+ to stay updated on the STREAM Team's plans for the year. | 查閱STREAM Team
+ 年度會議簡報——老師已上載最終版PPT，請重溫會議內容以了解本年度計劃。 | Review the presentation slides fr
+ om Monday's annual meeting\, now posted on Google Classroom. Check them 
  to stay updated on the STREAM Team's plans for the year.  (from Darren's
   Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-1-2026-09-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3537,7 +3695,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱 Goo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-checkpoint-completion-brin-2026-10-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Event
 COLOR:#33B679
@@ -3554,7 +3712,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-briefing-sessi-2026-10-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261006T131500
 CATEGORIES:Event
 COLOR:#33B679
@@ -3583,7 +3741,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-physics-chapter-1-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
@@ -3597,7 +3755,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-chapter-1-test-parent-sign-2026-10-03
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261003
 CATEGORIES:Event
 COLOR:#33B679
@@ -3609,7 +3767,7 @@ DESCRIPTION:Heads up: Get your parent's signature on your Chapter 1 test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-grammar-book-grammar-bo-2026-10-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3625,7 +3783,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-bring-textbook-and-no-2026-10-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261004
 CATEGORIES:Event
 COLOR:#33B679
@@ -3637,7 +3795,7 @@ DESCRIPTION:Heads up: Pack your Chemistry textbook and notes for tomorrow
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-moral-and-civic-education-oct-2-2026-10-31
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261031T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3652,7 +3810,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-2-corr-2026-10-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261006T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3667,7 +3825,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-textbook-for-lesson-swap-2026-10-06
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Event
 COLOR:#33B679
@@ -3681,7 +3839,7 @@ DESCRIPTION:Heads up: Bring your IH-CES textbook tomorrow — Lesson 9 on 6
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-writing-booklet-p-g-8-l-2026-09-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3695,7 +3853,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-3e-picnic-day-grouping-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Event
 COLOR:#33B679
@@ -3707,11 +3865,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
  ping spreadsheet and confirm your group before the 3:59 PM deadline — th
  e class needs finalized groups for the outing. | Submit your Picnic Day 
  grouping for Chinese History by 7 October — make sure your group is conf
- irmed.  (from Darren's Study Pipeline)
+ irmed. | Submit your picnic day grouping preferences by October 7 — the 
+ teacher needs the list to organize teams for the class outing. | Check t
+ he picnic day grouping spreadsheet and confirm your group before the 3:5
+ 9 PM deadline — the class needs finalized groups for the outing. | Submi
+ t your Picnic Day grouping for Chinese History by 7 October — make sure 
+ your group is confirmed.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cityuhk-science-patent-challenge-o-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261009T174500
 CATEGORIES:Event
 COLOR:#33B679
@@ -3723,12 +3886,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
  45 pm via Zoom to learn about the patent challenge — registration closes
   on 7 October\, so sign up today if you're interested. | Register for th
  e online information session by 7 October — it runs 9 October 5:45–6:15 
- pm via Zoom and explains how to enter the patent challenge.  (from Darre
- n's Study Pipeline)
+ pm via Zoom and explains how to enter the patent challenge. | Join the o
+ nline information session this Friday at 5:45 pm via Zoom to learn about
+  the patent challenge — registration closes on 7 October\, so sign up to
+ day if you're interested. | Register for the online information session 
+ by 7 October — it runs 9 October 5:45–6:15 pm via Zoom and explains how 
+ to enter the patent challenge.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cityuhk-science-patent-challenge-i-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261017T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -3742,12 +3909,25 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:00 ·
  r — it runs 17 October 9:00 am–12:30 pm at CityUHK and earns a Certifica
  te of Completion. | Attend the workshop delivered by a Patent Attorney c
  overing patents\, real-life cases\, and the innovation-to-invention jour
- ney — complete it to receive a Certificate of Completion.  (from Darren'
- s Study Pipeline)
+ ney — complete it to receive a Certificate of Completion. | Register for
+  the IP workshop by 11 October — it runs from 9:00 am to 12:30 pm at Cit
+ yUHK Campus and covers patents and the innovation-to-invention journey. 
+ | Sign up for the IP workshop by 11 October — it runs 17 October 9:00 am
+ –12:30 pm at CityUHK and earns a Certificate of Completion. | Attend the
+  workshop delivered by a Patent Attorney covering patents\, real-life ca
+ ses\, and the innovation-to-invention journey — complete it to receive a
+  Certificate of Completion. | Register for the IP workshop by 11 October
+  — it runs from 9:00 am to 12:30 pm at CityUHK Campus and covers patents
+  and the innovation-to-invention journey. | Sign up for the IP workshop 
+ by 11 October — it runs 17 October 9:00 am–12:30 pm at CityUHK and earns
+  a Certificate of Completion. | Attend the workshop delivered by a Paten
+ t Attorney covering patents\, real-life cases\, and the innovation-to-in
+ vention journey — complete it to receive a Certificate of Completion.  (
+ from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-scmp-subscription-cheque-submis-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -3760,11 +3940,18 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Submit your $
  SCMP subscription cheque to Ms. Mou in person tomorrow — this is the fin
  al deadline and late submissions will not be accepted. | Submit your SCM
  P subscription cheque to Ms. Mou in person tomorrow — this is the final 
- deadline\, so don't miss it.  (from Darren's Study Pipeline)
+ deadline\, so don't miss it. | Submit your $250 cheque for the optional 
+ SCMP subscription by next Tuesday\, 13 October — write your full name\, 
+ class\, class number\, and teacher initials (HKM) on the back. Late subm
+ issions will not be accepted. | Submit your SCMP subscription cheque to 
+ Ms. Mou in person tomorrow — this is the final deadline and late submiss
+ ions will not be accepted. | Submit your SCMP subscription cheque to Ms.
+  Mou in person tomorrow — this is the final deadline\, so don't miss it.
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-bring-writing-booklet-t-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3774,11 +3961,15 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
  your Writing Booklet to English class tomorrow — Ms. Mou reminded 3E to 
  have it ready. | Pack your Writing Booklet for English class tomorrow — 
  Ms. Mou expects everyone to have it ready for the lesson. | 明天帶寫作簿上課 — 老
- 師提醒3E班同學攜帶Writing Booklet，請提前準備。  (from Darren's Study Pipeline)
+ 師提醒3E班同學攜帶Writing Booklet，請提前準備。 | Bring your Writing Booklet to English
+  class tomorrow — Ms. Mou reminded 3E to have it ready. | Pack your Writ
+ ing Booklet for English class tomorrow — Ms. Mou expects everyone to hav
+ e it ready for the lesson. | 明天帶寫作簿上課 — 老師提醒3E班同學攜帶Writing Booklet，請提前準備
+ 。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-chinese-p1-2-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3789,7 +3980,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 明天
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-q-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -3800,7 +3991,7 @@ DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-practise-p-89-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -3812,7 +4003,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-ih-ces-vocabulary-list-dictati-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3825,7 +4016,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-ih-ces-revision-test-2026-10-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
@@ -3835,12 +4026,16 @@ DESCRIPTION:Time to prep — here's what you've got. Revise the learning fo
  cuses for the IH-CES Revision Test on 30 October — review all key topics
   covered in class. | 溫習學習重點準備測驗 — 測驗於10月30日進行，請參考老師提供的學習重點。 | Review the
   Module 3.1 learning focuses for the revision test on 30 October — this 
- is the second of two F.3 IH-CES assessments.  (from Darren's Study Pipel
- ine)
+ is the second of two F.3 IH-CES assessments. | Revise the learning focus
+ es for the IH-CES Revision Test on 30 October — review all key topics co
+ vered in class. | 溫習學習重點準備測驗 — 測驗於10月30日進行，請參考老師提供的學習重點。 | Review the Mo
+ dule 3.1 learning focuses for the revision test on 30 October — this is 
+ the second of two F.3 IH-CES assessments.  (from Darren's Study Pipeline
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2026-11-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261104T163000
 CATEGORIES:Event
 COLOR:#33B679
@@ -3852,7 +4047,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 如
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2026-12-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261214
 CATEGORIES:Event
 COLOR:#33B679
@@ -3864,7 +4059,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 職安局�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-03-02
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Event
 COLOR:#33B679
@@ -3876,7 +4071,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 待定 總�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-optional-scmp-subscription-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Event
 COLOR:#33B679
@@ -3893,7 +4088,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-ih-ces-vocabulary-list-2026-10-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3906,7 +4101,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. St
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-p1-2-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -3918,7 +4113,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 背默
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -3933,7 +4128,7 @@ DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-11-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261104T163000
 CATEGORIES:Event
 COLOR:#33B679
@@ -3945,7 +4140,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 報
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -3954,11 +4149,14 @@ SUMMARY:🎉 EVENT: 職安健 - 常識問答比賽報名
 DESCRIPTION:Something happening on campus. Mark it and show up. 有興趣參加職安健常
  識問答比賽的同學，請於10月12日前填寫Google Form報名，每隊3至5人。 | 放學後出校門先打電話俾媽媽，然後自己去中醫診所打脈拿藥。
  今日一定要去，因為聽日中醫師放假唔喺診所。 | 填寫 Google form 報名參加職安健常識問答比賽 — 截止日期為10月12日，比賽旨在提
- 升職安健水平，有興趣的同學請盡快報名。  (from Darren's Study Pipeline)
+ 升職安健水平，有興趣的同學請盡快報名。 | 有興趣參加職安健常識問答比賽的同學，請於10月12日前填寫Google Form報名，每隊3至5人。
+  | 放學後出校門先打電話俾媽媽，然後自己去中醫診所打脈拿藥。今日一定要去，因為聽日中醫師放假唔喺診所。 | 填寫 Google form 報名
+ 參加職安健常識問答比賽 — 截止日期為10月12日，比賽旨在提升職安健水平，有興趣的同學請盡快報名。  (from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-cityuhk-science-patent-2026-10-07
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261007T174500
 CATEGORIES:Event
 COLOR:#33B679
@@ -3972,7 +4170,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-cityuhk-science-patent-2026-10-11
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261011
 CATEGORIES:Event
 COLOR:#33B679
@@ -3986,7 +4184,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Sign up f
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Event
 COLOR:#33B679
@@ -3997,7 +4195,7 @@ DESCRIPTION:Heads up: 記得帶iPad上中文堂 — 老師提醒需要用到電�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4010,7 +4208,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 如未交�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-2026-2027-2026-12-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Event
 COLOR:#33B679
@@ -4021,11 +4219,19 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 校內報名截�
  12月15日或之前組成最多6人小隊，並將中英文姓名、班別班號、手機號碼及電郵交予老師作校內報名。 | Form a team of up to 
  6 students and approach the teacher for group registration by 15 Dec — g
  ather names\, class\, phone\, and email for the green building competiti
- on.  (from Darren's Study Pipeline)
+ on. | 校內報名截止日期為12月15日（星期二）— 組隊（最多6人）或個人參賽，組長需收集姓名、班別、電話及電郵後聯絡郭老師報名。 | 有興
+ 趣參加綠色建築比賽的同學，請於12月15日或之前組成最多6人小隊，並將中英文姓名、班別班號、手機號碼及電郵交予老師作校內報名。 | Form a
+  team of up to 6 students and approach the teacher for group registratio
+ n by 15 Dec — gather names\, class\, phone\, and email for the green bui
+ lding competition. | 校內報名截止日期為12月15日（星期二）— 組隊（最多6人）或個人參賽，組長需收集姓名、班別、電話及電
+ 郵後聯絡郭老師報名。 | 有興趣參加綠色建築比賽的同學，請於12月15日或之前組成最多6人小隊，並將中英文姓名、班別班號、手機號碼及電郵交予老師
+ 作校內報名。 | Form a team of up to 6 students and approach the teacher for gr
+ oup registration by 15 Dec — gather names\, class\, phone\, and email fo
+ r the green building competition.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-2026-2026-10-30
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Event
 COLOR:#33B679
@@ -4035,12 +4241,19 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 於10月30日或
  前填寫報名表格 — 以生成式AI製作海洋（初中）或五個主題（高中）的影片，詳見附件指引。 | F.1至F.5同學可以個人或小組形式參賽，用生成式
  AI製作海洋或五大主題影片，請於10月30日或之前填妥報名表，如需負責老師資料可電郵老師查詢。 | Submit your applicatio
  n form on or before 30 Oct — use gen AI to create a video about ocean th
- emes and email the teacher-in-charge for details.  (from Darren's Study 
- Pipeline)
+ emes and email the teacher-in-charge for details. | 於10月30日或之前填寫報名表格 — 以
+ 生成式AI製作海洋（初中）或五個主題（高中）的影片，詳見附件指引。 | F.1至F.5同學可以個人或小組形式參賽，用生成式AI製作海洋或五大主題
+ 影片，請於10月30日或之前填妥報名表，如需負責老師資料可電郵老師查詢。 | Submit your application form on o
+ r before 30 Oct — use gen AI to create a video about ocean themes and em
+ ail the teacher-in-charge for details. | 於10月30日或之前填寫報名表格 — 以生成式AI製作海洋（初
+ 中）或五個主題（高中）的影片，詳見附件指引。 | F.1至F.5同學可以個人或小組形式參賽，用生成式AI製作海洋或五大主題影片，請於10月30日
+ 或之前填妥報名表，如需負責老師資料可電郵老師查詢。 | Submit your application form on or before 30
+  Oct — use gen AI to create a video about ocean themes and email the tea
+ cher-in-charge for details.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Event
 COLOR:#33B679
@@ -4052,7 +4265,7 @@ DESCRIPTION:Heads up: 記得明天上中文堂要帶iPad，老師會用電子教
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -4064,7 +4277,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 請於
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-writing-booklet-checkpo-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4082,7 +4295,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ole-team-executive-committee-recru-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261016T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -4097,7 +4310,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-1-4-2026-10-09
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4108,7 +4321,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-value-fruit-sketchi-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4126,7 +4339,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Select
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-3-assi-2026-09-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4139,7 +4352,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-3-assi-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4154,11 +4367,29 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  room for submission details if you haven't turned it in. | Complete your
   Python Notes Chapter 4 assignment using the provided Google Docs templa
  te — this covers key programming concepts and must be submitted by the d
- eadline to stay on track in ICT-A.  (from Darren's Study Pipeline)
+ eadline to stay on track in ICT-A. | Complete the Python Chapter 3 assig
+ nment posted on Google Classroom — check the details page for submission
+  requirements and deadline. | Complete the Python Chapter 4 assignment a
+ nd submit it by 15 Oct. Check Google Classroom for the full task details
+ . | Complete and submit your Python Notes Chapter 4 assignment — it was 
+ due on 15th October\, so check Google Classroom for submission details i
+ f you haven't turned it in. | Complete your Python Notes Chapter 4 assig
+ nment using the provided Google Docs template — this covers key programm
+ ing concepts and must be submitted by the deadline to stay on track in I
+ CT-A. | Complete the Python Chapter 3 assignment posted on Google Classr
+ oom — check the details page for submission requirements and deadline. |
+  Complete the Python Chapter 4 assignment and submit it by 15 Oct. Check
+  Google Classroom for the full task details. | Complete and submit your 
+ Python Notes Chapter 4 assignment — it was due on 15th October\, so chec
+ k Google Classroom for submission details if you haven't turned it in. |
+  Complete your Python Notes Chapter 4 assignment using the provided Goog
+ le Docs template — this covers key programming concepts and must be subm
+ itted by the deadline to stay on track in ICT-A.  (from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-1-4-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4169,7 +4400,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Test
 COLOR:#EA4335
@@ -4180,7 +4411,7 @@ DESCRIPTION:Time to prep — here's what you've got. 明天進行《阿Q正傳�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-2026-10-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -4191,7 +4422,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 背誦
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-reading-comprehension-1-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4215,7 +4446,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-bring-grammar-booklet-a-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -4231,7 +4462,7 @@ DESCRIPTION:Heads up: Pack your Grammar Booklet and Grammar Book for Mond
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-textbook-p-37-38-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4247,7 +4478,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-spc-national-a-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261014T130500
 CATEGORIES:Event
 COLOR:#33B679
@@ -4270,7 +4501,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-spc-national-a-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261015T130500
 CATEGORIES:Event
 COLOR:#33B679
@@ -4294,7 +4525,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261017T150000
 CATEGORIES:Event
 COLOR:#33B679
@@ -4310,7 +4541,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261012T160000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4321,7 +4552,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 16:00 放學後�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-singing-exam-because-he-lives-2026-10-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
@@ -4337,7 +4568,7 @@ DESCRIPTION:Time to prep — here's what you've got. 揀一首詩歌，同另一
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-28
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4349,7 +4580,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 閱讀《�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-4-elements-co-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4364,7 +4595,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Chapt
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -4375,7 +4606,7 @@ DESCRIPTION:Heads up: 中文科老師提醒上堂要帶iPad，記得前一晚充
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-91-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4389,7 +4620,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成Geog
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-ch3-factorization-practice-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4403,7 +4634,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Work t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-bring-ipad-to-class-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -4415,7 +4646,7 @@ DESCRIPTION:Heads up: Remember to pack your iPad before heading to Chines
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-physics-hw1-solutions-review-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4428,7 +4659,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Check
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-2-correction-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4443,7 +4674,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Delete
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-listening-booklet-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Event
 COLOR:#33B679
@@ -4459,7 +4690,7 @@ DESCRIPTION:Heads up: Bring your Listening Booklet to English class tomor
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-p5-6-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4471,7 +4702,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 記得帶iP
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -4483,7 +4714,7 @@ DESCRIPTION:Time to prep — here's what you've got. 下星期二將進行《爸
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-175th-anniversary-open-day-helper--2026-10-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:Event
 COLOR:#33B679
@@ -4496,11 +4727,18 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
  EAM game booths and workshops — your support makes the 175th Open Day a 
  success. | Fill in the Google Form by next Wednesday (21/10) if you want
   to help run STREAM game booths and workshops — your support will make t
- he 175th Open Day a success.  (from Darren's Study Pipeline)
+ he 175th Open Day a success. | Sign up via the Google Form by next Wedne
+ sday (21/10) to help run STREAM game booths and workshops — your support
+  makes the 175th Open Day a success. | Sign up via the Google Form by ne
+ xt Wednesday (21/10) to help run the STREAM game booths and workshops — 
+ your support makes the 175th Open Day a success. | Fill in the Google Fo
+ rm by next Wednesday (21/10) if you want to help run STREAM game booths 
+ and workshops — your support will make the 175th Open Day a success.  (f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-english-grammar-booklet-pg-1-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4513,7 +4751,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -4531,7 +4769,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀劉紹銘《吃馬鈴
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-english-grammar-booklet-pg-1-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4544,7 +4782,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-chemistry-exercise-3-correct-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4556,12 +4794,18 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
  rected Exercise 3 by the 00:30 deadline — review your mistakes carefully
   so you are ready for the next lesson. | Complete and submit your Exerci
  se 3 correction by today — this follows up on the graded Exercise 2 and 
+ helps you consolidate your understanding before the next topic. | Submit
+  your Exercise 3 correction by Oct 14 — review your mistakes carefully t
+ o strengthen your understanding before the next topic. | Submit your cor
+ rected Exercise 3 by the 00:30 deadline — review your mistakes carefully
+  so you are ready for the next lesson. | Complete and submit your Exerci
+ se 3 correction by today — this follows up on the graded Exercise 2 and 
  helps you consolidate your understanding before the next topic.  (from D
  arren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-biology-chapter-4-enzymes-an-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4573,7 +4817,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-p5-6-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4584,7 +4828,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-writing-booklet-test-pa-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4600,7 +4844,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4615,7 +4859,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 閱讀劉�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-religious-studies-practice-thin-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4630,7 +4874,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-biology-chapter-4-enzymes-and-m-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4643,7 +4887,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Review
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Event
 COLOR:#33B679
@@ -4654,19 +4898,20 @@ DESCRIPTION:Heads up: 記得帶iPad上中文堂，老師會用電子教材進行
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-13
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 中文 - 背詩
 DESCRIPTION:Don't leave this to the last minute — chip away early. 背熟指定詩詞
- ，老師會課堂抽查，背好先可以應付之後嘅默書同考試。 | 完成字帖第5至6頁，練好筆順同字形，對考試卷面分有幫助。  (from Darren's
-  Study Pipeline)
+ ，老師會課堂抽查，背好先可以應付之後嘅默書同考試。 | 完成字帖第5至6頁，練好筆順同字形，對考試卷面分有幫助。 | 背熟指定詩詞，老師會課堂抽
+ 查，背好先可以應付之後嘅默書同考試。 | 完成字帖第5至6頁，練好筆順同字形，對考試卷面分有幫助。  (from Darren's Study 
+ Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-english-writing-booklet-read-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -4681,7 +4926,7 @@ DESCRIPTION:Heads up: Bring your Writing Booklet to class tomorrow for th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-meeting-rescheduled-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Event
 COLOR:#33B679
@@ -4696,7 +4941,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-spike-legacy-down-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4709,7 +4954,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. The Sumo Robo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -4720,7 +4965,7 @@ DESCRIPTION:Heads up: 記得帶iPad上中文堂，並提醒同組同學一齊帶
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261018T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -4732,7 +4977,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 把
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-worksheet-1-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4748,7 +4993,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成Work
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Event
 COLOR:#33B679
@@ -4761,7 +5006,7 @@ DESCRIPTION:Heads up: 明天將$50交給班會司庫以購買F.3化學實驗作�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-q-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4772,7 +5017,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 你的阿Q正傳閱�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261020T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -4784,7 +5029,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Event
 COLOR:#33B679
@@ -4795,7 +5040,7 @@ DESCRIPTION:Heads up: 星期六下午可去看話劇，記得將$100交給中史
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-dictation-1-answer-key-2026-10-14
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4806,7 +5051,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱Dictation 1
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-f-3-chemistry-experiment-workbo-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Event
 COLOR:#33B679
@@ -4819,7 +5064,7 @@ DESCRIPTION:Heads up: Bring $50 to the class treasurer tomorrow — the F.3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2022-tsa-1-2026-10-12
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4831,7 +5076,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 請完成 2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-psychology-and-photography-therapy-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261020T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -4849,7 +5094,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-affiliated-clubs-online-enrolment-2026-10-18
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261018T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -4862,7 +5107,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-lesson-ipad-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Event
 COLOR:#33B679
@@ -4874,7 +5119,7 @@ DESCRIPTION:Heads up: Bring your iPad to Chinese class and remind your gr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2022-tsa-1-2026-10-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4887,7 +5132,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-gratitude-card-submission-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4899,7 +5144,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-module-3-1-ws-2-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4918,7 +5163,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-p5-6-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4932,7 +5177,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2026-12-15
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261215T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -4943,12 +5188,17 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 於
  5日前完成校內報名，個人或組隊（每隊最多4人）參加均可。比賽主題涵蓋歷史與自然、體育和藝術、文化遺產、科技及航天等，是展現創新科技與認識國家的好
  機會。 | Register your team of up to 4 members for the National Identity Ap
  p Design Competition by 15 December — explore topics like history\, spor
- ts\, arts\, or technology and prepare to submit your app concept.  (from
-  Darren's Study Pipeline)
+ ts\, arts\, or technology and prepare to submit your app concept. | 於12月
+ 15日或之前完成校內報名，可個人或組隊參加（每隊最多4人），主題圍繞歷史與自然、體育和藝術等。 | MENTOR NOTE: 請於12月15日前
+ 完成校內報名，個人或組隊（每隊最多4人）參加均可。比賽主題涵蓋歷史與自然、體育和藝術、文化遺產、科技及航天等，是展現創新科技與認識國家的好機會。
+  | Register your team of up to 4 members for the National Identity App D
+ esign Competition by 15 December — explore topics like history\, sports\
+ , arts\, or technology and prepare to submit your app concept.  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-27-2027-01-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270104
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -4961,7 +5211,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 於2027年
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2027-04-10
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270410
 CATEGORIES:Event
 COLOR:#33B679
@@ -4972,7 +5222,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 入圍隊伍需�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-module-3-1-ws-2-2026-10-16
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -4984,7 +5234,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Modul
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ole-team-executive-committee-recru-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261020T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -4998,7 +5248,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 於
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-internal-product-submissio-2027-01-04
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270104
 CATEGORIES:Event
 COLOR:#33B679
@@ -5011,7 +5261,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-music-festival-fee-cheque-submissi-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Event
 COLOR:#33B679
@@ -5021,12 +5271,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 3/F sta
  ff room Submit your Music Festival fee cheque to Mr. Koo in the 3/F staf
  f room during 1st recess — late submissions will not be accepted. | Subm
  it your Music Festival fee cheque to Mr. Koo in the 3/F staff room tomor
- row during 1st recess — late submissions will not be accepted.  (from Da
- rren's Study Pipeline)
+ row during 1st recess — late submissions will not be accepted. | Submit 
+ your Music Festival fee cheque to Mr. Koo in the 3/F staff room during 1
+ st recess — late submissions will not be accepted. | Submit your Music F
+ estival fee cheque to Mr. Koo in the 3/F staff room tomorrow during 1st 
+ recess — late submissions will not be accepted.  (from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-listening-practice-pape-2026-10-20
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -5039,7 +5293,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-chapter-3-factorization-2026-11-05
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
@@ -5057,7 +5311,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare steadily for t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-psychology-and-photography-therapy-2026-10-19
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261019T200000
 CATEGORIES:Event
 COLOR:#33B679
@@ -5070,7 +5324,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 20:00 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-3e-picnic-day-whatsapp-contact-2026-10-17
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Event
 COLOR:#33B679
@@ -5082,7 +5336,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Save the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chemistry-ch1-2-test-correction-2026-10-21
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART:20261021T003000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -5093,12 +5347,17 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 00:30 Complete your
  mistakes now will strengthen your understanding before the next assessme
  nt. | Complete your corrections for the Chapter 1-2 Chemistry test and s
  ubmit them by 21 October. Reviewing your mistakes carefully will strengt
- hen your understanding before the next assessment.  (from Darren's Study
-  Pipeline)
+ hen your understanding before the next assessment. | Complete your Ch1-2
+  test corrections and submit them by the deadline — reviewing your mista
+ kes now will strengthen your understanding before the next assessment. |
+  Complete your corrections for the Chapter 1-2 Chemistry test and submit
+  them by 21 October. Reviewing your mistakes carefully will strengthen y
+ our understanding before the next assessment.  (from Darren's Study Pipe
+ line)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-student-innovation-competition-202-2027-01-08
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20270108
 CATEGORIES:Event
 COLOR:#33B679
@@ -5116,7 +5375,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-worksheet-2-2026-10-26
-DTSTAMP:20261025T193057
+DTSTAMP:20261025T201354
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
