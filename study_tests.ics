@@ -4,277 +4,444 @@ PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:study-2b-maths-test-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260901T212221
+UID:study-test-mathematics-team-selection-test-2026-09-11
+DTSTAMP:20261025T080056
+DTSTART:20260911T143000
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Mathematics Team Selection Test @ 6/F History Room and Ce
+ ntre for Sustainable Development
+DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:30 · 📍 6/F Histor
+ y Room and Centre for Sustainable Development Arrive by 14:15 at the 6/F
+  History Room for the selection test — no calculators or protractors all
+ owed\, but rulers and compasses are permitted. | Sit the Mathematics Tea
+ m selection test on 11 Sep (Fri) 14:30-16:00 at the 6/F History Room and
+  Centre for Sustainable Development — arrive by 14:15. Calculators and p
+ rotractors are not allowed\; rulers and compasses may be used. | Arrive 
+ by 14:15 at the 6/F History Room for the selection test — calculators an
+ d protractors are not allowed\, so bring rulers and compasses and review
+  olympiad-style exact numeral answers. | 數學隊選拔測試於9月11日下午2:30至4:00舉行，請於2:
+ 15前到達6樓歷史室及可持續發展中心。不允許使用計算器及量角器，請帶備鉛筆、橡皮擦、直尺及圓規。  (from Darren's Study P
+ ipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-music-singing-exam-2026-11-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261109
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Music - Singing Exam
+DESCRIPTION:Time to prep — here's what you've got. Prepare your singing p
+ ieces for the 1st Term Singing Exam starting 9 November — Ms. Koo will a
+ ssess your vocal performance and this counts toward your term grade. | 歌
+ 唱考試由11月9日開始，請提前練習考試曲目。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-music-instrumental-exam-2027-03-02
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20270302
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Music - Instrumental Exam
+DESCRIPTION:Time to prep — here's what you've got. Prepare your instrumen
+ t for the 2nd Term Instrumental Exam starting 2 March 2027 — Mr. Koo wil
+ l assess your performance skills. | 樂器考試由3月2日開始，請加緊練習。  (from Darren's S
+ tudy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-2026-09-07
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260907
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 中文 - 閱讀評估 (暑期課業)
+DESCRIPTION:Time to prep — here's what you've got. 記得準備閱讀評估（暑期課業）— 這是閉卷測試
+ ，題目包括選擇題及短問答，請溫習暑期課業內容。 | 下星期一進行閱讀評估，請熟讀《江雪》及《九月九日憶山東兄弟》兩首詩，評估內容與暑期課業相關。
+  | 記得明天堂上進行閱讀評估，閉卷測試，題目包括選擇題及短問答。請重溫暑期課業內容，帶齊所需用品。  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-2026-09-10
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260910
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 中國歷史 - 地圖測驗
+DESCRIPTION:Time to prep — here's what you've got. 準備9月10日的地圖測驗，並於當天提交地圖工
+ 作紙 — 測驗成績將計入平時分。 | 準備好地圖測驗並於當日提交地圖工作紙 — 測驗與作業同日進行，請提前溫習地圖相關內容。  (from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-music-2026-08-31
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260831
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: Music - 樂理考試
+DESCRIPTION:Time to prep — here's what you've got. Complete the music the
+ ory practice paper and review your notes — the 樂理考試 is scheduled for thi
+ s month\, so start preparing now.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-2026-06-01
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260601
+CATEGORIES:Test
+COLOR:#EA4335
+X-APPLE-CALENDAR-COLOR:#EA4335
+SUMMARY:📝 TEST: 中文科 - 單元九測驗
+DESCRIPTION:Time to prep — here's what you've got. 查閱單元九測驗參考答案，核對自己的答題情況 
+ — 老師已上載答案供同學參考，請盡快檢討錯誤。  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-test-maths-ch10-test-sin-cos-tan-2026-05-19
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test Chapter 10 (sin cos tan)
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 10 (si
- n cos tan) on upcoming Tuesday.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Maths Ch10 Test (Sin Cos Tan)
+DESCRIPTION:Time to prep — here's what you've got. Revise Chapter 10 on s
+ in\, cos\, and tan for the test on Tuesday 19 May — this is a closed-boo
+ k assessment so memorise the key formulas.  (from Darren's Study Pipelin
+ e)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-chapter-11-2026-05-20
-DTSTAMP:20260901T212221
+UID:study-test-maths-ch11-test-2026-05-20
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test Chapter 11
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on 
- upcoming Wednesday. Open book allowed.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Maths Ch11 Test
+DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
+ r 11 test on Wednesday 20 May — you may bring your textbook as the sched
+ ule is tight\, but organise your notes beforehand.  (from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-chapter-11-2026-05-21
-DTSTAMP:20260901T212221
+UID:study-test-maths-ch11-test-day-2-2026-05-21
+DTSTAMP:20261025T080056
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test Chapter 11
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 11 on 
- upcoming Thursday. Open book allowed.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Maths Ch11 Test (Day 2)
+DESCRIPTION:Time to prep — here's what you've got. Sit the second Chapter
+  11 test on Thursday 21 May — open-book is allowed\, so tab your key pag
+ es and review worked examples.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study--2026-05-12
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260512
+UID:study-test-chinese-2026-09-07
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 中史 - 第二次小測
-DESCRIPTION:Time to prep — here's what you've got. Test covers P133-P159 
- (including P159 map: 中日甲午戰爭路線圖). Includes data-based questions. Reduced 
- scope due to teaching time constraints.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Chinese - 閱讀評估 (暑期課業)
+DESCRIPTION:Time to prep — here's what you've got. Submit your summer rea
+ ding assessment on Monday — also memorise 《江雪》 and 《九月九日憶山東兄弟》 for the e
+ valuation.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-chapter-8-test-2026-05-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260506
+UID:study-test-math-chapter-1-test-laws-of-integra-2026-09-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Chapter 8 Test
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
- he upcoming Wednesday | Test on chapter 8 in the upcoming Wednesday and 
- Thursday (separate in two lessons). Posted on Wednesday 2026-05-01\, so 
- upcoming Wed/Thu = May 6 & May 7.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Math - Chapter 1 Test (Laws of Integral Indices)
+DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
+ r 1 Test on 17 September (Thursday) — it covers Laws of Integral Indices
+ \, Scientific Notation\, and the Binary Number System. Review your class
+  notes and practice the short division algorithm for denary-to-binary co
+ nversions.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-chapter-8-test-2026-05-07
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260507
+UID:study-test-maths-chapter-1-test-laws-of-integr-2026-09-17
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Chapter 8 Test
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
- he upcoming Thursday | Test on chapter 8 in the upcoming Wednesday and T
- hursday (separate in two lessons).  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Maths - Chapter 1 Test (Laws of Integral Indices)
+DESCRIPTION:Time to prep — here's what you've got. Revise scientific nota
+ tion and the binary number system tonight — the Chapter 1 test covers La
+ ws of Integral Indices and is on 17 September (Thursday).  (from Darren'
+ s Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-chapter-9-test-midterm-check-2026-04-30
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260430
+UID:study-test-3e-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Chapter 9 Test (Midterm Check)
-DESCRIPTION:Time to prep — here's what you've got. Long questions on Thur
- sday (moved due to holiday on next Friday)  (from Darren's Study Pipelin
- e)
+SUMMARY:📝 TEST: 3E 中國歷史 - 測驗一
+DESCRIPTION:Time to prep — here's what you've got. 中國歷史測驗一將於 2026 年 10 月 
+ 15 日（星期四）舉行，範圍為 P.4–P.39，題型包括選擇題及資料題，請提前溫習。  (from Darren's Study Pipeli
+ ne)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-project-ace-submission-of-promotional-vi-2026-06-23
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260623
+UID:study-test-p-4-p-39-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Project ACE: Submission of Promotional Video
-DESCRIPTION:Time to prep — here's what you've got. Graded 10/10 by Hiu Ye
- e\, Joyce CHAN. View grade via provided link. | Graded: 10/10 by Hiu Yee
- \, Joyce CHAN  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中國歷史 - 測驗一 (P.4-P.39)
+DESCRIPTION:Time to prep — here's what you've got. 溫習課本第4至39頁，測驗包括選擇題及資料題
+ ，請提早準備以免臨急抱佛腳。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chinese-unit-9-test-2026-06-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260601
+UID:study-test-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Chinese - Unit 9 Test
-DESCRIPTION:Time to prep — here's what you've got. Reference answers for 
- Unit 9 uploaded\; exam scheduled for tomorrow | Reference answers upload
- ed\; test tomorrow  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中國歷史 - 測驗一
+DESCRIPTION:Time to prep — here's what you've got. 測驗範圍為P.4至P.39，題型包括選擇題及
+ 資料題。請提前溫習課本內容，並留意老師在課堂上的補充說明。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chinese-exam-unit-9-2026-06-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260601
+UID:study-test-hku-m-programme-screening-test-2026-10-17
+DTSTAMP:20261025T080056
+DTSTART:20261017T140000
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Chinese Exam Unit 9
-DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (annou
- nced on 5/31)  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: HKU M³ Programme - Screening Test
+DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:00 Sit the HKU M³
+  screening test on 17 October from 2:00 pm to 4:00 pm — it determines yo
+ ur eligibility for the gifted mathematics modules running from late Octo
+ ber to December. | The HKU Multidimensional Mathematical Minds screening
+  test runs 2:00–4:00 pm on Saturday 17 Oct. Reply to Mr. Wan by 30 Septe
+ mber if you wish to join — this is your chance to qualify for the 'Sets\
+ , Relations and Functions' and 'Squares' modules starting late October. 
+  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-on-chapter-8-wednesday-2026-05-06
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260506
+UID:study-test-math-chapter-2-test-2026-10-15
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test on Chapter 8 (Wednesday)
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
- he upcoming Wednesday  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Math - Chapter 2 Test
+DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
+ r 2 Test on 15 October — focus on percentage change\, successive change\
+ , simple interest\, and compound interest\, as these are the key topics 
+ covered. | Prepare for the Chapter 2 Test on 15 October — review percent
+ age change\, successive change\, simple interest\, and compound interest
+  as covered in class. | Review Chapter 2 on percentages\, successive cha
+ nge\, and interest before the test on 15 October — it covers the concept
+ s from this week's lessons. | Prepare for the Chapter 2 Test on Simple a
+ nd Compound Interest — review the formulas A = P + I\, I = P*r*t\, and A
+  = P*(1 + r/n)^(n*t) thoroughly before the exam. | Prepare for the Chapt
+ er 2 Test on Simple and Compound Interest — review the formulas A = P + 
+ I\, I = P*r*t\, and A = P*(1 + r/n)^(n*t) before 15 October. | Prepare f
+ or the Chapter 2 Test on 15 October — review Salaries Tax and Compound I
+ nterest concepts\, and work through the Challenging Questions and Public
+  Exam Questions in your material to sharpen your problem-solving skills.
+  | Prepare for the Chapter 2 Test on 15 October (Thursday) — review Sala
+ ries Tax and Compound Interest concepts\, and work through the Challengi
+ ng Questions and Public Exam Questions to sharpen your problem-solving s
+ kills. | Review your Chapter 2 notes and worked solutions on Google Clas
+ sroom before Thursday — the test is on 15 October and covers factorizati
+ on patterns and trial-and-error methods. | Review your Chapter 2 notes a
+ nd worked solutions on Google Classroom tonight — the test is this Thurs
+ day and covers factorization patterns and grouping techniques.  (from Da
+ rren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-on-chapter-8-thursday-2026-05-07
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260507
+UID:study-test-programming-team-selection-test-2026-10-12
+DTSTAMP:20261025T080056
+DTSTART:20261012T154500
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test on Chapter 8 (Thursday)
-DESCRIPTION:Time to prep — here's what you've got. Test on chapter 8 in t
- he upcoming Thursday  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Programming Team - Selection Test @ CR1 and CR2
+DESCRIPTION:Time to prep — here's what you've got. ⏰ 15:45 · 📍 CR1 and CR
+ 2 Prepare for the Programming Team selection test on 12 October from 15:
+ 45 to 16:45 in CR1 and CR2 — passing it is required to join the team and
+  receive preparatory materials. Submit the Google Form by 9 October to a
+ pply\, and note that no calculators or tab-switching are allowed. | Prep
+ are for the Programming Team selection test on 12 October from 15:45 to 
+ 16:45 in CR1 and CR2 — passing it is required to qualify for official te
+ am membership and receive study materials. Submit the Google Form by 9 O
+ ctober to apply.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-test-2026-06-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260601
+UID:study-test-q-2026-10-05
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 25-26_中文科_中二第(4)組 - Test
-DESCRIPTION:Time to prep — here's what you've got. Announcement: Test tom
- orrow  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中文 - 《阿Q正傳》評估
+DESCRIPTION:Time to prep — here's what you've got. 閱讀《阿Q正傳》並準備下星期的簡單評估——評
+ 估不是本星期五，原定本星期的默書亦會改為下星期。請查看 Google Classroom 上的連結和小說內容。 | 本星期請閱讀《阿Q正傳》，下
+ 星期會進行簡單評估（不是本星期五）。原定本星期的默書亦會改為下星期，請留意課堂公布。 | 閱讀《阿Q正傳》並準備下星期的簡單評估（不是本星期五）
+ 。原定本星期的默書亦會改為下星期進行，請留意課堂公布。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-on-chapter-10-sin-cos-tan-2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
+UID:study-test-physics-chapter-1-2026-10-16
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test on Chapter 10 (sin cos tan)
-DESCRIPTION:Time to prep — here's what you've got. Test on upcoming Tuesd
- ay. Chapter 11 tests on Wednesday and Thursday.  (from Darren's Study Pi
- peline)
+SUMMARY:📝 TEST: Physics Chapter 1
+DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
+ r 1 test on 16 October — review your notes and textbook exercises so you
+  are ready for all the key concepts. | Review Chapter 1 thoroughly — the
+  test is on 16 Oct and will cover all the material from the first chapte
+ r.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-maths-test-on-chapter-11-2026-05-20
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260520
+UID:study-test-chinese-q-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B Maths - Test on Chapter 11
-DESCRIPTION:Time to prep — here's what you've got. Open-book test for Cha
- pter 11.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Chinese - 《阿Q正傳》閱讀評估
+DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正傳》閱讀評估，請提前重溫課
+ 文內容。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-shing-ngat-tse-classroom-2026-06-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260601
+UID:study-test-ih-ces-revision-test-2026-10-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Shing Ngat TSE (Classroom)
-DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (poste
- d 2026-05-31).  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: IH-CES - Revision Test
+DESCRIPTION:Time to prep — here's what you've got. Revise the learning fo
+ cuses for the IH-CES Revision Test on 30 October — review all key topics
+  covered in class. | 溫習學習重點準備測驗 — 測驗於10月30日進行，請參考老師提供的學習重點。  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-2026-05-31
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260531
+UID:study-test-ih-ces-module-3-1-revision-test-2026-10-30
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 25-26_中文科_中二第(4)組
-DESCRIPTION:Time to prep — here's what you've got. Tomorrow's exam (poste
- d 2026-05-30).  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: IH-CES - Module 3.1 Revision Test
+DESCRIPTION:Time to prep — here's what you've got. Review the Module 3.1 
+ learning focuses for the revision test on 30 October — this is the secon
+ d of two F.3 IH-CES assessments.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-wai-kiu-wong-unit-9-corrosion-of-iron-pa-2026-05-19
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260519
+UID:study-test-q-2026-10-09
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Wai Kiu WONG - Unit 9 Corrosion of iron paper clips
-DESCRIPTION:Time to prep — here's what you've got. Graded 20/30 on 2026-0
- 5-19 at 9:57 PM (HKT)  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中文 - 《阿Q正傳》閱讀評估
+DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正傳》閱讀評估，請提前重溫課
+ 文內容及筆記。 | 溫習《阿Q正傳》準備閱讀評估 — 評估於星期五進行，請熟讀課文內容。 | 星期五進行《阿Q正傳》閱讀評估 — 請重溫課文內容
+ 及筆記，並背誦《出塞》以備課堂檢查。 | 星期五課堂上進行《阿Q正傳》閱讀評估，請重溫課文內容及筆記，評估成績計入平時分。 | Review 《
+ 阿Q正傳》 for the reading assessment this Friday — also memorize the poem 《出
+ 塞》 by 王昌齡 for recitation. | 明天進行《阿Q正傳》閉卷閱讀評估 — 今晚重溫課文重點及筆記。  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-unit-test-2026-05-22
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260522
+UID:study-test-q-2026-10-08
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261008
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Unit Test
-DESCRIPTION:Time to prep — here's what you've got. Friday's unit test. On
- ly covers '桃花源記'\, not '湖心亭看雪'.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中文 - 《阿Q正傳》閱讀評估
+DESCRIPTION:Time to prep — here's what you've got. 明天進行《阿Q正傳》閉卷閱讀評估，請溫習相關
+ 內容。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-hermes-email-test-2026-07-11
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260711
+UID:study-test-music-singing-exam-because-he-lives-2026-10-26
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Hermes email test
-DESCRIPTION:Time to prep — here's what you've got. Email delivery test se
- nt to students. Posted date is the test date.  (from Darren's Study Pipe
- line)
+SUMMARY:📝 TEST: Music Singing Exam - Because He Lives (Verse 1-2)
+DESCRIPTION:Time to prep — here's what you've got. 揀一首詩歌，同另一位同學二人一組練習合唱。考
+ 試由10月26日開始，記得同組員夾好聲部同歌詞。 | Choose one hymn and prepare to sing it in a g
+ roup of two — the singing exam begins on 26 October\, so start rehearsin
+ g with your partner now. | Choose one hymn and prepare to sing in a grou
+ p of two — the singing exam starts from 26 Oct\, so coordinate with your
+  partner and rehearse your verses this week.  (from Darren's Study Pipel
+ ine)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-unit-test-2026-05-22
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260522
+UID:study-test-chinese-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 25-26 中文科 中二第(4)組 - Unit Test
-DESCRIPTION:Time to prep — here's what you've got. Only '桃花源记' will be te
- sted\; '湖心亭看雪' will not be assessed.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Chinese - 《爸爸的花兒落了》小測
+DESCRIPTION:Time to prep — here's what you've got. 下星期二將進行《爸爸的花兒落了》小測 — 請
+ 重溫課文內容及重點，為測驗做好準備。 | 閱讀劉紹銘《吃馬鈴薯的日子》並完成香港教育城「e 悅讀學校計劃」的相關內容 — 下星期將有簡單的閱後評
+ 估，請提前準備。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-chinese-test-on-peach-blossom-source-sec-2026-05-16
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260516
+UID:study-test-2026-10-20
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Chinese - Test on 'Peach Blossom Source' Section 2
-DESCRIPTION:Time to prep — here's what you've got. Test on Friday (May 16
- ) following posted date 2026-05-13  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: 中文 劉紹銘《吃馬鈴薯的日子》閱後評估
+DESCRIPTION:Time to prep — here's what you've got. 閱讀劉紹銘《吃馬鈴薯的日子》後，下星期將有簡
+ 單的閱後評估 — 請先完成課外閱讀以做好準備。 | 背誦課文並熟讀《爸爸的花兒落了》的內容重點，下星期二中文堂進行小測。記得帶iPad上堂，並完
+ 成字帖P5-6。 | 下星期二小測《爸爸的花兒落了》，重溫課文內容同主旨，呢篇係考試重點篇章。 | 重溫《爸爸的花兒落了》的內容與主旨，小測將於
+ 下星期二課堂進行，成績計入平時分。 | Revise the text 《爸爸的花兒落了》 for your quiz next Tuesday
+  — Mr Chu expects you to know the content well\, so review your notes an
+ d prepare thoroughly. | Revise 《爸爸的花兒落了》 tonight — the 小測 is tomorrow in
+  Chinese class\, so review the text carefully. | Revise 《爸爸的花兒落了》 tonigh
+ t — the 小測 is scheduled for tomorrow in 中文 class. Review the key themes 
+ and characters to be well prepared.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-2b-2025-2026-05-12
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260512
+UID:study-test-maths-chapter-3-factorization-2026-11-05
+DTSTAMP:20261025T080056
+DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 2B 中史_2025 - 第二次小測範圍
-DESCRIPTION:Time to prep — here's what you've got. Test covers P133-159 (
- including P159 map). Includes data-based questions.  (from Darren's Stud
- y Pipeline)
+SUMMARY:📝 TEST: Maths Chapter 3 Factorization
+DESCRIPTION:Time to prep — here's what you've got. Prepare steadily for t
+ he Chapter 3 Test on 5 November — keep practising multi-part factorizati
+ on questions and review your past mistakes. | Revise Chapter 3 factoriza
+ tion techniques — practise using previous sub-question results\, groupin
+ g\, and calculator verification (FMLA 01) before the test on Thursday 5 
+ November. | Prepare steadily for the Chapter 3 Test on 5 November (Thurs
+ day) — focus on multi-part factorization questions and using previous re
+ sults. Also get your parent's signature on the corrected Chapter 2 test 
+ paper.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-25-26-4-unit-9-test-2026-06-01
-DTSTAMP:20260901T212221
-DTSTART;VALUE=DATE:20260601
+UID:study-test-chemistry-ch1-2-test-correction-2026-10-21
+DTSTAMP:20261025T080056
+DTSTART:20261021T003000
 CATEGORIES:Test
 COLOR:#EA4335
 X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 25-26_中文科_中二第(4)組 - Unit 9 Test
-DESCRIPTION:Time to prep — here's what you've got. Reference answers uplo
- aded. Wish exam success.  (from Darren's Study Pipeline)
+SUMMARY:📝 TEST: Chemistry Ch1-2 Test Correction
+DESCRIPTION:Time to prep — here's what you've got. ⏰ 00:30 Complete your 
+ Ch1-2 test corrections and submit them by the deadline — reviewing your 
+ mistakes now will strengthen your understanding before the next assessme
+ nt.  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
