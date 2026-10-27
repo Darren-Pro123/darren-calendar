@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-f-3-ih-cu-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -30,7 +30,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the up
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-drama-competition-certificate-c-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -44,7 +44,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Ms Mohammad w
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-lab-rules-2026-09-08
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -57,7 +57,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-physics-laboratory-rules-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -69,7 +69,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Read the labo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-curriculu-2026-09-03
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -86,7 +86,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Read the atta
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-09-04
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -98,7 +98,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 明天請帶備150�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-visual-arts-join-3e-va-26-27-go-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -111,7 +111,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-09-02
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -121,24 +121,12 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 收藏這些中文�
  典、粵語讀音和古詩文選讀資源，對你的中文學習很有幫助。 | 查看Google Classroom上的中三上冊教材，為接下來的普通話課做好準備。 
  | 填寫樂器音樂資料提交表格——老師需要這些資訊來安排本學年的音樂課程。 | 溫習暑期閱讀測驗筆記中的孟子部分，為中文測驗做好準備。 | 盡快填
  寫樂器音樂資料提交表格——老師需要這些資訊來安排本學年的音樂課程。 | 收藏這些中文學習網站——字典、粵語讀音和古詩文選讀資源，對你的中文學習很
- 有幫助。 | 按時完成暑期作業並於九月二日或之前提交——這份作業涵蓋本學年重點內容，準時完成有助你開學後順利銜接課程。  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-8-2026-09-02
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20260902
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 中三中文第8組 - 上課地點通知 @ GP3 (五樓圖書館那邊)
-DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (五樓圖書館那
- 邊) 記住中三中文第8組在GP3上課，即五樓圖書館那邊——下次上課直接去正確的課室。  (from Darren's Study Pipelin
- e)
+ 有幫助。 | 按時完成暑期作業並於九月二日或之前提交——這份作業涵蓋本學年重點內容，準時完成有助你開學後順利銜接課程。 | 記住中三中文第8組在
+ GP3上課，即五樓圖書館那邊——下次上課直接去正確的課室。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-2026-09-02
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -149,7 +137,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 記住星期一第7�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-f-3-26-27-english-google-classr-2026-09-01
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -178,7 +166,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-ict-a-google-classroom-2026-09-01
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -186,12 +174,12 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: 3E ICT-A Google Classroom
 DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
  ogle Classroom invitation from Mr. Kwok to join 3E ICT-A — course resour
- ces and assignments will be shared through this class.  (from Darren's S
- tudy Pipeline)
+ ces and assignments will be shared through this class. | 中三中文第8組的課堂在GP3（
+ 五樓圖書館那邊）進行，請準時前往正確地點上課。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-music-first-lesson-venue-2026-09-01
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -202,20 +190,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Stay in your
  r instructions there.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-8-2026-09-01
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20260901
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 中三中文第8組上課地點 @ GP3 (5/F near the Library)
-DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (5/F ne
- ar the Library) 中三中文第8組的課堂在GP3（五樓圖書館那邊）進行，請準時前往正確地點上課。  (from Darren's S
- tudy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-stream-team-member-2026-27-2026-08-31
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -227,7 +203,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請填寫Google For
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-junior-mathematics-subject-outl-2026-08-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -239,7 +215,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請查閱Junior Mat
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-27-3e-chemistry-google-cla-2026-08-27
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260827
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -251,7 +227,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 請接受2026-27 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-07-06
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260706
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -262,7 +238,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 瀏覽最新一期�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-steam-team-project-portfolio-su-2026-07-04
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260704
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -275,7 +251,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Publish your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-steam-team-project-portfolio-an-2026-07-03
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -288,7 +264,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Visit the STE
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-mzhrznle-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -299,7 +275,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check with th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-tvvqmwlf-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -310,7 +286,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check with th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-date-of-birth-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -321,7 +297,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check with th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-tk5vrwvu-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -332,7 +308,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check with th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-music-spc-s2-curriculum-notes-r-2026-09-10
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -346,18 +322,19 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Print the SPC
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-05-27
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: 中文 - 文言練習及閱理練習答案更新
 DESCRIPTION:A regular reminder worth keeping on your radar. 查閱已更新的文言練習答案清
- 晰版本及今天的閱理練習答案，核對自己的作答並修正錯誤。  (from Darren's Study Pipeline)
+ 晰版本及今天的閱理練習答案，核對自己的作答並修正錯誤。 | 查閱上星期完成的 2025 閱理練習參考答案及分析，核對自己的答案並理解答題思路。 
+  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ces-module-2-4-ws-2-2026-05-27
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260527
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -368,7 +345,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查看 CES Module
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-history-and-ces-pre-exam-rev-2026-05-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -379,7 +356,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 下載 History 及
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-05-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -389,19 +366,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 預先閱讀 5月28�
  將重溫的作文溫習重點，為課堂討論做好準備。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-2025-2026-05-27
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20260527
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 中文 - 2025閱理練習答案參考
-DESCRIPTION:A regular reminder worth keeping on your radar. 查閱上星期完成的 2025
-  閱理練習參考答案及分析，核對自己的答案並理解答題思路。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-english-unit-1-scheme-of-work-2026-09-11
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -414,7 +380,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Un
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-unit-1-scheme-of-work-f-2026-09-14
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -427,7 +393,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Sc
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-integrated-humanities-histor-2026-09-17
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -440,7 +406,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱 Google Cla
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-hazard-chemicals-2026-09-15
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART:20260915T124200
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -453,7 +419,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 12:42 Revie
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-2-physical-an-2026-09-18
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -465,7 +431,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Print out the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-writing-booklet-lesson-2026-09-22
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260922
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -477,7 +443,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Prepare your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-answers-to-chapter-tests-2026-09-19
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -492,7 +458,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the po
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-physics-chapter-1-reflection-2026-09-19
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -509,7 +475,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Open the Chap
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-sepa-environmental-badge-status-2026-09-21
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -522,7 +488,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Reply to Mr Y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-chapter-2-the-cell-as-t-2026-09-22
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260922
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -537,7 +503,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-27-robotics-team-class-inv-2026-09-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -550,7 +516,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Accept the Go
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-chapter-1-test-parent-sign-2026-09-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -563,7 +529,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Get your pare
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-chapter-1-test-parent-sign-2026-09-27
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260927
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -578,7 +544,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Get your pare
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-2026-09-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -594,7 +560,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the La
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-module-3-1-worksheet-1-2026-09-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -610,7 +576,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Mo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-3-elements-2026-09-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -626,7 +592,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-document-2026-09-28
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -639,7 +605,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Read the Lab
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-project-list-2026-09-29
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -651,7 +617,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ro
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-exercise-1-correction-2026-09-29
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -663,7 +629,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review your g
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-project-list-2026-09-30
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -675,7 +641,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check the Rob
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-book-1a-suggested-answe-2026-10-01
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -688,7 +654,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the su
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-book-1a-suggested-answe-2026-09-30
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -701,7 +667,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 下載Book 1A答案�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-team-annual-meeting-pres-2026-09-30
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -718,7 +684,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱STREAM Team
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-chapter-1-test-parent-sign-2026-10-03
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261003
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -730,7 +696,7 @@ DESCRIPTION:Heads up: Get your parent's signature on your Chapter 1 test
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-bring-textbook-and-no-2026-10-04
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261004
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -742,7 +708,7 @@ DESCRIPTION:Heads up: Pack your Chemistry textbook and notes for tomorrow
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-textbook-for-lesson-swap-2026-10-06
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -756,7 +722,7 @@ DESCRIPTION:Heads up: Bring your IH-CES textbook tomorrow — Lesson 9 on 6
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-scmp-subscription-cheque-submis-2026-10-13
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -780,7 +746,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Submit your $
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-09
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -792,7 +758,7 @@ DESCRIPTION:Heads up: 記得帶iPad上中文堂 — 老師提醒需要用到電�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-08
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -804,7 +770,7 @@ DESCRIPTION:Heads up: 記得明天上中文堂要帶iPad，老師會用電子教
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-bring-grammar-booklet-a-2026-10-12
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -820,7 +786,7 @@ DESCRIPTION:Heads up: Pack your Grammar Booklet and Grammar Book for Mond
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-12
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART:20261012T160000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -831,7 +797,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 16:00 放學後�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-4-elements-co-2026-10-12
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -846,30 +812,20 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Chapt
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-12
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: 中文堂帶iPad
 DESCRIPTION:Heads up: 中文科老師提醒上堂要帶iPad，記得前一晚充好電同放入書包，以免上堂時冇得用。 | 記得下一堂中文課帶
- iPad — 老師需要你們用平板完成課堂活動，忘記帶會影響學習進度。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-chinese-bring-ipad-to-class-2026-10-12
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Chinese - Bring iPad to Class
-DESCRIPTION:Heads up: Remember to pack your iPad before heading to Chines
- e class — your teacher expects everyone to have it ready for the lesson.
-   (from Darren's Study Pipeline)
+ iPad — 老師需要你們用平板完成課堂活動，忘記帶會影響學習進度。 | Remember to pack your iPad before h
+ eading to Chinese class — your teacher expects everyone to have it ready
+  for the lesson.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-listening-booklet-2026-10-13
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -885,7 +841,7 @@ DESCRIPTION:Heads up: Bring your Listening Booklet to English class tomor
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-biology-chapter-4-enzymes-an-2026-10-13
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -897,7 +853,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ipad-2026-10-13
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -908,7 +864,7 @@ DESCRIPTION:Heads up: 記得帶iPad上中文堂，老師會用電子教材進行
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-team-record-for-team-par-2026-10-14
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -921,7 +877,7 @@ DESCRIPTION:Heads up: Fill in the Google Form each time you join an exter
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-english-writing-booklet-read-2026-10-16
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -932,11 +888,12 @@ DESCRIPTION:Heads up: Bring your Writing Booklet to class tomorrow for th
  e final writing task. Submit Reading Comprehension 1 to Delton or Reese\
  , and hand in your Gratitude Card if you haven't already — tomorrow is t
  he final deadline. | Hand in your Gratitude Card to Ms. Mou by tomorrow 
- — this is the last chance to submit it.  (from Darren's Study Pipeline)
+ — this is the last chance to submit it. | 記得帶iPad上中文堂，並提醒同組同學一齊帶，以免影響課堂學
+ 習。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-spike-legacy-down-2026-10-15
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -948,19 +905,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. The Sumo Robo
  's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-ipad-2026-10-16
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 中文 - 上堂帶iPad
-DESCRIPTION:Heads up: 記得帶iPad上中文堂，並提醒同組同學一齊帶，以免影響課堂學習。  (from Darren's St
- udy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-chemistry-2026-10-15
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -968,12 +914,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Chemistry - 化學實驗作業簿費用
 DESCRIPTION:Heads up: 明天將$50交給班會司庫以購買F.3化學實驗作業簿，書價為$49.4。 | Give $50 to t
  he class treasurer tomorrow for the F.3 Chemistry Experiment Workbook ($
- 49.4). The treasurer will collect and pass the total to Mrs. Kwok.  (fro
- m Darren's Study Pipeline)
+ 49.4). The treasurer will collect and pass the total to Mrs. Kwok. | Bri
+ ng $50 to the class treasurer tomorrow — the F.3 Chemistry Experiment Wo
+ rkbook costs $49.4 and payment is due. Settle this promptly so the treas
+ urer can pass the total to the teacher.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-q-2026-10-14
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -984,7 +932,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 你的阿Q正傳閱�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-17
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -995,7 +943,7 @@ DESCRIPTION:Heads up: 星期六下午可去看話劇，記得將$100交給中史
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-dictation-1-answer-key-2026-10-14
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1005,21 +953,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 查閱Dictation 1
   (Seen)答案，並根據答案鍵完成改正。  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-f-3-chemistry-experiment-workbo-2026-10-15
-DTSTAMP:20261028T003534
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: F.3 Chemistry Experiment Workbook Payment
-DESCRIPTION:Heads up: Bring $50 to the class treasurer tomorrow — the F.3
-  Chemistry Experiment Workbook costs $49.4 and payment is due. Settle th
- is promptly so the treasurer can pass the total to the teacher.  (from D
- arren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-chinese-lesson-ipad-2026-10-15
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1031,7 +966,7 @@ DESCRIPTION:Heads up: Bring your iPad to Chinese class and remind your gr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-module-3-1-ws-2-2026-10-16
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1043,7 +978,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 老師已上載Modul
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-spc-igem-human-practice-survey-2026-10-20
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1058,7 +993,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Fill out the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-picnic-day-whatsapp-emergency-c-2026-10-20
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1070,7 +1005,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Save the Picn
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-2026-10-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1081,7 +1016,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. From calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-document-2026-10-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1092,7 +1027,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. From calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-chapter-3-elements-2026-10-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1103,7 +1038,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. From calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-module-3-1-worksheet-2026-10-26
-DTSTAMP:20261028T003534
+DTSTAMP:20261028T013531
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
