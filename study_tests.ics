@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-test-mathematics-team-selection-test-2026-09-11
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART:20260911T143000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -27,7 +27,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:30 · 📍 6/F Histo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-singing-exam-2026-11-09
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261109
 CATEGORIES:Test
 COLOR:#EA4335
@@ -40,7 +40,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your singing p
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-instrumental-exam-2027-03-02
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Test
 COLOR:#EA4335
@@ -53,7 +53,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your instrumen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-07
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -67,7 +67,7 @@ DESCRIPTION:Time to prep — here's what you've got. 記得準備閱讀評估（
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-10
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -79,7 +79,7 @@ DESCRIPTION:Time to prep — here's what you've got. 準備9月10日的地圖測
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-music-2026-08-31
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Test
 COLOR:#EA4335
@@ -91,7 +91,7 @@ DESCRIPTION:Time to prep — here's what you've got. Complete the music the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-06-01
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260601
 CATEGORIES:Test
 COLOR:#EA4335
@@ -102,7 +102,7 @@ DESCRIPTION:Time to prep — here's what you've got. 查閱單元九測驗參考
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-f-2-english-final-speaking-exam-2026-09-10
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -113,12 +113,11 @@ DESCRIPTION:Time to prep — here's what you've got. Check the F.2 Final Sp
  am session\, group\, and reporting time before exam day. | Read the pinn
  ed speaking exam schedule on your Classroom notice board thoroughly — wr
  ite down your group assignment and reporting time now so you are not cau
- ght off guard.  📅 Date not specified in source — using added-on date (20
- 26-09-10)  (from Darren's Study Pipeline)
+ ght off guard.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-visual-arts-examination-2026-09-10
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -126,13 +125,12 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: Visual Arts Examination
 DESCRIPTION:Time to prep — here's what you've got. Review your Visual Art
  s notes and pack color pencils\, a pencil\, a ruler\, and an eraser — yo
- u must bring these materials to the examination.  📅 Date not specified i
- n source — using added-on date (2026-09-10)  (from Darren's Study Pipeli
- ne)
+ u must bring these materials to the examination.  (from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch10-test-sin-cos-tan-2026-05-19
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260519
 CATEGORIES:Test
 COLOR:#EA4335
@@ -145,7 +143,7 @@ DESCRIPTION:Time to prep — here's what you've got. Revise Chapter 10 on s
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-2026-05-20
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:Test
 COLOR:#EA4335
@@ -158,7 +156,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-ch11-test-day-2-2026-05-21
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:Test
 COLOR:#EA4335
@@ -170,7 +168,7 @@ DESCRIPTION:Time to prep — here's what you've got. Sit the second Chapter
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-1-test-laws-of-integra-2026-09-17
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
@@ -192,7 +190,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-2026-10-15
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -206,7 +204,7 @@ DESCRIPTION:Time to prep — here's what you've got. 中國歷史測驗一將於
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-p-4-p-39-2026-10-15
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -217,7 +215,7 @@ DESCRIPTION:Time to prep — here's what you've got. 溫習課本第4至39頁，
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-hku-m-programme-screening-test-2026-10-17
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART:20261017T140000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -234,7 +232,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:00 Sit the HKU M³
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-2-test-2026-10-15
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -267,7 +265,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-programming-team-selection-test-2026-10-12
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART:20261012T154500
 CATEGORIES:Test
 COLOR:#EA4335
@@ -285,7 +283,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 15:45 · 📍 CR1 and C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-05
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
@@ -298,7 +296,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀《阿Q正傳》並�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-physics-chapter-1-2026-10-16
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
@@ -312,7 +310,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-q-2026-10-09
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -327,7 +325,7 @@ DESCRIPTION:Time to prep — here's what you've got. 星期五進行《阿Q正�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-ih-ces-revision-test-2026-10-30
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
@@ -346,7 +344,7 @@ DESCRIPTION:Time to prep — here's what you've got. Revise the learning fo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-08
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Test
 COLOR:#EA4335
@@ -357,7 +355,7 @@ DESCRIPTION:Time to prep — here's what you've got. 明天進行《阿Q正傳�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-10
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261010
 CATEGORIES:Test
 COLOR:#EA4335
@@ -367,13 +365,12 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the 阿Q正傳 
  讀評估 — review the text carefully and check Google Classroom for the exact
   date and details. | 請重溫《阿Q正傳》的人物、主題與寫作手法，並準時於 Google Classroom 提交閱讀評估表，
  此評估將計入中文科成績。 | Prepare for the 阿Q正傳 閱讀評估 — review the text carefully and
-  be ready to demonstrate your understanding of the reading.  📅 Date not 
- specified in source — using added-on date (2026-10-10)  (from Darren's S
- tudy Pipeline)
+  be ready to demonstrate your understanding of the reading.  (from Darre
+ n's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-2026-10-20
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -385,7 +382,7 @@ DESCRIPTION:Time to prep — here's what you've got. 下星期二將進行《爸
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-10-20
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -403,7 +400,7 @@ DESCRIPTION:Time to prep — here's what you've got. 閱讀劉紹銘《吃馬鈴
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-chapter-3-factorization-2026-11-05
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
@@ -421,7 +418,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare steadily for t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-maths-mid-year-exam-chapters-1-5-eq-2026-10-20
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -430,13 +427,12 @@ SUMMARY:📝 TEST: Maths - Mid-Year Exam (Chapters 1-5 + Equations of Straig
  ht Line)
 DESCRIPTION:Time to prep — here's what you've got. Start steady revision 
  now — the mid-year exam covers Chapters 1 to 5 plus Equations of Straigh
- t Line\, so review past mistakes consistently.  📅 Date not specified in 
- source — using added-on date (2026-10-20)  (from Darren's Study Pipeline
- )
+ t Line\, so review past mistakes consistently.  (from Darren's Study Pip
+ eline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chemistry-ch1-2-test-correction-2026-10-21
-DTSTAMP:20261027T163553
+DTSTAMP:20261027T172435
 DTSTART:20261021T003000
 CATEGORIES:Test
 COLOR:#EA4335
