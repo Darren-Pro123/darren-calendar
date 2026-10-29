@@ -4,1961 +4,2356 @@ PRODID:-//DarrenStudy//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:study-homework-moral-and-civic-education-sept--2026-09-30
-DTSTAMP:20261029T083506
-DTSTART:20260930T155900
+UID:study-homework-extra-indices-practice-for-next-2026-07-02
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Moral and Civic Education - (Sept 2627) Reflections
+SUMMARY:📃 HOMEWORK: Extra Indices Practice for Next Year
+DESCRIPTION:Don't leave this to the last minute — chip away early. Downlo
+ ad the Indices question and solution PDFs to prepare for next year's mat
+ h curriculum — optional extra practice.  Attached: 📎 3A01B002_Indices Qu
+ estion.pdf: https://drive.google.com/file/d/115hvtUTJhdEkSkvsRV9yKFBRLeU
+ G9DBG/view?usp=drive_web 📎 3A01B002_Indices Solution.pdf: https://drive.
+ google.com/file/d/1-G12Br4ikOMCoxdkl0nR_EHR2apFnJI7/view?usp=drive_web  
+ 📅 Date not stated in the source — showing the posted date (2026-07-02). 
+ Check the source before relying on it.  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/115hvtUTJhdEkSkvsRV9yKFBRLeUG9DBG/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1-G12Br4ikOMCoxdkl0nR_EHR2apFnJI7/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-program-solving-challenge-code--2026-07-02
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260702
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Program Solving Challenge (Code.org) @ Code.org
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Code
+ .org Complete any 2 of the 3 Code.org programming tasks (Harvesting with
+  Conditionals\, Conditionals in Minecraft\, or Nested Loops in Maze) — l
+ inks provided in Classroom.  📅 Date not stated in the source — showing t
+ he posted date (2026-07-02). Check the source before relying on it.  (fr
+ om Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-stream-team-2026-27-2026-08-31
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260831
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: STREAM Team 2026-27 註冊表單
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Google Form to register for STREAM Team this year — participation
+  requires at least one activity or competition.  Attached: 📎 Page Not Fo
+ und: https://docs.google.com/forms/d/e/1FAIpQLSctn5Sy91aTRyeMRt-Cd_5BCRa
+ 7ZHeJTH1qAup2VwNVEgBGwg/viewform?usp=sharing&ouid=101118809966242978432 
+  📅 Date not stated in the source — showing the posted date (2026-08-31).
+  Check the source before relying on it.  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSctn5Sy91aTRyeMRt-Cd_5BCR
+ a7ZHeJTH1qAup2VwNVEgBGwg/viewform?usp=sharing&ouid=101118809966242978432
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2627-spc-instrumental-music-inf-2026-09-02
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260902
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2627 SPC Instrumental Music Information Submission ht
+ tps://forms.gle/kKrZZSdK3nRUCHhX7
+DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
+ cement: 2627 SPC Instrumental Music Information Submission https://forms
+ .gle/kKrZZSdK3nRUCHhX7  📅 Date not stated in the source — showing the po
+ sted date (2026-09-02). Check the source before relying on it.  (from Da
+ rren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-welcome-to-learn-his-story-expe-2026-09-04
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260904
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Welcome to Learn "His-story" Expectations
+DESCRIPTION:Don't leave this to the last minute — chip away early. Write 
+ 100 words about your expectations for Integrated Humanities and submit t
+ o Google Classroom — this helps your teacher understand your interests. 
+  📅 Date not stated in the source — showing the posted date (2026-09-04).
+  Check the source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-summer-holiday-assignme-2026-09-04
+DTSTAMP:20261029T223817
+DTSTART:20260904T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English - Summer Holiday Assignment PPT Submission
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
- 9 Complete the Google Form reflection and review the assigned readings i
- n the Drive folder — this is your September Moral and Civic Education su
- bmission. | Complete your (Sept 2627) Reflections assignment and submit 
- it by September 30 — this is part of your Moral and Civic Education cour
- sework for the year.  (from Darren's Study Pipeline)
+ 9 Upload your PPT link or file to Google Classroom by 15:59 on 2026-09-0
+ 4 — the presentation starts tomorrow in Periods 2‑3.  (from Darren's Stu
+ dy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
+UID:study-homework-f-3-exp-wb-ordering-2026-09-04
+DTSTAMP:20261029T223817
+DTSTART:20260904T155900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 2 Assignment
-DESCRIPTION:Don't leave this to the last minute — chip away early. Work t
- hrough the Chapter 2 Python assignment posted on Google Classroom — chec
- k the details page for the submission deadline and requirements. | Compl
- ete any 2 of the Code.org tasks (Harvesting with Conditionals\, Conditio
- nals in Minecraft\, or Nested Loops in Maze) — check Google Classroom fo
- r the assignment details and links. | Complete any 2 tasks from the Code
- .org levels listed — choose from Harvesting with Conditionals\, Conditio
- nals in Minecraft\, or Nested Loops in Maze to build your programming sk
- ills. | Complete the Python Chapter 3 assignment on Google Classroom — c
- heck the details page for submission requirements and deadline. | Comple
- te the Python Notes Chapter 2 assignment on Google Classroom — check the
-  details for submission requirements.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: F.3 Exp WB Ordering
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
+ 9 Submit the Exp WB order form by 15:59 on 2026-09-04 — the workbook cos
+ ts about $50 and is required for Chemistry experiments.  Attached: 📎 F.3
+  Exp WB Order (3E): https://docs.google.com/forms/d/e/1FAIpQLSfFsSLcLbbw
+ KMWq8T2ZK5hZdJ-cVqP9D2sHUojidSLaKlUVug/viewform?hr_submission=ChkIyIv_v8
+ sUEhAIs_nvlcQZEgcIroSyzL8ZEAE  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfFsSLcLbbwKMWq8T2ZK5hZdJ
+ -cVqP9D2sHUojidSLaKlUVug/viewform?hr_submission=ChkIyIv_v8sUEhAIs_nvlcQZ
+ EgcIroSyzL8ZEAE
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-visual-arts-acrylic-sheet-photo-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
+UID:study-homework-summer-exercise-2026-09-07
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Acrylic Sheet Photography
-DESCRIPTION:Don't leave this to the last minute — chip away early. Place 
- your acrylic sheet works side by side on the table and take clear photos
-  of them — submit the photos via Google Classroom for Ms. Yuen. | Submit
-  one Photo Composition per group — check Google Classroom for the submis
- sion deadline and upload your group's photo. | Submit one Photo Composit
- ion per group — check the assignment details on Google Classroom and coo
- rdinate with your group members to ensure only one submission is made. |
-  Submit one photo composition per group via Google Classroom. Check the 
- assignment details for the deadline and requirements.  (from Darren's St
- udy Pipeline)
+SUMMARY:📃 HOMEWORK: Summer Exercise
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te and hand in the Summer Exercise by Monday 7 Sept — review common mist
+ akes on zero and negative indices to avoid errors.  (from Darren's Study
+  Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-p-4-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
+UID:study-homework-3-2026-09-07
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 單元筆記 P.4「回憶」部分
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成單元筆記
-  P.4「回憶」部分，每格只用一句來概括事件，準時交給朱老師。 | 完成單元筆記 P.4「回憶」部分，每格只用一句來概括事件，準時交給朱老師。 
- | 完成單元筆記 P.4「回憶」部分，每格只用一句來概括事件。 | 預習《爸爸的花兒落了》單元筆記第3頁 — 請於課前完成預習，以便課堂討論時能
- 積極參與。 | 參考老師提供的閱理練習答案，核對今早課堂所講的內容，為中文科閱讀理解大考做好準備。  (from Darren's Study 
- Pipeline)
+SUMMARY:📃 HOMEWORK: 預習 《爸爸的花兒落了》 單元筆記 第3頁
+DESCRIPTION:Don't leave this to the last minute — chip away early. Previe
+ w the notes on page 3 of '爸爸的花兒落了' before the next Chinese lesson — it w
+ ill be discussed in class.  📅 Date not stated in the source — showing th
+ e posted date (2026-09-07). Check the source before relying on it.  (fro
+ m Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-2026-09-08
-DTSTAMP:20261029T083506
+UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-08
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - 個人短講安排
-DESCRIPTION:Don't leave this to the last minute — chip away early. Check 
- the 個人短講安排表格 on Google Classroom — it has been rearranged in date order 
- so you can confirm your presentation slot. | Prepare your 個人短講 (2-10 min
- utes\, no reading from script) with images or PPT — check the attached s
- chedule to confirm your date.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 2 Assignment @ Google Form
+  (online)
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
+ le Form (online) Complete the Python Notes Chapter 2 assignment via the 
+ Google Form and submit before the next ICT lesson.  Attached: 📎 Python N
+ otes - Chapter 2: Assignment: https://docs.google.com/forms/d/e/1FAIpQLS
+ fX1dxh_jTaPRUi9K-Y8oC3hkL_Gjvz5MIxEsyLXZXid9QtxA/viewform?hr_submission=
+ ChkIyIv_v8sUEhAIkKCyxrMZEgcIvs_LjcIZEAE  📅 Date not stated in the source
+  — showing the posted date (2026-09-08). Check the source before relying
+  on it.  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfX1dxh_jTaPRUi9K-Y8oC3hk
+ L_Gjvz5MIxEsyLXZXid9QtxA/viewform?hr_submission=ChkIyIv_v8sUEhAIkKCyxrMZ
+ EgcIvs_LjcIZEAE
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-visual-arts-materials-fee-2026-09-09
-DTSTAMP:20261029T083506
+UID:study-homework-chinese-unit-notes-page-4-2026-09-09
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Materials Fee
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- $21 to your VA lesson tomorrow — the fee is needed for your art material
- s.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-08
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 2 Assignment
+SUMMARY:📃 HOMEWORK: Chinese - Unit Notes Page 4 回憶
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the Python Notes Chapter 2 assignment via the Google Form on Classroo
- m — this covers the latest chapter and will count towards your coursewor
- k.  (from Darren's Study Pipeline)
+ te the notes for page 4 '回憶' section\, writing one sentence per box\, an
+ d bring to the next Chinese class.  📅 Date not stated in the source — sh
+ owing the posted date (2026-09-09). Check the source before relying on i
+ t.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-3-2026-09-07
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260907
+UID:study-homework-iet-faraday-challenge-2026-09-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260909
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - 預習《爸爸的花兒落了》單元筆記第3頁
-DESCRIPTION:Don't leave this to the last minute — chip away early. Previe
- w page 3 of the 單元筆記 for 《爸爸的花兒落了》 — come prepared to discuss the text i
- n class.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: IET Faraday Challenge 隊伍註冊
+DESCRIPTION:Don't leave this to the last minute — chip away early. Form a
+  team of 3-6 students (S2-S4) and email the team leader for registration
+  by 9 Sept — first team HK$500\, additional teams HK$200.  Attached: 📎 F
+ C2026_invitation-17Oct.pdf: https://drive.google.com/file/d/1wDQAS_O5Qli
+ VyanmHdLKf2iVSP0l3DnX/view?usp=drive_web  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1wDQAS_O5QliVyanmHdLKf2iVSP0l3DnX/
+ view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-music-concert-report-1st-term-2026-12-01
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261201
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Music - Concert Report (1st Term)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your 1st Term Concert Report by 1 December — attend a concert and write
-  up your reflections as required by Mr. Koo. | 第一學期音樂會報告於12月1日或之前提交，請預留時
- 間撰寫。 | Attend a Western Classical\, Opera\, or Chinese Music Concert and
-  write a 300-350 word English report on the provided answer sheet. Attac
- h your ticket (compulsory) and program booklet\, then submit the digital
-  copy on Google Classroom by 1st December — late submission will incur m
- ark deductions. | Attend a Western Classical\, Opera\, or Chinese Music 
- concert and write a 300-350 word English report on the answer sheet — at
- tach your ticket and submit the digital copy on Google Classroom by 1st 
- December 2026 to avoid mark deductions. | Attend a Western Classical\, O
- pera or Chinese Music Concert and submit a 300-350 word English report w
- ith your ticket attached by 1st December — late submission will incur ma
- rk deductions. | Submit your 1st Term Concert Report by 1 December — att
- end a concert and write up your reflections as required by Mr. Koo. | 第一
- 學期音樂會報告於12月1日或之前提交，請預留時間撰寫。 | Attend a Western Classical\, Opera\, or Ch
- inese Music Concert and write a 300-350 word English report on the provi
- ded answer sheet. Attach your ticket (compulsory) and program booklet\, 
- then submit the digital copy on Google Classroom by 1st December — late 
- submission will incur mark deductions. | Attend a Western Classical\, Op
- era\, or Chinese Music concert and write a 300-350 word English report o
- n the answer sheet — attach your ticket and submit the digital copy on G
- oogle Classroom by 1st December 2026 to avoid mark deductions. | Attend 
- a Western Classical\, Opera or Chinese Music Concert and submit a 300-35
- 0 word English report with your ticket attached by 1st December — late s
- ubmission will incur mark deductions. | Attend a Western Classical\, Ope
- ra\, or Chinese Music concert and complete a 300-350 word report with ti
- cket attached — submit the digital copy on Google Classroom by 1 Decembe
- r 2026 to avoid mark deductions.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-music-concert-report-2nd-term-2027-04-25
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20270425
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Music - Concert Report (2nd Term)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your 2nd Term Concert Report by 25 April 2027 — attend a concert and co
- mplete your written reflections for Mr. Koo. | 第二學期音樂會報告於4月25日或之前提交，請預留時
- 間撰寫。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ih-ces-module-3-1-learning-focu-2026-09-10
-DTSTAMP:20261029T083506
+UID:study-homework-acrylic-sheet-2026-09-10
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH-CES - Module 3.1 Learning Focus and Vocabulary Lis
- t
-DESCRIPTION:Don't leave this to the last minute — chip away early. Review
-  the Module 3.1 learning focus and vocabulary list posted by Ms. Chan — 
- download the attachment from Google Classroom to prepare for upcoming le
- ssons. | Complete Module 3.1 WS 2 and submit it to Jayden or Reese — che
- ck the listed question numbers to make sure nothing is missed. | Submit 
- your Module 3.1 WS 2 as soon as possible — 26 students have not yet hand
- ed it in\, so complete and turn in your worksheet to avoid falling behin
- d.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Acrylic sheet
+DESCRIPTION:Don't leave this to the last minute — chip away early. [OFFIC
+ IAL ASSIGNMENT] Title: Acrylic sheet Put the work side by side on the ta
+ ble Take photo of the works  📅 Date not stated in the source — showing t
+ he posted date (2026-09-10). Check the source before relying on it.  (fr
+ om Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-payment-of-printing-fee-2026-09-11
-DTSTAMP:20261029T083506
+UID:study-homework-chinese-history-map-worksheet-s-2026-09-10
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260910
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese History - Map Worksheet Submission
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n your map worksheet by 2026-09-10 — the teacher will collect it during 
+ the quiz session.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-11
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Payment of Printing Fee
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n your $80 printing fee as a cheque payable to St. Paul's College by Fri
- day\, 11 September 2026 — the SCMP subscription fee will not be collecte
- d yet. | Submit an $80 cheque payable to St. Paul's College by Friday — 
- the SCMP subscription fee will be collected separately later. | Hand in 
- your $80 printing fee as a cheque payable to St. Paul's College by Frida
- y\, 11 September 2026 — the SCMP subscription fee will not be collected 
- yet. | Submit an $80 cheque payable to St. Paul's College by Friday — th
- e SCMP subscription fee will be collected separately later.  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-mathematics-summer-exercise-sub-2026-09-07
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260907
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Mathematics - Summer Exercise Submission
+SUMMARY:📃 HOMEWORK: Math Supp Ex 1C Q30-32 & Ex 1D Q20-23
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te and hand in your Summer Exercise by 7 Sept (Monday)\, and review the 
- common mistakes section on identifying the base in index notation. | Com
- plete and hand in your Summer Exercise by Monday 7 Sept — review Zero an
- d Negative Indices and common base-identification mistakes covered this 
- week. | Hand in your Summer Exercise on Monday and review the common mis
- takes section on Zero and Negative Indices — identifying the base correc
- tly is key.  (from Darren's Study Pipeline)
+ te Supplementary Exercise 1C Questions 30–32 and Exercise 1D Questions 2
+ 0–23 to reinforce Chapter 1 concepts before the test.  📅 Date not stated
+  in the source — showing the posted date (2026-09-11). Check the source 
+ before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-f-2-f-3-summer-holiday--2026-09-04
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260904
+UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260912
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - F.2-F.3 Summer Holiday Assignment PPT Submi
- ssion
-DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
-  your Canva or Google Slides link or downloaded PPT file to Google Class
- room — presentations begin tomorrow during Periods 2-3. | Upload your Ca
- nva/Google Slides link or downloaded PPT file to Google Classroom by 15:
- 59 — presentation rounds begin tomorrow during Periods 2-3.  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-chemistry-f-3-exp-wb-order-2026-09-04
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260904
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chemistry - F.3 Exp WB Order
-DESCRIPTION:Don't leave this to the last minute — chip away early. Let yo
- ur Chemistry teacher know by tomorrow if you plan to order the F.3 Exp W
- B — the price is around $50. | Tell your Chemistry teacher by Sep 4 whet
- her you will order the F.3 Exp WB — the price is around $50. | Fill in t
- he Google Form to indicate whether you will order the Exp WB (around $50
- ) by 15:59 — the teacher needs your response to place the order.  (from 
- Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-visual-arts-content-drawing-che-2026-10-08
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261008
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Content Drawing Check
+SUMMARY:📃 HOMEWORK: Math Supp Ex 1C Q30-32 & Ex 1D Q20-23
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te your content drawing before the 3rd VA lesson — the teacher will chec
- k it on 8 Oct after the swimming gala and National Day rescheduling. | P
- repare your content drawing for the 3rd VA lesson — the checking date is
-  8 Oct due to the swimming gala and National Day\, so use the extra time
-  to refine your work.  (from Darren's Study Pipeline)
+ te Supplementary Exercise 1C Questions 30–32 and Exercise 1D Questions 2
+ 0–23 to reinforce Chapter 1 concepts before the test.  📅 Date not stated
+  in the source — showing the posted date (2026-09-12). Check the source 
+ before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-stream-team-member-2026-27-regi-2026-09-01
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260901
+UID:study-homework-dear-all-all-of-you-should-have-2026-09-14
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260914
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: STREAM Team Member 2026-27 Registration
-DESCRIPTION:Don't leave this to the last minute — chip away early. Fill i
- n the Google Form on the 2026-27 STREAM Team Classroom to continue as a 
- member — juniors must complete at least one STREAM activity\, workshop o
- r external competition this year to be entitled as a member.  (from Darr
- en's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Dear all\, All of you should have received a file for
+  your Form 3 IH-CES component. As for the IH-Geo
+DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
+ cement: Dear all\, All of you should have received a file for your Form 
+ 3 IH-CES component. As for the IH-Geog and IH-Hist components\, please r
+ euse the portfolios we ordered for you in Form 1. Kindly pass $3 cash to
+  your IH-CES class teacher for the IH-CES file. For the dead  📅 Date not
+  stated in the source — showing the posted date (2026-09-14). Check the 
+ source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-math-long-questions-and-multipl-2026-08-04
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260804
+UID:study-homework-classical-chinese-reading-recit-2026-09-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math - Long Questions and Multiple Choice Practice
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the unfinished Math long questions and the 3 pages of multiple choice
-  questions tonight — these build the core skills you will need for upcom
- ing assessments.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-level-1-2026-08-04
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260804
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 陳老師 - Level 1 功課
-DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
-  the Level 1 功課 assigned by 陳老師 that you have not yet completed — submit
-  it promptly so you do not fall behind in class.  (from Darren's Study P
- ipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-mathematics-society-committee-r-2026-07-20
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260720
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Mathematics Society Committee Recruitment
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  the Google Form on or before 20 July if you want to join the Mathematic
- s Society Committee — help design posters and organise events next year.
-   (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-integrated-humanities-ping-shan-2026-07-07
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260707
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Integrated Humanities - Ping Shan Heritage Trail Work
- sheet
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te and upload your Ping Shan Heritage Trail Worksheet by Jul 7 — prepare
-  it before the excursion so you are ready to discuss your observations i
- n class. | Complete and upload the Ping Shan Heritage Trail Worksheet by
-  7 July — prepare it before the excursion on 6 July so you are ready to 
- learn on-site. | Complete and upload your Ping Shan Heritage Trail Works
- heet by Jul 7 — prepare it before the excursion so you are ready to disc
- uss your observations in class. | Complete and upload the Ping Shan Heri
- tage Trail Worksheet by 7 July — prepare it before the excursion on 6 Ju
- ly so you are ready to learn on-site.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-integrated-humanities-history-e-2026-07-17
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260717
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Integrated Humanities - History E-reading Award Schem
- e Survey
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the History e-reading award scheme survey by Jul 17 — your feedback h
- elps the department plan future reading activities.  (from Darren's Stud
- y Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-students-association-old-book-s-2026-07-03
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260703
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Students' Association - Old Book Sale Reply Slip
-DESCRIPTION:Don't leave this to the last minute — chip away early. Return
-  the hard copy reply slip to your Class S.A. Representative or Class Mon
- itor tomorrow — every student must submit one whether or not they are se
- lling. | Submit your Old Book Sale reply slip to the SA representative\,
-  monitor or vice monitor tomorrow — it is required from every student. |
-  Return the hard copy reply slip to your Class S.A. Representative or Cl
- ass Monitor tomorrow — every student must submit one whether or not they
-  are selling. | Submit your Old Book Sale reply slip to the SA represent
- ative\, monitor or vice monitor tomorrow — it is required from every stu
- dent.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-steam-team-alipayhk-dvice-ux-20-2026-09-07
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260907
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: STEAM Team - AlipayHK αdvice 青年科創UX設計比賽暨工作影子計劃 2026
-DESCRIPTION:Don't leave this to the last minute — chip away early. Form a
-  group of four and have your group leader email Miss Kwok the member nam
- es and classes by 7 Sept 2026 — this is the internal deadline for the UX
-  design competition and job shadowing programme. | Form a group of four 
- and have your group leader email the teacher with member names and class
- es by 7 Sept — this is a great opportunity for F.1-F.5 students to gain 
- UX design and job shadowing experience. | Form a group of four and have 
- your group leader email Miss Kwok the member names and classes by 7 Sept
-  2026 — this is the internal deadline for the UX design competition and 
- job shadowing programme. | Form a group of four and have your group lead
- er email the teacher with member names and classes by 7 Sept — this is a
-  great opportunity for F.1-F.5 students to gain UX design and job shadow
- ing experience.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-convince-us-to-go-trave-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - "Convince Us to Go!" Travel Pitch
-DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
- e a 5-minute travel pitch on a destination of your choice — this is your
-  first classwork mark and will be recorded in class\, so plan something 
- creative and practical.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-maths-extra-practice-exercises-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Maths - Extra Practice Exercises
-DESCRIPTION:Don't leave this to the last minute — chip away early. Work t
- hrough the extra practice exercises posted on Google Classroom to prepar
- e for next year's Maths lessons. | Work through the Indices practice que
- stions and check your answers with the solution file — this prepares you
-  for next year's topics. | Complete Supp. Ex. 1C (Q30-32) and Ex. 1D (Q2
- 0-23) — these exercises reinforce the binary and denary conversion metho
- ds needed for the Chapter 1 test. | Complete the assigned supplementary 
- exercises on Simple and Compound Interest — these practice problems will
-  strengthen your understanding before the Chapter 2 Test. | Get your par
- ent's signature on your corrected Chapter 2 Test paper and return it to 
- Mr. Ng. | Get your parent's signature on your corrected Chapter 2 test p
- aper and return it — Mr. Ng needs it on record.  (from Darren's Study Pi
+SUMMARY:📃 HOMEWORK: Classical Chinese Reading & Recitation @ Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
+ sroom Prepare for tomorrow's lesson: continue classical reading comprehe
+ nsion and recite Tao Yuanming's 'Five Willows'.  (from Darren's Study Pi
  peline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-is-unit-10-group-presentation-e-2026-06-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260628
+UID:study-homework-english-text-2-answers-review-2026-09-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IS - Unit 10 Group Presentation Eye Defects
-DESCRIPTION:Don't leave this to the last minute — chip away early. The gr
- oup leader must submit the PowerPoint/slide file by 28 June — the presen
- tation will be held on that day\, so finalise your slides and rehearse w
- ith your group. | The group leader must upload the PowerPoint slide file
-  by 28 June — check the guideline and presentation worksheet so your gro
- up is ready for the in-class presentation.  (from Darren's Study Pipelin
- e)
+SUMMARY:📃 HOMEWORK: English Text 2 Answers Review @ Home
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Home
+  Review the uploaded answers for Text 2 and note any questions to discus
+ s in tomorrow's class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-is-dissecting-an-ox-eye-2026-06-27
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260627
+UID:study-homework-recite-2026-09-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IS - Dissecting an Ox Eye
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your Dissecting an Ox Eye work by 27 June — review the dissection steps
-  and label the eye structures carefully before handing it in. | Watch th
- e dissection video and complete the student worksheet before the 27 June
-  deadline — this practical task counts towards your IS coursework.  (fro
- m Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-06-26
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260626
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 課堂閱讀《動物農莊》練習
-DESCRIPTION:Don't leave this to the last minute — chip away early. 根據《動物農
- 莊》篇章內容完成練習，並準時提交至 Google Classroom。 | 仔細閱讀老師發放的課堂閱讀材料，為課堂討論作好準備。  (from 
- Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ai-storybook-finalised-work-re--2026-06-25
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260625
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: AI Storybook - Finalised Work Re-upload
-DESCRIPTION:Don't leave this to the last minute — chip away early. Solve 
- the missing content issue and re-upload your finalised AI storybook to t
- he Learning Portal by Thursday\, 25 June.  (from Darren's Study Pipeline
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ih-ai-use-google-form-2026-06-23
-DTSTAMP:20261029T083506
-DTSTART:20260623T180000
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH - AI Use Google Form
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 18:0
- 0 Complete the Google Form about AI use by 6pm on 23 June — Form 3-4 stu
- dents need your responses for their Model CPPCC proposal data collection
- .  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-music-listening-excerpts-and-vo-2026-06-02
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260602
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Music - Listening Excerpts and Vocabulary Revision
-DESCRIPTION:Don't leave this to the last minute — chip away early. Review
-  the updated listening excerpts and S1 vocabulary list on Google Classro
- om — the listening parts have changed slightly and the vocabulary is exp
- ected prior knowledge for the exam.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-05-31
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260531
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文科 - 單元九測驗參考答案
-DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱單元九測
- 驗參考答案，核對自己的答題情況 — 老師已上載答案，請仔細檢討並鞏固相關知識。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ih-project-ace-evaluation-form-2026-05-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260528
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH - Project ACE Evaluation Form
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the Project ACE evaluation form by May 28 — assess your groupmates' p
- erformance and provide a valid reason if you score anyone 2 or below.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-visual-arts-ai-storybook-for-ex-2026-06-19
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260619
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - AI Storybook for Exhibition
-DESCRIPTION:Don't leave this to the last minute — chip away early. Refine
-  and finalize your AI storybook by Friday\, June 19 — proofread the text
-  and update photos or pictures\, as the final work will be showcased in 
- the Tram.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-05-19
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 普通話每日小挑戰
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成30個普
- 通話每日小挑戰練習，19/5前交齊 — 老師要將分數交給中文科，未完成會影響成績。  (from Darren's Study Pipeline
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-is-edpuzzle-making-your-film-ca-2026-05-19
-DTSTAMP:20261029T083506
-DTSTART:20260519T120000
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IS - Edpuzzle: Making Your Film Canister Rocket
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
- 0 Watch the Edpuzzle video on film canister rockets and answer the embed
- ded questions by 19 May noon — this counts toward your IS coursework.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-visual-arts-sketchbook-submissi-2026-05-20
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260520
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Sketchbook Submission for Classwork Mar
- king
-DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
- e your sketchbook with basic coloring techniques\, stained glass draft\,
-  and artwork statement — it will be collected on Wednesday 20 May for ma
- rking.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ai-storybook-for-the-future-onl-2026-05-19
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: AI Storybook for the Future - Online Surveys
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te both the IT-Lab and STEAM Team online surveys by Tuesday 19 May — the
- y are required for the AI Storybook certification funding.  (from Darren
+SUMMARY:📃 HOMEWORK: Recite 《五柳先生傳》
+DESCRIPTION:Don't leave this to the last minute — chip away early. Practi
+ ce reciting 《五柳先生傳》 tonight for tomorrow's Chinese lesson.  (from Darren
  's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-maths-ultimate-homework-deadlin-2026-05-21
-DTSTAMP:20261029T083506
-DTSTART:20260521T210000
+UID:study-homework-class-librarian-information-for-2026-09-15
+DTSTAMP:20261029T223817
+DTSTART:20260915T235900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Maths - Ultimate Homework Deadline
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 21:0
- 0 Submit all outstanding Maths homework by Thursday 21 May 9pm — this is
-  the final deadline and late work will not be accepted. | Complete Revis
- ion Exercise Q9-19 in your classwork book and submit before 21 May 3:59p
- m — mark your work before handing it in.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Class Librarian Information Form @ Google Form
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
+ 9 · 📍 Google Form Fill out the Google Form by Tuesday night\; otherwise 
+ your form teacher will be notified.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-is-edpuzzle-unit-9-p-42-43-acid-2026-05-15
-DTSTAMP:20261029T083506
-DTSTART:20260515T120000
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IS - Edpuzzle: Unit 9 P.42-43 Acid Corrodes Marble an
- d Limestone
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 12:0
- 0 Watch the Edpuzzle video on how acid corrodes marble and limestone and
-  answer the questions by 15 May noon — this supports your Unit 9 underst
- anding.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ih-ces-module-3-1-learning-focu-2026-09-08
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH-CES - Module 3.1 Learning Focus and Vocabulary Lis
- t
-DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱附件中的
- Module 3.1學習重點及詞彙表，為課堂做好準備。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-3-2026-09-08
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中三中文 - 預習《爸爸的花兒落了》單元筆記第3頁
-DESCRIPTION:Don't leave this to the last minute — chip away early. 預習《爸爸的
- 花兒落了》單元筆記第3頁，為課堂討論做好準備。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-visual-arts-confirm-order-2026-09-10
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260910
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Confirm Order
-DESCRIPTION:Don't leave this to the last minute — chip away early. Confir
- m your VA order by today — the teacher needs your confirmation to procee
- d.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-17
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260917
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math - Supp. Ex. 1C (Q30-32) & Ex. 1D (Q20-23)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te Supp. Ex. 1C (Q30-32) and Ex. 1D (Q20-23) before the Chapter 1 Test o
- n 17 September — these exercises cover Laws of Integral Indices\, Scient
- ific Notation\, and the Binary Number System.  (from Darren's Study Pipe
- line)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-form-3-class-librarian-informat-2026-09-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260915
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Form 3 - Class Librarian Information Form
-DESCRIPTION:Don't leave this to the last minute — chip away early. Fill i
- n the Google Form by Tuesday night if you are a class librarian — otherw
- ise inform your class librarians to complete it. | Fill in the Google Fo
- rm tonight if you are a class librarian — the library committee needs yo
- ur details and will contact your form teacher if it is not submitted.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-09-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260915
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 文言閱讀理解及《五柳先生傳》誦讀
-DESCRIPTION:Don't leave this to the last minute — chip away early. 明天上堂繼續
- 用文言閱讀理解，並在家中誦讀陶淵明《五柳先生傳》——請熟讀全文以備課堂討論。 | 明天上堂繼續用文言閱讀理解，並在家中誦讀陶淵明《五柳先生傳》—
- —請熟讀全文以備課堂討論。 | 明天上堂繼續用文言閱讀理解，並在家先誦讀陶淵明《五柳先生傳》全文，熟悉內容以便課堂討論。  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-oxford-english-3a-text--2026-09-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260915
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Oxford English 3A Text 2 Answer Checking
-DESCRIPTION:Don't leave this to the last minute — chip away early. Check 
- the uploaded Text 2 answer key at home tonight — note any questions you 
- want to discuss in class tomorrow. | Review the Reading (Text 2) Answer 
- Key at home and prepare questions for class discussion tomorrow. | Check
-  the uploaded Text 2 answers at home tonight and note any questions you 
- want to discuss in class tomorrow — Ms. Mou will go through them togethe
- r.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-09-18
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260918
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中三 中文 - 寫作練習工作紙 (也許 / 彷彿 / 似乎)
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成寫作練習
- 工作紙，用「也許 / 彷彿 / 似乎」寫十句或更多，明天交。記得帶原稿紙。 | 請完成寫作練習工作紙，運用「也許」、「彷彿」、「似乎」造句十句或
- 更多，明天交。同時請帶原稿紙，並背誦《五柳先生傳》首段。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-3e-90-2026-10-08
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261008
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 3E 中國歷史 - 中國工農紅軍長征勝利90周年問答比賽
-DESCRIPTION:Don't leave this to the last minute — chip away early. 比賽日期為 
- 2026-10-2 至 2026-10-8，試玩日期為 2026-9-28。完成比賽後把分數頁截圖呈交。詳情請參閱附件及學校網頁 Learnin
- g Hub 的「中國歷史」閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交。比賽日期為10月2日至10月8日，試玩日期為9月28日，詳情請參閱附
- 件及學校網頁Learning Hub的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交 — 比賽今日截止，請盡快完成並上載截圖。 | C
- omplete the quiz and submit a screenshot of your score page by tomorrow 
- — the competition runs from 2 Oct to 8 Oct\, check the Learning Hub for 
- reading materials. | 比賽日期為 2026-10-2 至 2026-10-8，試玩日期為 2026-9-28。完成比賽後把分
- 數頁截圖呈交。詳情請參閱附件及學校網頁 Learning Hub 的「中國歷史」閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交。比賽日期為10
- 月2日至10月8日，試玩日期為9月28日，詳情請參閱附件及學校網頁Learning Hub的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖
- 呈交 — 比賽今日截止，請盡快完成並上載截圖。 | Complete the quiz and submit a screenshot of y
- our score page by tomorrow — the competition runs from 2 Oct to 8 Oct\, 
- check the Learning Hub for reading materials. | 比賽日期為 2026-10-2 至 2026-1
- 0-8，試玩日期為 2026-9-28。完成比賽後把分數頁截圖呈交。詳情請參閱附件及學校網頁 Learning Hub 的「中國歷史」閱讀材料。
-  | 完成問答比賽後，把分數頁截圖呈交。比賽日期為10月2日至10月8日，試玩日期為9月28日，詳情請參閱附件及學校網頁Learning Hub
- 的中國歷史閱讀材料。 | 完成問答比賽後，把分數頁截圖呈交 — 比賽今日截止，請盡快完成並上載截圖。 | Complete the quiz a
- nd submit a screenshot of your score page by tomorrow — the competition 
- runs from 2 Oct to 8 Oct\, check the Learning Hub for reading materials.
-  | 如未交單元筆記，明天上堂前必須補交 — 老師提醒這是課堂要求，請檢查並準時遞交。 | 如未交單元筆記，請明天上堂前補交，否則會影響平時分。
-  | Submit your unit notes tomorrow if you haven't already — bring your i
- Pad to class as well for the lesson.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-let-s-practise-p-83-2026-09-16
-DTSTAMP:20261029T083506
+UID:study-homework-let-s-practise-p-83-2026-09-16
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260916
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Let's practise p.83
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the practice exercise on page 83 for Au Yeung Sir's Geography class —
-  check Google Classroom for the full details and submit your work. | Com
- plete the p.83 practice exercise assigned on Google Classroom — it reinf
- orces the skills covered in your 2026-2027 3E Geography lessons.  (from 
- Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Let’s practise p.83
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 027 3E Geography New assignment Let’s practise p.83 See details Posted o
+ n 8:24 AM\, Sep 16 (HKT) by Wing Hin YU Google LLC 1600 Amphitheatre Par
+ kway\, Mountain View\, CA 94043 USA This email was sent to you because y
+ ou indicated that you'd like to receive email notifications f  📅 Date no
+ t stated in the source — showing the posted date (2026-09-16). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-physics-homework-submission-2026-10-02
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261002
+UID:study-homework-chinese-language-memorize-2026-09-17
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260917
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Physics - Homework Submission
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your Physics homework by Friday 2 October — check Google Classroom for 
- the full details and requirements before the deadline. | Submit your Phy
- sics homework by Friday 2 Oct — check Google Classroom for the specific 
- assignment details and requirements. | Complete and submit your Physics 
- homework by Friday 2 Oct — check the assignment requirements and manage 
- your time so nothing is rushed.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Chinese Language - Memorize 五柳先生傳
+DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
+ ze the text '五柳先生傳' as assigned — no specific deadline given but start p
+ racticing now.  📅 Date not stated in the source — showing the posted dat
+ e (2026-09-17). Check the source before relying on it.  (from Darren's S
+ tudy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-ih-ces-module-3-1-worksheet-2026-09-21
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260921
+UID:study-homework-added-a-private-comment-on-let--2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH-CES - Module 3.1 Worksheet
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n your CES Module 3.1 worksheet on Monday 21 September — complete it ove
- r the weekend so you are ready to submit in class. | Complete and hand i
- n your CES Module 3.1 worksheet by Monday 21 Sep — review the module con
- tent carefully before submitting. | Complete and hand in your CES Module
-  3.1 worksheet by Monday 21/9 — this was assigned on 18/9 and your teach
- er will collect it in class.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Added a private comment on: "Let’s practise p.83
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 027 3E Geography Let’s practise p.83 Private comment Wing Hin YU • 1:30 
+ PM\, Sep 18 (HKT) Y is steeper is correct. The method you try to explain
+  is also correct. But for this question\, pay attention that Y and Z hav
+ e different vertical distance (60 m and 80 m)\, which does no  📅 Date no
+ t stated in the source — showing the posted date (2026-09-18). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-performance-plus-listen-2026-09-21
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260921
+UID:study-homework-chinese-language-bring-manuscri-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Performance Plus Listening Test Paper 1 (Pa
- rt B) Data File
+SUMMARY:📃 HOMEWORK: Chinese Language - Bring Manuscript Paper
 DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Performance Plus Listening book to Monday's single lesson (Period 1
- ) — you will work through the Data File for Test Paper 1 (Part B) in cla
- ss. | Bring your Performance Plus Listening book to Monday's Period 1 le
- sson — you will use the Data File for Test Paper 1 (Part B) and complete
-  it in class. | Bring your Performance Plus Listening book to Monday's s
- ingle lesson (Period 1) — you will complete the Data File for Test Paper
-  1 (Part B) in class. Also finish your peer marking for Part A by Monday
-  so Miss Mou can collect it during the lesson. | Finish peer marking Par
- t A using the uploaded marking scheme by Monday — Miss Mou will collect 
- the marked papers during class. | Finish peer marking for Part A using t
- he uploaded marking scheme by Monday — the teacher will collect them dur
- ing class. | Download the Performance Plus Task-based Listening Level 3 
- Test Paper 1 Data File from Google Classroom — you will need it to prepa
- re for the upcoming listening test. | Download the data file for Test Pa
- per 1 from Google Classroom — it contains the source materials you will 
- need to analyse during the English exam.  (from Darren's Study Pipeline)
+ your manuscript paper to class tomorrow for the writing exercise.  (from
+  Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-8-26-27-2026-09-21
-DTSTAMP:20261029T083506
+UID:study-homework-chinese-language-writing-worksh-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Language - Writing Worksheet (也許/彷彿/似乎) 10+ s
+ entences
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the writing exercise worksheet with 10 or more sentences using the ta
+ rget phrases and submit it tomorrow in class.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-writing-exercise-10-sen-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Writing Exercise (也許/彷彿/似乎) 10+ sentences
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the writing worksheet with at least ten sentences using 也許\, 彷彿\, 似乎 
+ and submit it in class tomorrow — it counts toward your writing grade.  
+ (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-graded-let-s-practise-p-83-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Graded: "Let’s practise p.83
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 027 3E Geography Let’s practise p.83 Graded Grade: 70/100 Wing Hin YU gr
+ aded your work at 1:30 PM\, Sep 18 (HKT). View grade Google LLC 1600 Amp
+ hitheatre Parkway\, Mountain View\, CA 94043 USA This email was sent to 
+ you because you indicated that you'd like to receive email no  📅 Date no
+ t stated in the source — showing the posted date (2026-09-18). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-ih-ces-file-fee-3-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IH-CES file fee $3 @ Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
+ sroom Give Ms. Chan $3 for the IH-CES file by Friday 18 Sep — she will c
+ ollect the payment during class.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-physics-notes-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Physics Notes
+DESCRIPTION:Don't leave this to the last minute — chip away early. Dear M
+ iss Wong\, I am Darren from 3E. For the homework you gave us this aftern
+ oon\, do you mind sending us the notes/slides from your lessons to help 
+ us? Thank you. Best regards\, Darren  📅 Date not stated in the source — 
+ showing the posted date (2026-09-18). Check the source before relying on
+  it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-robotics-team-application-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Robotics Team Application
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  the Robotics Team application form by 18 September — the form is linked
+  in the announcement and spots fill quickly.  Attached: 📎 2026 - 27 Robo
+ tics Team Recruitment Form: https://docs.google.com/forms/d/e/1FAIpQLSd3
+ df6DwhTHsx6WVTNQIbfGNEEYXliWd4KEvTfP1ZGldvYkZw/viewform  (from Darren's 
+ Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSd3df6DwhTHsx6WVTNQIbfGNE
+ EYXliWd4KEvTfP1ZGldvYkZw/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-09-18
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260918
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 豐盛宜居科技創想大賽組隊申請
+DESCRIPTION:Don't leave this to the last minute — chip away early. Form a
+  team of 5-10 students with at least 2 seniors (50+) and submit applicat
+ ion by 18 Sept — internal deadline for school nomination.  Attached: 📎 M
+ icrosoft Forms: https://forms.cloud.microsoft/pages/responsepage.aspx?id
+ =3bukt5xuKUm1pGVQ_urXfG3dp9bQkxhPt0UD7GzHEsNURFJXRFZGM1g2RzhGUkdSM1NZWEd
+ RUDJJUC4u&route=shorturl  (from Darren's Study Pipeline)
+ATTACH:https://forms.cloud.microsoft/pages/responsepage.aspx?id=3bukt5xuK
+ Um1pGVQ_urXfG3dp9bQkxhPt0UD7GzHEsNURFJXRFZGM1g2RzhGUkdSM1NZWEdRUDJJUC4u&
+ route=shorturl
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-2027-3e-english-bring-perf-2026-09-21
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中三 中文 第8組 26-27 - 短篇寫作（記敘、描寫、抒情）
-DESCRIPTION:Don't leave this to the last minute — chip away early. 記得帶原稿紙
- 回校，明天課堂上即時完成400字以內的記敘描寫文章。可先在家中構思場景與主旨，選定一個地點（如麥當勞），並準備三件事件令內容更豐富。 | 記得帶
- 原稿紙，明天課堂上即時完成400字內的短篇寫作。可先在家中構思，選定一個地點（如麥當勞），並想好主旨，內容要有景、有事、有人、有情、有理。 | 
- 記得帶原稿紙回校，明天課堂上即時完成400字以內的記敘描寫文章。可先在家中構思場景與主旨，選定一個地點（如麥當勞），並準備三件事件令內容更豐富。
-  | 記得帶原稿紙，明天課堂上即時完成400字內的短篇寫作。可先在家中構思，選定一個地點（如麥當勞），並想好主旨，內容要有景、有事、有人、有情、
- 有理。  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: 2026-2027 3E English - Bring Performance Plus Listeni
+ ng book
+DESCRIPTION:Don't leave this to the last minute — chip away early. Pack y
+ our Performance Plus Listening book for Monday's Period 1 lesson — the c
+ lass will work on Data File for Test Paper 1 Part B during that session.
+   Attached: 📎 Test Paper 1 (Listening) Part A - Marking Scheme.pdf: http
+ s://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/view?usp=d
+ rive_web  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-2027-3e-english-complete-p-2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2026-2027 3E English - Complete peer marking of Test 
+ Paper 1 Part A
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  the peer marking using the uploaded marking scheme by Monday so the tea
+ cher can collect the marked papers in class.  Attached: 📎 Test Paper 1 (
+ Listening) Part A - Marking Scheme.pdf: https://drive.google.com/file/d/
+ 1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/view?usp=drive_web  (from Darren's Stu
+ dy Pipeline)
+ATTACH:https://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-2027-3e-ih-ces-ces-module--2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2026-2027 3E IH-CES - CES module 3.1 worksheet
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the CES module 3.1 worksheet and hand it in by Monday 21/9 — it cover
+ s the key concepts for the upcoming test.  (from Darren's Study Pipeline
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-ces-module-3-1-worksheet-2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: CES Module 3.1 Worksheet
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n the CES module 3.1 worksheet by Monday 21 September — it covers the la
+ test topic and counts toward your grade.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-short-narrative-writing-2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Short Narrative Writing (McDonald's setting) 
+ @ Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
+ sroom Bring manuscript paper to Chinese class on September 21 — you'll w
+ rite a 400-word narrative descriptive piece set in McDonald's with scene
+ ry\, events\, people\, emotion\, and reasoning.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-peer-marking-for-test-p-2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Peer Marking for Test Paper 1 Part A
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the peer marking for Test Paper 1 Part A by Monday 21 September — the
+  teacher will collect them during Period 1.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-python-notes-chapter-3-assignme-2026-09-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Python Notes Chapter 3 Assignment
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Python Chapter 3 assignment form to practice assignment statement
+ s — submit your responses via the linked Google Form.  Attached: 📎 Pytho
+ n Notes - Chapter 3: Assignment: https://docs.google.com/forms/d/e/1FAIp
+ QLScaHhJtoH-l5MBucFF9MJXpFjltsBHlYgiiS7eYsvtkOCiLig/viewform?hr_submissi
+ on=ChkIyIv_v8sUEhAIravhxuUZEgcIvs_LjcIZEAE  📅 Date not stated in the sou
+ rce — showing the posted date (2026-09-21). Check the source before rely
+ ing on it.  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLScaHhJtoH-l5MBucFF9MJXpFj
+ ltsBHlYgiiS7eYsvtkOCiLig/viewform?hr_submission=ChkIyIv_v8sUEhAIravhxuUZ
+ EgcIvs_LjcIZEAE
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-1-correction-2026-09-23
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chemistry - Exercise 1 Correction
-DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
-  one PDF containing all 3 pages of Exercise 1 to Google Classroom by ton
- ight — this correction set is required for your Chemistry coursework. | 
- Upload a single PDF containing all 3 pages of your corrected Exercise 1 
- to Google Classroom by today — Ms. Kwok needs it for grading.  (from Dar
- ren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Chemistry Exercise 1 Corrections @ Google Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
+ le Classroom Compile the three pages of Exercise 1 corrections into a si
+ ngle PDF and upload it to Google Classroom — this ensures your chemistry
+  workbook is complete and ready for teacher review.  (from Darren's Stud
+ y Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-grammar-book-unit-54-55-2026-09-23
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260923
+UID:study-homework-exercise-1-corr-2026-09-23
+DTSTAMP:20261029T223817
+DTSTART:20260923T000000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Grammar Book (Unit 54 & 55: Reduced Relativ
- e Clauses)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Grammar Book to English class tomorrow — preview Unit 54 and 55 on 
- reduced relative clauses at home so you are ready for the lesson. | Brin
- g your Grammar Book to class tomorrow and preview Units 54 and 55 on red
- uced relative clauses at home — Ms. Mou will build on this material in c
- lass.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Exercise 1 corr
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:0
+ 0 Upload the corrected Exercise 1 PDF (3 pages) by 23 Sep midnight — it 
+ counts toward your Chemistry grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-features-2026-09-25
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260925
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Geography - Relief features
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  your Relief features assignment by 25 September — late submissions afte
+ r this date will not be accepted and will affect your classwork mark.  (
+ from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-relief-features-google-maps-ter-2026-09-25
+DTSTAMP:20261029T223817
 DTSTART:20260925T155900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Relief Features
+SUMMARY:📃 HOMEWORK: Relief features - Google Maps terrain examples @ Goog
+ le Classroom
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
- 9 Use Google Maps terrain to find and screenshot examples of escarpment\
- , spur\, valley\, saddle\, ridge\, and cliff — rename each photo with th
- e feature name and place name before submitting. | Use Google Maps terra
- in view to find and screenshot one example each of escarpment\, spur\, v
- alley\, saddle\, ridge\, and cliff — rename each photo with the feature 
- name and place name\, and submit by 25 September. | 檢查Relief Features作業是
- 否已提交——截止日期為9月25日，遲交將扣課堂分，請養成準時交功課的習慣。 | Check that your Relief features 
- submission was uploaded before the 25 Sept deadline — late submissions w
- ill now incur classwork mark deductions without further chances to expla
- in.  (from Darren's Study Pipeline)
+ 9 · 📍 Google Classroom Use Google Maps terrain view to locate and screen
+ shot each relief feature (escarpment\, spur\, valley\, saddle\, ridge\, 
+ cliff)\, rename files with feature and place names\, and submit them — t
+ his builds your map-reading skills for the geography exam.  (from Darren
+ 's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-math-supp-ex-2a-q18-ex-2b-q8-16-2026-09-26
-DTSTAMP:20261029T083506
+UID:study-homework-sa-official-sub-committee-appli-2026-09-25
+DTSTAMP:20261029T223817
+DTSTART:20260925T235900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: SA Official & Sub-Committee Application @ email to sp
+ czenthoria@gmail.com
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
+ 9 · 📍 email to spczenthoria@gmail.com Email your completed application f
+ orm to spczenthoria@gmail.com by 25 Sep 23:59 — late submissions not acc
+ epted.  Attached: 📎 26-27 Official Application Form (1).pdf: 333380bytes
+  📎 26-27 Sub-committee Application Form (1).pdf: 339376bytes  (from Darr
+ en's Study Pipeline)
+ATTACH:333380bytes
+ATTACH:339376bytes
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-vote-for-outstanding-affiliated-2026-09-25
+DTSTAMP:20261029T223817
+DTSTART:20260925T235900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Vote for Outstanding Affiliated Clubs
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
+ 9 Cast your vote for your favourite affiliated club via the Google Form 
+ by 25 Sep 23:59 — the top three clubs will be recognized at the Inaugura
+ tion Ceremony.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-26-27-3e-math-chapter-1-test-pa-2026-09-26
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math - Supp. Ex. 2A (Q18)\, Ex. 2B (Q8\, 16)\, Ex. 2C
-  (Q7\, 12\, 16)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the assigned homework exercises on Simple and Compound Interest — the
- se practice problems will strengthen your understanding of the formulas 
- before the Chapter 2 Test.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: 26-27 3E Math - Chapter 1 Test Parent Signature
+DESCRIPTION:Don't leave this to the last minute — chip away early. Get yo
+ ur parent's signature on the corrected Chapter 1 test paper — return it 
+ to Mr. Ng to confirm review of your mistakes.  📅 Date not stated in the 
+ source — showing the posted date (2026-09-26). Check the source before r
+ elying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-stream-team-personal-informatio-2026-09-28
-DTSTAMP:20261029T083506
+UID:study-homework-26-27-3e-math-supp-ex-2a-ex-2b--2026-09-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260926
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 26-27 3E Math - Supp. Ex. 2A\, Ex. 2B\, Ex. 2C
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Supplementary Exercise 2A Q18\, Exercise 2B Q8 and 16\, and Exercise 
+ 2C Q7\, 12\, 16 — practice simple and compound interest calculations for
+  next class.  📅 Date not stated in the source — showing the posted date 
+ (2026-09-26). Check the source before relying on it.  (from Darren's Stu
+ dy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chemistry-chapter-3-elements-re-2026-09-28
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: STREAM Team - Personal Information Collection
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the personal information collection form linked on Google Classroom f
- or the STREAM Team — the team needs your details to proceed with activit
- ies. Submit it as soon as possible. | Complete the personal information 
- collection form linked on Google Classroom — the STREAM Team needs your 
- details for the year's activities. Submit it as soon as possible.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-relief-features-assig-2026-09-29
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260929
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Relief Features Assignment
-DESCRIPTION:Don't leave this to the last minute — chip away early. Email 
- Mr. Yu immediately to explain why you did not submit the Relief features
-  assignment posted on 23 September — without a reasonable explanation\, 
- classwork marks will be deducted. Check Google Classroom for the assignm
- ent details. | If you have not submitted the 'Relief features' assignmen
- t posted on 23 September\, email Mr. Yu immediately with an explanation 
- — otherwise there will be a deduction in your classwork marks.  (from Da
- rren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Chemistry - Chapter 3 Elements Reading
+DESCRIPTION:Don't leave this to the last minute — chip away early. Study 
+ the Chapter 3 Elements materials posted on Classroom to prepare for upco
+ ming chemistry lessons.  📅 Date not stated in the source — showing the p
+ osted date (2026-09-28). Check the source before relying on it.  (from D
+ arren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-and-landslide--2026-09-28
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Geography - Relief and Landslide Group Project
 DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
- he project guidelines and supplementary materials on Google Classroom\, 
- then form your groups using the Grouping Form — this Term Work counts fo
- r 10% of your IH classwork mark. You can work on it throughout the term 
- as you learn more about the topic. | Form your group and fill in the Gro
- uping Form for the Relief and Landslide project — review the guidelines 
- and supplementary materials shared today to start planning.  (from Darre
- n's Study Pipeline)
+ he project guidelines and form your group via the Grouping Form — this t
+ erm-long project counts for 10% of your IH classwork mark.  📅 Date not s
+ tated in the source — showing the posted date (2026-09-28). Check the so
+ urce before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-ih-ces-module-3-1-ws-1-2026-09-28
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260928
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IH-CES - Module 3.1 WS 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Review
+  Module 3.1 Worksheet 1 on Google Classroom to reinforce today's IH-CES 
+ lesson.  📅 Date not stated in the source — showing the posted date (2026
+ -09-28). Check the source before relying on it.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-choose-geography-project-group-2026-09-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260929
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Choose Geography Project Group
+DESCRIPTION:Don't leave this to the last minute — chip away early. Decide
+  which group to join for the 3E Geography project — you can join one gro
+ up or both\; reply to the teacher via Google Classroom.  📅 Date not stat
+ ed in the source — showing the posted date (2026-09-29). Check the sourc
+ e before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-lead-paragraph-writing--2026-09-29
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Lead Paragraph Writing Task
+SUMMARY:📃 HOMEWORK: English - Lead Paragraph Writing Booklet p.8
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the lead paragraph task on page 8 of your Writing Booklet by tomorrow
-  — Ms. Mou will check answers and cover hooks and em dashes. Also prepar
- e your PowerPoint and script for the remaining presentations. | Complete
-  the lead paragraph task on page 8 of your Writing Booklet tonight — Ms.
-  Mou will check answers in class and also cover hooks and em dashes for 
- your blog. Bring your PowerPoint and script as presentations will wrap u
- p. | Complete the lead paragraph task on page 8 of your Writing Booklet 
- tonight — Ms. Mou will check answers in class and also cover hooks and e
- m dashes for your blog. Bring your PowerPoint and script as presentation
- s will wrap up. | Complete the lead paragraph task on p.8 of your Writin
- g Booklet tonight — Ms. Mou will check answers and cover hooks and em da
- shes in class tomorrow. Also prepare your PowerPoint and script for the 
- remaining presentations. | Complete the lead paragraph task on p.g. 8 of
-  your Writing Booklet by tomorrow — bring your PowerPoints and scripts f
- or presentations and be ready to discuss engaging hooks and em dashes. |
-  Finish the lead paragraph task on p.g. 8 of your Writing Booklet by tom
- orrow — prepare your PowerPoints and scripts for presentations and revie
- w em dash usage in your blog.  (from Darren's Study Pipeline)
+ te the lead paragraph on page 8 of your Writing Booklet tonight — Ms. Mo
+ u will check it tomorrow in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-geography-relief-features-assig-2026-09-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260928
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Relief Features Assignment Submission
-DESCRIPTION:Don't leave this to the last minute — chip away early. If you
-  have not yet submitted the 'Relief features' assignment posted on 23 Se
- ptember\, email Mr. WHY with a reasonable explanation immediately — othe
- rwise classwork marks will be deducted. | Submit both your Google Earth 
- project and the video presentation — the slideshow is now optional\, so 
- plan your group's creative approach and keep Mr. Yau updated on your pro
- gress. | Submit both the Google Earth project and the video presentation
-  — you may choose whether to include the Google Earth slideshow in the v
- ideo. Contact Mr. Yu if your group has any questions.  (from Darren's St
- udy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-relief-and-landslide--2026-10-05
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261005
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Relief and Landslide Group Project
-DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
- hrough the project guidelines and supplementary materials\, then form yo
- ur groups by filling in the Grouping Form. This Term Work accounts for 1
- 0% of your IH classwork mark\, so start early and work on it throughout 
- the term.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-grouping-for-project-2026-09-30
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260930
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Grouping for Project
-DESCRIPTION:Don't leave this to the last minute — chip away early. Confir
- m your Geography project group by Wednesday morning — only one group has
-  formed so far and Mr. Yu may assign groups otherwise. | Finalize your g
- roup formation by tomorrow morning — only one group has been formed so f
- ar\, and the teacher may assign groups if the rest are not organized. | 
- Confirm your group members for the Geography project immediately — Mr. Y
- u noted only one group has formed and will assign groups himself if the 
- rest do not respond. | Decide which group you want to join for the Geogr
- aphy project — you may join either group or both\, but joining both mean
- s completing two projects. | Decide whether to join one or both Geograph
- y project groups and inform the subject representative by Wednesday — Mr
- . Yu needs your choice to finalise groupings. | 完成地理課本第87頁練習——這是正式作業，請仔細
- 作答並按時提交，以免影響課堂分數。 | Complete the P.87 practice exercise in your Geograph
- y workbook — this assignment was posted on Google Classroom and helps re
- inforce the relief features topic covered in class.  (from Darren's Stud
- y Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-math-survey-completion-2026-09-29
-DTSTAMP:20261029T083506
+UID:study-homework-english-lead-paragraph-pg-8-2026-09-29
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math - Survey Completion
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the two Math surveys linked on Classroom — Mr. Ng needs your response
- s for class planning. | Complete the two assigned math surveys on the JC
- GOAI platform — check the links posted in the announcement and submit yo
- ur responses promptly.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-math-jcgoai-survey-2026-09-30
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260930
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math - JCGOAI Survey
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the two JCGOAI surveys linked on Google Classroom — log in with your 
- account and submit both before the deadline.  (from Darren's Study Pipel
+SUMMARY:📃 HOMEWORK: English Lead Paragraph pg 8
+DESCRIPTION:Don't leave this to the last minute — chip away early. Write 
+ your lead paragraph on page 8 of the Writing Booklet tonight — we will r
+ eview hooks and em dashes in class tomorrow.  (from Darren's Study Pipel
  ine)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-reading-inference-table-2026-10-01
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261001
+UID:study-homework-graded-exercise-1-corr-2026-09-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Reading Inference Table Images
-DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
-  the 3 images for the inference table in your reading booklet to Google 
- Chat — Darren needs them to complete the shared table.  (from Darren's S
- tudy Pipeline)
+SUMMARY:📃 HOMEWORK: Graded: "Exercise 1 corr
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 7 3E Chemistry Exercise 1 corr Graded Grade: 1/1 Lai Yi KWOK graded your
+  work at 12:10 PM\, Sep 29 (HKT). View grade Google LLC 1600 Amphitheatr
+ e Parkway\, Mountain View\, CA 94043 USA This email was sent to you beca
+ use you indicated that you'd like to receive email notificati  📅 Date no
+ t stated in the source — showing the posted date (2026-09-29). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-1-2026-10-01
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261001
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - 課堂閱讀 1
-DESCRIPTION:Don't leave this to the last minute — chip away early. Check 
- Google Classroom for the 課堂閱讀 1 materials and complete the reading task 
- assigned by Mr. Chu.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-let-s-practise-p-87-2026-10-01
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261001
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Let's Practise P.87
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the exercise on P.87 of your Geography workbook — Mr. Yu expects all 
- work submitted on time as late submissions will incur mark deductions.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-1-2026-09-30
-DTSTAMP:20261029T083506
+UID:study-homework-dear-3e-for-the-submission-box--2026-09-30
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 課堂閱讀 1
-DESCRIPTION:Don't leave this to the last minute — chip away early. 查閱 Goo
- gle Classroom 上的「課堂閱讀 1」材料，完成相關閱讀任務，為課堂討論做好準備。  (from Darren's Study Pip
- eline)
+SUMMARY:📃 HOMEWORK: Dear 3E\, For the submission box "Relief features"\, 
+ I see some of you just added attachments this m
+DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
+ cement: Dear 3E\, For the submission box "Relief features"\, I see some 
+ of you just added attachments this morning. These will not be accepted. 
+ The deadline was 25 Sept. All work submitted after this should be counte
+ d late. But this was our first assignment\, so I already gave  📅 Date no
+ t stated in the source — showing the posted date (2026-09-30). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-grammar-book-grammar-bo-2026-10-05
-DTSTAMP:20261029T083506
+UID:study-homework-geography-let-s-practise-p-87-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Geography - Let's practise P.87
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the practice exercises on page 87 for Geography class. Check Google C
+ lassroom for the full assignment details and any attached resources. Sub
+ mit your work through Classroom once finished.  📅 Date not stated in the
+  source — showing the posted date (2026-09-30). Check the source before 
+ relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-geography-group-formation-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Geography Group Formation
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  forming your geography group by tomorrow morning so the teacher can fin
+ alize the groups.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-reply-for-hku-m-programme-scree-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Reply for HKU M³ Programme Screening Test
+DESCRIPTION:Don't leave this to the last minute — chip away early. Reply 
+ to Mr. Wan by 30 September to register for the screening test or new mod
+ ules — late replies may miss the October test date.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-upload-reading-booklet-inferenc-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Upload Reading Booklet Inference Images
+DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
+  the three inference table images to Google Chat as soon as possible — t
+ hey are needed for the reading booklet activity.  📅 Date not stated in t
+ he source — showing the posted date (2026-09-30). Check the source befor
+ e relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-8-26-27-1-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中三 中文 第8組 26-27 - 課堂閱讀 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Open t
+ he Classroom Reading 1 announcement on Google Classroom and complete the
+  assigned reading before your next Chinese lesson — it will be discussed
+  in class.  📅 Date not stated in the source — showing the posted date (2
+ 026-09-30). Check the source before relying on it.  (from Darren's Study
+  Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-1-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 課堂閱讀 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he attached PDF '3009 登基與退位.pdf' before the next Chinese lesson to prepa
+ re for class discussion.  Attached: 📎 3009 登基與退位.pdf: https://drive.goog
+ le.com/file/d/1Ldex35SqvaZMhsj0Url4tCGpqgzi1j7W/view?usp=drive_web  📅 Da
+ te not stated in the source — showing the posted date (2026-09-30). Chec
+ k the source before relying on it.  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1Ldex35SqvaZMhsj0Url4tCGpqgzi1j7W/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-september-reflections-2026-09-30
+DTSTAMP:20261029T223817
+DTSTART:20260930T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: September Reflections
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
+ 9 Complete the reflection form by 30 September 15:59 — submit via the Go
+ ogle Form after reading the provided materials.  Attached: 📎 Google Form
+ s: Sign-in: https://forms.gle/C3GtokXQ8Pi4hasL8 📎 Readings: https://driv
+ e.google.com/drive/folders/1mCSzLYg9vrD1u-HUvJc6oD4GrTEDoqsA  (from Darr
+ en's Study Pipeline)
+ATTACH:https://forms.gle/C3GtokXQ8Pi4hasL8
+ATTACH:https://drive.google.com/drive/folders/1mCSzLYg9vrD1u-HUvJc6oD4GrT
+ EDoqsA
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-3e-physics-hw-2026-10-02
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261002
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 3E Physics - HW
+DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
+  your Physics homework to Classroom by 2 Oct — the teacher will review i
+ t for the upcoming test.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-physics-hw-due-2-oct-2026-10-02
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261002
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Physics HW due 2 Oct
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  your physics homework via Google Classroom by Friday 2 October — check 
+ the assignment details for required problems.  (from Darren's Study Pipe
+ line)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-photo-composition-2026-10-05
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Grammar Book\, Grammar Booklet & Oxford pp.
- 12-13
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Grammar Book\, Grammar Booklet and Oxford book to class tomorrow — 
- Ms. Mou will check pages 12-13 together\, so finish those two pages toni
- ght. | Finish Oxford book pages 12-13 tonight and bring your Grammar Boo
- k and Grammar Booklet to class — Ms. Mou will check those pages together
- .  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Photo Composition
+DESCRIPTION:Don't leave this to the last minute — chip away early. Coordi
+ nate with your group to finish the photo composition and submit one entr
+ y via Classroom — the teacher will announce the deadline later.  📅 Date 
+ not stated in the source — showing the posted date (2026-10-05). Check t
+ he source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-moral-and-civic-education-oct-2-2026-10-31
-DTSTAMP:20261029T083506
-DTSTART:20261031T155900
+UID:study-homework-geography-let-s-practise-p-89-2026-10-06
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261006
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Moral and Civic Education - (Oct 2627) Reflections
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
- 9 Complete your October Reflections and submit via the Google Form by Oc
- t 31 — review the attached readings first to ground your response. | Wri
- te and submit your October reflections by the end of the month — this as
- signment counts toward your MCE coursework.  (from Darren's Study Pipeli
- ne)
+SUMMARY:📃 HOMEWORK: Geography Let’s practise p.89
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the practice exercises on page 89 of your Geography textbook and be r
+ eady to discuss in the next lesson.  📅 Date not stated in the source — s
+ howing the posted date (2026-10-06). Check the source before relying on 
+ it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chemistry-exercise-2-corr-2026-10-06
-DTSTAMP:20261029T083506
+UID:study-homework-exercise-2-corr-2026-10-06
+DTSTAMP:20261029T223817
 DTSTART:20261006T003000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chemistry - Exercise 2 corr
+SUMMARY:📃 HOMEWORK: Exercise 2 corr
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
- 0 Submit your corrected Exercise 2 on Google Classroom by the early morn
- ing deadline — double-check your corrections against the marking scheme.
-  | Complete your Exercise 2 corrections and submit them by tomorrow — Ms
- . Kwok expects the corrected work to be handed in on time.  (from Darren
- 's Study Pipeline)
+ 0 Finish the corrections for Exercise 2 and upload them to Classroom bef
+ ore 00:30 on Oct 6 — Ms. Kwok will review them for the upcoming quiz.  (
+ from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-writing-booklet-p-g-8-l-2026-09-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260928
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Writing Booklet p.g. 8 Lead Paragraph
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the lead paragraph task on p.g. 8 of your Writing Booklet — Ms. Mou w
- ill check answers and cover hooks and em dashes in class. Also prepare y
- our PowerPoint and script for the remaining presentations.  (from Darren
- 's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-bring-writing-booklet-t-2026-10-07
-DTSTAMP:20261029T083506
+UID:study-homework-3e-picnic-day-grouping-2026-10-07
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Bring Writing Booklet to Class
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Writing Booklet to English class tomorrow — Ms. Mou reminded 3E to 
- have it ready. | Pack your Writing Booklet for English class tomorrow — 
- Ms. Mou expects everyone to have it ready for the lesson. | 明天帶寫作簿上課 — 老
- 師提醒3E班同學攜帶Writing Booklet，請提前準備。 | Bring your Writing Booklet to English
-  class tomorrow — Ms. Mou reminded 3E to have it ready. | Pack your Writ
- ing Booklet for English class tomorrow — Ms. Mou expects everyone to hav
- e it ready for the lesson. | 明天帶寫作簿上課 — 老師提醒3E班同學攜帶Writing Booklet，請提前準備
- 。  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: 3E Picnic Day Grouping
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the picnic day grouping spreadsheet by 3:59 PM on Oct 7 — the teacher
+  needs final groups for the outing.  Attached: 📎 picnic day grouping.xls
+ x: https://drive.google.com/file/d/1Qbn-cTTQemE-EXNHOM4ju1PofV1UgJVM/vie
+ w?usp=drive_web  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1Qbn-cTTQemE-EXNHOM4ju1PofV1UgJVM/
+ view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-geography-practise-p-89-2026-10-07
-DTSTAMP:20261029T083506
+UID:study-homework-territory-wide-inter-school-nat-2026-10-07
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Practise p.89
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the Geography practice on page 89 — this assignment is due on 7 Octob
- er. | 完成地理課本第89頁練習 — 老師已指派此作業，請按時完成。  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Territory-wide Inter-school National Security Knowled
+ ge Challenge @ Google Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
+ le Classroom Complete the 20 multiple-choice questions on national secur
+ ity\, capture a screenshot of your results\, and upload it to Google Cla
+ ssroom — this challenge counts toward your IH-CES assessment.  Attached:
+  📎 全港學界國家安全常識挑戰賽 (2026/27) — 網上初賽: https://game.hkedcity.net/national-se
+ curity/  (from Darren's Study Pipeline)
+ATTACH:https://game.hkedcity.net/national-security/
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-writing-booklet-checkpo-2026-10-09
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261009
+UID:study-homework-geography-practice-p-89-2026-10-07
+DTSTAMP:20261029T223817
+DTSTART:20261007T004500
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Writing Booklet Checkpoint Preparation
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Writing Booklet to class tomorrow — you will complete another Check
- point after reviewing the previous task's answers. Finish your homework 
- and do extra research on your iPad if needed. | Bring your Writing Bookl
- et to class tomorrow and finish your homework — you will complete anothe
- r Checkpoint after reviewing the previous task's answers. Do some extend
- ed research on your iPad at home if your Research notes feel insufficien
- t\, and email Ms. Mou if you need writing advice.  (from Darren's Study 
- Pipeline)
+SUMMARY:📃 HOMEWORK: Geography Practice p.89
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:4
+ 5 Finish page 89 practice by 7 Oct 00:45 — it reinforces the map skills 
+ covered in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-1-4-2026-10-09
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261009
+UID:study-homework-ih-ces-online-challenge-image-s-2026-10-07
+DTSTAMP:20261029T223817
+DTSTART:20261007T180000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 字帖 (第1-4頁)
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字帖第1
- -4頁並於明天交回 — 老師會檢查你的進度。  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: IH-CES Online Challenge Image Submission @ Google Cla
+ ssroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 18:0
+ 0 · 📍 Google Classroom Submit your challenge image to Google Classroom b
+ y 6pm today — incomplete submissions for students 1\, 18\, 20\, 21\, 23\
+ , 27\, 34 will be marked missing.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-visual-arts-value-fruit-sketchi-2026-10-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Visual Arts - Value: Fruit Sketching
-DESCRIPTION:Don't leave this to the last minute — chip away early. Select
-  one fruit from the pictures and complete a sketching work using Procrea
- te by Oct 15 — focus on applying value and shading techniques. | Choose 
- one fruit from the reference pictures and complete your sketching work i
- n Procreate — focus on shading and value to show light and form. Submit 
- your finished artwork by the deadline\; this assignment builds your tona
- l rendering skills for upcoming portfolio pieces. | Select one fruit fro
- m the reference pictures and complete a fruit sketching artwork using Pr
- ocreate — submit by Oct 15.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2-2026-10-09
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261009
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 課堂閱讀 2
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成課堂閱讀
- 2的相關練習 — 留意老師在Google Classroom公布的具體要求。 | 閱讀《封鎖》、《天才夢》及《到底是上海人》三篇文本，並完成相關
- 課堂閱讀任務。請於課前預習內容，以便課堂討論時能掌握重點。 | 請查看 Google Classroom 的「課堂閱讀 2」公告，了解閱讀內容及
- 相關要求。如有疑問，請向朱老師查詢。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ict-python-notes-chapter-3-assi-2026-09-21
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260921
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 3 Assignment
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the Python Notes Chapter 3 assignment form — it covers the Chapter 3 
- concepts and helps you practise the coding skills needed for upcoming le
- ssons.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ict-python-notes-chapter-3-assi-2026-10-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 3 Assignment
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the Python Chapter 3 assignment posted on Google Classroom — check th
- e details page for submission requirements and deadline. | Complete the 
- Python Chapter 4 assignment and submit it by 15 Oct. Check Google Classr
- oom for the full task details. | Complete and submit your Python Notes C
- hapter 4 assignment — it was due on 15th October\, so check Google Class
- room for submission details if you haven't turned it in. | Complete your
-  Python Notes Chapter 4 assignment using the provided Google Docs templa
- te — this covers key programming concepts and must be submitted by the d
- eadline to stay on track in ICT-A.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-1-4-2026-10-08
-DTSTAMP:20261029T083506
+UID:study-homework-chinese-memorize-chu-sai-by-wan-2026-10-08
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 交字帖 (第1-4頁)
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成字帖第1
- 至4頁，明天上課時交給老師。  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Chinese - Memorize Chu Sai by Wang Changling
+DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
+ ze the poem Chu Sai by Wang Changling for upcoming recitation — focus on
+  pronunciation and meaning of each line.  📅 Date not stated in the sourc
+ e — showing the posted date (2026-10-08). Check the source before relyin
+ g on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-reading-comprehension-1-2026-10-16
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261016
+UID:study-homework-chinese-history-long-march-90th-2026-10-08
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Reading Comprehension 1
+SUMMARY:📃 HOMEWORK: Chinese History - Long March 90th Anniversary Quiz Co
+ mpetition
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te Reading Comprehension 1 and submit it to your Subject Representatives
-  by next Friday — Ms. Mou has returned your marked Writing Booklets and 
- expects this done. | Complete Reading Comprehension 1 by next Friday and
-  submit it to your Subject Representatives — this is a graded homework t
- ask that reinforces your reading skills. | Complete pages 13-14 of your 
- Grammar Booklet covering Phrasal Verbs and the highlighting exercise\, t
- hen submit the Booklet to Ms. Mou on Friday for checking. This revision 
- practice supports your upcoming Writing Assessment. | Submit your Gramma
- r Booklet pages 13-14 by Friday — this revision on Phrasal Verbs and the
-  highlighting exercise will help you identify grammar features for your 
- Writing Assessment. | Bring your Writing Booklet tomorrow for the final 
- writing — Ms. Mou needs it for your assessed piece. | Submit your Readin
- g Comprehension 1 to the subject representatives Delton or Reese — it is
-  due and must be handed in.  (from Darren's Study Pipeline)
+ te the online quiz competition between October 2-8 and submit a screensh
+ ot of your score by October 8 — try the practice round on September 28 f
+ irst.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-ih-ces-textbook-p-37-38-2026-10-12
-DTSTAMP:20261029T083506
+UID:study-homework-ict-python-notes-chapter-3-assi-2026-10-08
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261008
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: ICT - Python Notes Chapter 3 Assignment
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Python Chapter 3 assignment on Google Classroom — practice the ne
+ w programming concepts before the next lesson.  📅 Date not stated in the
+  source — showing the posted date (2026-10-08). Check the source before 
+ relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-submit-chinese-unit-notes-2026-10-08
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261008
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Submit Chinese Unit Notes @ Chinese Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Chin
+ ese Classroom Submit your Chinese unit notes by tomorrow if you haven't 
+ already — they're required for the upcoming assessment.  (from Darren's 
+ Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2-3038-2026-10-08
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261008
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 課堂閱讀 2 - 3038 封鎖 天才夢 到底是上海人
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he PDF '3038 封鎖 天才夢 到底是上海人' for the next Chinese class discussion.  Atta
+ ched: 📎 3038 封鎖  天才夢  到底是上海人.pdf: https://drive.google.com/file/d/1Pq2xU
+ GWlJsHcCI9mtuVXXLAx_3D7VOQj/view?usp=drive_web  📅 Date not stated in the
+  source — showing the posted date (2026-10-08). Check the source before 
+ relying on it.  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1Pq2xUGWlJsHcCI9mtuVXXLAx_3D7VOQj/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-90-2026-10-08
+DTSTAMP:20261029T223817
+DTSTART:20261008T155900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中國工農紅軍長征勝利90周年問答比賽 @ Online
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
+ 9 · 📍 Online Complete the Long March 90th Anniversary quiz by 8 Oct 15:5
+ 9 and upload your score screenshot — the competition runs 2–8 Oct and co
+ unts toward your Chinese History grade.  Attached: 📎 EDB長征_問答比賽.pdf: htt
+ ps://drive.google.com/file/d/1fvlRt6pbvfeTOzu1Tk_8xKB_CdvGpFKZ/view?usp=
+ drive_web 📎 2026/27學年全港初中中國歷史文化問答比賽: https://chist-competition26.ln.edu.
+ hk/  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1fvlRt6pbvfeTOzu1Tk_8xKB_CdvGpFKZ/
+ view?usp=drive_web
+ATTACH:https://chist-competition26.ln.edu.hk/
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-calligraphy-book-pages--2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - Calligraphy Book Pages 1-4
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te pages 1 to 4 in your calligraphy book and bring it to class tomorrow 
+ — Mr. Chu will check your handwriting progress.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-writing-booklet-checkpo-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Writing Booklet Checkpoint Preparation
+DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
+ your Writing Booklet to class tomorrow for the Checkpoint — complete you
+ r homework and do extended research on your iPad if your research is ins
+ ufficient.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-memorize-poem-chu-sai-by-wang-c-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Memorize Poem 'Chu Sai' by Wang Changling @ Chinese C
+ lassroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Chin
+ ese Classroom Memorize the poem 'Chu Sai' for Friday's class — recitatio
+ n may be checked.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-programming-team-application-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Programming Team Application
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Google Form application for the Programming Team selection test b
+ y Friday — late applications may not be considered.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-submitted-work-module-3-1-ws-2--2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Submitted work Module 3.1 WS 2: 1\, 3\, 4\, 5\, 15\, 
+ 19\, 22\, 23\, 24\, 31\, 32\, 33\, 34\, 35
+DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
+ cement: Submitted work Module 3.1 WS 2: 1\, 3\, 4\, 5\, 15\, 19\, 22\, 2
+ 3\, 24\, 31\, 32\, 33\, 34\, 35  📅 Date not stated in the source — showi
+ ng the posted date (2026-10-09). Check the source before relying on it. 
+  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-90-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中國工農紅軍長征勝利90周年_問答比賽截圖呈交
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  a screenshot of your Long March 90th Anniversary quiz score by tomorrow
+  — the competition ran from Oct 2-8 and the submission is due Oct 9.  (f
+ rom Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-1-4-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 交字帖 (完成第1-4頁)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n your Chinese copybook with pages 1-4 completed tomorrow for teacher re
+ view.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 背誦《出塞》王昌齡
+DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
+ ze the poem '出塞' by Wang Changling for tomorrow's Chinese class — recita
+ tion may be checked.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-q-2026-10-09
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 阿Q正傳 閱讀評估
+DESCRIPTION:Don't leave this to the last minute — chip away early. New re
+ ading assessment on 《阿Q正傳》 has been assigned — check Google Classroom fo
+ r details and due date.  📅 Date not stated in the source — showing the p
+ osted date (2026-10-09). Check the source before relying on it.  (from D
+ arren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2022-tsa-1-2026-10-12
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH-CES - Textbook p. 37-38
-DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
-  textbook pages 37-38 — answers will be checked on Monday\, so come prep
- ared with your work done. | Complete Module 3.1 WS 2 and submit it to Ja
- yden or Reese — this worksheet covers the core concepts for Module 3.1 a
- nd must be handed in for credit. | Complete textbook p. 37-38 — answer c
- hecking will take place on Monday\, so have your work ready to review in
-  class.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中國歷史 - 《五四運動特刊》工作紙
-DESCRIPTION:Don't leave this to the last minute — chip away early. 閱讀《五四運
- 動特刊》後完成實體版工作紙，課堂上會派發。10月28日或之前繳交，記得準時交俾中史科老師。 | 閱讀《五四運動特刊》後完成實體版工作紙，課堂上會
- 派發 — 繳交日期為10月28日，請盡早完成以免逾期。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-let-s-practise-p-91-2026-10-12
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Let's practise p.91
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成Geog
- raphy課本p.91嘅Let's practise練習，記得跟老師要求嘅格式作答，準時交。 | Complete the practice e
- xercises on page 91 of your Geography textbook — this reinforces the con
- cepts covered in class and prepares you for upcoming assessments.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-math-ch3-factorization-practice-2026-10-15
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Math Ch3 Factorization Practice
-DESCRIPTION:Don't leave this to the last minute — chip away early. Work t
- hrough the Challenging Questions and Public Exam Questions in your Chapt
- er 3 material — practising these before the Chapter 2 test on 15 October
-  will sharpen your problem-solving skills.  (from Darren's Study Pipelin
- e)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-physics-hw1-solutions-review-2026-10-12
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Physics HW1 Solutions Review
-DESCRIPTION:Don't leave this to the last minute — chip away early. Check 
- the HW1 solutions posted on Classroom and compare them with your own ans
- wers — reviewing your mistakes now will strengthen your understanding be
- fore the next topic.  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: 2022 TSA 聆聽(分卷1)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  the 2022 TSA Listening (Part 1) form via the attached Google Form — thi
+ s practice helps you familiarize with the exam format.  Attached: 📎 2022
+  TSA 聆聽(分卷1): https://docs.google.com/forms/d/e/1FAIpQLSdrUtT8WkRqIWq0Md
+ YrBe-Ik399DMsov15wUm3deBGLTo4ndw/viewform?hr_submission=ChkIyIv_v8sUEhAI
+ yeSBpPUZEgcInbGuicIZEAE  📅 Date not stated in the source — showing the p
+ osted date (2026-10-12). Check the source before relying on it.  (from D
+ arren's Study Pipeline)
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSdrUtT8WkRqIWq0MdYrBe-Ik3
+ 99DMsov15wUm3deBGLTo4ndw/viewform?hr_submission=ChkIyIv_v8sUEhAIyeSBpPUZ
+ EgcInbGuicIZEAE
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-2-correction-2026-10-12
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Chemistry Exercise 2 Correction
-DESCRIPTION:Don't leave this to the last minute — chip away early. Delete
-  'at room conditions' for the boiling point of water in Q7a as noted in 
- the private comment — make this correction to your Exercise 2 before res
- ubmitting. | Review the returned Exercise 2 corrections and the teacher'
- s private comment — address the feedback on Q7a to ensure your answers a
- re accurate for future reference.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-chinese-p5-6-2026-10-13
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - 背詩及字帖 P5-6
-DESCRIPTION:Don't leave this to the last minute — chip away early. 記得帶iPa
- d上堂，並完成背詩及字帖 P5-6 — 這些都是課堂必需的準備，請於明天上課前完成。  (from Darren's Study Pipelin
- e)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-3e-english-grammar-booklet-pg-1-2026-10-16
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 3E English Grammar Booklet pg. 13-14
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te pages 13-14 of your Grammar Booklet and submit it by Friday — the dea
- dline was extended because of your upcoming quizzes.  (from Darren's Stu
- dy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-3e-english-grammar-booklet-pg-1-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 3E English Grammar Booklet pg. 13-14 (Phrasal Verbs)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te pages 13-14 of your Grammar Booklet and submit it tomorrow for checki
- ng — this revision on Phrasal Verbs helps you identify grammar features 
- for your Writing Assessment. | 完成字帖P5-6的書寫練習，並記得帶iPad上堂以備課堂使用。 | Complet
- e Grammar Booklet pages 13-14 on Phrasal Verbs and submit tomorrow for c
- hecking — this revises F.2 material and prepares you for the Writing Ass
- essment.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-3e-chemistry-exercise-3-correct-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 3E Chemistry Exercise 3 Correction
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your Exercise 3 correction by Oct 14 — review your mistakes carefully t
- o strengthen your understanding before the next topic. | Submit your cor
- rected Exercise 3 by the 00:30 deadline — review your mistakes carefully
-  so you are ready for the next lesson. | Complete and submit your Exerci
- se 3 correction by today — this follows up on the graded Exercise 2 and 
- helps you consolidate your understanding before the next topic. | Submit
-  your Exercise 3 correction by Oct 14 — review your mistakes carefully t
- o strengthen your understanding before the next topic. | Submit your cor
- rected Exercise 3 by the 00:30 deadline — review your mistakes carefully
-  so you are ready for the next lesson. | Complete and submit your Exerci
- se 3 correction by today — this follows up on the graded Exercise 2 and 
- helps you consolidate your understanding before the next topic.  (from D
- arren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-writing-booklet-test-pa-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Writing Booklet & Test Paper 1 Review
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Writing Booklet instead of the Listening book tomorrow\, along with
-  your marked Test Paper 1 scripts. Review Ms. Mou's comments so you are 
- ready to go through her observations before starting Practice Paper 1. |
-  Bring your Writing Booklets and marked Test Paper 1 scripts to class to
- morrow — review Ms. Mou's comments so you are ready for the feedback ses
- sion before Practice Paper 1.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-10-20
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 課外閱讀 劉紹銘《吃馬鈴薯的日子》
-DESCRIPTION:Don't leave this to the last minute — chip away early. 閱讀劉紹銘《
- 吃馬鈴薯的日子》一書，完成後下星期會有簡單的閱後評估，請預先準備。 | 到香港教育城「e悅讀學校計劃」閱讀《吃馬鈴薯的日子》，完成後記得記錄閱讀
- 進度。 | 背誦指定詩歌，下星期二課堂上會抽背，請提前熟練。 | Read 劉紹銘's 《吃馬鈴薯的日子》 on the HK Reading 
- City e-reading platform — this extracurricular reading supports your Chi
- nese language development and complements your quiz preparation. | 完成字帖第
- 5至6頁的書寫練習，下星期二上課前交給老師。 | Complete your calligraphy workbook pages 5-6 an
- d memorise the assigned poem — Mr Chu assigned these alongside the quiz 
- preparation\, so manage your time well before Tuesday.  (from Darren's S
- tudy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-religious-studies-practice-thin-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Religious Studies - Practice: Thinking Perspective (c
- )
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the practice on thinking perspective (c) regarding the case of having
-  multiple partners (p. 16)\, considering arguments for and against. Revi
- ew the attached slides to prepare for class discussion. | Complete the T
- hinking Perspective practice on 'Having multiple partners' (p.16) — anal
- yze both agreeing and opposing viewpoints for the assignment due on Goog
- le Classroom.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-biology-chapter-4-enzymes-and-m-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Biology - Chapter 4 Enzymes and Metabolism
 DESCRIPTION:Don't leave this to the last minute — chip away early. Review
-  the Chapter 4 worksheet\, PowerPoint\, and revision notes on enzymes an
- d metabolism. Study the material thoroughly to prepare for upcoming less
- ons and assessments.  (from Darren's Study Pipeline)
+  the teacher's correction for Exercise 2 Q7a and remove 'at room conditi
+ ons' from the boiling point answer — this ensures your submission matche
+ s the expected standard.  📅 Date not stated in the source — showing the 
+ posted date (2026-10-12). Check the source before relying on it.  (from 
+ Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-2026-10-13
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 背詩
-DESCRIPTION:Don't leave this to the last minute — chip away early. 背熟指定詩詞
- ，老師會課堂抽查，背好先可以應付之後嘅默書同考試。 | 完成字帖第5至6頁，練好筆順同字形，對考試卷面分有幫助。 | 背熟指定詩詞，老師會課堂抽
- 查，背好先可以應付之後嘅默書同考試。 | 完成字帖第5至6頁，練好筆順同字形，對考試卷面分有幫助。  (from Darren's Study 
- Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2022-tsa-1-2026-10-16
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 2022 TSA 聆聽(分卷1)
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成 202
- 2 TSA 聆聽分卷1 練習 — 請查看 Google Classroom 了解提交詳情及截止日期。  (from Darren's Study
-  Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-worksheet-1-2026-10-20
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Worksheet 1
-DESCRIPTION:Don't leave this to the last minute — chip away early. 完成Work
- sheet 1並於10月20日交給科目代表Marcus，以便老師收集。 | 完成Worksheet 1並於10月20日交給科目代表Marcus，
- 以便老師收集。 | Complete Worksheet 1 and submit it to Marcus\, the subject rep
- resentative\, on 20 Oct (Tue). He will collect all worksheets for Mr. Yu
- . | Submit both your Google Earth project and video presentation — you m
- ay now choose whether to include the slideshow in the video. | Finish Wo
- rksheet 1 and hand it to Marcus on Tuesday 20 October — he will collect 
- all submissions for the teacher.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2022-tsa-1-2026-10-12
-DTSTAMP:20261029T083506
+UID:study-homework-geography-let-s-practise-p-91-2026-10-12
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中文 - 2022 TSA 聆聽(分卷1)
-DESCRIPTION:Don't leave this to the last minute — chip away early. 請完成 20
- 22 TSA 聆聽分卷1 的 Google Form，以熟習聆聽卷的題型與作答節奏，為校內評估做好準備。  (from Darren's Stu
- dy Pipeline)
+SUMMARY:📃 HOMEWORK: Geography Let’s practise p.91
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the practice exercises on page 91 for Geography and submit them on Go
+ ogle Classroom once the due date is announced.  📅 Date not stated in the
+  source — showing the posted date (2026-10-12). Check the source before 
+ relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-module-3-1-ws-2-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Module 3.1 WS 2
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Module 3.1 Worksheet 2 and submit it to Jayden or Reese by Monday — t
+ he answer checking session will cover this worksheet.  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-module-3-1-ws-2-textbook-p-37-3-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Module 3.1 WS 2 & Textbook p.37-38
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Module 3.1 Worksheet 2 and textbook pages 37-38\, then submit to Jayd
+ en or Reese by Monday — answer checking will happen in class.  (from Dar
+ ren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-returned-your-work-on-exercise--2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Returned your work on: "Exercise 2 corr
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 7 3E Chemistry Exercise 2 corr Returned Work returned Lai Yi KWOK return
+ ed your work at 5:16 PM\, Oct 12 (HKT). View details Google LLC 1600 Amp
+ hitheatre Parkway\, Mountain View\, CA 94043 USA This email was sent to 
+ you because you indicated that you'd like to receive email no  📅 Date no
+ t stated in the source — showing the posted date (2026-10-12). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-textbook-p-37-38-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Textbook p.37-38
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  textbook pages 37–38 before Monday's answer checking — these pages will
+  be reviewed in class.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-p5-6-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 字帖 P5-6
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te copybook pages 5‑6 — they reinforce the new characters for the upcomi
+ ng quiz.  📅 Date not stated in the source — showing the posted date (202
+ 6-10-12). Check the source before relying on it.  (from Darren's Study P
+ ipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261012
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 背詩
+DESCRIPTION:Don't leave this to the last minute — chip away early. Practi
+ ce reciting the poem tonight — it will be checked in the next lesson.  📅
+  Date not stated in the source — showing the posted date (2026-10-12). C
+ heck the source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-submit-google-form-for-spc-game-2026-10-12
+DTSTAMP:20261029T223817
+DTSTART:20261012T235900
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Submit Google Form for SPC Game Show
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
+ 9 Complete the Google Form by Monday 23:59 — the committee needs the par
+ ticipant list to finalize teams.  Attached: 📎 Google Forms: Sign-in: htt
+ ps://forms.gle/fz3oXKwW4RhcYj5t6  (from Darren's Study Pipeline)
+ATTACH:https://forms.gle/fz3oXKwW4RhcYj5t6
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-bring-listening-booklet-to-clas-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Bring Listening Booklet to Class @ Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
+ sroom Bring your Listening Booklet to English class tomorrow — you will 
+ need it for the lesson activities.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-handwriting-practice-p5-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - Handwriting Practice P5-6
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te handwriting practice pages 5-6 in your copybook — neat writing reinfo
+ rces character recognition.  📅 Date not stated in the source — showing t
+ he posted date (2026-10-13). Check the source before relying on it.  (fr
+ om Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-recite-poem-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese - Recite Poem
+DESCRIPTION:Don't leave this to the last minute — chip away early. Recite
+  the assigned poem fluently — oral recitation builds confidence and memo
+ ry for class.  📅 Date not stated in the source — showing the posted date
+  (2026-10-13). Check the source before relying on it.  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-submit-scmp-subscriptio-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English - Submit SCMP subscription cheque @ To Ms. Mo
+ u in person
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 To M
+ s. Mou in person Hand in your SCMP subscription cheque to Ms. Mou in per
+ son by tomorrow to complete your subscription.  (from Darren's Study Pip
+ eline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-graded-exercise-2-corr-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Graded: "Exercise 2 corr
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 7 3E Chemistry Exercise 2 corr Graded Grade: 1/1 Lai Yi KWOK graded your
+  work at 2:08 PM\, Oct 13 (HKT). View grade Google LLC 1600 Amphitheatre
+  Parkway\, Mountain View\, CA 94043 USA This email was sent to you becau
+ se you indicated that you'd like to receive email notificatio  📅 Date no
+ t stated in the source — showing the posted date (2026-10-13). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-practice-thinking-perspective-c-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Practice: Thinking perspective (c)
+DESCRIPTION:Don't leave this to the last minute — chip away early. [OFFIC
+ IAL ASSIGNMENT] Title: Practice: Thinking perspective (c) Case: Having m
+ ultiple partners (p. 16) Some people agree to have multiple partners. So
+ me people oppose such behavior. 📎 Attachments: - File: Practice: Thinkin
+ g perspective (c) (https://docs.google.com/presentation/d/  Attached: 📎 
+ Practice: Thinking perspective (c): https://docs.google.com/presentation
+ /d/1zoM1kDmxm50CNb1ghm2-l5ez23cLrKaaT_Tdh_aYF-w/edit?usp=drive_web  📅 Da
+ te not stated in the source — showing the posted date (2026-10-13). Chec
+ k the source before relying on it.  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/presentation/d/1zoM1kDmxm50CNb1ghm2-l5ez23
+ cLrKaaT_Tdh_aYF-w/edit?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-scmp-subscription-cheque-submis-2026-10-13
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261013
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: SCMP Subscription Cheque Submission @ To Ms. Mou in p
+ erson
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 To M
+ s. Mou in person Submit your SCMP subscription cheque to Ms. Mou in pers
+ on by tomorrow — this is the deadline for cheque submission.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chemistry-exercise-3-correction-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chemistry Exercise 3 Correction
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Exercise 3 correction and submit via Classroom by tomorrow — it build
+ s on Exercise 2 and prepares you for upcoming chemistry topics.  (from D
+ arren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-grammar-booklet-pages-1-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Grammar Booklet Pages 13-14
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  pages 13-14 on phrasal verbs and highlighting exercise in your Grammar 
+ Booklet and hand it in tomorrow — this revises F.2 grammar and prepares 
+ for your Writing Assessment.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-graded-q-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Graded: "阿Q正傳 閱讀評估
+DESCRIPTION:Don't leave this to the last minute — chip away early. 中三 中文 
+ 第8組 26-27 阿Q正傳 閱讀評估 Graded Grade: 13/15 Tze On CHU graded your work at 1
+ :27 PM\, Oct 14 (HKT). View grade Google LLC 1600 Amphitheatre Parkway\,
+  Mountain View\, CA 94043 USA This email was sent to you because you ind
+ icated that you'd like to receive email notifications from Go  📅 Date no
+ t stated in the source — showing the posted date (2026-10-14). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-grammar-booklet-pages-13-14-phr-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261014
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Grammar Booklet pages 13-14 (Phrasal Verbs)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te pages 13-14 of the Grammar Booklet on phrasal verbs and hand it in to
+ morrow — this revision counts toward your Writing Assessment preparation
+ .  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-3e-register-for-stage-play-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART:20261014T083000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 3E 中國歷史 - Register for Stage Play '無名碑 @ Chinese Hist
+ ory teacher
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:3
+ 0 · 📍 Chinese History teacher Submit $100 cash or cheque to your Chinese
+  History teacher by 8:30 AM on Wednesday — the school fully subsidizes t
+ he ticket and you'll earn a 10% bonus on your next test.  Attached: 📎 無名
+ 碑_舞台劇.jpg: https://drive.google.com/file/d/11uHiaYp-5d-MtPW2hmfNUSyA9H5n
+ kgHR/view?usp=drive_web  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/11uHiaYp-5d-MtPW2hmfNUSyA9H5nkgHR/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-history-submit-registra-2026-10-14
+DTSTAMP:20261029T223817
+DTSTART:20261014T083000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese History - Submit registration fee for stage p
+ lay '無名碑 @ To Chinese History teacher
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:3
+ 0 · 📍 To Chinese History teacher Submit $100 cash or cheque to your Chin
+ ese History teacher by 8:30 AM on Oct 14 to secure your spot for the sta
+ ge play\; the school will fully sponsor the ticket.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2022-tsa-listening-part-1-2026-10-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261015
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2022 TSA Listening Part 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the TSA listening practice and submit it on Google Classroom.  📅 Date
+  not stated in the source — showing the posted date (2026-10-15). Check 
+ the source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2022-tsa-1-2026-10-15
-DTSTAMP:20261029T083506
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2022 TSA 聆聽(分卷1)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the 2022 TSA Listening Paper (Section 1) assigned on Google Classroom
- . Check the details page for submission requirements.  (from Darren's St
- udy Pipeline)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  the 2022 TSA Listening Paper 1 exercise on Google Classroom — this prac
+ tice helps prepare for the Territory-wide System Assessment.  📅 Date not
+  stated in the source — showing the posted date (2026-10-15). Check the 
+ source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-gratitude-card-submission-2026-10-16
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Gratitude Card Submission
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n your Gratitude Card tomorrow — it is the final deadline\, so do not mi
- ss it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ih-ces-module-3-1-ws-2-2026-10-16
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: IH-CES Module 3.1 WS 2
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your Module 3.1 Worksheet 2 immediately — 26 students are still missing
-  this assignment and it must be handed in to avoid penalties. | Submit y
- our Module 3.1 Worksheet 2 immediately — 26 classmates are still missing
-  this assignment and Ms. Chan is tracking submissions. Check Google Clas
- sroom for the worksheet details and upload your completed work today. | 
- Review your Module 3.1 Worksheet 2 submission — Miss Chan posted it as a
-  good work example\, so check Google Classroom to compare your answers a
- nd strengthen your understanding of the concepts.  (from Darren's Study 
- Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2026-27-2027-01-04
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20270104
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 國民身份認同應用程式設計比賽2026/27 - 校內作品提交
-DESCRIPTION:Don't leave this to the last minute — chip away early. 於2027年
- 1月4日或之前提交300字內的應用程式簡介PDF及簡報，內容需闡述如何提升國民身份認同。 | MENTOR NOTE: 請於1月4日前提交校內作
- 品，包括300字內的應用程式簡介PDF（含名稱與功能）及簡報（封面、創作理念、對象等）。入圍決賽隊伍將於2027年4月10日以視像形式進行15分
- 鐘評審面試。  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-listening-practice-pape-2026-10-20
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English Listening Practice Paper 1 Part B
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your Listening Practice Paper 1 Question-Answer Book to class — you will
-  finish Part B together and the Data File will be distributed.  (from Da
- rren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-writing-booklet-pages-2026-10-26
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261026
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Writing Booklet pages
-DESCRIPTION:Don't leave this to the last minute — chip away early. From c
- alendar screenshot  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-geography-relief-and-land-featu-2026-10-26
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261026
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Geography - Relief and Land Features
-DESCRIPTION:Don't leave this to the last minute — chip away early. From c
- alendar screenshot  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-stream-team-personal-info-2026-10-26
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261026
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: STREAM Team Personal Info
-DESCRIPTION:Don't leave this to the last minute — chip away early. From c
- alendar screenshot  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-new-assignment-quiz-1-corr-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: New assignment: "Quiz 1 corr"
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-new-material-chapter-5-atoms-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: New material: "Chapter 5: Atoms"
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-let-s-practise-p-91-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Let's practise p.91
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2022-tsa-1-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 2022 TSA 聆聽(分卷1)
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-new-assignment-value-fruit-sket-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: New assignment: "Value: Fruit Sketching"
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-new-assignment-python-notes-cha-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: New assignment: "Python Notes - Chapter 3: Assignment
- "
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-due-tomorrow-90-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Due tomorrow: "中國工農紅軍長征勝利90周年_問答比賽"
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-q-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 阿Q正傳 閱讀評估
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-oct-2627-reflections-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: (Oct 2627) Reflections
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-exercise-2-corr-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Exercise 2 corr
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-photo-composition-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
+UID:study-homework-photo-composition-2026-10-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Photo Composition
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Coordi
+ nate with your group to submit the Photo Composition project on Google C
+ lassroom — only one submission needed per group for Visual Arts.  📅 Date
+  not stated in the source — showing the posted date (2026-10-15). Check 
+ the source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-3e-picnic-day-grouping-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
+UID:study-homework-python-notes-chapter-4-assignme-2026-10-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 3E Picnic Day Grouping
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Python Notes - Chapter 4 Assignment
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Python Notes Chapter 4 assignment using the provided template and
+  submit by October 15 — this covers assignment statements and variables 
+ for the upcoming test.  Attached: 📎 [Template] Python Notes - Chapter 4:
+  Assignment: https://docs.google.com/document/d/1kone0LwB-3__MGAt027eyDh
+ UEUtpcBehZjB4D1LY__Q/edit?usp=drive_web  (from Darren's Study Pipeline)
+ATTACH:https://docs.google.com/document/d/1kone0LwB-3__MGAt027eyDhUEUtpcB
+ ehZjB4D1LY__Q/edit?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-robotics-team-project-list-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
+UID:study-homework-visual-arts-fruit-sketching-2026-10-15
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Robotics Team Project List
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Visual Arts - Fruit Sketching
+DESCRIPTION:Don't leave this to the last minute — chip away early. Select
+  a fruit from the reference pictures and complete your sketch in Procrea
+ te by October 15 — this assignment develops your digital shading and val
+ ue techniques.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-new-assignment-relief-features-2026-10-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261028
+UID:study-homework-value-fruit-sketching-in-procre-2026-10-15
+DTSTAMP:20261029T223817
+DTSTART:20261015T025000
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: New assignment: 'Relief features'
-DESCRIPTION:Don't leave this to the last minute — chip away early.  (from
-  Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Value Fruit Sketching in Procreate @ Procreate / Goog
+ le Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 02:5
+ 0 · 📍 Procreate / Google Classroom Choose one fruit from the reference i
+ mages\, create a detailed value sketch in Procreate\, and submit your ar
+ twork — this develops your observational drawing and digital painting te
+ chniques.  Attached: 📎 carrot2.JPG: https://drive.google.com/file/d/1H_f
+ eTvntkYUQwZzjb7FoDGw2v__TgsOZ/view?usp=drive_web 📎 Drangon friuit.JPG: h
+ ttps://drive.google.com/file/d/1lnItNSGlwzIPWcL0bJ14gIPzmadOLwTj/view?us
+ p=drive_web 📎 mangosteen.jpg: https://drive.google.com/file/d/1N_w6N7-dj
+ 4qjiiS3cPJ86AgB4dbYVbmn/view?usp=drive_web 📎 IMG_23312.PNG: https://driv
+ e.google.com/file/d/1ZABwHLeBLqgwHh1pvLYQzhJbUZulDACg/view?usp=drive_web
+   (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1H_feTvntkYUQwZzjb7FoDGw2v__TgsOZ/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1lnItNSGlwzIPWcL0bJ14gIPzmadOLwTj/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1N_w6N7-dj4qjiiS3cPJ86AgB4dbYVbmn/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1ZABwHLeBLqgwHh1pvLYQzhJbUZulDACg/
+ view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-p5-6-2026-10-14
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20261014
+UID:study-homework-3e-english-gratitude-cards-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - 背詩 & 字帖 P5-6
+SUMMARY:📃 HOMEWORK: 3E English - Gratitude Cards
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n any outstanding Gratitude Cards to Ms. Mou tomorrow — this is the fina
+ l deadline before she closes the collection.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-3e-english-reading-comprehensio-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 3E English - Reading Comprehension 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Reading Comprehension 1 and submit it to the Subject Representatives 
+ by Friday — this reinforces the reading skills covered in class.  (from 
+ Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-extracurricular-reading-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Extracurricular Reading - 吃馬鈴薯的日子
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the extracurricular reading 《吃馬鈴薯的日子》 by 劉紹銘 on the Hong Kong Reading
+  City platform. This builds reading comprehension and literary appreciat
+ ion.  📅 Date not stated in the source — showing the posted date (2026-10
+ -16). Check the source before relying on it.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-handwriting-practice-pa-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Handwriting Practice Pages 5-6
+DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
+  handwriting practice on pages 5-6 of the character workbook. Neat handw
+ riting reinforces character recognition and writing fluency.  📅 Date not
+  stated in the source — showing the posted date (2026-10-16). Check the 
+ source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-poem-memorization-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Poem Memorization
 DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
- ze the assigned poem and complete 字帖 pages 5-6 for tomorrow's Chinese cl
- ass — these are daily practice tasks to build fluency.  (from Darren's S
- tudy Pipeline)
+ ze the assigned poems. Recitation strengthens language rhythm\, vocabula
+ ry retention\, and oral expression skills.  📅 Date not stated in the sou
+ rce — showing the posted date (2026-10-16). Check the source before rely
+ ing on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-grammar-booklet-pages-1-2026-10-17
-DTSTAMP:20261029T083506
+UID:study-homework-english-reading-comprehension-1-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Reading Comprehension 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te Reading Comprehension 1 and submit it to the Subject Representatives 
+ by next Friday (16 Oct).  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-good-work-moduke-3-1-ws-2-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Good work: Moduke 3.1 WS 2
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the Module 3.1 Worksheet 2 on Google Classroom to practice the concep
+ ts covered in class.  📅 Date not stated in the source — showing the post
+ ed date (2026-10-16). Check the source before relying on it.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-grammar-booklet-pages-13-14-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Grammar Booklet Pages 13-14
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te pages 13-14 of your Grammar Booklet and submit by Friday — the deadli
+ ne was extended due to multiple quizzes\, so use the extra time to revie
+ w phrasal verbs thoroughly.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-gratitude-cards-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Gratitude Cards
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n your Gratitude Cards to Ms. Mou by tomorrow\, the final deadline.  (fr
+ om Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-ih-ces-module-3-1-worksheet-2-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IH-CES Module 3.1 Worksheet 2
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  Module 3.1 Worksheet 2 on Google Classroom — the teacher notes it's sti
+ ll missing and you need to complete it for the Integrated Humanities cou
+ rse.  📅 Date not stated in the source — showing the posted date (2026-10
+ -16). Check the source before relying on it.  (from Darren's Study Pipel
+ ine)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-submit-reading-comprehension-1-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Submit Reading Comprehension 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n your Reading Comprehension 1 to Delton or Reese by tomorrow. This assi
+ gnment counts toward your term grade.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-8-p5-6-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中三 中文 第8組 - 字帖 P5-6
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te character practice pages 5–6 in your workbook to reinforce stroke ord
+ er and handwriting.  📅 Date not stated in the source — showing the poste
+ d date (2026-10-16). Check the source before relying on it.  (from Darre
+ n's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-8-2026-10-16
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261016
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中三 中文 第8組 - 背詩
+DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
+ ze the assigned poem for recitation in class to improve fluency and conf
+ idence.  📅 Date not stated in the source — showing the posted date (2026
+ -10-16). Check the source before relying on it.  (from Darren's Study Pi
+ peline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-dear-3e-i-know-that-some-groups-2026-10-17
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English - Grammar Booklet Pages 13-14 (Friday deadlin
- e)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  Grammar Booklet pages 13-14 by Friday — the deadline was extended due t
- o multiple upcoming quizzes\, so use the extra time to review thoroughly
- .  (from Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Dear 3E\, I know that some groups want…
+DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
+ 027 3E Geography New announcement Dear 3E\, I know that some groups want
+  to show more creativity in the Term Work\, and think that playing the s
+ lideshow in the video recorded will limit the creativity and make it mor
+ e like a traditional presentation. So\, you can choose to inc  📅 Date no
+ t stated in the source — showing the posted date (2026-10-17). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-extracurricular-reading-2026-10-20
-DTSTAMP:20261029T083506
+UID:study-homework-chinese-extracurricular-reading-2026-10-19
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261019
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Extracurricular Reading - 吃馬鈴薯的日子
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he book '吃馬鈴薯的日子' by 劉紹銘 on the Hong Kong Reading City platform to prepa
+ re for next week's post-reading assessment.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-bring-listening-practice-paper--2026-10-20
+DTSTAMP:20261029T223817
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese - Extracurricular Reading Assessment 《吃馬鈴薯的日子
- 》
-DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
-  reading 《吃馬鈴薯的日子》 on the eRead platform — a simple post-reading assessm
- ent will take place next Tuesday\, so complete the book before then.  (f
- rom Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Bring Listening Practice Paper 1 Question-Answer Book
+  (English) @ Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
+ sroom Bring your Listening Practice Paper 1 Question-Answer Book to Engl
+ ish class tomorrow — Part B will be completed together and the Data File
+  will be distributed.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-module-3-1-ws-1-2026-09-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260928
+UID:study-homework-geography-worksheet-1-2026-10-20
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Module 3.1 WS 1
+SUMMARY:📃 HOMEWORK: Geography Worksheet 1
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te Module 3.1 WS 1 worksheet posted today — review the materials on Goog
- le Classroom to reinforce learning before the next lesson.  (from Darren
- 's Study Pipeline)
+ te Worksheet 1 by 20 Oct and hand it to Marcus\, the subject representat
+ ive\, for collection — this worksheet covers the first geography unit an
+ d will be graded.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chapter-3-elements-2026-09-28
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260928
+UID:study-homework-ole-team-executive-committee-ap-2026-10-20
+DTSTAMP:20261029T223817
+DTSTART:20261020T235900
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chapter 3 Elements
-DESCRIPTION:Don't leave this to the last minute — chip away early. Study 
- Chapter 3 Elements materials posted today — use the shared resources on 
- Google Classroom to prepare for upcoming chemistry lessons.  (from Darre
- n's Study Pipeline)
+SUMMARY:📃 HOMEWORK: OLE Team Executive Committee Application
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
+ 9 Submit your OLE Team Executive Committee application via the Google Fo
+ rm by 20 October 23:59 — shortlisted candidates will be invited for a co
+ mpulsory interview.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-short-essay-writing-with-draft--2026-09-21
-DTSTAMP:20261029T083506
-DTSTART;VALUE=DATE:20260921
+UID:study-homework-chemistry-ch1-2-test-correction-2026-10-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261021
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Short Essay Writing with Draft Paper
-DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- draft paper to class tomorrow and complete the short essay on a campus l
- ocation — focus on scene\, event\, people\, emotion\, and logic. | Bring
-  draft paper to class tomorrow and complete the short essay on a campus 
- location — focus on scene\, event\, people\, emotion\, and logic.  (from
-  Darren's Study Pipeline)
+SUMMARY:📃 HOMEWORK: Chemistry Ch1-2 Test Corrections
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te and submit your Chapter 1-2 test corrections by 21 October — this ass
+ ignment helps you review key concepts before the next topic.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-stream-open-day-helper-sign-up-2026-10-21
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261021
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: STREAM Open Day Helper Sign-Up
+DESCRIPTION:Don't leave this to the last minute — chip away early. Fill o
+ ut the Google Form to volunteer for STREAM game booths and workshops at 
+ the 175th Anniversary Open Day — sign up by next Wednesday to help make 
+ the event a success.  Attached: 📎 STREAM Team Competition Enrolment Reco
+ rd Form: https://forms.gle/mUrEQKbTVw5HWFj1A 📎 STREAM Team Open Day Help
+ er Application: https://forms.gle/guwsUWmErh5kNJDM7  (from Darren's Stud
+ y Pipeline)
+ATTACH:https://forms.gle/mUrEQKbTVw5HWFj1A
+ATTACH:https://forms.gle/guwsUWmErh5kNJDM7
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-3e-english-bring-listening-prac-2026-10-25
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261025
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 3E English - Bring Listening Practice Paper 1 and Dat
+ a File
+DESCRIPTION:Don't leave this to the last minute — chip away early. Pack y
+ our Listening Practice Paper 1 (Question-Answer book) and Data File for 
+ tomorrow's English class — you'll complete the listening component and P
+ art B together.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-hackathon-team-submission-2026-10-25
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261025
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Hackathon Team Submission
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  your team's solution by 25 October — this is the final deadline to uplo
+ ad your project for the Grand Final.  Attached: 📎 Imperial Global Hackat
+ hons: Study | Imperial College London|https://www.imperial.ac.uk/study/v
+ isit/events/global-hackathons/ 📎 Hackathon2026_promo poster_JG.pdf: http
+ s://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/view?usp=d
+ rive_web  (from Darren's Study Pipeline)
+ATTACH:Study | Imperial College London|https://www.imperial.ac.uk/study/v
+ isit/events/global-hackathons/
+ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-essay-correction-add-pa-2026-10-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261026
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Essay Correction (add paragraph & fix typos)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Revise
+  your essay by adding the missing paragraph and correcting typos — submi
+ t to the teacher as instructed.  📅 Date not stated in the source — showi
+ ng the posted date (2026-10-26). Check the source before relying on it. 
+  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-writing-worksheet-exerc-2026-10-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261026
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Writing Worksheet Exercise 1
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te writing worksheet exercise 1 and hand it in to the teacher.  📅 Date n
+ ot stated in the source — showing the posted date (2026-10-26). Check th
+ e source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-listening-practice-pape-2026-10-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261026
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Listening Practice Paper 1 & Data File @ Engl
+ ish classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Engl
+ ish classroom Bring your Listening Practice Paper 1 (Question-Answer boo
+ k) and Data File to English class on Oct 26 — we will finish the listeni
+ ng component and Part B together.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-geography-worksheet-2-2026-10-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261026
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Geography Worksheet 2 @ Marcus (subject representativ
+ e)
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Marc
+ us (subject representative) Complete Worksheet 2 and hand it to Marcus b
+ y 26 Oct — it counts toward your Geography grade.  (from Darren's Study 
+ Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-10-26
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261026
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 作文改正 (補上一段，並改正錯別字)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Revise
+  your essay by adding the missing paragraph and correcting typos — this 
+ will improve your writing score for the upcoming composition test.  📅 Da
+ te not stated in the source — showing the posted date (2026-10-26). Chec
+ k the source before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-group-2-geography-project-plot-2026-10-27
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261027
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Group 2 Geography Project_Plot
+DESCRIPTION:Don't leave this to the last minute — chip away early. Open t
+ he shared Google Doc to collaborate on the Geography project plot — your
+  group needs to finalize the outline before the next class.  📅 Date not 
+ stated in the source — showing the posted date (2026-10-27). Check the s
+ ource before relying on it.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chemistry-quiz-1-corrections-2026-10-28
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chemistry - Quiz 1 Corrections @ Google Classroom
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
+ le Classroom Complete and submit your Quiz 1 corrections by Oct 28 on Go
+ ogle Classroom — this counts toward your Chemistry grade and helps you m
+ aster the tested concepts.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-history-may-fourth-move-2026-10-28
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese History May Fourth Movement Worksheet
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he May Fourth Movement special edition and complete the physical workshe
+ et distributed in class for submission by 28 October.  (from Darren's St
+ udy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-worksheet-2026-10-28
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 《五四運動特刊》 Worksheet
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he May Fourth Movement special edition and complete the physical workshe
+ et distributed in class\; submit by 28 Oct.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-chinese-composition-preparation-2026-10-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Chinese Composition Preparation & Manuscript Paper
+DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
+ e your Chinese composition draft and bring manuscript paper to class tom
+ orrow — the writing exercise will be done in class.  (from Darren's Stud
+ y Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-bring-grammar-book-ipad-2026-10-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English - Bring Grammar Book & iPad for Unit 7/11 Rev
+ iew
+DESCRIPTION:Don't leave this to the last minute — chip away early. Pack y
+ our Grammar Book and iPad tonight — Ms. Mou will check Unit 7 and 11 ans
+ wers in class tomorrow.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-submit-reading-comprehe-2026-10-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English - Submit Reading Comprehension Corrections
+DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
+ n your corrected Reading Comprehension to Reese and Delton tomorrow morn
+ ing — late submissions may not be accepted.  (from Darren's Study Pipeli
+ ne)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-english-reading-comprehension-c-2026-10-29
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: English Reading Comprehension Corrections (Unit 7 & 1
+ 1)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  your Reading Comprehension corrections to Reese and Delton by tomorrow 
+ morning — they will be reviewed in class.  (from Darren's Study Pipeline
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2026-2026-10-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 2026 青少年創科實踐挑戰賽 影片製作及報名
+DESCRIPTION:Don't leave this to the last minute — chip away early. Create
+  the required AI-generated video (ocean theme for junior forms\, five th
+ emes for senior forms) and submit the application form by 30 Oct.  Attac
+ hed: 📎 夢溪少年談.jpg: https://drive.google.com/file/d/1JOIzFCNFobbVxNHfkJhAO
+ vbrC2d1AjjR/view?usp=drive_web 📎 夢溪2026_青少年創科實際挑戰賽_章程.pdf: https://drive
+ .google.com/file/d/1MhiPzLoPeT2NKuCc4nHPDlWcGItTTmxg/view?usp=drive_web 
+  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1JOIzFCNFobbVxNHfkJhAOvbrC2d1AjjR/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1MhiPzLoPeT2NKuCc4nHPDlWcGItTTmxg/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-finish-remaining-essay-2026-10-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Finish remaining essay
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the rest of your essay during tomorrow's class — it counts toward you
+ r coursework.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-stream-team-tee-order-form-paym-2026-10-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: STREAM Team Tee Order Form & Payment @ 5F
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 5F F
+ ill out the Google Form and hand in payment to the teacher in 5F by Oct 
+ 30 — the tee is required for Open Day helpers.  Attached: 📎 Purchase of 
+ STREAM Team Tee: https://forms.gle/kQ9Z5rxpRrXj4AM1A  (from Darren's Stu
+ dy Pipeline)
+ATTACH:https://forms.gle/kQ9Z5rxpRrXj4AM1A
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-stream-team-tee-2026-10-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: STREAM Team Tee 訂購 @ 5F
+DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 5F C
+ omplete the Google Form and pay $65 in person at 5F by Oct 30 to secure 
+ your official STREAM Team tee required for Open Day helpers.  (from Darr
+ en's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-8-26-27-2026-10-30
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 中三 中文 第8組 26-27 - 完成餘下作文
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the remaining essay in class on 2026-10-30 — this work contributes to
+  your Chinese coursework.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-oct-2627-reflections-2026-10-31
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261031
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: (Oct 2627) Reflections
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te the reflection readings and submit your responses via the Google Form
+  by 31 Oct 15:59 — this assignment counts toward your Moral and Civic Ed
+ ucation coursework.  Attached: 📎 Readings: https://drive.google.com/driv
+ e/folders/1mCSzLYg9vrD1u-HUvJc6oD4GrTEDoqsA 📎 Google Forms: Sign-in: htt
+ ps://docs.google.com/forms/d/e/1FAIpQLSfdK849ACVtifBZy7mVXHeVvCWvgHROHb_
+ vO0dFTuq8e8CRdA/viewform?usp=dialog  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/drive/folders/1mCSzLYg9vrD1u-HUvJc6oD4GrT
+ EDoqsA
+ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfdK849ACVtifBZy7mVXHeVvC
+ WvgHROHb_vO0dFTuq8e8CRdA/viewform?usp=dialog
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-campus-photo-2026-11-05
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261105
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Campus Photo
+DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
+  three artistic campus photos applying the composition techniques from o
+ ur last lesson to Google Classroom by November 5 — your best shot will b
+ ecome the reference for the upcoming sketching unit.  (from Darren's Stu
+ dy Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-ih-ces-portfolio-submission-2026-11-06
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261106
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: IH-CES - Portfolio Submission
+DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
+ e your IH-CES portfolio with completed content page\, ordered worksheets
+ \, and all corrections for collection on Nov 6 — these items directly af
+ fect your marking.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-integrated-humanities-register--2026-11-20
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261120
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Integrated Humanities - Register for Financial Innova
+ tion Competition 2026/27
+DESCRIPTION:Don't leave this to the last minute — chip away early. Regist
+ er online by 20 November for the Financial Innovation Competition — team
+ s of 1-5 students can join the preliminary round on 16 January without p
+ rior preparation.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-music-first-term-concert-report-2026-12-01
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20261201
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Music First Term Concert Report
+DESCRIPTION:Don't leave this to the last minute — chip away early. Attend
+  a Western Classical\, Opera\, or Chinese music concert\, write a 300-35
+ 0 word report in English\, attach ticket and program\, and submit the di
+ gital copy on Google Classroom by 1 December — late submissions lose mar
+ ks and conduct points.  Attached: 📎 [Template] 2627 F3 Concert Report An
+ swer Sheet.docx: https://drive.google.com/file/d/1U5VuuxdUtqfsKz_8uxridK
+ HKxqLraQ0T/view?usp=drive_web 📎 2627 First Term Concert Report Guideline
+ s.pdf: https://drive.google.com/file/d/1flgiy4J77L55m0ikY-FChWO-jQGsC4V-
+ /view?usp=drive_web  (from Darren's Study Pipeline)
+ATTACH:https://drive.google.com/file/d/1U5VuuxdUtqfsKz_8uxridKHKxqLraQ0T/
+ view?usp=drive_web
+ATTACH:https://drive.google.com/file/d/1flgiy4J77L55m0ikY-FChWO-jQGsC4V-/
+ view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-2027-03-31
+DTSTAMP:20261029T223817
+DTSTART:20270331T180000
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: 「綠色空間 由我創造」學生比賽 作品遞交截止
+DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 18:0
+ 0 Submit your competition entry and description form before 31 Mar 2027 
+ 6:00 PM to be considered for judging.  Attached: 📎 「綠色空間 由我創造」學生比賽 - 主頁:
+  http://www.hkgbc.org.hk/studentcompetition  (from Darren's Study Pipeli
+ ne)
+ATTACH:http://www.hkgbc.org.hk/studentcompetition
+END:VEVENT
+BEGIN:VEVENT
+UID:study-homework-concert-report-2nd-2027-04-25
+DTSTAMP:20261029T223817
+DTSTART;VALUE=DATE:20270425
+CATEGORIES:Homework
+COLOR:#4285F4
+X-APPLE-CALENDAR-COLOR:#4285F4
+SUMMARY:📃 HOMEWORK: Concert Report (2nd)
+DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
+ te your second concert report by 25 April — this assignment showcases yo
+ ur analytical abilities.  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
