@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-dictation-dear-students-attached-please--2026-09-11
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -26,7 +26,7 @@ ATTACH:https://drive.google.com/file/d/1G-vPr0NYrbrR-DLjl_6yZWsJk9dH8-ud/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-chinese-character-book-pages-1-2026-09-21
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -34,13 +34,23 @@ X-APPLE-CALENDAR-COLOR:#F6BF26
 SUMMARY:📘 DICTATION: Chinese Character Book Pages 1-2
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Re
  view pages 1‑2 of the character book this week — a dictation on these pa
- ges is scheduled for next Monday. | Prepare for the dictation on copyboo
- k pages 1-2 scheduled for next week — review the characters thoroughly. 
-  (from Darren's Study Pipeline)
+ ges is scheduled for next Monday.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-dictation-chinese-language-copybook-page-2026-09-21
+DTSTAMP:20261030T203436
+DTSTART;VALUE=DATE:20260921
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: Chinese Language - Copybook Pages 1-2 Dictation
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Pr
+ epare for the dictation on copybook pages 1-2 scheduled for next week — 
+ review the characters thoroughly.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-chinese-ah-q-dictation-2026-10-05
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -53,7 +63,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-q-2026-10-05
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -65,7 +75,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Co
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-p1-2-2026-10-07
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -73,27 +83,12 @@ X-APPLE-CALENDAR-COLOR:#F6BF26
 SUMMARY:📘 DICTATION: 《五柳先生傳》背默 + 成語 P1-2
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Pr
  epare to recite 《五柳先生傳》 and write idioms from pages 1-2 on the provided 
- manuscript paper for tomorrow's Chinese lesson. | Prepare the dictation 
- of 《五柳先生傳》 and idioms P1‑2 tonight — bring the original manuscript paper
-  to class tomorrow.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-dictation-2026-10-07
-DTSTAMP:20261030T082235
-DTSTART;VALUE=DATE:20261007
-CATEGORIES:Dictation
-COLOR:#F6BF26
-X-APPLE-CALENDAR-COLOR:#F6BF26
-SUMMARY:📘 DICTATION: 出塞 王昌齡
-DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Me
- morize the poem '出塞' by Wang Changling — you'll be tested on recitation 
- soon.  📅 Date not stated in the source — showing the posted date (2026-1
- 0-07). Check the source before relying on it.  (from Darren's Study Pipe
- line)
+ manuscript paper for tomorrow's Chinese lesson.  (from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-form-3-seen-dictation-1-2026-10-08
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -104,8 +99,21 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Re
  ll be held during Period 1 on October 8.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
+UID:study-dictation-p1-2-2026-10-09
+DTSTAMP:20261030T203436
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: 《五柳先生傳》背默 + 成語P1\,2
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Pr
+ epare the text and idioms tonight and bring your manuscript paper — the 
+ dictation will be checked at the start of Chinese class.  (from Darren's
+  Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
 UID:study-dictation-dictation-1-seen-answer-key-2026-10-14
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -121,7 +129,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. F.
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-ih-ces-vocabulary-dictation-2026-10-16
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -133,20 +141,20 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Re
  peline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-dictation-ih-ces-vocabulary-list-2026-10-26
-DTSTAMP:20261030T082235
+UID:study-dictation-ih-ces-vocabulary-dictation-2026-10-26
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Dictation
 COLOR:#F6BF26
 X-APPLE-CALENDAR-COLOR:#F6BF26
-SUMMARY:📘 DICTATION: IH-CES Vocabulary List
+SUMMARY:📘 DICTATION: IH-CES Vocabulary Dictation
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Re
- view the vocabulary list for the IH-CES dictation on Monday — it covers 
- key terms from the module.  (from Darren's Study Pipeline)
+ view the vocabulary list tonight — the dictation covers all listed words
+  and counts toward your IH-CES grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-dear-all-please-be-reminded-ab-2026-10-27
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -162,7 +170,7 @@ DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. 20
 END:VEVENT
 BEGIN:VEVENT
 UID:study-dictation-english-dictation-submission-s-2026-10-27
-DTSTAMP:20261030T082235
+DTSTAMP:20261030T203436
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Dictation
 COLOR:#F6BF26
@@ -171,8 +179,18 @@ SUMMARY:📘 DICTATION: English - Dictation Submission (signed with correcti
  ons)
 DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Su
  bmit your signed dictation corrections tomorrow — this is the final chan
- ce to hand them in for grading. | Hand in your signed dictation with cor
- rections by tomorrow — Ms. Mou says this is the last chance to submit.  
- (from Darren's Study Pipeline)
+ ce to hand them in for grading.  (from Darren's Study Pipeline)
+END:VEVENT
+BEGIN:VEVENT
+UID:study-dictation-english-submit-signed-dictatio-2026-10-27
+DTSTAMP:20261030T203436
+DTSTART;VALUE=DATE:20261027
+CATEGORIES:Dictation
+COLOR:#F6BF26
+X-APPLE-CALENDAR-COLOR:#F6BF26
+SUMMARY:📘 DICTATION: English - Submit Signed Dictation Corrections
+DESCRIPTION:Dictation scheduled. Practice the passage so you're ready. Ha
+ nd in your signed dictation with corrections by tomorrow — Ms. Mou says 
+ this is the last chance to submit.  (from Darren's Study Pipeline)
 END:VEVENT
 END:VCALENDAR
