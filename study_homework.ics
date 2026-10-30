@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-homework-extra-indices-practice-for-next-2026-07-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -26,7 +26,7 @@ ATTACH:https://drive.google.com/file/d/1-G12Br4ikOMCoxdkl0nR_EHR2apFnJI7/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-program-solving-challenge-code--2026-07-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -41,7 +41,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Code
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-stream-team-2026-27-2026-08-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -59,7 +59,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSctn5Sy91aTRyeMRt-Cd_5BCR
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2627-spc-instrumental-music-inf-2026-09-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -74,7 +74,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-welcome-to-learn-his-story-expe-2026-09-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -88,7 +88,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Write
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-summer-holiday-assignme-2026-09-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260904T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -101,7 +101,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-f-3-exp-wb-ordering-2026-09-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260904T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -119,7 +119,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfFsSLcLbbwKMWq8T2ZK5hZdJ
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-summer-exercise-2026-09-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -132,7 +132,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3-2026-09-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -146,7 +146,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Previe
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-2-assi-2026-09-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -167,7 +167,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfX1dxh_jTaPRUi9K-Y8oC3hk
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-unit-notes-page-4-2026-09-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -181,7 +181,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-iet-faraday-challenge-2026-09-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -197,7 +197,7 @@ ATTACH:https://drive.google.com/file/d/1wDQAS_O5QliVyanmHdLKf2iVSP0l3DnX/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-acrylic-sheet-2026-09-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -211,7 +211,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. [OFFIC
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-history-map-worksheet-s-2026-09-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -223,7 +223,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-11
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -237,7 +237,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-math-supp-ex-1c-q30-32-ex-1d-q2-2026-09-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260912
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -251,7 +251,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-dear-all-all-of-you-should-have-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -268,7 +268,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-classical-chinese-reading-recit-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -281,7 +281,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-text-2-answers-review-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -293,7 +293,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Home
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-recite-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -305,7 +305,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Practi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-class-librarian-information-for-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260915T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -317,7 +317,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-let-s-practise-p-83-2026-09-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260916
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -333,7 +333,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-language-memorize-2026-09-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -347,7 +347,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-added-a-private-comment-on-let--2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -357,68 +357,33 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
  027 3E Geography Let’s practise p.83 Private comment Wing Hin YU • 1:30 
  PM\, Sep 18 (HKT) Y is steeper is correct. The method you try to explain
   is also correct. But for this question\, pay attention that Y and Z hav
- e different vertical distance (60 m and 80 m)\, which does no  📅 Date no
- t stated in the source — showing the posted date (2026-09-18). Check the
-  source before relying on it.  (from Darren's Study Pipeline)
+ e different vertical distance (60 m and 80 m)\, which does no | 2026-202
+ 7 3E Geography Let’s practise p.83 Graded Grade: 70/100 Wing Hin YU grad
+ ed your work at 1:30 PM\, Sep 18 (HKT). View grade Google LLC 1600 Amphi
+ theatre Parkway\, Mountain View\, CA 94043 USA This email was sent to yo
+ u because you indicated that you'd like to receive email no  📅 Date not 
+ stated in the source — showing the posted date (2026-09-18). Check the s
+ ource before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-language-bring-manuscri-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Chinese Language - Bring Manuscript Paper
 DESCRIPTION:Don't leave this to the last minute — chip away early. Bring 
- your manuscript paper to class tomorrow for the writing exercise.  (from
-  Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-chinese-language-writing-worksh-2026-09-18
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260918
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese Language - Writing Worksheet (也許/彷彿/似乎) 10+ s
- entences
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the writing exercise worksheet with 10 or more sentences using the ta
- rget phrases and submit it tomorrow in class.  (from Darren's Study Pipe
- line)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-chinese-writing-exercise-10-sen-2026-09-18
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260918
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese Writing Exercise (也許/彷彿/似乎) 10+ sentences
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the writing worksheet with at least ten sentences using 也許\, 彷彿\, 似乎 
- and submit it in class tomorrow — it counts toward your writing grade.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-graded-let-s-practise-p-83-2026-09-18
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260918
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Graded: "Let’s practise p.83
-DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
- 027 3E Geography Let’s practise p.83 Graded Grade: 70/100 Wing Hin YU gr
- aded your work at 1:30 PM\, Sep 18 (HKT). View grade Google LLC 1600 Amp
- hitheatre Parkway\, Mountain View\, CA 94043 USA This email was sent to 
- you because you indicated that you'd like to receive email no  📅 Date no
- t stated in the source — showing the posted date (2026-09-18). Check the
-  source before relying on it.  (from Darren's Study Pipeline)
+ your manuscript paper to class tomorrow for the writing exercise. | Comp
+ lete the writing exercise worksheet with 10 or more sentences using the 
+ target phrases and submit it tomorrow in class. | Complete the writing w
+ orksheet with at least ten sentences using 也許\, 彷彿\, 似乎 and submit it in
+  class tomorrow — it counts toward your writing grade.  (from Darren's S
+ tudy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-file-fee-3-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -430,7 +395,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-physics-notes-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -445,7 +410,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Dear M
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-robotics-team-application-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -462,7 +427,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSd3df6DwhTHsx6WVTNQIbfGNE
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -480,7 +445,7 @@ ATTACH:https://forms.cloud.microsoft/pages/responsepage.aspx?id=3bukt5xuK
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-2027-3e-english-bring-perf-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -498,7 +463,7 @@ ATTACH:https://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-2027-3e-english-complete-p-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -507,16 +472,17 @@ SUMMARY:📃 HOMEWORK: 2026-2027 3E English - Complete peer marking of Test
  Paper 1 Part A
 DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
   the peer marking using the uploaded marking scheme by Monday so the tea
- cher can collect the marked papers in class.  Attached: 📎 Test Paper 1 (
- Listening) Part A - Marking Scheme.pdf: https://drive.google.com/file/d/
- 1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/view?usp=drive_web  (from Darren's Stu
- dy Pipeline)
+ cher can collect the marked papers in class. | Complete the peer marking
+  for Test Paper 1 Part A by Monday 21 September — the teacher will colle
+ ct them during Period 1.  Attached: 📎 Test Paper 1 (Listening) Part A - 
+ Marking Scheme.pdf: https://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta
+ 9k6FiFDdeDzMJ/view?usp=drive_web  (from Darren's Study Pipeline)
 ATTACH:https://drive.google.com/file/d/1dGMYx5yxmUU1xcX1Wta9k6FiFDdeDzMJ/
  view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-2027-3e-ih-ces-ces-module--2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -524,24 +490,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2026-2027 3E IH-CES - CES module 3.1 worksheet
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  te the CES module 3.1 worksheet and hand it in by Monday 21/9 — it cover
- s the key concepts for the upcoming test.  (from Darren's Study Pipeline
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-ces-module-3-1-worksheet-2026-09-21
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260921
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: CES Module 3.1 Worksheet
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n the CES module 3.1 worksheet by Monday 21 September — it covers the la
- test topic and counts toward your grade.  (from Darren's Study Pipeline)
+ s the key concepts for the upcoming test. | Hand in the CES module 3.1 w
+ orksheet by Monday 21 September — it covers the latest topic and counts 
+ toward your grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-short-narrative-writing-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -555,21 +510,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
  peline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-peer-marking-for-test-p-2026-09-21
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260921
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English Peer Marking for Test Paper 1 Part A
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the peer marking for Test Paper 1 Part A by Monday 21 September — the
-  teacher will collect them during Period 1.  (from Darren's Study Pipeli
- ne)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-python-notes-chapter-3-assignme-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -589,7 +531,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLScaHhJtoH-l5MBucFF9MJXpFj
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-1-correction-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -598,24 +540,13 @@ SUMMARY:📃 HOMEWORK: Chemistry Exercise 1 Corrections @ Google Classroom
 DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
  le Classroom Compile the three pages of Exercise 1 corrections into a si
  ngle PDF and upload it to Google Classroom — this ensures your chemistry
-  workbook is complete and ready for teacher review.  (from Darren's Stud
- y Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-exercise-1-corr-2026-09-23
-DTSTAMP:20261029T223817
-DTSTART:20260923T000000
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Exercise 1 corr
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:0
- 0 Upload the corrected Exercise 1 PDF (3 pages) by 23 Sep midnight — it 
- counts toward your Chemistry grade.  (from Darren's Study Pipeline)
+  workbook is complete and ready for teacher review. | Upload the correct
+ ed Exercise 1 PDF (3 pages) by 23 Sep midnight — it counts toward your C
+ hemistry grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-features-2026-09-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260925
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -623,28 +554,15 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Geography - Relief features
 DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
   your Relief features assignment by 25 September — late submissions afte
- r this date will not be accepted and will affect your classwork mark.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-relief-features-google-maps-ter-2026-09-25
-DTSTAMP:20261029T223817
-DTSTART:20260925T155900
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Relief features - Google Maps terrain examples @ Goog
- le Classroom
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 15:5
- 9 · 📍 Google Classroom Use Google Maps terrain view to locate and screen
- shot each relief feature (escarpment\, spur\, valley\, saddle\, ridge\, 
- cliff)\, rename files with feature and place names\, and submit them — t
- his builds your map-reading skills for the geography exam.  (from Darren
- 's Study Pipeline)
+ r this date will not be accepted and will affect your classwork mark. | 
+ Use Google Maps terrain view to locate and screenshot each relief featur
+ e (escarpment\, spur\, valley\, saddle\, ridge\, cliff)\, rename files w
+ ith feature and place names\, and submit them — this builds your map-rea
+ ding skills for the geography exam.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-sa-official-sub-committee-appli-2026-09-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260925T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -662,7 +580,7 @@ ATTACH:339376bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-vote-for-outstanding-affiliated-2026-09-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260925T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -675,7 +593,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-26-27-3e-math-chapter-1-test-pa-2026-09-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -689,7 +607,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Get yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-26-27-3e-math-supp-ex-2a-ex-2b--2026-09-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -704,7 +622,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-chapter-3-elements-re-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -718,7 +636,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Study
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-relief-and-landslide--2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -732,7 +650,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-module-3-1-ws-1-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -746,7 +664,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Review
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-choose-geography-project-group-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -760,7 +678,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Decide
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-lead-paragraph-writing--2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -768,24 +686,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: English - Lead Paragraph Writing Booklet p.8
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  te the lead paragraph on page 8 of your Writing Booklet tonight — Ms. Mo
- u will check it tomorrow in class.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-lead-paragraph-pg-8-2026-09-29
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260929
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English Lead Paragraph pg 8
-DESCRIPTION:Don't leave this to the last minute — chip away early. Write 
- your lead paragraph on page 8 of the Writing Booklet tonight — we will r
- eview hooks and em dashes in class tomorrow.  (from Darren's Study Pipel
- ine)
+ u will check it tomorrow in class. | Write your lead paragraph on page 8
+  of the Writing Booklet tonight — we will review hooks and em dashes in 
+ class tomorrow.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-graded-exercise-1-corr-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -801,7 +708,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-dear-3e-for-the-submission-box--2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -818,7 +725,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-87-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -833,7 +740,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-group-formation-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -845,7 +752,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-reply-for-hku-m-programme-scree-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -858,7 +765,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Reply
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-upload-reading-booklet-inferenc-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -872,7 +779,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-8-26-27-1-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -887,7 +794,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Open t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-1-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -904,7 +811,7 @@ ATTACH:https://drive.google.com/file/d/1Ldex35SqvaZMhsj0Url4tCGpqgzi1j7W/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-september-reflections-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260930T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -922,7 +829,7 @@ ATTACH:https://drive.google.com/drive/folders/1mCSzLYg9vrD1u-HUvJc6oD4GrT
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-physics-hw-2026-10-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -930,24 +837,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 3E Physics - HW
 DESCRIPTION:Don't leave this to the last minute — chip away early. Upload
   your Physics homework to Classroom by 2 Oct — the teacher will review i
- t for the upcoming test.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-physics-hw-due-2-oct-2026-10-02
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261002
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Physics HW due 2 Oct
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your physics homework via Google Classroom by Friday 2 October — check 
- the assignment details for required problems.  (from Darren's Study Pipe
- line)
+ t for the upcoming test. | Submit your physics homework via Google Class
+ room by Friday 2 October — check the assignment details for required pro
+ blems.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-photo-composition-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -961,7 +857,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Coordi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-89-2026-10-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -975,7 +871,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-exercise-2-corr-2026-10-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261006T003000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -988,7 +884,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-picnic-day-grouping-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1004,7 +900,7 @@ ATTACH:https://drive.google.com/file/d/1Qbn-cTTQemE-EXNHOM4ju1PofV1UgJVM/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-territory-wide-inter-school-nat-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1021,7 +917,7 @@ ATTACH:https://game.hkedcity.net/national-security/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-practice-p-89-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261007T004500
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1033,7 +929,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 00:4
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-online-challenge-image-s-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261007T180000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1047,7 +943,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 18:0
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-memorize-chu-sai-by-wan-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1061,7 +957,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-history-long-march-90th-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1075,7 +971,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ict-python-notes-chapter-3-assi-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1089,7 +985,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-submit-chinese-unit-notes-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1102,7 +998,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Chin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2-3038-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1119,7 +1015,7 @@ ATTACH:https://drive.google.com/file/d/1Pq2xUGWlJsHcCI9mtuVXXLAx_3D7VOQj/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-90-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261008T155900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1138,7 +1034,7 @@ ATTACH:https://chist-competition26.ln.edu.hk/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-calligraphy-book-pages--2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1151,7 +1047,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-writing-booklet-checkpo-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1164,7 +1060,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Bring
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-memorize-poem-chu-sai-by-wang-c-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1177,7 +1073,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Chin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-programming-team-application-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1190,7 +1086,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-submitted-work-module-3-1-ws-2--2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1205,7 +1101,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Announ
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-90-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1218,7 +1114,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-1-4-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1230,7 +1126,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1242,7 +1138,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-q-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1256,7 +1152,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. New re
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2022-tsa-1-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1276,7 +1172,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSdrUtT8WkRqIWq0MdYrBe-Ik3
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-2-correction-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1291,7 +1187,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Review
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-let-s-practise-p-91-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1305,7 +1201,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-module-3-1-ws-2-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1318,7 +1214,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-module-3-1-ws-2-textbook-p-37-3-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1326,12 +1222,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Module 3.1 WS 2 & Textbook p.37-38
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  te Module 3.1 Worksheet 2 and textbook pages 37-38\, then submit to Jayd
- en or Reese by Monday — answer checking will happen in class.  (from Dar
- ren's Study Pipeline)
+ en or Reese by Monday — answer checking will happen in class. | Finish t
+ extbook pages 37–38 before Monday's answer checking — these pages will b
+ e reviewed in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-returned-your-work-on-exercise--2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1346,20 +1243,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
   source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-textbook-p-37-38-2026-10-12
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Textbook p.37-38
-DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
-  textbook pages 37–38 before Monday's answer checking — these pages will
-  be reviewed in class.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-p5-6-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1373,7 +1258,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1386,7 +1271,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Practi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-submit-google-form-for-spc-game-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261012T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1400,7 +1285,7 @@ ATTACH:https://forms.gle/fz3oXKwW4RhcYj5t6
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-bring-listening-booklet-to-clas-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1412,7 +1297,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-handwriting-practice-p5-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1426,7 +1311,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-recite-poem-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1440,7 +1325,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Recite
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-submit-scmp-subscriptio-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1449,12 +1334,13 @@ SUMMARY:📃 HOMEWORK: English - Submit SCMP subscription cheque @ To Ms. Mo
  u in person
 DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 To M
  s. Mou in person Hand in your SCMP subscription cheque to Ms. Mou in per
- son by tomorrow to complete your subscription.  (from Darren's Study Pip
- eline)
+ son by tomorrow to complete your subscription. | Submit your SCMP subscr
+ iption cheque to Ms. Mou in person by tomorrow — this is the deadline fo
+ r cheque submission.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-graded-exercise-2-corr-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1470,7 +1356,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-practice-thinking-perspective-c-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1489,22 +1375,8 @@ ATTACH:https://docs.google.com/presentation/d/1zoM1kDmxm50CNb1ghm2-l5ez23
  cLrKaaT_Tdh_aYF-w/edit?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-scmp-subscription-cheque-submis-2026-10-13
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: SCMP Subscription Cheque Submission @ To Ms. Mou in p
- erson
-DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 To M
- s. Mou in person Submit your SCMP subscription cheque to Ms. Mou in pers
- on by tomorrow — this is the deadline for cheque submission.  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-chemistry-exercise-3-correction-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1517,7 +1389,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-grammar-booklet-pages-1-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1526,11 +1398,13 @@ SUMMARY:📃 HOMEWORK: English Grammar Booklet Pages 13-14
 DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
   pages 13-14 on phrasal verbs and highlighting exercise in your Grammar 
  Booklet and hand it in tomorrow — this revises F.2 grammar and prepares 
- for your Writing Assessment.  (from Darren's Study Pipeline)
+ for your Writing Assessment. | Complete pages 13-14 of the Grammar Bookl
+ et on phrasal verbs and hand it in tomorrow — this revision counts towar
+ d your Writing Assessment preparation.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-graded-q-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1545,21 +1419,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 中三 中�
   source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-grammar-booklet-pages-13-14-phr-2026-10-14
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Grammar Booklet pages 13-14 (Phrasal Verbs)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te pages 13-14 of the Grammar Booklet on phrasal verbs and hand it in to
- morrow — this revision counts toward your Writing Assessment preparation
- .  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-3e-register-for-stage-play-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261014T083000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1569,57 +1430,33 @@ SUMMARY:📃 HOMEWORK: 3E 中國歷史 - Register for Stage Play '無名碑 @ Ch
 DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:3
  0 · 📍 Chinese History teacher Submit $100 cash or cheque to your Chinese
   History teacher by 8:30 AM on Wednesday — the school fully subsidizes t
- he ticket and you'll earn a 10% bonus on your next test.  Attached: 📎 無名
- 碑_舞台劇.jpg: https://drive.google.com/file/d/11uHiaYp-5d-MtPW2hmfNUSyA9H5n
- kgHR/view?usp=drive_web  (from Darren's Study Pipeline)
+ he ticket and you'll earn a 10% bonus on your next test. | Submit $100 c
+ ash or cheque to your Chinese History teacher by 8:30 AM on Oct 14 to se
+ cure your spot for the stage play\; the school will fully sponsor the ti
+ cket.  Attached: 📎 無名碑_舞台劇.jpg: https://drive.google.com/file/d/11uHiaYp
+ -5d-MtPW2hmfNUSyA9H5nkgHR/view?usp=drive_web  (from Darren's Study Pipel
+ ine)
 ATTACH:https://drive.google.com/file/d/11uHiaYp-5d-MtPW2hmfNUSyA9H5nkgHR/
  view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-chinese-history-submit-registra-2026-10-14
-DTSTAMP:20261029T223817
-DTSTART:20261014T083000
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese History - Submit registration fee for stage p
- lay '無名碑 @ To Chinese History teacher
-DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 08:3
- 0 · 📍 To Chinese History teacher Submit $100 cash or cheque to your Chin
- ese History teacher by 8:30 AM on Oct 14 to secure your spot for the sta
- ge play\; the school will fully sponsor the ticket.  (from Darren's Stud
- y Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-2022-tsa-listening-part-1-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 2022 TSA Listening Part 1
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the TSA listening practice and submit it on Google Classroom.  📅 Date
-  not stated in the source — showing the posted date (2026-10-15). Check 
- the source before relying on it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-2022-tsa-1-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 2022 TSA 聆聽(分卷1)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
-  the 2022 TSA Listening Paper 1 exercise on Google Classroom — this prac
- tice helps prepare for the Territory-wide System Assessment.  📅 Date not
-  stated in the source — showing the posted date (2026-10-15). Check the 
- source before relying on it.  (from Darren's Study Pipeline)
+ te the TSA listening practice and submit it on Google Classroom. | Finis
+ h the 2022 TSA Listening Paper 1 exercise on Google Classroom — this pra
+ ctice helps prepare for the Territory-wide System Assessment.  📅 Date no
+ t stated in the source — showing the posted date (2026-10-15). Check the
+  source before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-photo-composition-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1633,7 +1470,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Coordi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-python-notes-chapter-4-assignme-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1650,7 +1487,7 @@ ATTACH:https://docs.google.com/document/d/1kone0LwB-3__MGAt027eyDhUEUtpcB
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-visual-arts-fruit-sketching-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1663,7 +1500,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Select
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-value-fruit-sketching-in-procre-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261015T025000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1692,7 +1529,7 @@ ATTACH:https://drive.google.com/file/d/1ZABwHLeBLqgwHh1pvLYQzhJbUZulDACg/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-english-gratitude-cards-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1700,12 +1537,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 3E English - Gratitude Cards
 DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
  n any outstanding Gratitude Cards to Ms. Mou tomorrow — this is the fina
- l deadline before she closes the collection.  (from Darren's Study Pipel
- ine)
+ l deadline before she closes the collection. | Hand in your Gratitude Ca
+ rds to Ms. Mou by tomorrow\, the final deadline.  (from Darren's Study P
+ ipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-english-reading-comprehensio-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1713,27 +1551,17 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 3E English - Reading Comprehension 1
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  te Reading Comprehension 1 and submit it to the Subject Representatives 
- by Friday — this reinforces the reading skills covered in class.  (from 
- Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-chinese-extracurricular-reading-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Chinese Extracurricular Reading - 吃馬鈴薯的日子
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te the extracurricular reading 《吃馬鈴薯的日子》 by 劉紹銘 on the Hong Kong Reading
-  City platform. This builds reading comprehension and literary appreciat
- ion.  📅 Date not stated in the source — showing the posted date (2026-10
- -16). Check the source before relying on it.  (from Darren's Study Pipel
- ine)
+ by Friday — this reinforces the reading skills covered in class. | Compl
+ ete the extracurricular reading 《吃馬鈴薯的日子》 by 劉紹銘 on the Hong Kong Readin
+ g City platform. This builds reading comprehension and literary apprecia
+ tion. | Complete Reading Comprehension 1 and submit it to the Subject Re
+ presentatives by next Friday (16 Oct). | Hand in your Reading Comprehens
+ ion 1 to Delton or Reese by tomorrow. This assignment counts toward your
+  term grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-handwriting-practice-pa-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1747,7 +1575,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Finish
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-poem-memorization-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1760,20 +1588,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
  ing on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-english-reading-comprehension-1-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English Reading Comprehension 1
-DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
- te Reading Comprehension 1 and submit it to the Subject Representatives 
- by next Friday (16 Oct).  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-good-work-moduke-3-1-ws-2-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1787,7 +1603,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-grammar-booklet-pages-13-14-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1799,20 +1615,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  w phrasal verbs thoroughly.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-gratitude-cards-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Gratitude Cards
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n your Gratitude Cards to Ms. Mou by tomorrow\, the final deadline.  (fr
- om Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-ih-ces-module-3-1-worksheet-2-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1826,20 +1630,8 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
  ine)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-submit-reading-comprehension-1-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: Submit Reading Comprehension 1
-DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
- n your Reading Comprehension 1 to Delton or Reese by tomorrow. This assi
- gnment counts toward your term grade.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-8-p5-6-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1847,27 +1639,28 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: 中三 中文 第8組 - 字帖 P5-6
 DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
  te character practice pages 5–6 in your workbook to reinforce stroke ord
- er and handwriting.  📅 Date not stated in the source — showing the poste
- d date (2026-10-16). Check the source before relying on it.  (from Darre
- n's Study Pipeline)
+ er and handwriting. | Memorize the assigned poem for recitation in class
+  to improve fluency and confidence.  📅 Date not stated in the source — s
+ howing the posted date (2026-10-16). Check the source before relying on 
+ it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-8-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Homework
 COLOR:#4285F4
 X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 中三 中文 第8組 - 背詩
-DESCRIPTION:Don't leave this to the last minute — chip away early. Memori
- ze the assigned poem for recitation in class to improve fluency and conf
- idence.  📅 Date not stated in the source — showing the posted date (2026
- -10-16). Check the source before relying on it.  (from Darren's Study Pi
- peline)
+SUMMARY:📃 HOMEWORK: 中三 中文 第8組 - 課外閱讀《吃馬鈴薯的日子》
+DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
+ he assigned book 《吃馬鈴薯的日子》 on the e‑Reading platform to fulfill the extr
+ acurricular reading requirement.  📅 Date not stated in the source — show
+ ing the posted date (2026-10-16). Check the source before relying on it.
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-dear-3e-i-know-that-some-groups-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1883,7 +1676,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-extracurricular-reading-2026-10-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261019
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1896,7 +1689,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-bring-listening-practice-paper--2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1910,7 +1703,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-worksheet-1-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1923,7 +1716,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ole-team-executive-committee-ap-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261020T235900
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1936,7 +1729,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. ⏰ 23:5
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-ch1-2-test-correction-2026-10-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1949,7 +1742,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-stream-open-day-helper-sign-up-2026-10-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1967,7 +1760,7 @@ ATTACH:https://forms.gle/guwsUWmErh5kNJDM7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-3e-english-bring-listening-prac-2026-10-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261025
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -1981,7 +1774,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Pack y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-hackathon-team-submission-2026-10-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261025
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2001,7 +1794,7 @@ ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-essay-correction-add-pa-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2015,7 +1808,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Revise
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-writing-worksheet-exerc-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2028,7 +1821,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-listening-practice-pape-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2042,7 +1835,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Engl
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-geography-worksheet-2-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2056,7 +1849,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Marc
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2070,7 +1863,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Revise
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-group-2-geography-project-plot-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2084,7 +1877,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Open t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chemistry-quiz-1-corrections-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2097,7 +1890,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 Goog
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-history-may-fourth-move-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2105,25 +1898,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: Chinese History May Fourth Movement Worksheet
 DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
  he May Fourth Movement special edition and complete the physical workshe
- et distributed in class for submission by 28 October.  (from Darren's St
- udy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-worksheet-2026-10-28
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: 《五四運動特刊》 Worksheet
-DESCRIPTION:Don't leave this to the last minute — chip away early. Read t
- he May Fourth Movement special edition and complete the physical workshe
- et distributed in class\; submit by 28 Oct.  (from Darren's Study Pipeli
- ne)
+ et distributed in class for submission by 28 October. | Read the May Fou
+ rth Movement special edition and complete the physical worksheet distrib
+ uted in class\; submit by 28 Oct.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-chinese-composition-preparation-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2136,7 +1917,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-bring-grammar-book-ipad-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2149,7 +1930,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Pack y
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-english-submit-reading-comprehe-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2157,26 +1938,13 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: English - Submit Reading Comprehension Corrections
 DESCRIPTION:Don't leave this to the last minute — chip away early. Hand i
  n your corrected Reading Comprehension to Reese and Delton tomorrow morn
- ing — late submissions may not be accepted.  (from Darren's Study Pipeli
- ne)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-homework-english-reading-comprehension-c-2026-10-29
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261029
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: English Reading Comprehension Corrections (Unit 7 & 1
- 1)
-DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
-  your Reading Comprehension corrections to Reese and Delton by tomorrow 
- morning — they will be reviewed in class.  (from Darren's Study Pipeline
- )
+ ing — late submissions may not be accepted. | Submit your Reading Compre
+ hension corrections to Reese and Delton by tomorrow morning — they will 
+ be reviewed in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2026-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2196,7 +1964,7 @@ ATTACH:https://drive.google.com/file/d/1MhiPzLoPeT2NKuCc4nHPDlWcGItTTmxg/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-finish-remaining-essay-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2208,7 +1976,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-stream-team-tee-order-form-paym-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2216,27 +1984,16 @@ X-APPLE-CALENDAR-COLOR:#4285F4
 SUMMARY:📃 HOMEWORK: STREAM Team Tee Order Form & Payment @ 5F
 DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 5F F
  ill out the Google Form and hand in payment to the teacher in 5F by Oct 
- 30 — the tee is required for Open Day helpers.  Attached: 📎 Purchase of 
- STREAM Team Tee: https://forms.gle/kQ9Z5rxpRrXj4AM1A  (from Darren's Stu
- dy Pipeline)
+ 30 — the tee is required for Open Day helpers. | Complete the Google For
+ m and pay $65 in person at 5F by Oct 30 to secure your official STREAM T
+ eam tee required for Open Day helpers.  Attached: 📎 Purchase of STREAM T
+ eam Tee: https://forms.gle/kQ9Z5rxpRrXj4AM1A  (from Darren's Study Pipel
+ ine)
 ATTACH:https://forms.gle/kQ9Z5rxpRrXj4AM1A
 END:VEVENT
 BEGIN:VEVENT
-UID:study-homework-stream-team-tee-2026-10-30
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261030
-CATEGORIES:Homework
-COLOR:#4285F4
-X-APPLE-CALENDAR-COLOR:#4285F4
-SUMMARY:📃 HOMEWORK: STREAM Team Tee 訂購 @ 5F
-DESCRIPTION:Don't leave this to the last minute — chip away early. 📍 5F C
- omplete the Google Form and pay $65 in person at 5F by Oct 30 to secure 
- your official STREAM Team tee required for Open Day helpers.  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-homework-8-26-27-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2248,7 +2005,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Comple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-oct-2627-reflections-2026-10-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261031
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2268,7 +2025,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfdK849ACVtifBZy7mVXHeVvC
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-campus-photo-2026-11-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2282,7 +2039,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Submit
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-ih-ces-portfolio-submission-2026-11-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2295,7 +2052,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Prepar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-integrated-humanities-register--2026-11-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261120
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2309,7 +2066,7 @@ DESCRIPTION:Don't leave this to the last minute — chip away early. Regist
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-music-first-term-concert-report-2026-12-01
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261201
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2331,7 +2088,7 @@ ATTACH:https://drive.google.com/file/d/1flgiy4J77L55m0ikY-FChWO-jQGsC4V-/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-2027-03-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20270331T180000
 CATEGORIES:Homework
 COLOR:#4285F4
@@ -2346,7 +2103,7 @@ ATTACH:http://www.hkgbc.org.hk/studentcompetition
 END:VEVENT
 BEGIN:VEVENT
 UID:study-homework-concert-report-2nd-2027-04-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270425
 CATEGORIES:Homework
 COLOR:#4285F4
