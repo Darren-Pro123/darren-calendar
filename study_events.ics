@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-event-steam-team-official-homepage-we-we-2026-07-03
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:Event
 COLOR:#33B679
@@ -24,7 +24,7 @@ ATTACH:https://sites.google.com/spc.edu.hk/spcsteam
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-project-legacy-x-steam-sf-express--2026-07-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260728
 CATEGORIES:Event
 COLOR:#33B679
@@ -41,7 +41,7 @@ ATTACH:https://drive.google.com/file/d/1JRX3i0MO9MTIvHYgW_3uCoUMmkpeGbYF/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-08-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260814T000000
 CATEGORIES:Event
 COLOR:#33B679
@@ -57,7 +57,7 @@ ATTACH:三菱電機綠續創科盃2026|https://www.cuhk-greenstem.com/mitsubishi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-08-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260828T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -75,7 +75,7 @@ ATTACH:https://forms.cloud.microsoft/pages/responsepage.aspx?id=3bukt5xuK
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hackathon-registration-opens-2026-09-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Event
 COLOR:#33B679
@@ -95,7 +95,7 @@ ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-alipayhk-ux-design-competition-reg-2026-09-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Event
 COLOR:#33B679
@@ -114,7 +114,7 @@ ATTACH:https://drive.google.com/file/d/13rdR_b6nwBSFjqE3-OK9NdPJpY7oleyU/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-meeting-room-change--2026-09-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Event
 COLOR:#33B679
@@ -128,7 +128,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Compute
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ar-vr-workshop-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260914T143000
 CATEGORIES:Event
 COLOR:#33B679
@@ -143,7 +143,7 @@ ATTACH:https://forms.gle/kwdqYhFWKKRGC42X9
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-captain-application-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Event
 COLOR:#33B679
@@ -157,7 +157,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Email t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-stream-team-captains-annou-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -171,7 +171,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Check the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-international-day-of-peace-2026-in-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Event
 COLOR:#33B679
@@ -189,7 +189,7 @@ ATTACH:915859bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cantopop-club-elka-lolly-talk-busk-2026-09-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260919T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -205,7 +205,7 @@ ATTACH:10298766bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-lesson-bring-performance-p-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Event
 COLOR:#33B679
@@ -219,7 +219,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Classro
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-class-invitation-2026-2027-f-1-2-e-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Event
 COLOR:#33B679
@@ -235,7 +235,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Ikra Yaqu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-territory-wide-inter-school-nation-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260923T080000
 CATEGORIES:Event
 COLOR:#33B679
@@ -270,7 +270,7 @@ ATTACH:https://emm.edcity.hk/media/1_2qo3akfs
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-robotics-team-regular-meet-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260923T154500
 CATEGORIES:Event
 COLOR:#33B679
@@ -284,7 +284,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hk-phil-national-day-concert-ziton-2026-09-24
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Event
 COLOR:#33B679
@@ -299,7 +299,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hong Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hong-kong-sinfonietta-great-violin-2026-09-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260926
 CATEGORIES:Event
 COLOR:#33B679
@@ -313,7 +313,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hong Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-team-specialist-application-2026-09-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260927T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -327,7 +327,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-1st-stream-team-meeting-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260928T154500
 CATEGORIES:Event
 COLOR:#33B679
@@ -337,25 +337,14 @@ SUMMARY:🎉 EVENT: 2026-27 1st STREAM Team Meeting @ History Room and CSD R
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
   📍 History Room and CSD Room (6/F) Attend the first STREAM Team meeting 
  on September 28 at 3:45 PM in History Room and CSD Room (6/F) — all F.1 
- to F.5 members must attend or email if unable.  (from Darren's Study Pip
- eline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-stream-team-meeting-2026-09-28
-DTSTAMP:20261029T223817
-DTSTART:20260928T154500
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: STREAM Team Meeting @ History Room (6/F)
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:45 ·
-  📍 History Room (6/F) Attend the first STREAM team meeting of the year i
- n the History Room (6/F) at 3:45pm — all F.1 to F.5 members are expected
-  to join for planning and updates.  (from Darren's Study Pipeline)
+ to F.5 members must attend or email if unable. | Attend the first STREAM
+  team meeting of the year in the History Room (6/F) at 3:45pm — all F.1 
+ to F.5 members are expected to join for planning and updates.  (from Dar
+ ren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cad-course-registration-deadline-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260928T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -369,7 +358,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-in-class-presentations-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Event
 COLOR:#33B679
@@ -382,7 +371,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-re-biology-society-x-igem-biotech--2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Event
 COLOR:#33B679
@@ -398,7 +387,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Enrollmen
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-st-paul-s-college-175th-anniversar-2026-10-01
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261001T163000
 CATEGORIES:Event
 COLOR:#33B679
@@ -413,7 +402,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-checkpoint-class-2026-10-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Event
 COLOR:#33B679
@@ -426,7 +415,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Bring you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-chemistry-period-7-8-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Event
 COLOR:#33B679
@@ -438,7 +427,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-briefing-sessi-2026-10-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Event
 COLOR:#33B679
@@ -455,7 +444,7 @@ ATTACH:https://drive.google.com/file/d/15Iuwk1bVWTcUCKU-JfW6F35WxLfeZTDJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ih-hyc-period-9-2026-10-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Event
 COLOR:#33B679
@@ -463,23 +452,13 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: IH (HYC) Period 9
 DESCRIPTION:Something happening on campus. Mark it and show up. Join the 
  Integrated Humanities (HYC) session in Period 9 on Tuesday\, 6 Oct as pe
- r the updated schedule.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-ih-why-period-8-2026-10-06
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261006
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: IH (WHY) Period 8
-DESCRIPTION:Something happening on campus. Mark it and show up. Join the 
- Integrated Humanities (WHY) session in Period 8 on Tuesday\, 6 Oct as pe
- r the updated schedule.  (from Darren's Study Pipeline)
+ r the updated schedule. | Join the Integrated Humanities (WHY) session i
+ n Period 8 on Tuesday\, 6 Oct as per the updated schedule.  (from Darren
+ 's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-biotech-workshop-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261007T153000
 CATEGORIES:Event
 COLOR:#33B679
@@ -492,7 +471,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cityuhk-science-patent-challenge-i-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261007T174500
 CATEGORIES:Event
 COLOR:#33B679
@@ -506,7 +485,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 17:45 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-visual-arts-content-drawing-check-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Event
 COLOR:#33B679
@@ -522,7 +501,7 @@ ATTACH:https://drive.google.com/file/d/1SamwE15UPsuU9OtwYNS7kkGMJq62Sad8/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-filmit-2027-briefing-session-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261008T131500
 CATEGORIES:Event
 COLOR:#33B679
@@ -532,39 +511,16 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
   📍 History Room Attend the Filmit 2027 briefing at the History Room on O
  ctober 8 at 1:15 PM or 3:45 PM to learn how to join the filmmaking compe
  tition celebrating Hong Kong's heritage. Join the Google Classroom with 
- code ymlehyhy for updates.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-filmit-2027-info-session-2026-10-08
-DTSTAMP:20261029T223817
-DTSTART:20261008T131500
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Filmit 2027 Info Session @ History Room
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
-  📍 History Room Attend the Filmit 2027 briefing at the History Room on O
- ct 8 at 1:15 PM or 3:45 PM to learn about the heritage film competition 
- and join the Google Classroom (code: ymlehyhy).  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-filmit-2027-information-session-2026-10-08
-DTSTAMP:20261029T223817
-DTSTART:20261008T131500
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Filmit 2027 Information Session @ History Room
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:15 ·
-  📍 History Room Attend the Filmit 2027 briefing at the History Room on O
- ctober 8 at 1:15 PM (or 3:45 PM) to learn about the film competition and
-  join the Google Classroom with code ymlehyhy.  (from Darren's Study Pip
- eline)
+ code ymlehyhy for updates. | Attend the Filmit 2027 briefing at the Hist
+ ory Room on Oct 8 at 1:15 PM or 3:45 PM to learn about the heritage film
+  competition and join the Google Classroom (code: ymlehyhy). | Attend th
+ e Filmit 2027 briefing at the History Room on October 8 at 1:15 PM (or 3
+ :45 PM) to learn about the film competition and join the Google Classroo
+ m with code ymlehyhy.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cityuhk-science-patent-challenge-o-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261009T174500
 CATEGORIES:Event
 COLOR:#33B679
@@ -582,7 +538,7 @@ ATTACH:College of Science|https://www.cityu.edu.hk/en/csci/local-school-o
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-answer-checking-session-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -594,7 +550,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-chinese-medicine-clinic-visit-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Event
 COLOR:#33B679
@@ -606,7 +562,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Chinese
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Event
 COLOR:#33B679
@@ -619,7 +575,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 中醫診�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-activity-f-1-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261014T130000
 CATEGORIES:Event
 COLOR:#33B679
@@ -628,27 +584,13 @@ SUMMARY:🎉 EVENT: English Ambassadors Activity (F.1) @ 6/F History Room
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:00 ·
   📍 6/F History Room Attend the English Ambassadors activity at the 6/F H
  istory Room at 1:00 PM — participate in the game show or support your pe
- ers as an ambassador.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-spc-national-and-world-history-gam-2026-10-14
-DTSTAMP:20261029T223817
-DTSTART:20261014T130500
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SPC National and World History Game Show - F1 English Am
- bassadors @ 6/F History Room
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
-  📍 6/F History Room Attend the Game Show at 6/F History Room on Wednesda
- y 14 Oct at 1:05 PM — your participation counts toward English Ambassado
- r duties.  Attached: 📎 Google Forms: Sign-in: https://forms.gle/fz3oXKwW
- 4RhcYj5t6  (from Darren's Study Pipeline)
-ATTACH:https://forms.gle/fz3oXKwW4RhcYj5t6
+ ers as an ambassador. | Attend the Game Show at 6/F History Room on Wedn
+ esday 14 Oct at 1:05 PM — your participation counts toward English Ambas
+ sador duties.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-english-ambassadors-activity-f-2-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261015T130000
 CATEGORIES:Event
 COLOR:#33B679
@@ -657,27 +599,13 @@ SUMMARY:🎉 EVENT: English Ambassadors Activity (F.2) @ 6/F History Room
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:00 ·
   📍 6/F History Room Attend the English Ambassadors activity at the 6/F H
  istory Room at 1:00 PM — participate in the game show or support your pe
- ers as an ambassador.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-spc-national-and-world-history-gam-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART:20261015T130500
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: SPC National and World History Game Show - F2 English Am
- bassadors @ 6/F History Room
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:05 ·
-  📍 6/F History Room Attend the Game Show at 6/F History Room on Thursday
-  15 Oct at 1:05 PM — your participation counts toward English Ambassador
-  duties.  Attached: 📎 Google Forms: Sign-in: https://forms.gle/fz3oXKwW4
- RhcYj5t6  (from Darren's Study Pipeline)
-ATTACH:https://forms.gle/fz3oXKwW4RhcYj5t6
+ ers as an ambassador. | Attend the Game Show at 6/F History Room on Thur
+ sday 15 Oct at 1:05 PM — your participation counts toward English Ambass
+ ador duties.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hackathon-online-briefing-workshop-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261015T190000
 CATEGORIES:Event
 COLOR:#33B679
@@ -697,7 +625,7 @@ ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-samsung-solve-for-tomorrow-2026-27-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -705,34 +633,14 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: Samsung Solve for Tomorrow 2026-27 Registration @ Online
 DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Online 
  Form a team of 2-5\, find a teacher advisor\, and register by October 16
- \; team leader must email group details.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-samsung-solve-for-tomorrow-registr-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Samsung Solve for Tomorrow Registration
-DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
- am of 2–5 students (F.1–F.5)\, secure a teacher advisor\, and submit the
-  online concept proposal by October 16. The team leader must email the g
- roup details to the teacher for registration.  Attached: 📎 Solve for Tom
- orrow 2026: Samsung Hong Kong|https://www.samsung.com/hk_en/offer/solvef
- ortomorrow/ 📎 🏆 𝗦𝗧𝗘𝗔𝗠 𝗧𝗲𝗮𝗺 𝗖𝗿𝗼𝘄𝗻𝗲𝗱 𝗦𝗮𝗺𝘀𝘂𝗻𝗴... - St. Paul's College 聖保羅書院
- : Facebook|https://www.facebook.com/spceduhk/posts/pfbid0pzKC5sJqRdkwWQ4
- jLWWRr6brrQAMas6ab7rcN9GJcL66RV4rsqEgAzgAgLmdUMEFl?rdid=8Mz6Ud8cCyJmWLNj
- #  (from Darren's Study Pipeline)
-ATTACH:Samsung Hong Kong|https://www.samsung.com/hk_en/offer/solvefortomo
- rrow/
-ATTACH:Facebook|https://www.facebook.com/spceduhk/posts/pfbid0pzKC5sJqRdk
- wWQ4jLWWRr6brrQAMas6ab7rcN9GJcL66RV4rsqEgAzgAgLmdUMEFl?rdid=8Mz6Ud8cCyJm
- WLNj#
+ \; team leader must email group details. | Form a team of 2–5 students (
+ F.1–F.5)\, secure a teacher advisor\, and submit the online concept prop
+ osal by October 16. The team leader must email the group details to the 
+ teacher for registration.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Event
 COLOR:#33B679
@@ -751,7 +659,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSfun1MrteQ4Pi5_wn3gtw8nQj
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-ole-team-executive-committee-appli-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261016T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -767,7 +675,7 @@ ATTACH:1431284bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-chinese-history-picnic-day-emergen-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Event
 COLOR:#33B679
@@ -775,13 +683,15 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: Chinese History Picnic Day Emergency Contact
 DESCRIPTION:Something happening on campus. Mark it and show up. Save the 
  WhatsApp contact for Picnic Day emergencies. This is for emergency use o
- nly during the class picnic.  📅 Date not stated in the source — showing 
- the posted date (2026-10-17). Check the source before relying on it.  (f
- rom Darren's Study Pipeline)
+ nly during the class picnic. | Attend the stage play about alumnus Yang 
+ Quyun on Oct 17 at 3:00 PM\; wear school uniform and enjoy a fully spons
+ ored cultural experience.  📅 Date not stated in the source — showing the
+  posted date (2026-10-17). Check the source before relying on it.  (from
+  Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-watch-drama-performance-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Event
 COLOR:#33B679
@@ -794,7 +704,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-cityuhk-intellectual-property-work-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261017T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -811,7 +721,7 @@ ATTACH:College of Science|https://www.cityu.edu.hk/en/csci/local-school-o
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-iet-faraday-challenge-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261017T090000
 CATEGORIES:Event
 COLOR:#33B679
@@ -829,7 +739,7 @@ ATTACH:https://drive.google.com/file/d/1wDQAS_O5QliVyanmHdLKf2iVSP0l3DnX/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-3e-stage-play-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261017T150000
 CATEGORIES:Event
 COLOR:#33B679
@@ -845,21 +755,8 @@ ATTACH:https://drive.google.com/file/d/11uHiaYp-5d-MtPW2hmfNUSyA9H5nkgHR/
  view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-event-chinese-history-stage-play-2026-10-17
-DTSTAMP:20261029T223817
-DTSTART:20261017T150000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Chinese History Stage Play 《無名碑》 @ 牛池灣文娛中心文娛廳
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 15:00 ·
-  📍 牛池灣文娛中心文娛廳 Attend the stage play about alumnus Yang Quyun on Oct 17 a
- t 3:00 PM\; wear school uniform and enjoy a fully sponsored cultural exp
- erience.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-event-club-enrollment-deadline-2026-10-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261018T235900
 CATEGORIES:Event
 COLOR:#33B679
@@ -872,7 +769,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 23:59 C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-robotics-team-meeting-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Event
 COLOR:#33B679
@@ -884,7 +781,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Attend th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-psychology-club-photography-therap-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261020T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -893,25 +790,14 @@ SUMMARY:🎉 EVENT: Psychology Club - Photography Therapy Workshop @ CSD
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
   📍 CSD Attend the workshop on October 20 at 4:00 PM in the CSD — bring y
  our iPad or smartphone to explore emotions through photography with expe
- rt Mr. Corum Chu.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-event-psychology-and-photography-therapy-2026-10-20
-DTSTAMP:20261029T223817
-DTSTART:20261020T160000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Psychology and Photography Therapy Workshop @ CSD
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:00 ·
-  📍 CSD Register for the Psychology and Photography Therapy Workshop at C
- SD on October 20 — limited to 20 students\, free entry\, bring your iPad
-  or smartphone to explore emotions through photography.  (from Darren's 
- Study Pipeline)
+ rt Mr. Corum Chu. | Register for the Psychology and Photography Therapy 
+ Workshop at CSD on October 20 — limited to 20 students\, free entry\, br
+ ing your iPad or smartphone to explore emotions through photography.  (f
+ rom Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stream-175th-open-day-helper-sign--2026-10-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:Event
 COLOR:#33B679
@@ -924,7 +810,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Sign up v
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hong-kong-sinfonietta-reinhold-fri-2026-10-24
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261024
 CATEGORIES:Event
 COLOR:#33B679
@@ -939,7 +825,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hong Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-10-24
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261024T093000
 CATEGORIES:Event
 COLOR:#33B679
@@ -955,7 +841,7 @@ ATTACH:https://forms.gle/by9br7P4vet4kimaA
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-casual-dress-day-class-photo-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Event
 COLOR:#33B679
@@ -969,7 +855,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Check the
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-application-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Event
 COLOR:#33B679
@@ -983,7 +869,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-175th-anniversary-story-submission-2026-11-01
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261101
 CATEGORIES:Event
 COLOR:#33B679
@@ -1001,7 +887,7 @@ ATTACH:602521bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-osh-safety-quiz-online-briefing-2026-11-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261104T163000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1010,29 +896,18 @@ SUMMARY:🎉 EVENT: OSH Safety Quiz Online Briefing @ Online
 DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 ·
   📍 Online Attend the online briefing on 4 Nov at 4:30 PM to learn compet
  ition rules and meet your team — the session runs until 5:15 PM and cove
- rs essential safety knowledge.  Attached: 📎 SQ2026_leaflet.pdf: https://
- drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYksdP0a/view?usp=drive
- _web 📎 Enrollment Form for OSH Safety Quiz 2026: https://forms.gle/7Y816
- bjaP6bTGnit6  (from Darren's Study Pipeline)
+ rs essential safety knowledge. | Attend the online briefing at 4:30 pm o
+ n 4 Nov — it explains the quiz format and team rules.  Attached: 📎 SQ202
+ 6_leaflet.pdf: https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkL
+ PYksdP0a/view?usp=drive_web 📎 Enrollment Form for OSH Safety Quiz 2026: 
+ https://forms.gle/7Y816bjaP6bTGnit6  (from Darren's Study Pipeline)
 ATTACH:https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYksdP0a/
  view?usp=drive_web
 ATTACH:https://forms.gle/7Y816bjaP6bTGnit6
 END:VEVENT
 BEGIN:VEVENT
-UID:study-event-occupational-safety-quiz-online-br-2026-11-04
-DTSTAMP:20261029T223817
-DTSTART:20261104T163000
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Occupational Safety Quiz Online Briefing @ Online
-DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 16:30 ·
-  📍 Online Attend the online briefing at 4:30 pm on 4 Nov — it explains t
- he quiz format and team rules.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-event-iet-faraday-challenge-2026-11-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261107T140000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1050,7 +925,7 @@ ATTACH:https://drive.google.com/file/d/1wDQAS_O5QliVyanmHdLKf2iVSP0l3DnX/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-final-fantasy-vii-remake-orchestra-2026-11-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261113
 CATEGORIES:Event
 COLOR:#33B679
@@ -1065,7 +940,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Hong Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-29-briefing-session-1-2026-11-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261113T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1084,7 +959,7 @@ ATTACH:https://stic.newgen.org.hk/en/%E9%97%9C%E6%96%BC%E5%A4%A7%E8%B3%BD
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-hackathon-grand-final-2026-11-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261114
 CATEGORIES:Event
 COLOR:#33B679
@@ -1106,7 +981,7 @@ ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-financial-innovation-competition-r-2026-11-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261120
 CATEGORIES:Event
 COLOR:#33B679
@@ -1119,7 +994,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-29-briefing-session-2-2026-11-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261120T160000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1138,7 +1013,7 @@ ATTACH:https://stic.newgen.org.hk/en/%E9%97%9C%E6%96%BC%E5%A4%A7%E8%B3%BD
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-175-11-21-2026-11-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261121T093000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1151,7 +1026,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-175-11-22-2026-11-22
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261122T093000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1164,7 +1039,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 09:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-d-13-30-17-30-2026-11-22
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261122T133000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1177,7 +1052,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 13:30 ·
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-osh-safety-quiz-preliminary-day-1-2026-12-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261214
 CATEGORIES:Event
 COLOR:#33B679
@@ -1187,32 +1062,19 @@ SUMMARY:🎉 EVENT: OSH Safety Quiz Preliminary Day 1 @ 職安局職安健學院
 DESCRIPTION:Something happening on campus. Mark it and show up. 📍 職安局職安健學
  院 (新界青衣涌美路62號) Compete in the first preliminary round on 14 Dec at the O
  SH Academy in Tsing Yi — arrive early as the quiz tests workplace safety
-  knowledge for the championship.  Attached: 📎 SQ2026_leaflet.pdf: https:
- //drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYksdP0a/view?usp=dri
- ve_web 📎 Enrollment Form for OSH Safety Quiz 2026: https://forms.gle/7Y8
- 16bjaP6bTGnit6  (from Darren's Study Pipeline)
+  knowledge for the championship. | Compete in the preliminary round star
+ ting 14 Dec at the OSH Academy — top teams advance to the final.  Attach
+ ed: 📎 SQ2026_leaflet.pdf: https://drive.google.com/file/d/1ntwczlIJqvpPL
+ EqHovPf6mkLPYksdP0a/view?usp=drive_web 📎 Enrollment Form for OSH Safety 
+ Quiz 2026: https://forms.gle/7Y816bjaP6bTGnit6  (from Darren's Study Pip
+ eline)
 ATTACH:https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYksdP0a/
  view?usp=drive_web
 ATTACH:https://forms.gle/7Y816bjaP6bTGnit6
 END:VEVENT
 BEGIN:VEVENT
-UID:study-event-occupational-safety-quiz-prelimina-2026-12-14
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261214
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Occupational Safety Quiz Preliminary Round @ Occupationa
- l Safety and Health Academy\, 62 Chung Mei Road\, Tsing Yi\, New Territo
- ries
-DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Occupat
- ional Safety and Health Academy\, 62 Chung Mei Road\, Tsing Yi\, New Ter
- ritories Compete in the preliminary round starting 14 Dec at the OSH Aca
- demy — top teams advance to the final.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-event-national-identity-app-design-compe-2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Event
 COLOR:#33B679
@@ -1224,7 +1086,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Register
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-osh-safety-quiz-preliminary-day-2-2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Event
 COLOR:#33B679
@@ -1243,7 +1105,7 @@ ATTACH:https://forms.gle/7Y816bjaP6bTGnit6
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Event
 COLOR:#33B679
@@ -1256,7 +1118,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Form a te
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Event
 COLOR:#33B679
@@ -1269,7 +1131,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Register
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-2026-12-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261231
 CATEGORIES:Event
 COLOR:#33B679
@@ -1281,7 +1143,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Register
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-national-identity-app-design-compe-2027-01-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270104
 CATEGORIES:Event
 COLOR:#33B679
@@ -1293,7 +1155,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2027-01-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270104
 CATEGORIES:Event
 COLOR:#33B679
@@ -1306,7 +1168,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. Submit yo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-student-innovation-competition-202-2027-01-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270108
 CATEGORIES:Event
 COLOR:#33B679
@@ -1325,7 +1187,7 @@ ATTACH:https://drive.google.com/file/d/1ouIoccM4uKsDU7EQZiCKpv_usqTVisIT/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-financial-innovation-competition-p-2027-01-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270116
 CATEGORIES:Event
 COLOR:#33B679
@@ -1340,7 +1202,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 大圍東�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-financial-innovation-competition-f-2027-02-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270220
 CATEGORIES:Event
 COLOR:#33B679
@@ -1353,7 +1215,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 教育局�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-kick-off-ceremo-2027-02-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270227
 CATEGORIES:Event
 COLOR:#33B679
@@ -1373,7 +1235,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-osh-safety-quiz-final-2027-03-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Event
 COLOR:#33B679
@@ -1381,29 +1243,18 @@ X-APPLE-CALENDAR-COLOR:#33B679
 SUMMARY:🎉 EVENT: OSH Safety Quiz Final @ 待定
 DESCRIPTION:Something happening on campus. Mark it and show up. 📍 待定 Prep
  are for the grand final on 2 Mar — the venue will be announced later\, s
- o keep practicing safety scenarios with your team.  Attached: 📎 SQ2026_l
- eaflet.pdf: https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYk
- sdP0a/view?usp=drive_web 📎 Enrollment Form for OSH Safety Quiz 2026: htt
- ps://forms.gle/7Y816bjaP6bTGnit6  (from Darren's Study Pipeline)
+ o keep practicing safety scenarios with your team. | Prepare for the fin
+ al on 2 Mar 2027 — the venue will be announced later.  Attached: 📎 SQ202
+ 6_leaflet.pdf: https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkL
+ PYksdP0a/view?usp=drive_web 📎 Enrollment Form for OSH Safety Quiz 2026: 
+ https://forms.gle/7Y816bjaP6bTGnit6  (from Darren's Study Pipeline)
 ATTACH:https://drive.google.com/file/d/1ntwczlIJqvpPLEqHovPf6mkLPYksdP0a/
  view?usp=drive_web
 ATTACH:https://forms.gle/7Y816bjaP6bTGnit6
 END:VEVENT
 BEGIN:VEVENT
-UID:study-event-occupational-safety-quiz-final-2027-03-02
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20270302
-CATEGORIES:Event
-COLOR:#33B679
-X-APPLE-CALENDAR-COLOR:#33B679
-SUMMARY:🎉 EVENT: Occupational Safety Quiz Final @ TBD
-DESCRIPTION:Something happening on campus. Mark it and show up. 📍 TBD Pre
- pare for the final on 2 Mar 2027 — the venue will be announced later.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-event-stem-e-competition-solution-pitchi-2027-03-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270306
 CATEGORIES:Event
 COLOR:#33B679
@@ -1423,7 +1274,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-meeting-with-ca-2027-03-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270313
 CATEGORIES:Event
 COLOR:#33B679
@@ -1443,7 +1294,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-meeting-with-co-2027-03-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270320
 CATEGORIES:Event
 COLOR:#33B679
@@ -1463,7 +1314,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-road-safety-steam-competition-2026-2027-03-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270331
 CATEGORIES:Event
 COLOR:#33B679
@@ -1479,7 +1330,7 @@ ATTACH:https://roadsafetysteam.hk/about-the-competition/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-2027-2027-03-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20270331T180000
 CATEGORIES:Event
 COLOR:#33B679
@@ -1491,7 +1342,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. ⏰ 18:00 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-national-identity-app-design-compe-2027-04-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270410
 CATEGORIES:Event
 COLOR:#33B679
@@ -1512,7 +1363,7 @@ ATTACH:https://student.edcity.hk/pri/zh-hant/piccks-post/202627/nationali
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-meeting-with-ca-2027-04-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270410
 CATEGORIES:Event
 COLOR:#33B679
@@ -1532,7 +1383,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-2026-27-2027-04-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270410
 CATEGORIES:Event
 COLOR:#33B679
@@ -1545,7 +1396,7 @@ DESCRIPTION:Something happening on campus. Mark it and show up. 📍 Online
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-meeting-with-co-2027-04-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270417
 CATEGORIES:Event
 COLOR:#33B679
@@ -1565,7 +1416,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-i-t-solution-va-2027-04-24
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270424
 CATEGORIES:Event
 COLOR:#33B679
@@ -1585,7 +1436,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-semi-final-2027-05-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270508
 CATEGORIES:Event
 COLOR:#33B679
@@ -1604,7 +1455,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-event-stem-e-competition-finale-prize-pr-2027-05-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270515
 CATEGORIES:Event
 COLOR:#33B679
