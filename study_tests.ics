@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-test-dear-boys-welcome-this-google-class-2026-09-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Test
 COLOR:#EA4335
@@ -22,7 +22,7 @@ DESCRIPTION:Time to prep — here's what you've got. Announcement: Dear boy
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-welcome-everyone-this-google-classr-2026-09-03
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Test
 COLOR:#EA4335
@@ -39,7 +39,7 @@ DESCRIPTION:Time to prep — here's what you've got. Announcement: Welcome
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-written-exam-2026-09-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -53,7 +53,7 @@ DESCRIPTION:Time to prep — here's what you've got. Study for the written
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-09-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:Test
 COLOR:#EA4335
@@ -66,7 +66,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the closed
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-history-map-quiz-2026-09-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Test
 COLOR:#EA4335
@@ -78,7 +78,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the map qu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-1-laws-of-integral-ind-2026-09-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Test
 COLOR:#EA4335
@@ -90,7 +90,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-data-file-for-test-paper-1-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Test
 COLOR:#EA4335
@@ -106,7 +106,7 @@ DESCRIPTION:Time to prep — here's what you've got. 2026-2027 3E English N
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-ah-q-simple-assessment-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
@@ -118,7 +118,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the simple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Test
 COLOR:#EA4335
@@ -130,7 +130,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the simple
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Test
 COLOR:#EA4335
@@ -149,7 +149,7 @@ ATTACH:https://docs.google.com/forms/d/e/1FAIpQLSf1CHDmRGXx2oQvU31navBLVu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-reading-assessment-ah-q-zhe-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -159,23 +159,12 @@ SUMMARY:📝 TEST: Chinese Reading Assessment - Ah Q Zheng Zhuan @ Chinese C
 DESCRIPTION:Time to prep — here's what you've got. 📍 Chinese Classroom Pr
  epare for the closed-book reading assessment on Ah Q Zheng Zhuan tomorro
  w — review the text thoroughly as no materials are allowed during the te
- st.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-q-reading-assessment-2026-10-09
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261009
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 《阿Q正傳》 Reading Assessment
-DESCRIPTION:Time to prep — here's what you've got. Prepare for the readin
- g assessment on 'Ah Q' this Friday — review the text and key themes.  (f
- rom Darren's Study Pipeline)
+ st. | Prepare for the reading assessment on 'Ah Q' this Friday — review 
+ the text and key themes.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Test
 COLOR:#EA4335
@@ -183,23 +172,13 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 《阿Q正傳》閱讀評估
 DESCRIPTION:Time to prep — here's what you've got. Prepare for the closed
  -book Ah Q reading assessment tomorrow — review the text thoroughly as n
- o materials allowed.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-8-26-27-q-2026-10-09
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261009
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 中三 中文 第8組 26-27 - 《阿Q正傳》閱讀評估
-DESCRIPTION:Time to prep — here's what you've got. Review 《阿Q正傳》 for the 
- reading assessment on Friday — the evaluation covers comprehension and a
- nalysis.  (from Darren's Study Pipeline)
+ o materials allowed. | Review 《阿Q正傳》 for the reading assessment on Frida
+ y — the evaluation covers comprehension and analysis.  (from Darren's St
+ udy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-math-chapter-2-test-2026-10-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261010
 CATEGORIES:Test
 COLOR:#EA4335
@@ -212,7 +191,7 @@ DESCRIPTION:Time to prep — here's what you've got. Review Chapter 2 facto
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-programming-team-selection-test-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261012T154500
 CATEGORIES:Test
 COLOR:#EA4335
@@ -225,7 +204,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 15:45 · 📍 CR1 and C
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-q-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261014T132700
 CATEGORIES:Test
 COLOR:#EA4335
@@ -238,7 +217,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 13:27 Review your gr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-26-27-3e-math-chapter-2-test-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -246,25 +225,20 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 26-27 3E Math - Chapter 2 Test
 DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
  r 2 test on simple and compound interest — review formulas for I = Prt a
- nd A = P(1+r/n)^(nt) to solve word problems.  (from Darren's Study Pipel
- ine)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-3e-math-chapter-2-test-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 3E Math - Chapter 2 Test
-DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
- r 2 test on Thursday\, 15 October — it covers percentage change\, succes
- sive change\, and simple/compound interest. Review your notes and practi
- ce problems to ace this assessment.  (from Darren's Study Pipeline)
+ nd A = P(1+r/n)^(nt) to solve word problems. | Prepare for the Chapter 2
+  test on Thursday\, 15 October — it covers percentage change\, successiv
+ e change\, and simple/compound interest. Review your notes and practice 
+ problems to ace this assessment. | Complete the Chapter 2 practice probl
+ ems before 15 Oct — the test covers percentages\, salaries tax\, and com
+ pound interest and is worth a significant portion of your grade. | Revie
+ w Chapter 2 on Percentage this week — the test on Thursday covers transl
+ ating word problems\, successive percentage changes\, and simple/compoun
+ d interest. Practice the snowball effect examples to avoid common traps.
+   (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-history-test-1-p-4-p-39-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -275,35 +249,8 @@ DESCRIPTION:Time to prep — here's what you've got. Study pages 4 to 39 fo
  ions on October 15.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-test-mathematics-chapter-2-test-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Mathematics Chapter 2 Test
-DESCRIPTION:Time to prep — here's what you've got. Complete the Chapter 2
-  practice problems before 15 Oct — the test covers percentages\, salarie
- s tax\, and compound interest and is worth a significant portion of your
-  grade.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-maths-chapter-2-test-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Maths Chapter 2 Test
-DESCRIPTION:Time to prep — here's what you've got. Review Chapter 2 on Pe
- rcentage this week — the test on Thursday covers translating word proble
- ms\, successive percentage changes\, and simple/compound interest. Pract
- ice the snowball effect examples to avoid common traps.  (from Darren's 
- Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-test-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Test
 COLOR:#EA4335
@@ -316,7 +263,7 @@ DESCRIPTION:Time to prep — here's what you've got. 📍 Classroom Revise pag
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-english-final-writing-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
@@ -324,23 +271,12 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 3E English - Final Writing
 DESCRIPTION:Time to prep — here's what you've got. Bring your Writing Boo
  klet to class tomorrow for the final writing assessment — this in-class 
- piece counts toward your term grade.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-final-writing-2026-10-16
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261016
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Final Writing
-DESCRIPTION:Time to prep — here's what you've got. Bring your Writing Boo
- klet to class tomorrow for the final writing exam.  (from Darren's Study
-  Pipeline)
+ piece counts toward your term grade. | Bring your Writing Booklet to cla
+ ss tomorrow for the final writing exam.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-physics-chapter-1-test-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Test
 COLOR:#EA4335
@@ -352,7 +288,7 @@ DESCRIPTION:Time to prep — here's what you've got. Review Chapter 1 conce
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-hku-m-programme-screening-test-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261017T140000
 CATEGORIES:Test
 COLOR:#EA4335
@@ -365,7 +301,7 @@ DESCRIPTION:Time to prep — here's what you've got. ⏰ 14:00 Prepare for th
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-post-reading-assessment-on-2026-10-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261019
 CATEGORIES:Test
 COLOR:#EA4335
@@ -378,7 +314,7 @@ DESCRIPTION:Time to prep — here's what you've got. Read 《吃馬鈴薯的日�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-quiz-on-father-s-flowers-ha-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -386,23 +322,13 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: Chinese - Quiz on Father's Flowers Have Fallen
 DESCRIPTION:Time to prep — here's what you've got. Review the text 'Fathe
  r's Flowers Have Fallen' for tomorrow's Chinese quiz — focus on key pass
- ages and themes to score well.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-chinese-quiz-2026-10-20
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Chinese - 爸爸的花兒落了 Quiz
-DESCRIPTION:Time to prep — here's what you've got. Study for the quiz on 
- 《爸爸的花兒落了》 scheduled for next Tuesday (20 October). Review the text thoro
- ughly to perform well.  (from Darren's Study Pipeline)
+ ages and themes to score well. | Study for the quiz on 《爸爸的花兒落了》 schedul
+ ed for next Tuesday (20 October). Review the text thoroughly to perform 
+ well.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Test
 COLOR:#EA4335
@@ -414,7 +340,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chines
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-first-term-uniform-test-syllabus-2026-10-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261023
 CATEGORIES:Test
 COLOR:#EA4335
@@ -430,7 +356,7 @@ DESCRIPTION:Time to prep — here's what you've got. F.3 26-27 English New
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-music-singing-exam-choose-1-hymn-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
@@ -438,12 +364,14 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: 3E Music - Singing Exam: Choose 1 hymn (S5/S6/S24)
 DESCRIPTION:Time to prep — here's what you've got. Practice your chosen h
  ymn (S5\, S6\, or S24) with a partner — the singing exam starts on 26 Oc
- t and you'll perform the specified verses.  Attached: 📎 S24 Pass It On.m
- p3: https://drive.google.com/file/d/1RgWuyDwjzQGL2jrsfOE7tUAogQbjodJn/vi
- ew?usp=drive_web 📎 S5 Because He Lives.mp3: https://drive.google.com/fil
- e/d/17InF8pOZ23iuIdavY1pJiFH94Z48ySOw/view?usp=drive_web 📎 S6 I Asked th
- e Lord no verse 1.mp3: https://drive.google.com/file/d/1BKB_wJNUFBMcvFJM
- gSVQiySANbz10Xs_/view?usp=drive_web  (from Darren's Study Pipeline)
+ t and you'll perform the specified verses. | Choose one hymn (Because He
+  Lives\, I asked the Lord\, or Pass It On) and practice singing in a pai
+ r for the exam starting 26 October.  Attached: 📎 S24 Pass It On.mp3: htt
+ ps://drive.google.com/file/d/1RgWuyDwjzQGL2jrsfOE7tUAogQbjodJn/view?usp=
+ drive_web 📎 S5 Because He Lives.mp3: https://drive.google.com/file/d/17I
+ nF8pOZ23iuIdavY1pJiFH94Z48ySOw/view?usp=drive_web 📎 S6 I Asked the Lord 
+ no verse 1.mp3: https://drive.google.com/file/d/1BKB_wJNUFBMcvFJMgSVQiyS
+ ANbz10Xs_/view?usp=drive_web  (from Darren's Study Pipeline)
 ATTACH:https://drive.google.com/file/d/1RgWuyDwjzQGL2jrsfOE7tUAogQbjodJn/
  view?usp=drive_web
 ATTACH:https://drive.google.com/file/d/17InF8pOZ23iuIdavY1pJiFH94Z48ySOw/
@@ -453,7 +381,7 @@ ATTACH:https://drive.google.com/file/d/1BKB_wJNUFBMcvFJMgSVQiySANbz10Xs_/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-english-first-term-uniform-test-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
@@ -465,20 +393,8 @@ DESCRIPTION:Time to prep — here's what you've got. Review the uploaded sy
   Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-test-music-singing-exam-2026-10-26
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261026
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Music Singing Exam
-DESCRIPTION:Time to prep — here's what you've got. Choose one hymn (Becau
- se He Lives\, I asked the Lord\, or Pass It On) and practice singing in 
- a pair for the exam starting 26 October.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-test-singing-exam-because-he-lives-i-ask-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Test
 COLOR:#EA4335
@@ -492,7 +408,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare one hymn (Beca
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-listening-paper-data-file-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Test
 COLOR:#EA4335
@@ -504,7 +420,7 @@ DESCRIPTION:Time to prep — here's what you've got. Bring the Data File to
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-8-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Test
 COLOR:#EA4335
@@ -517,7 +433,7 @@ DESCRIPTION:Time to prep — here's what you've got. Review the text 《爸爸�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-in-class-essay-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Test
 COLOR:#EA4335
@@ -529,7 +445,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare your essay out
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-extracurricular-reading-ass-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Test
 COLOR:#EA4335
@@ -542,7 +458,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the short
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Test
 COLOR:#EA4335
@@ -555,7 +471,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the short
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-chinese-extracurricular-reading-ass-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
@@ -567,7 +483,7 @@ DESCRIPTION:Time to prep — here's what you've got. Review 《吃馬鈴薯的�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-ih-ces-module-3-1-revision-test-2026-10-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:Test
 COLOR:#EA4335
@@ -575,23 +491,13 @@ X-APPLE-CALENDAR-COLOR:#EA4335
 SUMMARY:📝 TEST: IH-CES Module 3.1 Revision Test
 DESCRIPTION:Time to prep — here's what you've got. Study the Module 3.1 l
  earning focuses for the IH-CES revision test on Friday — this test count
- s towards your term grade.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-ih-ces-revision-test-2026-10-30
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261030
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: IH-CES Revision Test
-DESCRIPTION:Time to prep — here's what you've got. Study the learning foc
- uses for the revision test on 30 Oct — it covers recent IH-CES topics an
- d is a major part of your grade.  (from Darren's Study Pipeline)
+ s towards your term grade. | Study the learning focuses for the revision
+  test on 30 Oct — it covers recent IH-CES topics and is a major part of 
+ your grade.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-extracurricular-reading-assessment-2026-11-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261102
 CATEGORIES:Test
 COLOR:#EA4335
@@ -603,7 +509,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the readin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-8-26-27-2026-11-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261102
 CATEGORIES:Test
 COLOR:#EA4335
@@ -616,7 +522,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the extrac
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-3e-math-chapter-3-test-2026-11-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
@@ -629,7 +535,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the Chapte
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-first-term-uniform-test-2026-11-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:Test
 COLOR:#EA4335
@@ -642,7 +548,7 @@ DESCRIPTION:Time to prep — here's what you've got. Review the uploaded sy
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-singing-exam-2026-11-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261109
 CATEGORIES:Test
 COLOR:#EA4335
@@ -654,7 +560,7 @@ DESCRIPTION:Time to prep — here's what you've got. Prepare for the singin
 END:VEVENT
 BEGIN:VEVENT
 UID:study-test-instrumental-exam-2027-03-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270302
 CATEGORIES:Test
 COLOR:#EA4335
