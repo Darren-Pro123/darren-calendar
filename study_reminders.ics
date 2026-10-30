@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:study-reminder-my-dear-2b-students-so-glad-to--2026-07-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -21,7 +21,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-society-committee-appli-2026-08-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -37,7 +37,7 @@ ATTACH:https://forms.gle/cuXiwmzKc5X4rkae7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-goodnotes-classroom-2026-08-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -58,7 +58,7 @@ ATTACH:https://drive.google.com/file/d/1n2KRFvJF-j7O-yFYTZ0KGo4zWx085KmY/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-please-stay-in-your-classroom-f-2026-09-01
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -71,7 +71,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-8-gp3-2026-09-01
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260901
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -85,7 +85,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 GP3 (五樓圖�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-https-www-moedict-tw-https-huma-2026-09-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260902
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -100,7 +100,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-assessmen-2026-09-03
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -118,7 +118,7 @@ ATTACH:https://drive.google.com/file/d/164F9wXRtHmUcuiZ82qrXaYnr7vKy7KNu/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-photocopy-fee-payment-2026-09-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -130,7 +130,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring HK$150
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-laboratory-rules-2026-09-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -148,7 +148,7 @@ ATTACH:https://drive.google.com/file/d/19tBpEob8jtsEnDeC9Mdco8k98Tg9SxPH/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-instrumental-class-application--2026-09-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260906
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -166,7 +166,7 @@ ATTACH:https://drive.google.com/file/d/1ubSjRZU1N4EL7omeSCV-LKoItrFdAM65/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-schedule-2026-09-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -183,7 +183,7 @@ ATTACH:https://drive.google.com/file/d/1M_5KWTc1AflHQsn5lpJWdAuNTIIVS67z/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-visual-arts-bring-21-for-va-les-2026-09-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -196,7 +196,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Visual Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-confirm-va-acrylic-order-2026-09-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -212,7 +212,7 @@ ATTACH:https://drive.google.com/file/d/1b_Rk5htj6aclKfqDaPZs63zuzMyLwoHj/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-dear-students-the-document-rela-2026-09-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -233,7 +233,7 @@ ATTACH:https://drive.google.com/file/d/1zENu3d0MbosswV-QyN8SulObS17ybqk3/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-2027-presidential-election-2026-09-11
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -249,7 +249,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Dear Students
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-music-instrumental-class-form-u-2026-09-11
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260911
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -264,7 +264,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. The Google Fo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-speech-festival-enrollm-2026-09-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260913
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -278,7 +278,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Google Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-2027-school-calendar-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -297,7 +297,7 @@ ATTACH:https://drive.google.com/file/d/1bmudc40KEjbmJ_dBA0vrsDWve3WIGLeM/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-2027-teaching-syllabus-and-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -321,7 +321,7 @@ ATTACH:https://drive.google.com/file/d/1zA2mm-pEcpvx1EblM6dkJ2aRDCYnLU02/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-chapter-1-resources-ava-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -347,7 +347,7 @@ ATTACH:https://drive.google.com/file/d/1b601KBzhFPPi7a6N5fBJF_3RZlfWEQhX/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-file-payment-2026-09-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260914
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -361,7 +361,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Pass $3 cash
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-hazard-chemicals-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -377,7 +377,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-27 3E Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-review-text-2-answers-2026-09-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -393,7 +393,7 @@ ATTACH:https://drive.google.com/file/d/1hUvCedRREDVLGjvQj_mmkY0R1W5lYJvo/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-many-of-you-are-now-not-payi-2026-09-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260916
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -409,7 +409,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Many of you a
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-thank-you-cyrus-for-your-nice-w-2026-09-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260916
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -425,7 +425,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-27-stream-team-captains-an-2026-09-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -442,7 +442,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-three-major-effect-models-engli-2026-09-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260917
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -462,7 +462,7 @@ ATTACH:https://drive.google.com/file/d/1PjSBuWXb2vfauv1Ed6Ou8Ox11HMeeEFJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-chemistry-chapter-2-physical-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -477,7 +477,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the ne
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-integrated-humanities-sepa-appl-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -494,7 +494,7 @@ ATTACH:https://drive.google.com/file/d/1Yyldd2cKdiLbxL45xKsvbSkRkTivb3bD/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-pay-3-for-ih-ces-file-2026-09-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260918
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -506,7 +506,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring $3 cash
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-check-google-classroom-for-phys-2026-09-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -520,7 +520,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check Google
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-normal-math-chapter-test-answer-2026-09-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -534,7 +534,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check Google
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-normal-physics-chapter-1-reflec-2026-09-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260919
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -548,7 +548,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-listening-test-paper-1--2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -567,7 +567,7 @@ ATTACH:https://drive.google.com/file/d/1rPKoU94aVHYfFq4oMEK2Bw6pLOleKs8o/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-sepa-badge-2026-09-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260921
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -583,7 +583,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Dear Mr Yu\,
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chapter-2-the-cell-as-the-basic-2026-09-22
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260922
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -610,7 +610,7 @@ ATTACH:https://drive.google.com/file/d/1JVvhFU15vtTA2BV-NYIJnDwjY-trrL7q/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-grammar-book-to-english-c-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -622,7 +622,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Classroom P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-concert-report-examples-2026-09-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260923
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -637,7 +637,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the li
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-hackathon-registration-closes-2026-09-24
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260924
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -657,7 +657,7 @@ ATTACH:https://drive.google.com/file/d/1cQ1nmDI5PUW_ClXOREY9WeE_p-9B8daz/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-join-2026-27-robotics-team-clas-2026-09-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260925
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -672,7 +672,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Google Clas
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-lab-rules-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -690,7 +690,7 @@ ATTACH:https://drive.google.com/file/d/1hsLHrlShnuY75fjDaaH0YawrbZjz0NCe/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-dear-english-ambassadors-thank--2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -701,27 +701,15 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
   Dear English Ambassadors\, Thank you so much to all the boys who signed
   up to represent their sets as English Ambassadors this year. We are thr
  illed to see your enthusiasm and dedication to joining English activitie
- s organized by the English Society. We will be holdi  📅 Date not stated 
- in the source — showing the posted date (2026-09-28). Check the source b
- efore relying on it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-english-ambassadors-briefing-2026-09-28
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260928
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: English Ambassadors Briefing
-DESCRIPTION:A regular reminder worth keeping on your radar. Watch for the
-  next Classroom announcement with the exact date\, time\, and location f
- or the English Ambassadors briefing session next week.  📅 Date not state
- d in the source — showing the posted date (2026-09-28). Check the source
-  before relying on it.  (from Darren's Study Pipeline)
+ s organized by the English Society. We will be holdi | Watch for the nex
+ t Classroom announcement with the exact date\, time\, and location for t
+ he English Ambassadors briefing session next week.  📅 Date not stated in
+  the source — showing the posted date (2026-09-28). Check the source bef
+ ore relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-geography-missing-assignment-ex-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -735,7 +723,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Email Mr. Yu
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-geography-relief-features-expla-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -750,7 +738,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Email the tea
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-geography-term-work-grouping-fo-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -779,7 +767,7 @@ ATTACH:https://drive.google.com/file/d/1AGsXrRsYwcDdQNgADzwcwtByFjvqqBov/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-normal-stream-team-annual-meeti-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -795,7 +783,7 @@ ATTACH:https://drive.google.com/file/d/1SL7s_s3DkApAI9oafYYfOe3HiPuf2PeL/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-team-personal-info-colle-2026-09-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260928
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -803,29 +791,16 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: STREAM Team Personal Info Collection
 DESCRIPTION:A regular reminder worth keeping on your radar. Submit your p
  ersonal information via the Google Form link — the team needs it for upc
- oming activities.  Attached: 📎 STREAM Team Personal Info Collection: htt
- ps://forms.gle/gzAo4nDkNpcYA88TA  📅 Date not stated in the source — show
- ing the posted date (2026-09-28). Check the source before relying on it.
-   (from Darren's Study Pipeline)
+ oming activities. | Fill out the personal information collection form vi
+ a the link in the STREAM Team Classroom announcement.  Attached: 📎 STREA
+ M Team Personal Info Collection: https://forms.gle/gzAo4nDkNpcYA88TA  📅 
+ Date not stated in the source — showing the posted date (2026-09-28). Ch
+ eck the source before relying on it.  (from Darren's Study Pipeline)
 ATTACH:https://forms.gle/gzAo4nDkNpcYA88TA
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-stream-team-personal-informatio-2026-09-28
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260928
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: STREAM Team Personal Information
-DESCRIPTION:A regular reminder worth keeping on your radar. Fill out the 
- personal information collection form via the link in the STREAM Team Cla
- ssroom announcement.  📅 Date not stated in the source — showing the post
- ed date (2026-09-28). Check the source before relying on it.  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-as-i-will-be-away-from-school-n-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -842,7 +817,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-i-see-one-group-including-kwok--2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -859,20 +834,23 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-math-surveys-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
 X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Math Surveys
 DESCRIPTION:A regular reminder worth keeping on your radar. Complete the 
- two surveys linked in the Classroom announcement for 3E Math.  📅 Date no
- t stated in the source — showing the posted date (2026-09-29). Check the
-  source before relying on it.  (from Darren's Study Pipeline)
+ two surveys linked in the Classroom announcement for 3E Math. | Announce
+ ment: https://survey.jcgoai.com/accounts/login/?next=/survey/SV_7WGYCLrt
+ WktL2bs/ https://survey.jcgoai.com/accounts/login/?next=/survey/SV_9Nr1D
+ o7PUcGMfu6/  📅 Date not stated in the source — showing the posted date (
+ 2026-09-29). Check the source before relying on it.  (from Darren's Stud
+ y Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-robotics-team-project-list-2026-09-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -885,24 +863,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check the new
  en's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-https-survey-jcgoai-com-account-2026-09-29
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260929
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: https://survey.jcgoai.com/accounts/login/?next=/surve
- y/SV_7WGYCLrtWktL2bs/ https://survey.jcgoai.co
-DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
-  https://survey.jcgoai.com/accounts/login/?next=/survey/SV_7WGYCLrtWktL2
- bs/ https://survey.jcgoai.com/accounts/login/?next=/survey/SV_9Nr1Do7PUc
- GMfu6/  📅 Date not stated in the source — showing the posted date (2026-
- 09-29). Check the source before relying on it.  (from Darren's Study Pip
- eline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-attached-is-the-presentation-sl-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -918,7 +880,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-27 STREA
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ipad-to-chinese-class-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -926,23 +888,12 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Bring iPad to Chinese Class
 DESCRIPTION:A regular reminder worth keeping on your radar. Bring your iP
  ad to today's Chinese lesson so you can take part in the digital activit
- ies.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-bring-ipad-to-class-today-2026-09-30
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20260930
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Bring iPad to class today @ Classroom
-DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Classroom B
- ring your iPad to today's Chinese class for the lesson activities.  (fro
- m Darren's Study Pipeline)
+ ies. | Bring your iPad to today's Chinese class for the lesson activitie
+ s.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-normal-biology-suggested-answer-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -965,7 +916,7 @@ ATTACH:https://drive.google.com/file/d/1BYlcXvPH0R_L33IEpTfeLTo-X1MwXM01/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-reply-for-hku-m-programme-appli-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -978,7 +929,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Email Mr. Wan
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-reply-to-m-programme-email-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -990,7 +941,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Reply to Mr.
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-s-a-affiliated-clubs-registrati-2026-09-30
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20260930T175900
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1005,7 +956,7 @@ ATTACH:252234bytes
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chapter-1-test-parent-signature-2026-10-02
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261002
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1019,7 +970,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Ask your pare
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chapter-1-test-parent-signature-2026-10-03
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261003
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1032,7 +983,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Get your pare
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-chemistry-textbook-and-no-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1041,12 +992,13 @@ SUMMARY:📌 REMINDER: Bring Chemistry textbook and notes for Chemistry less
  on (periods 7-8) @ Chemistry classroom
 DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Chemistry c
  lassroom Bring your Chemistry textbook and notes to the lesson on 5 Oct 
- during periods 7-8 — the teacher will review them in class.  (from Darre
- n's Study Pipeline)
+ during periods 7-8 — the teacher will review them in class. | Pack your 
+ IH‑CES textbook tonight and bring it to class on Oct 6 — the lesson swap
+  with Ms. Kwok requires it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-grammar-book-grammar-book-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1059,20 +1011,8 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 English cla
  ed pages in class.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-bring-ih-ces-textbook-2026-10-05
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261005
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Bring IH-CES Textbook
-DESCRIPTION:A regular reminder worth keeping on your radar. Pack your IH‑
- CES textbook tonight and bring it to class on Oct 6 — the lesson swap wi
- th Ms. Kwok requires it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-chemistry-lesson-preparation-2026-10-05
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1084,7 +1024,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ih-ces-textbook-2026-10-06
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261006
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1096,7 +1036,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Remember to b
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-english-bring-writing-bookle-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1108,7 +1048,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Wri
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ipad-to-chinese-class-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1121,7 +1061,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Chinese Cla
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-register-for-cityuhk-science-pa-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1138,7 +1078,7 @@ ATTACH:College of Science|https://www.cityu.edu.hk/en/csci/local-school-o
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-07
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261007
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1150,7 +1090,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Remember to b
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ipad-to-chinese-class-2026-10-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261008
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1158,39 +1098,15 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Bring iPad to Chinese Class @ Chinese Classroom
 DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Chinese Cla
  ssroom Bring your iPad to tomorrow's Chinese class — it's needed for the
-  in-class activity.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-chinese-classroom-reading-2-2026-10-08
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261008
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Chinese - Classroom Reading 2
-DESCRIPTION:A regular reminder worth keeping on your radar. Check Google 
- Classroom for the Classroom Reading 2 materials — complete the reading b
- efore the next Chinese lesson.  📅 Date not stated in the source — showin
- g the posted date (2026-10-08). Check the source before relying on it.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-ipad-2026-10-08
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261008
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 以後上課請帶備iPad
-DESCRIPTION:A regular reminder worth keeping on your radar. Remember to b
- ring your iPad to all upcoming Chinese classes for digital learning acti
- vities.  📅 Date not stated in the source — showing the posted date (2026
- -10-08). Check the source before relying on it.  (from Darren's Study Pi
- peline)
+  in-class activity. | Check Google Classroom for the Classroom Reading 2
+  materials — complete the reading before the next Chinese lesson. | Reme
+ mber to bring your iPad to all upcoming Chinese classes for digital lear
+ ning activities. | Bring your iPad to the next Chinese class for class a
+ ctivities and digital materials.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-writing-booklet-for-engli-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1203,7 +1119,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Wr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stem-e-competition-registration-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1223,7 +1139,7 @@ ATTACH:https://forms.gle/DgiW7hyYNVUoaLqh7
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-register-for-cityuhk-info-sessi-2026-10-09
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261009T235900
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1237,7 +1153,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 23:59 · 📍 O
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-register-for-cityuhk-ip-worksho-2026-10-10
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261010T235900
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1251,7 +1167,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 23:59 · 📍 O
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-register-for-cityuhk-science-pa-2026-10-11
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261011
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1268,7 +1184,7 @@ ATTACH:College of Science|https://www.cityu.edu.hk/en/csci/local-school-o
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-8-26-27-ipad-2026-10-11
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261011
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1281,7 +1197,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 記得帶 iPad 返�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-3e-english-bring-grammar-bookle-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1289,24 +1205,13 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: 3E English - Bring Grammar Booklet and Grammar Book
 DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Gr
  ammar Booklet and Grammar Book to Monday's class — you will need them fo
- r the grammar review activity.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-bring-grammar-booklet-and-gramm-2026-10-12
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Bring Grammar Booklet and Grammar Book to English Cla
- ss
-DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Gr
- ammar Booklet and Grammar Book to English class next Monday (12 Oct).  (
- from Darren's Study Pipeline)
+ r the grammar review activity. | Bring your Grammar Booklet and Grammar 
+ Book to English class next Monday (12 Oct).  (from Darren's Study Pipeli
+ ne)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ipad-to-chinese-class-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1314,13 +1219,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Bring iPad to Chinese Class
 DESCRIPTION:A regular reminder worth keeping on your radar. Bring your iP
  ad to the next Chinese lesson — the teacher will use it for in-class act
- ivities.  📅 Date not stated in the source — showing the posted date (202
- 6-10-12). Check the source before relying on it.  (from Darren's Study P
- ipeline)
+ ivities. | Bring your iPad to class — you’ll need it for the lesson acti
+ vities.  📅 Date not stated in the source — showing the posted date (2026
+ -10-12). Check the source before relying on it.  (from Darren's Study Pi
+ peline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-correct-exercise-2-q7-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1328,27 +1234,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Chemistry - Correct Exercise 2 Q7a
 DESCRIPTION:A regular reminder worth keeping on your radar. Remove the ph
  rase 'at room conditions' from your answer for Q7a in Exercise 2 as per 
- teacher's feedback.  📅 Date not stated in the source — showing the poste
- d date (2026-10-12). Check the source before relying on it.  (from Darre
- n's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-chemistry-review-returned-exerc-2026-10-12
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Chemistry - Review returned Exercise 2 corr
-DESCRIPTION:A regular reminder worth keeping on your radar. Check the ret
- urned Exercise 2 corrections on Classroom and note any further improveme
- nts needed.  📅 Date not stated in the source — showing the posted date (
- 2026-10-12). Check the source before relying on it.  (from Darren's Stud
- y Pipeline)
+ teacher's feedback. | Check the returned Exercise 2 corrections on Class
+ room and note any further improvements needed.  📅 Date not stated in the
+  source — showing the posted date (2026-10-12). Check the source before 
+ relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-osh-safety-quiz-enrollment-dead-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1367,7 +1260,7 @@ ATTACH:https://forms.gle/7Y816bjaP6bTGnit6
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-physics-hw1-solutions-available-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1381,7 +1274,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the HW
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-re-urgent-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1397,7 +1290,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. NO On Mon\, 1
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-register-for-occupational-safet-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1409,7 +1302,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Fill in the G
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-review-chapter-4-chemistry-mate-2026-10-12
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261012
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1417,40 +1310,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Review Chapter 4 Chemistry Materials
 DESCRIPTION:A regular reminder worth keeping on your radar. New material 
  for Chapter 4 (Elements\, Compounds and Mixtures) has been posted — revi
- ew it before the next lesson.  📅 Date not stated in the source — showing
-  the posted date (2026-10-12). Check the source before relying on it.  (
- from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-review-chemistry-chapter-4-mate-2026-10-12
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Review Chemistry Chapter 4 Material
-DESCRIPTION:A regular reminder worth keeping on your radar. Review the ne
- w Chapter 4 materials on Elements\, Compounds and Mixtures posted on Goo
- gle Classroom.  📅 Date not stated in the source — showing the posted dat
- e (2026-10-12). Check the source before relying on it.  (from Darren's S
- tudy Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-ipad-2026-10-12
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261012
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 帶 iPad 上堂
-DESCRIPTION:A regular reminder worth keeping on your radar. Bring your iP
- ad to class — you’ll need it for the lesson activities.  📅 Date not stat
- ed in the source — showing the posted date (2026-10-12). Check the sourc
- e before relying on it.  (from Darren's Study Pipeline)
+ ew it before the next lesson. | Review the new Chapter 4 materials on El
+ ements\, Compounds and Mixtures posted on Google Classroom.  📅 Date not 
+ stated in the source — showing the posted date (2026-10-12). Check the s
+ ource before relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-biology-review-chapter-4-enzyme-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1477,7 +1344,7 @@ ATTACH:https://drive.google.com/file/d/14KFiIT-z3Ql5A6mSbD18njIm529D0g4G/
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-bring-ipad-to-class-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1491,7 +1358,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your iP
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-visit-hk-reading-city-e-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1505,7 +1372,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Explore the H
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-email-absence-reason-for-englis-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1513,12 +1380,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Email Absence Reason for English Ambassadors Activity
 DESCRIPTION:A regular reminder worth keeping on your radar. Email Ms. Moh
  ammad or Gordon Tung by today if you cannot attend the English Ambassado
- rs activity — provide a valid reason to excuse your absence.  (from Darr
- en's Study Pipeline)
+ rs activity — provide a valid reason to excuse your absence. | Email Ms 
+ Mohammad or Gordon Tung by today if you cannot attend the English Ambass
+ adors activity — valid reason required for absence.  (from Darren's Stud
+ y Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-bring-listening-booklet-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1532,7 +1401,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 English cla
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-ambassadors-check-name--2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1540,42 +1409,17 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: English Ambassadors - Check Name List
 DESCRIPTION:A regular reminder worth keeping on your radar. Check the Eng
  lish Ambassadors name list on Google Classroom — confirm your role and r
- esponsibilities.  📅 Date not stated in the source — showing the posted d
- ate (2026-10-13). Check the source before relying on it.  (from Darren's
-  Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-english-ambassadors-email-if-ab-2026-10-13
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: English Ambassadors - Email if Absent
-DESCRIPTION:A regular reminder worth keeping on your radar. Email Ms Moha
- mmad or Gordon Tung by today if you cannot attend the English Ambassador
- s activity — valid reason required for absence.  (from Darren's Study Pi
- peline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-f-1-f-2-english-ambassadors-nam-2026-10-13
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: F.1 & F.2 English Ambassadors Name List
-DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 F.1
- -2 English Ambassadors New material F.1 & F.2 English Ambassadors Name L
- ist See details Posted on 8:47 AM\, Oct 13 (HKT) by Ikra Yaqub MOHAMMAD 
- Google LLC 1600 Amphitheatre Parkway\, Mountain View\, CA 94043 USA This
-  email was sent to you because you indicated that you'  📅 Date not state
- d in the source — showing the posted date (2026-10-13). Check the source
-  before relying on it.  (from Darren's Study Pipeline)
+ esponsibilities. | 2026-2027 F.1-2 English Ambassadors New material F.1 
+ & F.2 English Ambassadors Name List See details Posted on 8:47 AM\, Oct 
+ 13 (HKT) by Ikra Yaqub MOHAMMAD Google LLC 1600 Amphitheatre Parkway\, M
+ ountain View\, CA 94043 USA This email was sent to you because you indic
+ ated that you'  📅 Date not stated in the source — showing the posted dat
+ e (2026-10-13). Check the source before relying on it.  (from Darren's S
+ tudy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-hong-kong-education-city-e-read-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1589,7 +1433,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Explore the e
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-scmp-cheque-submission-deadline-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1597,24 +1441,16 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: SCMP Cheque Submission Deadline
 DESCRIPTION:A regular reminder worth keeping on your radar. Submit your S
  CMP subscription cheque to Ms. Mou in person by the deadline — late subm
- issions cannot be accepted.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-scmp-2026-10-13
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: SCMP 訂閱支票繳交
-DESCRIPTION:A regular reminder worth keeping on your radar. Write a chequ
- e for $250 payable to the school\, add your name\, class\, class number\
- , and teacher initials (HKM) on the back\, and hand it to Ms. Mou by 13 
- Oct.  (from Darren's Study Pipeline)
+ issions cannot be accepted. | Write a cheque for $250 payable to the sch
+ ool\, add your name\, class\, class number\, and teacher initials (HKM) 
+ on the back\, and hand it to Ms. Mou by 13 Oct. | Hand in a $250 cheque 
+ payable to the school with your name\, class\, class number\, and teache
+ r initials by 13 Oct — late submissions will not be accepted.  (from Dar
+ ren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-stream-competition-enrolment-re-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1632,21 +1468,8 @@ ATTACH:https://forms.gle/mUrEQKbTVw5HWFj1A
 ATTACH:https://forms.gle/guwsUWmErh5kNJDM7
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-submit-scmp-subscription-cheque-2026-10-13
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261013
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Submit SCMP Subscription Cheque
-DESCRIPTION:A regular reminder worth keeping on your radar. Hand in a $25
- 0 cheque payable to the school with your name\, class\, class number\, a
- nd teacher initials by 13 Oct — late submissions will not be accepted.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-visit-chinese-medicine-clinic-a-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1660,7 +1483,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Chinese med
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-e-https-www-hkreadingcity-net-e-2026-10-13
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1674,7 +1497,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ask-robot-teacher-about-next-we-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1686,7 +1509,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Ask your Robo
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-writing-booklets-test-pap-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1695,26 +1518,14 @@ SUMMARY:📌 REMINDER: Bring Writing Booklets & Test Paper 1 to English Clas
  s
 DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Wr
  iting Booklets instead of Listening book and your marked Test Paper 1 sc
- ripts to tomorrow's English class for review and discussion.  (from Darr
- en's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-english-bring-writing-booklets--2026-10-14
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261014
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: English - Bring Writing Booklets and Test Paper 1 scr
- ipts
-DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Wri
- ting Booklets and marked Test Paper 1 scripts for tomorrow's English cla
- ss — Ms. Mou will review test observations before starting Practice Pape
- r 1.  (from Darren's Study Pipeline)
+ ripts to tomorrow's English class for review and discussion. | Pack your
+  Writing Booklets and marked Test Paper 1 scripts for tomorrow's English
+  class — Ms. Mou will review test observations before starting Practice 
+ Paper 1.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-re-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261014
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1727,7 +1538,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 👍 Lai Yin Dar
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chinese-history-stage-play-regi-2026-10-14
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261014T083000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1742,7 +1553,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 08:30 · 📍 S
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-ipad-to-class-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1756,7 +1567,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your iP
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-workbook-payment-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1764,12 +1575,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Chemistry Workbook Payment
 DESCRIPTION:A regular reminder worth keeping on your radar. Give the clas
  s treasurer $50 tomorrow for the F.3 Chemistry Experiment Workbook — the
-  treasurer will collect $49.4 per student for 35 students.  (from Darren
- 's Study Pipeline)
+  treasurer will collect $49.4 per student for 35 students. | Pay $50 to 
+ the class treasurer tomorrow for the Chemistry Experiment Workbook — the
+  treasurer will consolidate $1\,729 for the teacher.  (from Darren's Stu
+ dy Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-downgrade-to-spike-legacy-compa-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1779,41 +1592,15 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-27 Robot
  ics Team New announcement Downgrade to SPIKE Legacy-Compatible Version (
  Sumo Robots Group) The two hubs used by the Sumo Robots Group have been 
  successfully downgraded to the SPIKE Legacy-compatible version and are n
- ow running Hub OS 4.0.0.7. You can now continue wor  📅 Date not stated i
- n the source — showing the posted date (2026-10-15). Check the source be
- fore relying on it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-pay-chemistry-experiment-workbo-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Pay Chemistry Experiment Workbook Fee @ Give to treas
- urer
-DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Give to tre
- asurer Pay $50 to the class treasurer tomorrow for the Chemistry Experim
- ent Workbook — the treasurer will consolidate $1\,729 for the teacher.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-spike-hub-downgrade-complete-2026-10-15
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261015
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: SPIKE Hub Downgrade Complete
-DESCRIPTION:A regular reminder worth keeping on your radar. Check the Sum
- o Robots hubs — they've been downgraded to SPIKE Legacy-compatible OS 4.
- 0.0.7 so you can resume remote controller programming.  📅 Date not state
- d in the source — showing the posted date (2026-10-15). Check the source
-  before relying on it.  (from Darren's Study Pipeline)
+ ow running Hub OS 4.0.0.7. You can now continue wor | Check the Sumo Rob
+ ots hubs — they've been downgraded to SPIKE Legacy-compatible OS 4.0.0.7
+  so you can resume remote controller programming.  📅 Date not stated in 
+ the source — showing the posted date (2026-10-15). Check the source befo
+ re relying on it.  (from Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-submit-missing-module-3-1-ws-2-2026-10-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1827,7 +1614,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Check if you
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-writing-booklet-for-final-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1840,7 +1627,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Wri
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-good-work-moduke-3-1-ws-2-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1856,7 +1643,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-module-3-1-ws-2-still-missing-2-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1872,7 +1659,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-submit-gratitude-cards-2026-10-16
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261016
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1884,7 +1671,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Turn in your
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-geography-term-work-google-eart-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1900,7 +1687,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Submit both t
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-picnic-day-whatsapp-contact-2026-10-17
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261017
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1916,7 +1703,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 3E 中國歷史 (202
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-apply-for-psychology-and-photog-2026-10-18
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261018T200000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1930,7 +1717,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 20:00 · 📍 G
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-regarding-spc-igem-team-2026-hu-2026-10-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261019
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1946,7 +1733,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Dear schoolma
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-psychology-club-workshop-applic-2026-10-19
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART:20261019T200000
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1959,7 +1746,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 20:00 Submi
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-music-festival-fee-cheque-submi-2026-10-20
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261020
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1967,26 +1754,14 @@ X-APPLE-CALENDAR-COLOR:#9E9E9E
 SUMMARY:📌 REMINDER: Music Festival Fee Cheque Submission @ 3/F staff room
 DESCRIPTION:A regular reminder worth keeping on your radar. 📍 3/F staff r
  oom Bring your Music Festival fee cheque to Mr. Koo in the 3/F staff roo
- m during 1st recess on 20 Oct — late submissions will not be accepted.  
- (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-submit-music-festival-fee-chequ-2026-10-20
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Submit Music Festival Fee Cheque (Music) @ 3/F staff 
- room
-DESCRIPTION:A regular reminder worth keeping on your radar. 📍 3/F staff r
- oom Submit your Music Festival fee cheque to Mr. Koo in the 3/F staff ro
- om during 1st recess tomorrow — late submissions will not be accepted.  
- (from Darren's Study Pipeline)
+ m during 1st recess on 20 Oct — late submissions will not be accepted. |
+  Submit your Music Festival fee cheque to Mr. Koo in the 3/F staff room 
+ during 1st recess tomorrow — late submissions will not be accepted.  (fr
+ om Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-175th-open-day-helper-sign-up-2026-10-21
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -1999,7 +1774,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Sign up to he
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-picnic-day-photos-2026-10-22
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261022
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2015,7 +1790,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 3E 中國歷史 (202
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-re-175-4d-2026-10-23
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261023
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2031,7 +1806,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 謝謝！詳情容�
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-school-announcement-2026-10-25
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261025
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2045,7 +1820,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Open the orig
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chapter-5-atoms-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2061,7 +1836,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-27 3E Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-dear-3e-the-leader-of-each-grou-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2077,7 +1852,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-listening-practice-pape-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2090,7 +1865,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Lis
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-geography-group-leaders-update--2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2104,7 +1879,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Group leaders
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-https-docs-google-com-forms-d-e-2026-10-26
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2113,13 +1888,17 @@ SUMMARY:📌 REMINDER: https://docs.google.com/forms/d/e/1FAIpQLSdQuluMnejea
  hje_pwbDVycIUQMjIRpf9vYQxFc1SmM9KCDAQ/viewform
 DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
   https://docs.google.com/forms/d/e/1FAIpQLSdQuluMnejeahje_pwbDVycIUQMjIR
- pf9vYQxFc1SmM9KCDAQ/viewform  📅 Date not stated in the source — showing 
- the posted date (2026-10-26). Check the source before relying on it.  (f
- rom Darren's Study Pipeline)
+ pf9vYQxFc1SmM9KCDAQ/viewform | 2026-2027 3E Integrated Humanities Histor
+ y New announcement https://docs.google.com/forms/d/e/1FAIpQLSdQuluMnejea
+ hje_pwbDVycIUQMjIRpf9vYQxFc1SmM9KCDAQ/viewform See details Posted on 1:0
+ 3 PM\, Oct 26 (HKT) by Wai Sze WONG Google LLC 1600 Amphitheatre Parkway
+ \, Mountain View\, CA 9404  📅 Date not stated in the source — showing th
+ e posted date (2026-10-26). Check the source before relying on it.  (fro
+ m Darren's Study Pipeline)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-chemistry-bring-book-1a-and-1b-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2131,7 +1910,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Che
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-english-bring-data-file-for-lis-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2144,7 +1923,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Da
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-group-2-geography-project-plot-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2160,7 +1939,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Thx On Tue\,
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-ih-ces-correction-format-guidel-2026-10-27
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261027
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2169,28 +1948,16 @@ SUMMARY:📌 REMINDER: IH-CES - Correction Format Guidelines
 DESCRIPTION:A regular reminder worth keeping on your radar. Follow the co
  rrection format for dictations (copy answer 5 times) and worksheets (add
   missing parts) using a different coloured pen — this ensures consistent
-  marking standards across all assignments.  📅 Date not stated in the sou
- rce — showing the posted date (2026-10-27). Check the source before rely
- ing on it.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-ih-ces-follow-correction-format-2026-10-27
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261027
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: IH-CES - Follow Correction Format
-DESCRIPTION:A regular reminder worth keeping on your radar. Use a differe
- nt coloured pen for corrections\, copy dictation answers five times\, an
- d note 'P.T.O.' if using the back page — Ms. Chan requires this format f
- or all assignments.  📅 Date not stated in the source — showing the poste
- d date (2026-10-27). Check the source before relying on it.  (from Darre
- n's Study Pipeline)
+  marking standards across all assignments. | Use a different coloured pe
+ n for corrections\, copy dictation answers five times\, and note 'P.T.O.
+ ' if using the back page — Ms. Chan requires this format for all assignm
+ ents.  📅 Date not stated in the source — showing the posted date (2026-1
+ 0-27). Check the source before relying on it.  (from Darren's Study Pipe
+ line)
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-dear-students-attached-please-f-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2201,45 +1968,21 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Announcement:
   Dear students\, Attached please find the file related to the learning f
  ocuses of Module 3.2. Best regards\, Ms. Chan 📎 Attachments: - File: For
  m 3 CES M3.2 Teaching and learning focuses.pdf (https://drive.google.com
- /file/d/1MFOdyuIvJuOqIcsCqCgDfMQvFZS1ixKy/view?usp=dr  Attached: 📎 Form 
- 3 CES M3.2 Teaching and learning focuses.pdf: https://drive.google.com/f
- ile/d/1MFOdyuIvJuOqIcsCqCgDfMQvFZS1ixKy/view?usp=drive_web  📅 Date not s
- tated in the source — showing the posted date (2026-10-28). Check the so
- urce before relying on it.  (from Darren's Study Pipeline)
+ /file/d/1MFOdyuIvJuOqIcsCqCgDfMQvFZS1ixKy/view?usp=dr | Please find atta
+ ched…" 2026-2027 Form 3 Integrated Humanities New announcement Dear stud
+ ents\, Please find attached the History learning materials covering the 
+ First and Second World Wars. Best regards\, Ms Cheng See details Posted 
+ on 10:49 AM\, Oct 28 (HKT) by Nga Tung CHENG Google  Attached: 📎 Form 3 
+ CES M3.2 Teaching and learning focuses.pdf: https://drive.google.com/fil
+ e/d/1MFOdyuIvJuOqIcsCqCgDfMQvFZS1ixKy/view?usp=drive_web  📅 Date not sta
+ ted in the source — showing the posted date (2026-10-28). Check the sour
+ ce before relying on it.  (from Darren's Study Pipeline)
 ATTACH:https://drive.google.com/file/d/1MFOdyuIvJuOqIcsCqCgDfMQvFZS1ixKy/
  view?usp=drive_web
 END:VEVENT
 BEGIN:VEVENT
-UID:study-reminder-dear-students-please-find-attac-2026-10-28
-DTSTAMP:20261029T223817
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Dear students\, Please find attached…
-DESCRIPTION:A regular reminder worth keeping on your radar. Please find a
- ttached…" 2026-2027 Form 3 Integrated Humanities New announcement Dear s
- tudents\, Please find attached the History learning materials covering t
- he First and Second World Wars. Best regards\, Ms Cheng See details Post
- ed on 10:49 AM\, Oct 28 (HKT) by Nga Tung CHENG Google  Attached: 📎 WWII
-  learning objectives and vocabulary list.pdf: https://drive.google.com/f
- ile/d/1qhd98rYvwt_iXNA_ptIQogGMOXGcnbAS/view?usp=drive_web 📎 Revision No
- tes (Student’s Edition).pdf: https://drive.google.com/file/d/1b-XcUrlvku
- Eqnld-nB8pfsQjXv1Z2x0j/view?usp=drive_web 📎 WWII learning objectives and
-  vocabulary list.pdf: https://drive.google.com/file/d/1SfM3AkTEBjxLc89wW
- P8xPqI-AIgJtbTp/view?usp=drive_web  📅 Date not stated in the source — sh
- owing the posted date (2026-10-28). Check the source before relying on i
- t.  (from Darren's Study Pipeline)
-ATTACH:https://drive.google.com/file/d/1qhd98rYvwt_iXNA_ptIQogGMOXGcnbAS/
- view?usp=drive_web
-ATTACH:https://drive.google.com/file/d/1b-XcUrlvkuEqnld-nB8pfsQjXv1Z2x0j/
- view?usp=drive_web
-ATTACH:https://drive.google.com/file/d/1SfM3AkTEBjxLc89wWP8xPqI-AIgJtbTp/
- view?usp=drive_web
-END:VEVENT
-BEGIN:VEVENT
 UID:study-reminder-english-bring-grammar-book-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2252,7 +1995,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 📍 Classroom P
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-history-learning-materials-firs-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2267,7 +2010,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Review the at
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-10-28
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2283,7 +2026,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 3E 中國歷史 (202
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-bring-grammar-book-ipad-for-eng-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2295,7 +2038,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Gr
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-dear-students-attached-please-f-2026-10-29
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2311,7 +2054,7 @@ DESCRIPTION:A regular reminder worth keeping on your radar. 2026-2027 3E
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-internal-registration-deadline--2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2333,7 +2076,7 @@ ATTACH:https://student.edcity.hk/pri/zh-hant/piccks-post/202627/nationali
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-12-15
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261215
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2348,7 +2091,7 @@ ATTACH:http://www.hkgbc.org.hk/studentcompetition
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-2026-12-31
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20261231
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2362,7 +2105,7 @@ ATTACH:http://www.hkgbc.org.hk/studentcompetition
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-internal-product-submission-dea-2027-01-04
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270104
 CATEGORIES:Reminder
 COLOR:#9E9E9E
@@ -2383,7 +2126,7 @@ ATTACH:https://student.edcity.hk/pri/zh-hant/piccks-post/202627/nationali
 END:VEVENT
 BEGIN:VEVENT
 UID:study-reminder-student-innovation-competition--2027-01-08
-DTSTAMP:20261029T223817
+DTSTAMP:20261030T082235
 DTSTART;VALUE=DATE:20270108
 CATEGORIES:Reminder
 COLOR:#9E9E9E
