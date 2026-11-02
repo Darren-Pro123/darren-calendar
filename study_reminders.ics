@@ -1,57 +1,6 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//DarrenStudy//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-BEGIN:VEVENT
-UID:study-reminder-check-grade-for-exercise-3-corr-2026-10-31
-DTSTAMP:20261102T005656
-DTSTART:20261031T180900
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Check grade for Exercise 3 correction
-DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 18:09 Your 
- Exercise 3 correction has been graded — view the feedback in Google Clas
- sroom to see where you can improve.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-bring-grammar-book-to-class-2026-11-02
-DTSTAMP:20261102T005656
-DTSTART;VALUE=DATE:20261102
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: Bring Grammar Book to Class
-DESCRIPTION:A regular reminder worth keeping on your radar. Bring your Gr
- ammar Book to English class on Monday — Ms. Mou reminded the class to ha
- ve it ready for the lesson. | Bring your Grammar Book to class on Monday
-  — it is required for the lesson and supports your class participation. 
-  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-3e-physics-test-solutions-2026-10-30
-DTSTAMP:20261102T005656
-DTSTART:20261030T172200
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 3E Physics Test solutions @ Google Classroom
-DESCRIPTION:A regular reminder worth keeping on your radar. ⏰ 17:22 · 📍 G
- oogle Classroom Check the test solutions on Google Classroom to review y
- our answers and learn from any mistakes.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-reminder-3e-english-bring-oxford-english-2026-10-30
-DTSTAMP:20261102T005656
-DTSTART;VALUE=DATE:20261030
-CATEGORIES:Reminder
-COLOR:#9E9E9E
-X-APPLE-CALENDAR-COLOR:#9E9E9E
-SUMMARY:📌 REMINDER: 3E English - Bring Oxford English 3A textbook
-DESCRIPTION:A regular reminder worth keeping on your radar. Pack your Oxf
- ord English 3A textbook tonight for tomorrow's English class — Ms. Mou r
- eminded the class to bring it for the lesson.  (from Darren's Study Pipe
- line)
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hermes Study//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+END:VCALENDAR
