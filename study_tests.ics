@@ -1,39 +1,6 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//DarrenStudy//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-BEGIN:VEVENT
-UID:study-test-2026-11-02
-DTSTAMP:20261102T005656
-DTSTART;VALUE=DATE:20261102
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: 課外閱讀簡短評估《吃馬鈴薯的日子》
-DESCRIPTION:Time to prep — here's what you've got. Bring your iPad to tom
- orrow's Chinese class for the short extracurricular reading assessment o
- n 《吃馬鈴薯的日子》 — the text is available on Hong Kong Reading City. | Bring y
- our iPad to class tomorrow for the short extracurricular reading assessm
- ent on 'Days of Eating Potatoes' — the assessment covers the e-reading m
- aterial on Hong Kong Education City. | Bring your iPad for the extracurr
- icular reading assessment on '吃馬鈴薯的日子' — the short quiz covers the book 
- from the e-Reading platform.  (from Darren's Study Pipeline)
-END:VEVENT
-BEGIN:VEVENT
-UID:study-test-chapter-3-test-2026-11-05
-DTSTAMP:20261102T005656
-DTSTART;VALUE=DATE:20261105
-CATEGORIES:Test
-COLOR:#EA4335
-X-APPLE-CALENDAR-COLOR:#EA4335
-SUMMARY:📝 TEST: Chapter 3 Test
-DESCRIPTION:Time to prep — here's what you've got. Review the full soluti
- on guides on Google Classroom to prepare for the Chapter 3 test on Thurs
- day — it covers all Junior Algebra topics and counts significantly. | Re
- view the Chapter 3 solution guides on Google Classroom to prepare for th
- e test covering all Junior Algebra topics. | Review Chapter 3 materials 
- on Google Classroom — the test covers all Junior Algebra topics and coun
- ts significantly for your grade.  (from Darren's Study Pipeline)
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hermes Study//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+END:VCALENDAR
