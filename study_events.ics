@@ -112,12 +112,6 @@ SUMMARY:EVENT: Student Innovation Competition 2026/27
 DESCRIPTION:Form your team and submit the application Excel to the teacher by 8 Jan 2027 — this competition lets you tackle real challenges in home\, school\, or community and showcase your innovation.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2027-01-08
-DTEND;VALUE=DATE:2027-01-08
-SUMMARY:EVENT: Student Innovation Competition 2026/27
-DESCRIPTION:Submit your team's application form by 8 Jan 2027 — the internal deadline for the Student Innovation Competition. Email the completed Excel file to your teacher for school nomination.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:EVENT: Psychology and Photography Therapy Workshop
@@ -145,7 +139,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:EVENT: Robotics Team Meeting
-DESCRIPTION:Attend the Robotics Team meeting on Tuesday\, 20th October — the meeting was rescheduled from Wednesday to Tuesday.
+DESCRIPTION:Attend the Robotics Team meeting on Tuesday\, 20 October — the session was moved from Wednesday and will cover upcoming competition prep.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
@@ -176,12 +170,6 @@ DTSTART;VALUE=DATE:2026-10-18
 DTEND;VALUE=DATE:2026-10-18
 SUMMARY:EVENT: Club Enrollment Deadline
 DESCRIPTION:Complete the Google Form by Sunday 11:59 p.m. to join an affiliated club — choose wisely to avoid overcommitting.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-20
-DTEND;VALUE=DATE:2026-10-20
-SUMMARY:EVENT: Psychology and Photography Therapy Workshop
-DESCRIPTION:Register for the Psychology and Photography Therapy Workshop at CSD on 20 October — limited to 20 students\, free entry\, bring your iPad or smartphone to explore emotions through photography.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
@@ -282,20 +270,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
-SUMMARY:EVENT: Chinese Medicine Clinic Visit
-DESCRIPTION:Go to the Chinese medicine clinic after school today for your appointment — this is urgent and important for your health.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-12
-DTEND;VALUE=DATE:2026-10-12
 SUMMARY:EVENT: Go to Chinese medicine clinic after school
 DESCRIPTION:Attend the Chinese medicine clinic appointment after school today as arranged by your mother.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-12
-DTEND;VALUE=DATE:2026-10-12
-SUMMARY:EVENT: Chinese Medicine Clinic Visit
-DESCRIPTION:Go to the Chinese medicine clinic after school today — Mummy says you need to go by yourself for a check-up.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
@@ -355,13 +331,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:EVENT: CityUHK Science Patent Challenge - Online Information Session
-DESCRIPTION:Attend the online info session on Zoom to learn about the patent challenge\, meet experts\, and discover how to turn your ideas into inventions.
+DESCRIPTION:Join the Zoom info session on 9 Oct at 5:45 pm to learn how the patent challenge works and get registration details — registration closes 7 Oct.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:EVENT: CityUHK Science Patent Challenge - Intellectual Property Workshop
-DESCRIPTION:Join the hands-on workshop at CityUHK led by a patent attorney to explore IP\, patents\, and real cases — earn a completion certificate.
+DESCRIPTION:Attend the IP workshop on 17 Oct at 9:00 am at CityUHK to learn patent basics from a patent attorney and earn a completion certificate — register by 11 Oct.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
@@ -380,12 +356,6 @@ DTSTART;VALUE=DATE:2026-12-31
 DTEND;VALUE=DATE:2026-12-31
 SUMMARY:EVENT: 2026-27 STREAM Team - Green Space Competition Registration Deadline
 DESCRIPTION:Complete the online registration form by 31 Dec to secure your team's entry — late registrations cannot be accepted.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:EVENT: 2026 青少年創科實踐挑戰賽 Application
-DESCRIPTION:Fill in the application form by 30 Oct to join the STEM competition — guidelines and teacher-in-charge details are in the attached PDFs.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-04
@@ -418,18 +388,6 @@ SUMMARY:EVENT: English Ambassadors Briefing Session
 DESCRIPTION:Review the briefing slides attached to the Classroom post — they contain the teacher advisor's contact details and key information for upcoming activities.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:EVENT: CityUHK Science Patent Challenge - Online Information Session
-DESCRIPTION:Join the Zoom info session on 9 Oct at 5:45 pm to learn how the patent challenge works and get registration details — registration closes 7 Oct.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-17
-DTEND;VALUE=DATE:2026-10-17
-SUMMARY:EVENT: CityUHK Science Patent Challenge - Intellectual Property Workshop
-DESCRIPTION:Attend the IP workshop on 17 Oct at 9:00 am at CityUHK to learn patent basics from a patent attorney and earn a completion certificate — register by 11 Oct.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-04
 DTEND;VALUE=DATE:2026-11-04
 SUMMARY:EVENT: OSH Safety Quiz 2026 - Online Briefing
@@ -457,7 +415,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:EVENT: BioTech Workshop
-DESCRIPTION:Attend the BioTech Workshop at Biology Lab 1 (4/F) on Wednesday 3:30 PM — co-organized by Biology Society and iGem Team for hands-on biotech experience.
+DESCRIPTION:Enroll via the BioTech Workshop Enrollment Form to secure one of 20 spots — the workshop at Biology Lab 1 introduces synthetic biology through hands-on experiments with pipettes and gel electrophoresis.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
@@ -484,22 +442,10 @@ SUMMARY:EVENT: English Ambassadors Briefing Session
 DESCRIPTION:Attend the English Ambassadors briefing at the 5/F Balcony on Tuesday at 1:15 PM — Ms Mohammad will kick off the year and share important duties. Mark your attendance with a committee member upon arrival. Email Ms Mohammad or Gordon Tung (5D) at least one day ahead if you cannot make it.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-07
-DTEND;VALUE=DATE:2026-10-07
-SUMMARY:EVENT: BioTech Workshop
-DESCRIPTION:Enroll via the BioTech Workshop Enrollment Form to secure one of 20 spots — the workshop at Biology Lab 1 introduces synthetic biology through hands-on experiments with pipettes and gel electrophoresis.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-07
-DTEND;VALUE=DATE:2026-10-07
-SUMMARY:EVENT: BioTech Workshop
-DESCRIPTION:Sign up for the BioTech Workshop at Biology Lab 1 this Wednesday — spots are limited to 20 students and you'll learn synthetic biology hands-on with pipettes and gel electrophoresis.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:EVENT: STREAM Team Annual Meeting
-DESCRIPTION:Review the presentation slides from the annual meeting on Google Classroom to stay updated on team plans.
+DESCRIPTION:Review the attached slides from the STREAM Team annual meeting to stay informed on team decisions and next steps.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
@@ -538,22 +484,10 @@ SUMMARY:EVENT: IH Lesson (Period 9)
 DESCRIPTION:Attend IH lesson with HYC during Period 9 on Tuesday\, 6 Oct — teacher Lai Yi KWOK will be away so this is a rescheduled session.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-06
-DTEND;VALUE=DATE:2026-10-06
-SUMMARY:EVENT: English Ambassadors Briefing Session
-DESCRIPTION:Attend the English Ambassadors briefing at the 5/F Balcony at 1:15 PM — Ms Mohammad will share important duties and schedules for the term.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:EVENT: Filmit 2027 Info Session
 DESCRIPTION:Attend the Filmit 2027 briefing in the History Room at 1:15 PM or 3:45 PM to learn about the heritage film competition and join a creative team — no experience needed\, just commitment.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-28
-DTEND;VALUE=DATE:2026-09-28
-SUMMARY:EVENT: STREAM Team Annual Meeting
-DESCRIPTION:Review the attached slides from the STREAM Team annual meeting to stay informed on team decisions and next steps.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-03-31
@@ -584,12 +518,6 @@ DTSTART;VALUE=DATE:2027-03-31
 DTEND;VALUE=DATE:2027-03-31
 SUMMARY:EVENT: ICT - Road Safety STEAM Competition 2026-27
 DESCRIPTION:Form a team and submit your STEAM project proposal by 31 March 2027 — the competition offers HK$10\,000 in book vouchers and certificates for all participants. Email Mr. Q. Lee at ql@stpauls.edu.hk to join or ask questions.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-06
-DTEND;VALUE=DATE:2026-10-06
-SUMMARY:EVENT: English Ambassadors Briefing Session
-DESCRIPTION:Attend the English Ambassadors briefing at the 5/F Balcony on Tuesday 6 October at 1:15 PM — this session kicks off the year and your presence is required.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
@@ -733,7 +661,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:EVENT: HK Phil National Day Concert: Zitong Wang Plays Prokofiev
-DESCRIPTION:Attend this concert on 2026-09-24 to gather material for your concert report\; check URBTIX for ticket details.
+DESCRIPTION:Attend this concert to gather material for your concert report — the performance features Prokofiev's violin concerto.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-26
@@ -751,7 +679,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-13
 DTEND;VALUE=DATE:2026-11-13
 SUMMARY:EVENT: Final Fantasy VII REMAKE Orchestra World Tour
-DESCRIPTION:Attend this concert on 2026-11-13 to gather material for your concert report\; check URBTIX for ticket details.
+DESCRIPTION:Attend this concert to gather material for your concert report — the orchestra performs music from Final Fantasy VII Remake.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-01
@@ -766,12 +694,6 @@ SUMMARY:EVENT: Vote for Outstanding Affiliated Clubs
 DESCRIPTION:Cast your vote for your favorite affiliated club by 25 September 23:59 via the Google Form — the top three clubs will be recognized at the Inauguration Ceremony.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-24
-DTEND;VALUE=DATE:2026-09-24
-SUMMARY:EVENT: HK Phil National Day Concert: Zitong Wang Plays Prokofiev
-DESCRIPTION:Attend this concert to gather material for your concert report — the performance features Prokofiev's violin concerto.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-26
 DTEND;VALUE=DATE:2026-09-26
 SUMMARY:EVENT: Hong Kong Sinfonietta Great Violin Concertos: Kevin Zhu Plays Lalo
@@ -782,18 +704,6 @@ DTSTART;VALUE=DATE:2026-10-24
 DTEND;VALUE=DATE:2026-10-24
 SUMMARY:EVENT: Hong Kong Sinfonietta Reinhold Friedrich Plays Weinberg Trumpet Concerto
 DESCRIPTION:Attend this concert to gather material for your concert report — Reinhold Friedrich performs Weinberg's trumpet concerto.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-13
-DTEND;VALUE=DATE:2026-11-13
-SUMMARY:EVENT: Final Fantasy VII REMAKE Orchestra World Tour
-DESCRIPTION:Attend this concert to gather material for your concert report — the orchestra performs music from Final Fantasy VII Remake.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-01
-DTEND;VALUE=DATE:2026-10-01
-SUMMARY:EVENT: St. Paul's College 175th Anniversary Concert
-DESCRIPTION:Attend this concert to gather material for your concert report — the anniversary concert starts at 4:30 PM.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-24
@@ -976,28 +886,10 @@ SUMMARY:EVENT: Affiliated Club Enrollment Deadline
 DESCRIPTION:Complete the Google Form for affiliated club enrollment by Sunday 11:59 p.m. — joining at least one club enriches your school life and helps you explore interests.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-20
-DTEND;VALUE=DATE:2026-10-20
-SUMMARY:EVENT: Robotics Team Meeting
-DESCRIPTION:Attend the Robotics Team meeting on Tuesday\, 20 October — the session was moved from Wednesday and will cover upcoming competition prep.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-04-10
 DTEND;VALUE=DATE:2027-04-10
 SUMMARY:EVENT: 國民身份認同應用程式設計比賽2026/27 - Finals
 DESCRIPTION:Attend the online finals on 10 Apr 2027 — shortlisted teams will present in a 15-minute video interview with judges.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-20
-DTEND;VALUE=DATE:2026-10-20
-SUMMARY:EVENT: Psychology and Photography Therapy Workshop
-DESCRIPTION:Attend the workshop at CSD on Tuesday 4-6 PM — explore emotions through photography with expert Mr. Corum Chu.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2027-01-08
-DTEND;VALUE=DATE:2027-01-08
-SUMMARY:EVENT: Student Innovation Competition 2026/27
-DESCRIPTION:Form a team and complete the Excel application form — email it to the teacher by 8 Jan 2027 to enter the Student Innovation Competition covering home\, school\, and community challenges.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
@@ -1028,12 +920,6 @@ DTSTART;VALUE=DATE:2026-11-20
 DTEND;VALUE=DATE:2026-11-20
 SUMMARY:EVENT: 第29屆香港青少年科技創新大賽簡介會 (第二場)
 DESCRIPTION:Register via the Google Form to attend the Zoom briefing on 2026-11-20 — the competition details and requirements will be explained.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-27
-DTEND;VALUE=DATE:2026-09-27
-SUMMARY:EVENT: STREAM Team Specialist Application Deadline
-DESCRIPTION:Submit your STREAM Team Specialist application via the Google Form by 27 September — specialists help teams excel in competitions and open days.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-13
