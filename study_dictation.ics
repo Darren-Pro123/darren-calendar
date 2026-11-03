@@ -7,84 +7,84 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:DICTATION: IH-CES - Good work: Dictation 1
-DESCRIPTION:
+DESCRIPTION:Review the Dictation 1 material on Google Classroom to prepare for the upcoming dictation exercise.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:DICTATION: Good work: Dictation 1
-DESCRIPTION:
+DESCRIPTION:Review the new dictation material posted on Google Classroom and complete Dictation 1 to reinforce your learning.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: Submit Dictation (signed with corrections)
-DESCRIPTION:
+DESCRIPTION:Submit your signed Dictation with corrections by tomorrow — it's the final chance to hand it in for grading.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: English Dictation (signed with corrections)
-DESCRIPTION:
+DESCRIPTION:Submit your signed dictation with corrections by tomorrow — this is the final chance to hand it in before grades are finalized.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 背誦《出塞》王昌齡
-DESCRIPTION:
+DESCRIPTION:Memorize the poem 出塞 by Wang Changling — recitation will be checked in the next Chinese lesson.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 《五柳先生傳》+ 成語P1\,2
-DESCRIPTION:
+DESCRIPTION:Prepare for tomorrow's dictation on 'The Biography of Five Willows' and Idioms pages 1-2 — bring your manuscript paper to class.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:DICTATION: IH-CES Vocabulary Dictation
-DESCRIPTION:
+DESCRIPTION:Prepare for the IH-CES vocabulary dictation on Friday\, 16 October — review the vocabulary list provided by Ms. Chan to ensure you're ready for this assessment.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:DICTATION: IH-CES Vocabulary List Dictation
-DESCRIPTION:
+DESCRIPTION:Review the vocabulary list tonight — the dictation covers key terms from the list and counts toward your IH-CES grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 五柳先生傳 + 成語P1\,2
-DESCRIPTION:
+DESCRIPTION:Prepare the dictation of 《五柳先生傳》 and idioms pages 1‑2 tonight — bring the original manuscript paper for class tomorrow.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:DICTATION: Form 3 English Seen Dictation 1
-DESCRIPTION:
+DESCRIPTION:Prepare for the first seen dictation on October 8 during Period 1 — review the syllabus material to perform well in this Form 3 English assessment.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:DICTATION: Chinese - 《阿Q正傳》 Dictation
-DESCRIPTION:
+DESCRIPTION:Prepare for the dictation on 'The True Story of Ah Q' moved to next week — review the text and practice writing key passages.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:DICTATION: 中三 中文 第8組 26-27 - 《阿Q正傳》默書
-DESCRIPTION:
+DESCRIPTION:原定本星期的默書已延至下星期，請於下星期前完成默書練習。
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:DICTATION: 字帖 第1\,2頁 默書
-DESCRIPTION:
+DESCRIPTION:Prepare pages 1‑2 of the character copybook for a dictation next week — the teacher will test your handwriting and character recall.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: 3E English - Dictation Corrections
-DESCRIPTION:
+DESCRIPTION:Submit your signed dictation corrections by tomorrow — this is the final chance to hand them in for credit.
 END:VEVENT
 END:VCALENDAR
