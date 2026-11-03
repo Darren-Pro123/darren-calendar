@@ -13,19 +13,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Math Chapter 3 Test
-DESCRIPTION:Prepare for the Chapter 3 test on November 5th — review the solution guides on Google Classroom covering all Junior Algebra topics.
+DESCRIPTION:Review Chapter 3 factorization techniques tonight — the test on Thursday covers multi-part problems\, pattern recognition\, and calculator verification (Formula 01).
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: 3E Math - Chapter 3 Test
 DESCRIPTION:Prepare for the Chapter 3 test on Thursday covering all Junior Algebra topics — review the full solution guides on Google Classroom to master the material before the exam.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:TEST: Math Chapter 3 Test
-DESCRIPTION:Prepare for the Chapter 3 test covering Junior Algebra topics — review solution guides on Google Classroom to ensure readiness.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
@@ -88,12 +82,6 @@ SUMMARY:TEST: First Term Uniform Test
 DESCRIPTION:Read the uploaded syllabus on Google Classroom thoroughly and begin revision for the First Term Uniform Test on 5 November — this test covers the first term curriculum and is a major assessment.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:TEST: First Term Uniform Test
-DESCRIPTION:Review the uploaded syllabus on Google Classroom and prepare for the Uniform Test on 5 November — it covers the first term material and counts toward your grade.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 小測《爸爸的花兒落了》
@@ -104,12 +92,6 @@ DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 中文 - 爸爸的花兒落了 小測
 DESCRIPTION:Prepare for tomorrow's Chinese quiz on 'Father's Flowers Have Fallen' — review the text and key passages tonight as it counts toward your term grade.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:TEST: Math Chapter 3 Test
-DESCRIPTION:Review Chapter 3 factorization techniques tonight — the test on Thursday covers multi-part problems\, pattern recognition\, and calculator verification (Formula 01).
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
@@ -181,7 +163,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 26-27 3E Math - Chapter 2 Test
-DESCRIPTION:Review Chapter 2 factorization material tonight — the test covers key concepts and counts toward your term grade.
+DESCRIPTION:Prepare for the Chapter 2 test on 15 October — it covers salaries tax and compound interest\, and counts toward your term grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
@@ -200,18 +182,6 @@ DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: 中文 《阿Q正傳》閱讀評估
 DESCRIPTION:Prepare for the closed‑book reading assessment on 《阿Q正傳》 tomorrow — review key passages and themes covered in class.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:TEST: Ah Q Reading Assessment
-DESCRIPTION:Prepare for the reading assessment on 'The True Story of Ah Q' this Friday — review the text and key themes tonight.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:TEST: 《阿Q正傳》閱讀評估
-DESCRIPTION:Prepare for the Ah Q reading assessment on Friday — it covers the assigned chapters and counts toward your grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
@@ -256,12 +226,6 @@ SUMMARY:TEST: 3E Physics Chapter 1 Test
 DESCRIPTION:Review Chapter 1 tonight — the test covers sections 1.1‑1.4 and counts for a significant portion of your grade.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:TEST: 26-27 3E Math - Chapter 2 Test
-DESCRIPTION:Prepare for the Chapter 2 test on 15 October — it covers salaries tax and compound interest\, and counts toward your term grade.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:TEST: M³ Programme Screening Test
@@ -289,12 +253,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Math Chapter 2 Test
-DESCRIPTION:Prepare for the Chapter 2 test on October 15 — it covers simple and compound interest formulas and word problems.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:TEST: Math Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October covering simple and compound interest — it includes word problems and formula applications.
 END:VEVENT
 BEGIN:VEVENT
@@ -314,12 +272,6 @@ DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:TEST: HKU M³ Programme Screening Test
 DESCRIPTION:Attend the HKU M³ Programme screening test on 17 October at 2:00 pm — this test qualifies you for the advanced mathematics modules running from late October to December.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-17
-DTEND;VALUE=DATE:2026-10-17
-SUMMARY:TEST: HKU M³ Programme Screening Test
-DESCRIPTION:Attend the HKU M³ screening test on 17 Oct at 2pm — it's required for programme admission and runs until 4pm.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
@@ -364,12 +316,6 @@ SUMMARY:TEST: Chinese Quiz - 爸爸的花兒落了
 DESCRIPTION:Review the text '爸爸的花兒落了' tonight — the quiz covers this reading and counts toward your Chinese grade.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:TEST: First Term Uniform Test
-DESCRIPTION:Review the uploaded syllabus and prepare for the Uniform Test on 5 November — it covers the first term material and counts towards your grade.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 星期四 課外閱讀 簡短評估
@@ -392,12 +338,6 @@ DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: Chinese - Extracurricular Reading Assessment
 DESCRIPTION:Read 《吃馬鈴薯的日子》 on HKEdCity e-reading platform before Friday — the short assessment will cover key themes and characters.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-02
-DTEND;VALUE=DATE:2026-11-02
-SUMMARY:TEST: Chinese - Extracurricular Reading Assessment
-DESCRIPTION:Prepare for the reading assessment on Monday — it covers the assigned reading list and is worth a significant portion of your grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
