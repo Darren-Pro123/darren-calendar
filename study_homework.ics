@@ -46,12 +46,6 @@ SUMMARY:HOMEWORK: Learning Reflection Form
 DESCRIPTION:Ms. Mou has extended the deadline for the learning reflection form — check Google Classroom for the updated due date and submit your reflection.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-01
-DTEND;VALUE=DATE:2026-11-01
-SUMMARY:HOMEWORK: Learning Reflection Form
-DESCRIPTION:Complete the learning reflection form on Google Classroom — Miss Mou needs your feedback for the term review.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:HOMEWORK: Learning Reflection
@@ -100,22 +94,10 @@ SUMMARY:HOMEWORK: Unit 1: Learning and Reflection
 DESCRIPTION:Complete the reflection form by 23:59 on Sunday — your self‑reflection on Unit 1 counts toward your class‑based assessment.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:HOMEWORK: English - Learning Reflection
-DESCRIPTION:Complete the Learning Reflection assignment posted on Google Classroom — it counts toward your class-based assessment mark.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-31
 DTEND;VALUE=DATE:2026-10-31
 SUMMARY:HOMEWORK: Math HW5
 DESCRIPTION:Submit HW5 as soon as possible if you haven't already — it's required for the Geometry chapter transition.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-09
-DTEND;VALUE=DATE:2026-11-09
-SUMMARY:HOMEWORK: Call for Stories: Campus' Corner
-DESCRIPTION:Submit your campus story via Google Form by November 9 — the extended deadline for the 175th anniversary story collection.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
@@ -138,20 +120,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
-SUMMARY:HOMEWORK: Unit 1 Learning Reflection
-DESCRIPTION:Submit your Unit 1 Learning Reflection on Google Classroom as soon as possible — Ms. Mou needs it to assess your progress.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-02
-DTEND;VALUE=DATE:2026-11-02
 SUMMARY:HOMEWORK: 中三中文 - 劉紹銘《吃馬鈴薯的日子》閱後評估
 DESCRIPTION:Complete the reading assessment on Google Forms — it covers the story '吃馬鈴薯的日子' and counts toward your Chinese grade.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-01
-DTEND;VALUE=DATE:2026-11-01
-SUMMARY:HOMEWORK: Learning Reflection Form
-DESCRIPTION:Complete the learning reflection form now that the untitled question has been fixed — Ms. Mou has kept the assignment open for submissions.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
@@ -163,7 +133,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:HOMEWORK: Campus Photo
-DESCRIPTION:Submit three artistic campus photos applying composition techniques from last lesson — one will become your reference for the upcoming sketching unit.
+DESCRIPTION:Submit three artistic campus photos applying composition techniques by November 5 — your chosen photo will become the reference for the upcoming sketching unit.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
@@ -214,12 +184,6 @@ SUMMARY:HOMEWORK: IH-CES Portfolio Submission
 DESCRIPTION:Prepare your IH-CES portfolio with completed content page\, ordered worksheets\, good condition\, and corrections done — Ms. Chan will collect them on Friday\, 6 Nov.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-06
-DTEND;VALUE=DATE:2026-11-06
-SUMMARY:HOMEWORK: IH-CES Portfolio Submission
-DESCRIPTION:Submit your IH-CES portfolio by 6 Nov — it will be graded on content page\, worksheet order\, condition\, and corrections.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:HOMEWORK: Bring Data File for Listening Paper
@@ -235,13 +199,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: 作文改正 (補上一段，並改正錯別字。)
-DESCRIPTION:Complete the essay correction by adding a paragraph and fixing typos — this improves your writing skills for the upcoming assessment.
+DESCRIPTION:Revise your composition by adding the missing paragraph and correcting any typos — this will improve your writing score for the upcoming assessment.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: 完成寫作工作紙練習一。
-DESCRIPTION:Finish writing worksheet exercise 1 to practice composition techniques — it prepares you for Thursday's reading assessment.
+DESCRIPTION:Complete Writing Worksheet Exercise 1 and submit it on Google Classroom — it reinforces the grammar points covered this week.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
@@ -265,7 +229,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:HOMEWORK: STREAM Team Tee Order Form & Payment
-DESCRIPTION:Fill out the Google Form for your STREAM Team tee size by October 30 and hand in payment at 5F — required for Open Days helpers.
+DESCRIPTION:Fill out the Google Form for STREAM Team Tee size preferences and hand in $65 payment to the teacher in 5F by October 30 — required for Open Days helpers.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
@@ -278,12 +242,6 @@ DTSTART;VALUE=DATE:2026-10-21
 DTEND;VALUE=DATE:2026-10-21
 SUMMARY:HOMEWORK: 3E Chemistry - Ch1-2 Test Corrections
 DESCRIPTION:Complete your Ch1-2 test corrections and submit them on Google Classroom by October 21 — this review helps solidify your understanding before moving to the next chapter.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: Geography - Worksheet 2
-DESCRIPTION:Complete Worksheet 2 and hand it to Marcus by Monday — it's due 26 Oct and counts toward your geography grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
@@ -307,13 +265,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:HOMEWORK: Geography Term Work - Google Earth Project & Video Presentation
-DESCRIPTION:Submit both your Google Earth project and video presentation for the Geography term work — the slideshow is optional in the video but both files are required.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-17
-DTEND;VALUE=DATE:2026-10-17
-SUMMARY:HOMEWORK: Geography Term Work - Google Earth Project & Video Presentation
-DESCRIPTION:Submit both your Google Earth project and video presentation for the Geography Term Work — check Google Classroom for submission details and ensure both files are uploaded.
+DESCRIPTION:Submit both the Google Earth project and the video presentation for your term work — you may choose whether to include the slideshow in the video\, but both files are required.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
@@ -343,7 +295,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:HOMEWORK: IH-CES - Module 3.1 Worksheet 2
-DESCRIPTION:Complete Module 3.1 Worksheet 2 on Google Classroom to practice the concepts covered in class.
+DESCRIPTION:Review the new worksheet posted on Google Classroom — complete Module 3.1 Worksheet 2 to reinforce the lesson concepts.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
@@ -379,7 +331,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:HOMEWORK: English - Reading Comprehension 1
-DESCRIPTION:Hand in Reading Comprehension 1 to Delton or Reese by tomorrow — they're collecting it for Ms. Mou.
+DESCRIPTION:Complete Reading Comprehension 1 and submit it to the Subject Representatives by Friday — this homework reinforces the reading skills covered in class.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
@@ -391,7 +343,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:HOMEWORK: Python Notes - Chapter 4: Assignment
-DESCRIPTION:Complete the Python Notes Chapter 4 assignment on Google Classroom by today — this covers key programming concepts for your ICT course.
+DESCRIPTION:Complete the Python Notes for Chapter 4 assignment and submit it on Google Classroom by today — this covers key programming concepts for your ICT course.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
@@ -434,12 +386,6 @@ DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:HOMEWORK: 繳$100予中史老師
 DESCRIPTION:Submit the $100 payment to your Chinese History teacher soon so you stay on track for the upcoming class activities.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-20
-DTEND;VALUE=DATE:2026-10-20
-SUMMARY:HOMEWORK: Geography - Worksheet 1
-DESCRIPTION:Finish Worksheet 1 and hand it to the subject representative by 20 Oct — this worksheet will be graded and counts toward your term mark.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
@@ -500,12 +446,6 @@ DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:HOMEWORK: English - Grammar Booklet pages 13-14
 DESCRIPTION:Complete Grammar Booklet pages 13‑14 on phrasal verbs and hand it in tomorrow — this revision prepares you for the upcoming Writing Assessment.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-12-01
-DTEND;VALUE=DATE:2026-12-01
-SUMMARY:HOMEWORK: Music - First Term Concert Report
-DESCRIPTION:Attend a Western Classical\, Opera\, or Chinese Music concert and write a 300-350 word report in English — submit the digital copy on Google Classroom using the provided template by 1 December to avoid mark deductions.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
@@ -604,12 +544,6 @@ SUMMARY:HOMEWORK: Campus Photo
 DESCRIPTION:Upload three artistic campus photos that use the composition techniques from our last lesson by 2026-11-05 02:30 — one photo will be chosen as the reference for the upcoming sketching unit.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
-SUMMARY:HOMEWORK: English - Reading Comprehension 1
-DESCRIPTION:Complete Reading Comprehension 1 and submit it to the Subject Representatives by Friday — this homework reinforces the reading skills covered in class.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:HOMEWORK: 阿Q正傳 閱讀評估
@@ -679,7 +613,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:HOMEWORK: 課堂閱讀 2
-DESCRIPTION:Read the assigned text for Classroom Reading 2 and prepare for discussion — this reading will be covered in the next Chinese lesson.
+DESCRIPTION:Read the attached PDF '3038 封鎖 天才夢 到底是上海人' before the next Chinese class — it's the second classroom reading assignment and will be discussed in class.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
@@ -702,12 +636,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
-SUMMARY:HOMEWORK: 課堂閱讀 2
-DESCRIPTION:Read the attached PDF '3038 封鎖 天才夢 到底是上海人' before the next Chinese class — it's the second classroom reading assignment and will be discussed in class.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-08
-DTEND;VALUE=DATE:2026-10-08
 SUMMARY:HOMEWORK: Submit Unit Notes
 DESCRIPTION:Hand in your unit notes at the next class if you haven't already — the teacher will check them at the start.
 END:VEVENT
@@ -716,12 +644,6 @@ DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:HOMEWORK: Memorize Chusai Poem
 DESCRIPTION:Memorize the poem 'Chusai' by Wang Changling — practice reciting it daily for the upcoming recitation.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-07
-DTEND;VALUE=DATE:2026-10-07
-SUMMARY:HOMEWORK: Online Challenge Image Submission
-DESCRIPTION:Submit your online challenge image to Google Classroom by 6pm on Oct 7 — incomplete submissions may affect your grade.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
@@ -860,18 +782,6 @@ DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:HOMEWORK: Geography - Let's practise P.87
 DESCRIPTION:Complete the practice exercises on page 87 for Geography class — check Google Classroom for the full details and submission instructions.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-30
-DTEND;VALUE=DATE:2026-09-30
-SUMMARY:HOMEWORK: Geography - Let's practise P.87
-DESCRIPTION:Complete the practice exercises on page 87 to reinforce geography concepts — check Google Classroom for any additional instructions.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-25
-DTEND;VALUE=DATE:2026-09-25
-SUMMARY:HOMEWORK: Geography - Relief features
-DESCRIPTION:Submit your Relief features assignment via the Classroom submission box — the deadline was 25 September and late work now incurs classwork mark deductions.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
@@ -1128,12 +1038,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
-SUMMARY:HOMEWORK: CES Module 3.1 Worksheet
-DESCRIPTION:Complete the CES Module 3.1 worksheet and hand it in on Monday — it covers the key concepts from the module and will be graded.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-21
-DTEND;VALUE=DATE:2026-09-21
 SUMMARY:HOMEWORK: Peer Marking of Test Paper 1 Part A
 DESCRIPTION:Complete the peer marking using the uploaded marking scheme and hand it in during Monday's class — the teacher will collect it then.
 END:VEVENT
@@ -1216,12 +1120,6 @@ SUMMARY:HOMEWORK: Photo Composition
 DESCRIPTION:Complete the Photo Composition assignment with your group and submit one entry via Google Classroom — this visual arts project builds your portfolio for the term.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:HOMEWORK: Python Notes - Chapter 4: Assignment
-DESCRIPTION:Complete the Python Notes for Chapter 4 assignment and submit it on Google Classroom by today — this covers key programming concepts for your ICT course.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:HOMEWORK: Reading Comprehension 1 Submission
@@ -1232,18 +1130,6 @@ DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:HOMEWORK: Gratitude Cards Submission
 DESCRIPTION:Submit any outstanding Gratitude Cards to Ms. Mou tomorrow — this is the final deadline for the gratitude project.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
-SUMMARY:HOMEWORK: Module 3.1 WS 2
-DESCRIPTION:Submit Module 3.1 Worksheet 2 on Google Classroom — 26 submissions are still missing and it counts toward your IH-CES grade.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
-SUMMARY:HOMEWORK: IH-CES - Module 3.1 Worksheet 2
-DESCRIPTION:Review the new worksheet posted on Google Classroom — complete Module 3.1 Worksheet 2 to reinforce the lesson concepts.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-15
@@ -1288,46 +1174,10 @@ SUMMARY:HOMEWORK: Chapter 2 Test Parent Signature
 DESCRIPTION:Get your parent's signature on the corrected Chapter 2 test paper and submit it to Mr. Ng — this is required before the mid-year exam.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-17
-DTEND;VALUE=DATE:2026-10-17
-SUMMARY:HOMEWORK: Geography Term Work - Google Earth Project & Video Presentation
-DESCRIPTION:Submit both the Google Earth project and the video presentation for your term work — you may choose whether to include the slideshow in the video\, but both files are required.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: Geography - Worksheet 2
-DESCRIPTION:Finish Worksheet 2 and give it to Marcus by Monday 26 Oct — he will collect all submissions for the teacher.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-21
-DTEND;VALUE=DATE:2026-10-21
-SUMMARY:HOMEWORK: 3E Chemistry - Ch1-2 Test Corrections
-DESCRIPTION:Complete your Ch1-2 test corrections by October 21 — this will help you understand your mistakes before the next chemistry topic.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:HOMEWORK: STREAM Team Tee Order Form & Payment
-DESCRIPTION:Fill out the Google Form for STREAM Team Tee size preferences and hand in $65 payment to the teacher in 5F by October 30 — required for Open Days helpers.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: Integrated Humanities History Form
 DESCRIPTION:Check the new announcement in Google Classroom and complete the linked Google Form for Integrated Humanities History.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: 作文改正 (補上一段，並改正錯別字。)
-DESCRIPTION:Revise your composition by adding the missing paragraph and correcting any typos — this will improve your writing score for the upcoming assessment.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: 完成寫作工作紙練習一。
-DESCRIPTION:Complete Writing Worksheet Exercise 1 and submit it on Google Classroom — it reinforces the grammar points covered this week.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-06
@@ -1358,12 +1208,6 @@ DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:HOMEWORK: Reading Comprehension Corrections
 DESCRIPTION:Submit your corrected reading comprehension work to Reese and Delton by tomorrow morning — timely submission ensures you receive feedback before the next lesson.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:HOMEWORK: Campus Photo
-DESCRIPTION:Submit three artistic campus photos applying composition techniques by November 5 — your chosen photo will become the reference for the upcoming sketching unit.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
