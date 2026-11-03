@@ -454,12 +454,6 @@ SUMMARY:REMINDER: Bring Writing Booklet to class
 DESCRIPTION:Pack your Writing Booklet tonight — the checkpoint will be completed in class tomorrow and counts toward your writing grade.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-08
-DTEND;VALUE=DATE:2026-10-08
-SUMMARY:REMINDER: Bring iPad to Chinese Class
-DESCRIPTION:Pack your iPad for the next Chinese lesson — you'll need it for the in-class activity.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-15
 DTEND;VALUE=DATE:2026-12-15
 SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027 內部報名截止
@@ -536,12 +530,6 @@ DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Bring Grammar Book\, Grammar Booklet\, and Oxford Book (pp. 12-13) to class
 DESCRIPTION:Pack your Grammar Book\, Grammar Booklet\, and Oxford Book with pages 12-13 completed for tomorrow's English class — Ms. Mou will check the work during the lesson.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-05
-DTEND;VALUE=DATE:2026-10-05
-SUMMARY:REMINDER: Chemistry - Bring textbook and notes for period 7-8 lesson
-DESCRIPTION:Pack your Chemistry textbook and notes tonight so you're ready for the period 7-8 lesson tomorrow.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
@@ -650,12 +638,6 @@ DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: STREAM Team Personal Info Collection
 DESCRIPTION:Fill out the STREAM Team personal information collection form via the attached Google Form link to ensure your details are recorded for the program.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-26
-DTEND;VALUE=DATE:2026-09-26
-SUMMARY:REMINDER: Math Chapter 1 Test Parent Signature
-DESCRIPTION:Get your parent's signature on the corrected Chapter 1 test paper — Mr. Ng requires it for records.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-26
@@ -890,12 +872,6 @@ DTSTART;VALUE=DATE:2026-11-20
 DTEND;VALUE=DATE:2026-11-20
 SUMMARY:REMINDER: NORMAL: Register for Financial Innovation Competition 2026/27
 DESCRIPTION:Register by 20 November for the Financial Innovation Competition — spots are limited and first-come-first-served. Form a team of 1-5 and sign up via the EDB website to join the preliminary on 16 January.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-27
-DTEND;VALUE=DATE:2026-10-27
-SUMMARY:REMINDER: Bring Book 1A and 1B
-DESCRIPTION:Pack your Chemistry Book 1A and 1B for tomorrow's lesson — you'll need them for class activities.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
