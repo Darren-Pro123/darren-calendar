@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-03-02
 DTEND;VALUE=DATE:2027-03-02
 SUMMARY:TEST: 3E Music - Instrumental Exam
-DESCRIPTION:Practice for your Instrumental Exam beginning 2 March — focus on scales\, pieces\, and sight-reading for the assessment.
+DESCRIPTION:Rehearse your instrument pieces thoroughly — the instrumental exam starts on 2 March and contributes to your final mark.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-06-01
@@ -368,5 +368,23 @@ DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 中文 - 閱讀評估 (暑期課業)
 DESCRIPTION:Prepare for tomorrow's closed-book reading assessment on summer homework — it includes multiple choice and short answer questions covering the summer reading material.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:TEST: 3E Music - Written Exam
+DESCRIPTION:Review all theory topics covered this year — the written exam in June will test your comprehensive understanding.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:TEST: 中三 中文 第8組 26-27 - 閱讀評估 (暑期課業)
+DESCRIPTION:Prepare for the closed-book reading assessment on summer homework tomorrow in class — it includes multiple choice and short answer questions covering the summer reading material.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:TEST: 中文 閱讀評估 (暑期課業)
+DESCRIPTION:Prepare for the reading assessment on Monday — it covers the summer homework and counts toward your grade.
 END:VEVENT
 END:VCALENDAR
