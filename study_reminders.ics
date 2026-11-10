@@ -993,4 +993,52 @@ DTEND;VALUE=DATE:2026-09-11
 SUMMARY:REMINDER: NORMAL: Review Scheme of Work for Term 1 English
 DESCRIPTION:Check the attached Scheme of Work PDF for important dates like dictations and uniform tests\, and plan your study schedule accordingly.
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-30
+DTEND;VALUE=DATE:2026-10-30
+SUMMARY:REMINDER: Learning reflection form correction
+DESCRIPTION:Review the learning reflection form and fix the untitled question so your teacher can assess it correctly.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-28
+DTEND;VALUE=DATE:2026-09-28
+SUMMARY:REMINDER: Biology - Lab Rules
+DESCRIPTION:Review the lab rules announcement on Google Classroom for your 2026-2027 Form 3E Biology course to understand safety guidelines before upcoming experiments.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-29
+DTEND;VALUE=DATE:2026-09-29
+SUMMARY:REMINDER: 3E Chemistry - Exercise 1 corr graded
+DESCRIPTION:Check your grade for Exercise 1 corr in 3E Chemistry — you received 1/1 and can review feedback on Google Classroom.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: 3E VA Lesson - Bring $21
+DESCRIPTION:Bring $21 to your Visual Arts lesson — the fee covers materials for the upcoming project.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:REMINDER: Robotics Team Application Deadline
+DESCRIPTION:Fill in the Google Form by 18 September to join the Robotics Team — meetings are Wednesdays 15:45-17:00 at Innovation Centre (6/F) and offer hands-on robotics experience and competition opportunities.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-06
+DTEND;VALUE=DATE:2026-09-06
+SUMMARY:REMINDER: 2026-2027 Instrumental Class Application Form
+DESCRIPTION:Complete the 2026-2027 Instrumental Class Application Form via the Google Form link to enroll in instrumental classes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-06
+DTEND;VALUE=DATE:2026-09-06
+SUMMARY:REMINDER: 2627 SPC Instrumental Music Information Submission and Music Team Application
+DESCRIPTION:Submit your instrumental music information and apply for the music team using the provided Google Form to join the school music program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-04
+DTEND;VALUE=DATE:2026-09-04
+SUMMARY:REMINDER: Laboratory Rules
+DESCRIPTION:Review the laboratory rules PDF attached in Google Classroom before your first lab session — safety guidelines are essential for all experiments.
+END:VEVENT
 END:VCALENDAR
