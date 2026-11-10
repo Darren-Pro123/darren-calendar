@@ -739,7 +739,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-27
 DTEND;VALUE=DATE:2026-09-27
 SUMMARY:EVENT: STREAM Team Specialist Application Deadline
-DESCRIPTION:Complete the Google Form application by 27 September to join the STREAM Team as a specialist — your skills will help strengthen competition entries and Open Day showcases.
+DESCRIPTION:Fill out the Google Form to apply as a STREAM Team Specialist by 27 September — specialists provide expertise in Science\, Technology\, Reading/Writing\, Engineering\, Arts\, or Math to strengthen competition performances and help organize Open Days activities.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
@@ -950,5 +950,17 @@ DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:EVENT: Robotics Team Application Deadline
 DESCRIPTION:Fill out the Robotics Team application form by 18 September — the team meets Wednesdays at the Innovation Centre and offers hands‑on robotics\, coding\, and competition experience.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:EVENT: Robotics Team Meeting
+DESCRIPTION:Attend the Robotics Team meeting today in Computer Room 1 (7/F) — the venue changed because the Innovation Centre is reserved.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-13
+DTEND;VALUE=DATE:2026-09-13
+SUMMARY:EVENT: Speech Festival Enrollment Deadline
+DESCRIPTION:Sign up for the Speech Festival by September 13 using Class Code i27snjy4 — participating builds confidence and speaking skills for future interviews and presentations.
 END:VEVENT
 END:VCALENDAR
