@@ -13,7 +13,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-01
 DTEND;VALUE=DATE:2026-11-01
 SUMMARY:HOMEWORK: Value: Fruit Sketching
-DESCRIPTION:Review the teacher's feedback on your fruit sketching — the lighter part needs to be brighter for better contrast.
+DESCRIPTION:Revise your fruit sketching to brighten the lighter areas — the teacher's feedback indicates the values need adjustment for better contrast.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-09
@@ -1273,7 +1273,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:HOMEWORK: 熟讀 《江雪》及《九月九日憶山東兄弟》
-DESCRIPTION:Memorize the two poems for Monday's reading assessment — they will be tested in the evaluation.
+DESCRIPTION:Read and memorize the two poems 《江雪》 and 《九月九日憶山東兄弟》 — they will be discussed in class and may appear in quizzes.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
@@ -1291,19 +1291,19 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:HOMEWORK: 3E Music - Worksheets (1st Term)
-DESCRIPTION:Complete the 1st Term worksheets — check Classroom for the packet and submit each as assigned.
+DESCRIPTION:Complete the assigned worksheets and hand them in during class — they reinforce the material covered this term.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-04-25
 DTEND;VALUE=DATE:2027-04-25
 SUMMARY:HOMEWORK: 3E Music - Concert Report (2nd Term)
-DESCRIPTION:Submit your 2nd Term Concert Report by 25 April — document the performance and reflect on musical elements.
+DESCRIPTION:Prepare a second concert report due 25 April — detail the performance and your analysis for the term evaluation.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:HOMEWORK: 3E Music - Worksheets (2nd Term)
-DESCRIPTION:Complete the 2nd Term worksheets — check Classroom for the packet and submit each as assigned.
+DESCRIPTION:Finish the second‑term worksheets and submit them on time — they consolidate your learning for the final assessment.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
@@ -1322,5 +1322,59 @@ DTSTART;VALUE=DATE:2026-09-06
 DTEND;VALUE=DATE:2026-09-06
 SUMMARY:HOMEWORK: 2627 SPC Instrumental Music Information Submission and Music Team Application
 DESCRIPTION:Complete the SPC Instrumental Music Information Submission and Music Team Application form to join the music team.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:HOMEWORK: Module 3.1 WS 2
+DESCRIPTION:Review your submitted answers for Module 3.1 Worksheet 2 — questions 1\, 4\, 5\, 15\, 19\, 22\, 23\, 24\, 31-35 have been posted on Google Classroom.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:HOMEWORK: Let's practise p.83
+DESCRIPTION:Review your graded practice on page 83 — check the feedback to see where you can improve.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:HOMEWORK: Integrated Humanities - Google Form
+DESCRIPTION:Complete the Google Form for Integrated Humanities as announced.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:HOMEWORK: 完成單完筆記 P.4 「回憶」部分
+DESCRIPTION:Complete the notes on page 4 “回憶” section\, writing one sentence per box — this will help you review the key events for the next class.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-08
+DTEND;VALUE=DATE:2026-09-08
+SUMMARY:HOMEWORK: Python Notes - Chapter 2: Assignment
+DESCRIPTION:Complete the Python Notes Chapter 2 assignment on Google Forms to practice assignment statements and variable operations — this builds your foundation for upcoming coding tasks.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-08
+DTEND;VALUE=DATE:2026-09-08
+SUMMARY:HOMEWORK: 個人短講
+DESCRIPTION:Prepare your 2-10 minute personal talk with slides — check the attached schedule for your presentation date and topic guidelines.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:HOMEWORK: 中三 中文 第8組 - 預習 《爸爸的花兒落了》 單元筆記 第3頁
+DESCRIPTION:Preview page 3 of the "爸爸的花兒落了" unit notes before the next Chinese class — the teacher will discuss it and it counts toward your participation.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-04
+DTEND;VALUE=DATE:2026-09-04
+SUMMARY:HOMEWORK: Integrated Humanities - Welcome to Learn His-story Expectations
+DESCRIPTION:Write a 100‑word reflection on your expectations for Integrated Humanities and submit it on Google Classroom — this helps the teacher understand your interests and tailor the course.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:HOMEWORK: Summer Exercise
+DESCRIPTION:Complete and hand in your Summer Exercise by Monday\, 7 September — it covers Index Notation including zero and negative indices\, which are foundational for upcoming topics.
 END:VEVENT
 END:VCALENDAR
