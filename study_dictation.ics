@@ -111,4 +111,28 @@ DTEND;VALUE=DATE:2026-09-18
 SUMMARY:DICTATION: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。  2. 帶原稿紙  3. 字帖 第1\,2頁。暫不用交，下星期會默書。  4. 背...
 DESCRIPTION:From sheet_csv: Announcement: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。\n\n2. 帶原稿紙\n\n3. 字帖 第1\,2頁。暫不用交，下星期會默書。\n\n4. 背誦 《五柳先生傳 》\n先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好讀書，不求
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-29
+DTEND;VALUE=DATE:2026-09-29
+SUMMARY:DICTATION: Dictation 1 (Seen) Syllabus
+DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:DICTATION: Dictation 1 (Seen) Answer Key
+DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-08
+DTEND;VALUE=DATE:2026-11-08
+SUMMARY:DICTATION: 記得明天默書、帶字帖
+DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-09
+DTEND;VALUE=DATE:2026-11-09
+SUMMARY:DICTATION: 帶iPad、默書、字帖
+DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+END:VEVENT
 END:VCALENDAR
