@@ -8,1781 +8,2078 @@ DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: Bring Grammar Book to class
 DESCRIPTION:Pack your Grammar Book for Monday's English class — Ms. Mou will check it during the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-31
 DTEND;VALUE=DATE:2026-10-31
 SUMMARY:REMINDER: Chemistry Exercise 3 correction graded
 DESCRIPTION:Check your graded Exercise 3 correction on Google Classroom — you scored 1/1 and can review the feedback.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: English - Bring Grammar Book to class
 DESCRIPTION:Pack your Grammar Book for Monday's English class — you'll need it for the in‑class activity.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Review Physics Test Solutions
 DESCRIPTION:Check Google Classroom for the newly posted test solutions for 3E Physics — review them to understand your mistakes and prepare for future assessments.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:REMINDER: 3E Math - Review Chapter 3 Solution Guides
 DESCRIPTION:Review the complete solution guides on Google Classroom to solidify your understanding of Junior Algebra before the Chapter 3 test on Thursday.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Bring Oxford English 3A Textbook
 DESCRIPTION:Pack your Oxford English 3A textbook tonight for tomorrow's English class — Ms. Mou will use it for the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: NORMAL: 中三中文 - 新課外閱讀《蝦子香》
 DESCRIPTION:Start reading 《蝦子香》 by 胡燕青 for your extracurricular Chinese reading — the collection includes 28 essays on family\, work\, and life reflections.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: 3E Physics Test Solutions Available
 DESCRIPTION:Review the Physics test solutions on Google Classroom to learn from your mistakes and improve for the next exam.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: English - Bring Grammar Book
 DESCRIPTION:Pack your Grammar Book for Monday's English class — Ms. Mou will check it for the class-based assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-31
 DTEND;VALUE=DATE:2026-10-31
 SUMMARY:REMINDER: Review Chapter 3 solution guides
 DESCRIPTION:Check Google Classroom for full solution guides to reinforce Junior Algebra concepts before the Chapter 3 test.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:REMINDER: Bring Grammar Book and Oxford Textbook for English Class
 DESCRIPTION:Pack your Grammar Book and Oxford textbook for tomorrow's English class — you'll need them for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: NORMAL: Unit 1 Grammar Booklet Answer Key
 DESCRIPTION:Review the Unit 1 Grammar Booklet Answer Key on Google Classroom to verify your answers and strengthen your grammar foundation for upcoming tests.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: NORMAL: Review Module 3.2 Learning Focus and Vocabulary List
 DESCRIPTION:Review the Module 3.2 learning focus and vocabulary list on Google Classroom to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: 中文 - 帶文言文練習、帶iPad
 DESCRIPTION:Pack your classical Chinese exercises and iPad for the next Chinese lesson — the teacher will check them at the start of class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:REMINDER: Bring Grammar Book and Oxford Textbook
 DESCRIPTION:Pack your Grammar Book and Oxford textbook for tomorrow's English class — you'll need them for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: 帶文言文練習、帶iPad
 DESCRIPTION:請帶上文言文練習和 iPad 參加下一堂課 — 老師會檢查練習並使用 iPad 進行互動活動。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: NORMAL: IH-CES Module 3.2 Learning Focuses
 DESCRIPTION:Review the attached file on Google Classroom for Module 3.2 learning focuses to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: English - Bring Oxford English 3A textbook
 DESCRIPTION:Pack your Oxford English 3A textbook tonight — you'll need it for tomorrow's English class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: 2026-2027 3E English - Bring Grammar Book & iPad for Unit 7 & 11 check
 DESCRIPTION:Pack your Grammar Book and iPad tonight so you can review Units 7 and 11 during tomorrow's lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: NORMAL: Integrated Humanities - History Learning Materials
 DESCRIPTION:Review the attached WWI and WWII learning materials and vocabulary lists to prepare for upcoming History lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: IH-CES Module 3.2 Learning Focuses
 DESCRIPTION:Review the Module 3.2 learning focuses PDF attached in the announcement — it outlines the key topics and objectives you need to master for this CES unit.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: NORMAL: Bring Grammar Book to English Class
 DESCRIPTION:Bring your Grammar Book to tomorrow's English class — Ms. Mou will review reading comprehension comments\, common mistakes\, and finish presentations. Be prepared for a tight schedule.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: NORMAL: History Learning Materials - WWI & WWII
 DESCRIPTION:Review the attached History learning materials on World Wars I and II in Google Classroom — they cover key content for your Integrated Humanities course.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: 3E IH-CES - Correction Format Guidelines
 DESCRIPTION:Follow the correction format for dictations and worksheets: copy Part A answers five times\, mark other mistakes with numbers or letters\, add missing parts\, use a different coloured pen\, and write P.T.O. if using the back page.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: Bring Grammar Book to English Class
 DESCRIPTION:Bring your Grammar Book to English class tomorrow — the teacher will review reading comprehension and finish presentations.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Correction Format for Dictations and Worksheets
 DESCRIPTION:Review the correction format for dictations and worksheets — use a different coloured pen\, copy Part A answers five times\, and note mistakes with numbers/letters. Attach extra paper if needed and mark P.T.O.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: 3E Chemistry - Chapter 5: Atoms
 DESCRIPTION:Review Chapter 5: Atoms on Google Classroom — new material posted for 3E Chemistry to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Chemistry - Bring Book 1A and 1B
 DESCRIPTION:Pack Book 1A and 1B for tomorrow's Chemistry class — you'll need them for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-20
 DTEND;VALUE=DATE:2026-11-20
 SUMMARY:REMINDER: 理財創新賽 2026/27 Registration Deadline
 DESCRIPTION:Register for the Financial Innovation Competition by November 20 — spots are limited and first-come-first-served\, and all participants receive a certificate.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: Geography - Term Work Progress Update
 DESCRIPTION:Group leaders\, please update the teacher on your group's term work progress — this helps monitor project milestones before the final deadline.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Bring Book 1A and 1B
 DESCRIPTION:Pack your Chemistry Book 1A and 1B tonight for tomorrow's lesson — you'll need them for the new chapter on atomic structure.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: 3E English - Bring Listening Practice Paper 1 and Data File
 DESCRIPTION:Pack your Listening Practice Paper 1 (Question-Answer book) and Data File for tomorrow's English class — you'll complete the listening component and Part B together.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-20
 DTEND;VALUE=DATE:2026-11-20
 SUMMARY:REMINDER: 理財創新賽 2026/27 報名截止
 DESCRIPTION:Register for the Financial Innovation Competition by 20 November — spots are limited and early registration guarantees a place in the preliminary round on 16 January.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
 SUMMARY:REMINDER: English - Bring Listening Practice Paper 1 and Data File
 DESCRIPTION:Pack your Listening Practice Paper 1 (Question-Answer book) and Data File for tomorrow's English class — you'll complete the listening component and Part B together.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-23
 DTEND;VALUE=DATE:2026-10-23
 SUMMARY:REMINDER: Check First Term Uniform Test Syllabus
 DESCRIPTION:Review the First Term Uniform Test syllabus on Google Classroom to know what topics will be covered in the upcoming exam.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-22
 DTEND;VALUE=DATE:2026-10-22
 SUMMARY:REMINDER: NORMAL: 3E 中國歷史 - Picnic Day Photos
 DESCRIPTION:View the Picnic Day Photos on Google Classroom to revisit the Lamma Island trip memories.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: STREAM Team Tee Order Deadline
 DESCRIPTION:Fill out the Google Form and hand in $65 payment at 5F by October 30 to secure your STREAM Team tee for Open Days.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Music - Festival Fee Cheque Submission
 DESCRIPTION:Submit your Music Festival fee cheque to Mr. Koo in the 3/F staff room during 1st recess tomorrow — late submissions will not be accepted.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: NORMAL: iGEM Human Practice Survey on Sunscreen Usage
 DESCRIPTION:Complete the anonymous survey via the Google Form link to help the iGEM team improve their biological sunscreen project — your feedback shapes their research.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: NORMAL: Bring Listening Practice Paper 1 Book
 DESCRIPTION:Bring your Listening Practice Paper 1 Question-Answer Book to class tomorrow — we'll finish Part B together and receive the Data File.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Music - Festival Fee Cheque
 DESCRIPTION:Submit your Music Festival fee cheque to Mr. Koo in the 3/F staff room during first recess tomorrow — late submissions will not be accepted.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: NORMAL: Psychology and Photography Therapy Workshop Application Deadline
 DESCRIPTION:Submit your application via the Google Form by Monday 8:00 PM — only 20 spots available for the free Psychology and Photography Therapy Workshop on Tuesday.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: Math Chapter 2 Test Parent Signature
 DESCRIPTION:Get your parent's signature on the corrected Chapter 2 test paper — this confirms you've reviewed your mistakes before the mid-year exam.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: 3E 中國歷史 (2026-2027) - Picnic Day WhatsApp contact
 DESCRIPTION:Save the WhatsApp contact for Picnic Day emergencies — check Google Classroom for the details.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: Chapter 2 Test Signature
 DESCRIPTION:Get your parent's signature on the corrected Chapter 2 test paper — this is required before the mid-year exam period.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: NORMAL: OLE Team Executive Committee Application
 DESCRIPTION:Submit your OLE Team Executive Committee application via the Google Form by 20 October 23:59 — shortlisted candidates will be invited for a compulsory interview.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: Robotics - Continue programming remote controller with hubs
 DESCRIPTION:Continue programming the remote controller with the hubs in the Robotics classroom — the hubs are now on SPIKE Legacy-compatible OS 4.0.0.7\, enabling full functionality for the Sumo Robots Group.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: 上堂帶iPad
 DESCRIPTION:Bring your iPad to the next Chinese class (Group 8) and remind your group mates — the teacher expects everyone to have their devices ready for the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: 2026-27 Robotics Team - SPIKE Hub Downgrade Complete\, Continue Programming Remote Controller
 DESCRIPTION:Continue programming the remote controller with the SPIKE hubs now that they're updated to Legacy-compatible OS 4.0.0.7 — this ensures compatibility for the Sumo Robots competition.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:REMINDER: Gratitude Cards deadline
 DESCRIPTION:Submit your Gratitude Cards by tomorrow’s deadline so they can be collected for the project.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: Bring iPad to class
 DESCRIPTION:Bring your iPad to the next Chinese lesson and remind your group mates — the class will use digital materials.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: F.3 Chem Exp WB Payment $50 to Treasurer
 DESCRIPTION:Give $50 to the class treasurer tomorrow for the Chemistry Experiment Workbook — the teacher needs to collect $1\,729 total for 35 copies.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: 問今日Robot老師下個星期三下午有無堂
 DESCRIPTION:Ask your Robot teacher today whether next Wednesday afternoon has class — confirming the schedule avoids missing a session.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: NORMAL: Dictation 1 (Seen) Answer Key
 DESCRIPTION:Review the Dictation 1 answer key on Google Classroom to correct your work and understand mistakes.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: Chemistry - F.3 Chem Exp WB Payment
 DESCRIPTION:Give the class treasurer $50 by tomorrow for the Chemistry experiment workbook — the total collected will be $1\,729 for 35 copies.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: NORMAL: Record Team Participation in External Competitions
 DESCRIPTION:Fill in the Google Form after each external competition to keep the STREAM team updated on your progress and receive guidance.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: Bring Writing Booklets and Test Paper 1 scripts
 DESCRIPTION:Pack your Writing Booklets and marked Test Paper 1 scripts for tomorrow's English class — Ms. Mou will review your test performance before starting Practice Paper 1.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Biology - Chapter 4 Enzymes and metabolism
 DESCRIPTION:Start reviewing Chapter 4 on enzymes and metabolism — the new unit begins now and covers key metabolic processes.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: 香港教育城 e 悅讀學校計劃
 DESCRIPTION:Explore the e-Reading School Scheme website to access digital books and reading resources — this program supports your Chinese reading development.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Email if absent from English Ambassadors activity
 DESCRIPTION:Email Ms Mohammad or Gordon Tung by today if you cannot attend the English Ambassadors activity — provide a valid reason to excuse your absence.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: English - F.1 & F.2 English Ambassadors Name List
 DESCRIPTION:Check the English Ambassadors name list on Google Classroom to confirm your role and responsibilities for the year.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Chinese - Bring iPad to class
 DESCRIPTION:Pack your iPad for the next Chinese lesson — you'll need it for class activities and digital materials.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: NORMAL: Chapter 4 Enzymes and Metabolism Resources
 DESCRIPTION:Review the worksheet\, presentation\, and revision notes for Chapter 4 on Enzymes and Metabolism to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: English - Bring Writing Booklets
 DESCRIPTION:Pack your Writing Booklet and marked Test Paper 1 for tomorrow's English class — Ms Mou will review Test Paper 1 feedback before starting Practice Paper 1.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Bring Listening Booklet to class
 DESCRIPTION:Bring your Listening Booklet to English class tomorrow — your teacher will use it for the listening activity.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: NORMAL: Chapter 4: Elements\, Compounds and Mixtures
 DESCRIPTION:Check the new Chapter 4 material on Google Classroom — it covers Elements\, Compounds and Mixtures for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: 中三中文第8組 - 記得帶iPad上堂
 DESCRIPTION:Bring your iPad to the next Chinese class — the teacher will use it for digital exercises and note-taking.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: 中三 中文 第8組 - 帶 iPad 上堂
 DESCRIPTION:Bring your iPad to the next Chinese lesson — it will be used for class activities and note‑taking.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-11
 DTEND;VALUE=DATE:2026-10-11
 SUMMARY:REMINDER: 中三 中文 第8組 26-27 - 記得上堂帶iPad
 DESCRIPTION:帶上iPad去中文課 — 堂上會用到平板進行活動和練習，請確保電量充足。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: English - Bring Grammar Booklet and Grammar Book
 DESCRIPTION:Pack your Grammar Booklet and Grammar Book for Monday's lesson — you will need them for grammar exercises in class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: NORMAL: 2026-2027 F.1-2 English Ambassadors - Google Form Sign-up for Game Show
 DESCRIPTION:Submit the Google Form by 12 October 23:59 to register your three representatives — the form closes before the competition and ensures your set is included.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: Bring Grammar Booklet and Grammar Book to class
 DESCRIPTION:Pack your Grammar Booklet and Grammar Book for Monday's lesson — you'll need them for the grammar review activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: Bring iPad to Chinese Class
 DESCRIPTION:Pack your iPad for the upcoming Chinese lesson — the teacher will use it for class activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: Bring Writing Booklet to class
 DESCRIPTION:Pack your Writing Booklet tonight — the checkpoint will be completed in class tomorrow and counts toward your writing grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-15
 DTEND;VALUE=DATE:2026-12-15
 SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027 內部報名截止
 DESCRIPTION:Form a team of up to 6 students and give the leader your English/Chinese names\, class\, class number\, mobile\, and email by December 15 so the teacher can register your group for the Green Space Competition.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Register for CityUHK Science Patent Challenge Online Information Session
 DESCRIPTION:Complete registration by today via the provided link to secure your spot in the Friday info session — spaces are limited.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-11
 DTEND;VALUE=DATE:2026-10-11
 SUMMARY:REMINDER: Register for CityUHK Science Patent Challenge Intellectual Property Workshop
 DESCRIPTION:Register by 11 October via the link to reserve your place in the Saturday workshop — each school can submit up to two entries.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: 記得帶iPad
 DESCRIPTION:Bring your iPad to the next Chinese lesson — the teacher will use it for class activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: 明天上堂帶iPad
 DESCRIPTION:Bring your iPad to class tomorrow — it will be used for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-15
 DTEND;VALUE=DATE:2026-12-15
 SUMMARY:REMINDER: 2026-27 STREAM Team - Green Space Competition Internal Registration
 DESCRIPTION:Gather your team details and register with me by 15 Dec — the competition requires groups of up to 6 and spots fill quickly.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: English - Bring Writing Booklet
 DESCRIPTION:Pack your Writing Booklet tonight for tomorrow's English class — Ms. Mou will check it during the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: Check Emails and Google Classroom Regularly
 DESCRIPTION:Check your email and Google Classroom daily for announcements about the F.1-2 Welcome Activity and future briefing schedules — missing sessions means missing important details.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Bring Writing Booklet
 DESCRIPTION:Pack your Writing Booklet tonight for tomorrow's English class — Ms. Mou will check it during the writing activity.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: OSH Safety Quiz 2026 Enrollment Deadline
 DESCRIPTION:Submit the enrollment form by 12 Oct to form a team of 3-5 members — late entries cannot be accepted.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: IH-CES - Bring textbook back
 DESCRIPTION:Bring your IH-CES textbook to class tomorrow — Ms. Chan expects it for the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Chemistry - Bring textbook and notes for period 7-8 lesson
 DESCRIPTION:Pack your Chemistry textbook and notes tonight for tomorrow's period 7-8 lesson — you'll need them for class activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Bring Grammar Book\, Grammar Booklet\, and Oxford Book (pp. 12-13) to class
 DESCRIPTION:Pack your Grammar Book\, Grammar Booklet\, and Oxford Book with pages 12-13 completed for tomorrow's English class — Ms. Mou will check the work during the lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:REMINDER: Bring Writing Booklet and Grammar Booklet for Checkpoint
 DESCRIPTION:Pack your Writing Booklet and Grammar Booklet tonight — the Checkpoint will be completed in class tomorrow and counts toward your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:REMINDER: English - Bring Writing Booklet and Grammar Booklet for Checkpoint
 DESCRIPTION:Pack your Writing Booklet and Grammar Booklet for Friday's English class — you'll complete the Checkpoint together in class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: Upload reading booklet images to Google Chat
 DESCRIPTION:Follow up on the reading booklet images upload to Google Chat — they're needed for the inference table activity.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: Biology - Suggested answers for Book 1A
 DESCRIPTION:Review the suggested answers for Book 1A on Google Classroom to check your understanding and prepare for future tests.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: 記得今天上堂帶ipad
 DESCRIPTION:記得帶 iPad 返中文堂 — 老師會用電子教材上新課題。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: NORMAL: Biology - Book 1A Suggested Answers
 DESCRIPTION:Review the suggested answers for Book 1A to verify your work — the PDF files are available in the Google Classroom attachments.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: 中文課帶iPad
 DESCRIPTION:Bring your iPad to Chinese class today — the teacher will use it for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: Choose Geography Project Group
 DESCRIPTION:Decide which Geography project group to join by checking the Classroom post — you can join one group or both for two projects.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: Robotics Team Project List
 DESCRIPTION:Review the Robotics Team Project List on Google Classroom to explore project options and prepare for the robotics season.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:REMINDER: M³ Programme Reply Deadline
 DESCRIPTION:Reply to Mr. Wan's email by 30 September to secure your spot in the M³ modules and screening test — the programme is for gifted math students and spaces may be limited.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: NORMAL: Geography - Group Selection
 DESCRIPTION:Reply to the announcement to choose your project group — your decision determines which Geography project you'll collaborate on.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: JCGOAI Survey Participation
 DESCRIPTION:Complete the JCGOAI surveys linked in the announcement to provide feedback for the Math course.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Personal Information Collection Link
 DESCRIPTION:Click the link to complete the personal information collection — this is required for school records.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: English Ambassadors Briefing Session Announcement
 DESCRIPTION:Check Google Classroom for the upcoming announcement about the English Ambassadors briefing session — Ms Mohammad will share the exact date\, time\, and location for next week's meeting.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: 3E Chemistry - Chapter 3 Elements
 DESCRIPTION:Check the new Chapter 3 Elements material on Google Classroom to stay up to date with the 3E Chemistry curriculum.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Biology Lab Rules Review
 DESCRIPTION:Review the 2026-2027 Lab Rules PDF attached in the announcement — familiarize yourself with safety procedures before upcoming practical sessions.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Submit explanation for Relief features assignment
 DESCRIPTION:Email your teacher WHY with a reasonable explanation for not submitting the Relief features assignment to avoid classwork mark deductions.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: STREAM Team Personal Info Collection
 DESCRIPTION:Fill out the STREAM Team personal information collection form via the attached Google Form link to ensure your details are recorded for the program.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-26
 DTEND;VALUE=DATE:2026-09-26
 SUMMARY:REMINDER: Math Chapter 1 Test Parent Signature
 DESCRIPTION:Get your parent's signature on the corrected Chapter 1 test paper and return it to Mr. Ng — this is required for your test record.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Register for CAD Course
 DESCRIPTION:Complete the Google Form registration by Monday 28 Sep 23:59 — spots are limited to 24 students on a first-come\, first-served basis for the free 12-week CAD course starting Fridays after school.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Join 2026-2027 F.1-2 English Ambassadors Class
 DESCRIPTION:Accept the Google Classroom invitation to join the English Ambassadors program for F.1-2 students — this gives you access to ambassador activities and resources.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Bring Grammar Book
 DESCRIPTION:Pack your Grammar Book tonight for tomorrow's English class — Ms. Mou will cover reduced relative clauses in Units 54-55.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Bring Grammar Book for Reduced Relative Clauses Lesson
 DESCRIPTION:Pack your Grammar Book tonight for tomorrow's English class — Ms. Mou will cover reduced relative clauses (Units 54-55) and having the book ready will help you follow along.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:REMINDER: SEPA Badge Status Reply
 DESCRIPTION:Reply to Mr. Yu's email with your SEPA badge status (None\, Basic Environmental Badge\, or Specific Environmental Badge) so he can update your records.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:REMINDER: 3E English - Data File for Test Paper 1 Review
 DESCRIPTION:Download and review the Data File for Test Paper 1 from Google Classroom to prepare for the upcoming test — it contains essential practice material.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:REMINDER: Data File for Test Paper 1
 DESCRIPTION:Download the listening data file from Google Drive to prepare for Test Paper 1 — it contains the audio tracks you'll need for practice.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
 DTEND;VALUE=DATE:2026-09-19
 SUMMARY:REMINDER: NORMAL: 3E Math - Answers to Chapter Tests
 DESCRIPTION:Check the newly posted answers to chapter tests on Google Classroom for 3E Math to review your understanding.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
 DTEND;VALUE=DATE:2026-09-19
 SUMMARY:REMINDER: NORMAL: 3E Physics - Chapter 1 Reflection
 DESCRIPTION:Review the new Chapter 1 Reflection material on Google Classroom to prepare for upcoming physics lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
 SUMMARY:REMINDER: NORMAL: Three Major Effect Models (English Version)
 DESCRIPTION:Download the PDF from Google Drive to study the three major effect models for Integrated Humanities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
 SUMMARY:REMINDER: 帶原稿紙
 DESCRIPTION:Bring your manuscript paper to the next Chinese class so you can write the assignment on the proper sheets.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-16
 DTEND;VALUE=DATE:2026-09-16
 SUMMARY:REMINDER: Pay Attention in Geography Class
 DESCRIPTION:Focus on Au Yeung Sir's Geography lesson during class time — avoid checking messages so you don't miss key content and show respect for the teacher.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-14
 DTEND;VALUE=DATE:2026-09-14
 SUMMARY:REMINDER: Biology Chapter 1 Materials Review
 DESCRIPTION:Review the Chapter 1 worksheet\, presentation\, and revision notes to build a strong foundation for biology — these resources cover key concepts you'll need for upcoming topics.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-14
 DTEND;VALUE=DATE:2026-09-14
 SUMMARY:REMINDER: 2026-2027 Biology Syllabus and Teaching Planner
 DESCRIPTION:Review the attached syllabus and teaching planner to understand the course scope and schedule for the academic year.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-14
 DTEND;VALUE=DATE:2026-09-14
 SUMMARY:REMINDER: NORMAL: Pay $3 for IH-CES file
 DESCRIPTION:Pass $3 cash to your IH-CES class teacher for the component file — confirm the deadline with your teacher.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: NORMAL: 2026-2027 3E IH-CES - File Payment
 DESCRIPTION:Bring $3 to Ms. Chan by Friday — the IH-CES file is required for your upcoming project.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-11
 DTEND;VALUE=DATE:2026-09-11
 SUMMARY:REMINDER: 3E Music - Instrumental Class Form Update (Erhu\, Suona added)
 DESCRIPTION:Fill out the instrumental class Google Form again if you want to apply for Erhu or Suona — the form has been updated with these new options.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-10
 DTEND;VALUE=DATE:2026-09-10
 SUMMARY:REMINDER: Check Updated F.3 IH Curriculum Document
 DESCRIPTION:Review the updated IH curriculum PDF attached in the announcement — it outlines the scope and expectations for the year.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-03
 DTEND;VALUE=DATE:2026-09-03
 SUMMARY:REMINDER: Integrated Humanities - Assessment Details Released
 DESCRIPTION:Review the attached IH assessment document to understand the grading criteria and key dates for the year.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-03
 DTEND;VALUE=DATE:2026-09-03
 SUMMARY:REMINDER: NORMAL: Form 3 IH Google Classroom Setup
 DESCRIPTION:Check the Google Classroom for IH curriculum\, exam notices\, and competition updates posted by your IH teachers.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: 中三 中文 - 全年影印費用 150元
 DESCRIPTION:Bring 150 HKD to class tomorrow for the Chinese photocopy fee — it covers all handouts for the year.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: Chemistry - F.3 Exp WB Ordering
 DESCRIPTION:Fill out the Google Form to order your Experimental Workbook by 3:59 PM on 4 September — the workbook costs about $50 and is needed for upcoming lab sessions.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-02
 DTEND;VALUE=DATE:2026-09-02
 SUMMARY:REMINDER: 中三中文 - 學習常用網站分享
 DESCRIPTION:Bookmark the Chinese learning websites shared in Classroom — the dictionary\, Cantonese pronunciation tool\, and classical literature database will support your language studies.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-01
 DTEND;VALUE=DATE:2026-09-01
 SUMMARY:REMINDER: 2627 3E Music - Stay in Classroom for First Lesson
 DESCRIPTION:Stay in your classroom for the first lesson — the teacher will take attendance and share important course information.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-08-31
 DTEND;VALUE=DATE:2026-08-31
 SUMMARY:REMINDER: STREAM Team Application Form
 DESCRIPTION:Fill in the Google form to continue as a STREAM Team member — junior students need one activity or workshop\, seniors need one external competition to qualify for membership.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-08-28
 DTEND;VALUE=DATE:2026-08-28
 SUMMARY:REMINDER: Join Goodnotes Classroom and review Junior Mathematics Subject Outline
 DESCRIPTION:Join the Goodnotes Classroom using the provided link and review the Junior Mathematics Subject Outline PDF to understand the course expectations and resources.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: STREAM Team - 豐盛宜居科技創想大賽隊伍申請截止
 DESCRIPTION:Submit your team application by 18 Sept to join the competition — teams need 5–10 members including 3+ students and 2+ seniors\, with up to HK$1\,000 material funding available.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: IET Faraday Challenge Team Registration
 DESCRIPTION:Form your team of 3-6 students and email the team leader for registration by 9 September — spots are limited and the challenge starts 17 October.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-08-20
 DTEND;VALUE=DATE:2026-08-20
 SUMMARY:REMINDER: NORMAL: 三菱電機綠續創科盃 2026 公眾投票截止
 DESCRIPTION:Submit your vote for Team S04 CARBONMATE 碳索足迹 by August 20 23:59 — the public voting period ends then.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-07-10
 DTEND;VALUE=DATE:2026-07-10
 SUMMARY:REMINDER: ICT Course Farewell
 DESCRIPTION:Read the farewell announcement from Miss Lam in the ICT classroom — she celebrates your four months together and encourages you to keep learning and shining.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: Bring iPad to Chinese class
 DESCRIPTION:Bring your iPad to the next Chinese lesson — the teacher will use it for group activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: NORMAL: Picnic Day WhatsApp Contact
 DESCRIPTION:Save the WhatsApp contact for Picnic Day emergencies — check the Classroom material for the number and keep it handy.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: Psychology and Photography Therapy Workshop Application
 DESCRIPTION:Submit your application via Google Form by Monday 8:00 PM — only 20 spots available for the workshop on Tuesday.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: NORMAL: iGEM Human Practice Survey Participation
 DESCRIPTION:Complete the anonymous sunscreen usage survey via the Google Form link to help the iGEM team improve their biological sunscreen project before the November jamboree.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Music Festival Fee Cheque Submission
 DESCRIPTION:Submit your Music Festival fee cheque to Mr. Koo in the 3/F staff room during 1st recess tomorrow — late submissions will not be accepted.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-23
 DTEND;VALUE=DATE:2026-10-23
 SUMMARY:REMINDER: NORMAL: Review First Term Uniform Test Syllabus
 DESCRIPTION:Check the syllabus on Google Classroom to see what topics will be covered in the first term uniform test.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: Bring Listening Practice Paper 1 and Data File
 DESCRIPTION:Bring your Listening Practice Paper 1 (Question-Answer book) and Data File to English class tomorrow — you'll complete the listening component and Part B together.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-20
 DTEND;VALUE=DATE:2026-11-20
 SUMMARY:REMINDER: NORMAL: Register for Financial Innovation Competition 2026/27
 DESCRIPTION:Register by 20 November for the Financial Innovation Competition — spots are limited and first-come-first-served. Form a team of 1-5 and sign up via the EDB website to join the preliminary on 16 January.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: NORMAL: Chapter 5: Atoms material available
 DESCRIPTION:Check the new Chapter 5: Atoms material on Google Classroom to prepare for upcoming chemistry lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: Geography Term Work Progress Update
 DESCRIPTION:Group leaders should report their team's term work progress to Mr. Yu — this helps track project milestones and ensures timely completion.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: NORMAL: IH-CES - Correction Format Guidelines
 DESCRIPTION:Review the correction format for dictations and assignments — use a different coloured pen\, copy dictation Part A answers five times\, and mark corrections clearly with numbers or letters.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: NORMAL: History Learning Materials - First and Second World Wars
 DESCRIPTION:Review the attached History learning materials on the First and Second World Wars in Google Classroom to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: 中國歷史 - 便服日班相
 DESCRIPTION:Check the new material "便服日班相" on Google Classroom for details about the casual dress day class photo.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: IH-CES Module 3.2 Learning Focuses
 DESCRIPTION:Review the attached Module 3.2 learning focuses file on Google Classroom to prepare for upcoming lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: 中三 中文 第8組 26-27 - 帶iPad
 DESCRIPTION:Remember to bring your iPad to the next Chinese class — it will be used for digital activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: IH-CES - Module 3.2 Learning Focus and Vocabulary List
 DESCRIPTION:Review the new Module 3.2 learning focus and vocabulary list on Google Classroom — it covers key concepts for upcoming IH-CES lessons.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: F.3 English - Unit 1 Grammar Booklet Answer Key Posted
 DESCRIPTION:Check the Unit 1 Grammar Booklet Answer Key on Google Classroom to review your answers and prepare for upcoming assessments.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:REMINDER: 3E English - Bring Grammar Book and Oxford Textbook
 DESCRIPTION:Bring your Grammar Book and Oxford textbook to tomorrow's English class — you'll need them for the lesson activities.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Fix Learning Reflection Form Untitled Question
 DESCRIPTION:Review the learning reflection form and correct the untitled question Darren identified so students can submit their reflections properly.
+SRC:gmail_1a18c2b977c49760
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Biology Lab Rules
 DESCRIPTION:Review the lab rules on Google Classroom for Form 3E Biology — they outline safety procedures for upcoming experiments.
+SRC:gmail_1a0e71ada17350dc
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: Geography - Let's practise p.83 graded
 DESCRIPTION:Check your graded assignment 'Let's practise p.83' on Google Classroom to review feedback and see where you can improve.
+SRC:gmail_1a0b2feeab8a4823
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: Bring $21 for VA lesson
 DESCRIPTION:Bring $21 to the Visual Arts lesson tomorrow so you can purchase the required supplies for the upcoming project.
+SRC:ann_872830699980
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: 3E Physics - Laboratory Rules
 DESCRIPTION:Review the laboratory rules PDF attached — these safety guidelines are mandatory for all Physics lab sessions this year.
+SRC:ann_877583564350
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: NORMAL: Exercise 2 corr returned
 DESCRIPTION:Review the returned Exercise 2 corrections to understand your mistakes and improve for the next test.
+SRC:gmail_1a12f662ca730b3c
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-01
 DTEND;VALUE=DATE:2026-11-01
 SUMMARY:REMINDER: Improve Fruit Sketching based on teacher feedback
 DESCRIPTION:Review the private comment on your Value: Fruit Sketching submission — the teacher noted the lighter part is not bright enough\, so adjust the values to show stronger contrast.
+SRC:5404
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: IH-CES - Check submitted work for Module 3.1 WS 2
 DESCRIPTION:Check the submitted work for Module 3.1 Worksheet 2 on Google Classroom to review feedback on questions 1\, 4\, 5\, 15\, 19\, 22\, 23\, 24\, 31–35.
+SRC:gmail_1a11f1f4926a9a54
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: NORMAL: 3E Chemistry Exercise 1 corr graded
 DESCRIPTION:Review your graded Exercise 1 correction in Google Classroom to see feedback and understand any mistakes.
+SRC:gmail_1a0eb5b5fac167d7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-11
 DTEND;VALUE=DATE:2026-09-11
 SUMMARY:REMINDER: NORMAL: Review Scheme of Work for Term 1 English
 DESCRIPTION:Check the attached Scheme of Work PDF for important dates like dictations and uniform tests\, and plan your study schedule accordingly.
+SRC:ann_884468931943
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Learning reflection form correction
 DESCRIPTION:Review the learning reflection form and fix the untitled question so your teacher can assess it correctly.
+SRC:gmail_1a18c2b977c49760
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Biology - Lab Rules
 DESCRIPTION:Review the lab rules announcement on Google Classroom for your 2026-2027 Form 3E Biology course to understand safety guidelines before upcoming experiments.
+SRC:gmail_1a0e71ada17350dc
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: 3E Chemistry - Exercise 1 corr graded
 DESCRIPTION:Check your grade for Exercise 1 corr in 3E Chemistry — you received 1/1 and can review feedback on Google Classroom.
+SRC:gmail_1a0eb5b5fac167d7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: 3E VA Lesson - Bring $21
 DESCRIPTION:Bring $21 to your Visual Arts lesson — the fee covers materials for the upcoming project.
+SRC:ann_872830699980
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: Robotics Team Application Deadline
 DESCRIPTION:Fill in the Google Form by 18 September to join the Robotics Team — meetings are Wednesdays 15:45-17:00 at Innovation Centre (6/F) and offer hands-on robotics experience and competition opportunities.
+SRC:ann_878154314281
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-06
 DTEND;VALUE=DATE:2026-09-06
 SUMMARY:REMINDER: 2026-2027 Instrumental Class Application Form
 DESCRIPTION:Complete the 2026-2027 Instrumental Class Application Form via the Google Form link to enroll in instrumental classes.
+SRC:ann_877999069112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-06
 DTEND;VALUE=DATE:2026-09-06
 SUMMARY:REMINDER: 2627 SPC Instrumental Music Information Submission and Music Team Application
 DESCRIPTION:Submit your instrumental music information and apply for the music team using the provided Google Form to join the school music program.
+SRC:ann_877999069112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: Laboratory Rules
 DESCRIPTION:Review the laboratory rules PDF attached in Google Classroom before your first lab session — safety guidelines are essential for all experiments.
+SRC:ann_877583564350
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring…
 DESCRIPTION:From classroom: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:5373
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to submit…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to submit…"\n\n\nNotification set
+SRC:gmail_1a19b552bc334369
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to submit your Unit 1 Learning Reflection as soon as ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to submit your Unit 1 Learning Reflection as soon as possible if you haven't yet done so. For tomorrow's clas
+SRC:ann_897053634570
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring your Oxford English 3A textbook tomorrow\, as ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nJust a reminder to bring your Oxford English 3A textbook tomorrow\, as mentioned earlier today!\n\nBest\, \nMs. Mou
+SRC:ann_896524400111
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to bring…"\n\n\nNotification sett
+SRC:gmail_1a17c9c7e1da60f6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Grammar Book to class tomorrow. We will...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to bring your Grammar Book to class tomorrow. We will first go through the Reading Comprehension where you wi
+SRC:ann_896035958675
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: Bring Book 1A and 1B tomorrow.
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Bring Book 1A and 1B tomorrow."\n\n\nNotification settings  
+SRC:gmail_1a17754a71f55a41
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Bring Book 1A and 1B tomorrow.
 DESCRIPTION:From sheet_csv: Announcement: Bring Book 1A and 1B tomorrow.
+SRC:ann_890596116981
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to bring…"\n\n\nNotification sett
+SRC:gmail_1a17058332892b72
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Listening Practice Paper 1 (Question-An...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to bring your Listening Practice Paper 1 (Question-Answer book) and Data File to class tomorrow! We will fini
+SRC:ann_895650237180
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: STREAM Team members can now order the…
 DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "STREAM Team members can now order the…"\n\n\nNotificatio
+SRC:gmail_1a167dcd90b8af9c
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: STREAM Team members can now order the official STREAM Team Tee\, available exclus...
 DESCRIPTION:From sheet_csv: Announcement: STREAM Team members can now order the official STREAM Team Tee\, available exclusively to team members for $65. Please note that all stud
+SRC:ann_893737379221
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-01-08
 DTEND;VALUE=DATE:2027-01-08
 SUMMARY:REMINDER: Student Innovation Competition 2026/27 …
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Student Innovation Competition 2026/27\n…"\n\n\nNotification
+SRC:gmail_1a157c8b91cf033a
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-01-08
 DTEND;VALUE=DATE:2027-01-08
 SUMMARY:REMINDER: Student Innovation Competition 2026/27   隨着科技與社會發展，創科精神已不僅止於課堂學習，更是連結身邊環境、改善生活品質...
 DESCRIPTION:From sheet_csv: Announcement: Student Innovation Competition 2026/27\n\n\n隨着科技與社會發展，創科精神已不僅止於課堂學習，更是連結身邊環境、改善生活品質的重要鑰匙。「學生創新大賽」以為主題，旨在鼓勵學生立足日常、觀察生活，從「家庭」、「校園」及「社區」三大核心場景
+SRC:ann_893227623436
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: For those who haven’t handed in their…
 DESCRIPTION:From sheet_csv: From: "Paul Siu Hang KOO (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "For those who haven’t handed in their…"\n\n\nNotificat
+SRC:gmail_1a1546c918d073eb
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:REMINDER: Dear class\,   Please be reminded to…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nPlease be reminded to…"\n\n\nNotification se
+SRC:gmail_1a1535bae841d419
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Dear class\,   Please be reminded to bring your Listening Practice Paper 1 Questi...
 DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nPlease be reminded to bring your Listening Practice Paper 1 Question-Answer Book (we have completed Part A on Thursday las
+SRC:ann_874086089289
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: For those who haven’t handed in their Music Festival fee cheque\, please find Mr....
 DESCRIPTION:From sheet_csv: Announcement: For those who haven’t handed in their Music Festival fee cheque\, please find Mr. Koo in the 3/F staff room tomorrow during 1st recess to
+SRC:ann_893037959527
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Psychology and Photography Therapy Workshop
 DESCRIPTION:From sheet_csv: From: Pak Yin Matthew CHAN <221017@std.stpaulscollege.edu.hk>\nSubject: Re: Psychology and Photography Therapy Workshop\n\nDear schoolmates\,\n\nPlease be
+SRC:gmail_1a14e74bbb8e4d9b
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: Dear 3E\,   I know that some groups want…
 DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nI know that some groups want…"\n\n\nNotification 
+SRC:gmail_1a147cbdd7245a70
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: OLE Team Executive Committee Recruitment 2026-2027
 DESCRIPTION:From sheet_csv: From: Ping Ho CHENG <221035@std.stpaulscollege.edu.hk>\nSubject: Re: OLE Team Executive Committee Recruitment 2026-2027\n\nDear Form 3 and Form 4 student
+SRC:gmail_1a1441ed333a7443
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: Dear class\,   Please be reminded to…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nPlease be reminded to…"\n\n\nNotification se
+SRC:gmail_1a13ed1e30bd39b3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:REMINDER: Dear class\,   Please be reminded to bring your Writing Booklet tomorrow for the ...
 DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nPlease be reminded to bring your Writing Booklet tomorrow for the final writing. Remember to submit your Reading Comprehen
+SRC:ann_874006337165
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-01-04
 DTEND;VALUE=DATE:2027-01-04
 SUMMARY:REMINDER: 國民身份認同應用程式設計比賽2026/27   比賽目的：探究創新科技並融入認識國家相關的元素，推動學生認識國家的工作 比賽主題：歷史與自然、體育和藝術、文化遺...
 DESCRIPTION:From sheet_csv: Announcement: 國民身份認同應用程式設計比賽2026/27\n\n\n比賽目的：探究創新科技並融入認識國家相關的元素，推動學生認識國家的工作\n比賽主題：歷史與自然、體育和藝術、文化遺產、科技及航天、美德及習俗和其他主題\n參賽組別：初中組（中一至中三)\n參賽者可以個人或組隊參加，每隊成員上限4人
+SRC:ann_874000357006
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: F.3 Chem Exp WB is $49.4\, please give…
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "F.3 Chem Exp WB is $49.4\, please give…"\n\n\nNotification se
+SRC:gmail_1a138f7f83106518
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:REMINDER: F.3 Chem Exp WB is $49.4\, please give the treasurer $50 tomorrow.   Would the cl...
 DESCRIPTION:From sheet_csv: Announcement: F.3 Chem Exp WB is $49.4\, please give the treasurer $50 tomorrow. \n\nWould the class treasurer collect the money and give me  $49.4  x 35
+SRC:ann_873963304844
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: As we prepare for our school's 175th…
 DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "As we prepare for our school's 175th…"\n\n\nNotification
+SRC:gmail_1a134d21e4f3bdae
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: As we prepare for our school's 175th Anniversary Open Day and the upcoming compe...
 DESCRIPTION:From sheet_csv: Announcement: As we prepare for our school's 175th Anniversary Open Day and the upcoming competitions\, we are opening sign-ups for both volunteering a
+SRC:ann_873944620286
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease continue to bring the…"\n\n\nNotificatio
+SRC:gmail_1a13046e9cb0b6d1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Urgent-今天放學去睇中醫
 DESCRIPTION:From sheet_csv: From: Sharon CHEUNG <tzelunsharon@hotmail.com>\nSubject: Urgent-今天放學去睇中醫\n\nDearest Darren\,\n爸爸說今天下午放學後（星期一），自己去中醫診所打脈拿藥！ 因為明天中醫師放假不在診所，所以必須今天（星期一）下午放學後去
+SRC:gmail_1a12e31895fe3059
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: Urgent-今天放學去睇中醫
 DESCRIPTION:From sheet_csv: From: Lai Yin Darren CHAN <241013@std.stpaulscollege.edu.hk>\nSubject: Re: Urgent-今天放學去睇中醫\n\nNO\n\nOn Mon\, 12 Oct 2026 at 11:39 AM\, Sharon CHEUNG <tzelu
+SRC:gmail_1a12e6e4afaf8ea7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the Listening Booklet to class tomorrow. If ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease continue to bring the Listening Booklet to class tomorrow. If you would like to subscribe to SCMP\, tomorrow is the dea
+SRC:ann_890546114818
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: Submitted work Module 3.1 WS 2: 1\, 4\,…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Submitted work Module 3.1 WS 2:\n1\, 4\,…"\n\n\nNotific
+SRC:gmail_1a11f1f4926a9a54
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: Complete Module 3.1 WS 2 and submit it…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Complete Module 3.1 WS 2 and submit it…"\n\n\nNotifi
+SRC:gmail_1a11ed1342782eb9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: Dear English Ambassadors\,   As mentioned in the briefing\, our first activity\, th...
 DESCRIPTION:From sheet_csv: Announcement: Dear English Ambassadors\, \n\nAs mentioned in the briefing\, our first activity\, the SPC National and World History Game Show\, will be held
+SRC:ann_873917721475
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: Complete Module 3.1 WS 2 and submit it to Jayden or Reese.  Complete textbook p....
 DESCRIPTION:From sheet_csv: Announcement: Complete Module 3.1 WS 2 and submit it to Jayden or Reese. \nComplete textbook p. 37-38. Answer checking on Monday.
+SRC:ann_890134037517
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:REMINDER: OLE Team Executive Committee Recruitment 2026-2027
 DESCRIPTION:From sheet_csv: From: Ping Ho CHENG <221035@std.stpaulscollege.edu.hk>\nSubject: OLE Team Executive Committee Recruitment 2026-2027\n\nDear Form 3 and Form 4 students\,\n
+SRC:gmail_1a11ae1ef873bbc7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: Dear Students\,  Just a quick reminder…
 DESCRIPTION:From sheet_csv: From: "Katrina BERTHOLD (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear Students\,\n\nJust a quick reminder…"\n\n\nNotifica
+SRC:gmail_1a1159e3a308b499
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027  …
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "「綠色空間　由我創造」學生比賽 2026-2027\n\n…"\n\n\nNotification settings  \n
+SRC:gmail_1a114e5173cd0194
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Online challenge: The image of the…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Online challenge:\nThe image of the…"\n\n\nNotificat
+SRC:gmail_1a113f3060476865
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: Dear Students\,  Just a quick reminder that the briefing session for Filmit 2027:...
 DESCRIPTION:From sheet_csv: Announcement: Dear Students\,\n\nJust a quick reminder that the briefing session for Filmit 2027: Read to Reel is happening tomorrow\, Thursday\, October 8
+SRC:ann_889617565590
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-15
 DTEND;VALUE=DATE:2026-12-15
 SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027   今屆比賽以「自然正向的理想建築環境」為主題，鼓勵學生運用創意思維重新思考城市與自然的關係，從設計、規劃、...
 DESCRIPTION:From sheet_csv: Announcement: 「綠色空間　由我創造」學生比賽 2026-2027\n\n\n今屆比賽以「自然正向的理想建築環境」為主題，鼓勵學生運用創意思維重新思考城市與自然的關係，從設計、規劃、工程、氣候韌性策略及基於自然的解決方案等角度出發，展現對宜居、可再生、零廢棄及循環建築環境的願景。議會接受多種創
+SRC:ann_889592955700
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Announcement about the OPTIONAL SCMP…"\n\n\nNotification set
+SRC:gmail_1a1106c57d816ad0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to bring…"\n\n\nNotification s
+SRC:gmail_1a11067f0bd8c513
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP Subscription  If any of you are interested ...
 DESCRIPTION:From sheet_csv: Announcement: Announcement about the OPTIONAL SCMP Subscription\n\nIf any of you are interested in subscribing to the SCMP to broaden your horizons and 
+SRC:ann_873844847344
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring your Writing Booklet to class tomorrow.  ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease be reminded to bring your Writing Booklet to class tomorrow. \n\nWarm regards\, \nMs. Mou
+SRC:ann_889337909062
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Dear students\, Please note that there…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear students\,\nPlease note that there…"\n\n\nNotifi
+SRC:gmail_1a10a63da036a3a8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: Dear students\, Please note that there is a lesson swapping with Ms. Kwok. 5/10 L...
 DESCRIPTION:From sheet_csv: Announcement: Dear students\,\nPlease note that there is a lesson swapping with Ms. Kwok.\n5/10 Lesson 7 --> LYK\n6/10 Lesson 9 --> HYC\nPlease bring your 
+SRC:ann_889054511254
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-04
 DTEND;VALUE=DATE:2026-10-04
 SUMMARY:REMINDER: Dear class\,   Hope you are enjoying…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nHope you are enjoying…"\n\n\nNotification se
+SRC:gmail_1a10699a45669f81
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-04
 DTEND;VALUE=DATE:2026-10-04
 SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes…
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Reminder: Bring Chem textbook and notes…"\n\n\nNotification 
+SRC:gmail_1a104b183a617042
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Dear class\,   Hope you are enjoying your weekend!   May I remind you to bring yo...
 DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nHope you are enjoying your weekend! \n\nMay I remind you to bring your Grammar Book and Grammar Booklet to class tomorrow\, a
+SRC:ann_888972073608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at p...
 DESCRIPTION:From sheet_csv: Announcement: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at period 7-8.
+SRC:ann_888951625767
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-01
 DTEND;VALUE=DATE:2026-10-01
 SUMMARY:REMINDER: Dear 3E\,   Hope you are all enjoying…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nHope you are all enjoying…"\n\n\nNotification s
+SRC:gmail_1a0f706c2b45b8c0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:REMINDER: Dear 3E\,   Hope you are all enjoying the holiday!   Please be reminded to bring ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nHope you are all enjoying the holiday! \n\nPlease be reminded to bring your Writing Booklet and Grammar Booklet to class on Fri
+SRC:ann_888460939715
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: Dear 3E\,   I said by tomorrow morning…
 DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nI said by tomorrow morning…"\n\n\nNotification 
+SRC:gmail_1a0ebb292cc61f87
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Please find the attached link for the…
 DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Please find the attached link for the…"\n\n\nNotificatio
+SRC:gmail_1a0e711277c1dbba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to…"\n\n\nNotification setting
+SRC:gmail_1a0e5ff8a17165fa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to complete the Task on writing your own lead para...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease be reminded to complete the Task on writing your own lead paragraph on p.g. 8 of your Writing Booklet tomorrow. We wil
+SRC:ann_887652231294
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: 航天創科體驗日  Date: 24 Oct 2026 (Saturday)…
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "航天創科體驗日\n\nDate: 24 Oct 2026 (Saturday)…"\n\n\nNotification se
+SRC:gmail_1a0ccf9d1e04a75a
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-25
 DTEND;VALUE=DATE:2026-09-25
 SUMMARY:REMINDER: 2025-2026 S.A. Outstanding Affiliated Clubs
 DESCRIPTION:From sheet_csv: From: Tsz Hin YUEN <211203@std.stpaulscollege.edu.hk>\nSubject: 2025-2026 S.A. Outstanding Affiliated Clubs\n\nDear students\,\n\nS.A. Affiliated Clubs ha
+SRC:gmail_1a0cb952c12d8e71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-24
 DTEND;VALUE=DATE:2026-10-24
 SUMMARY:REMINDER: 航天創科體驗日  Date: 24 Oct 2026 (Saturday) Time: 9:30am to 2pm Location: HK Science P...
 DESCRIPTION:From sheet_csv: Announcement: 航天創科體驗日\n\nDate: 24 Oct 2026 (Saturday)\nTime: 9:30am to 2pm\nLocation: HK Science Park 香港科學園\nTarget: F.1 to F.3\nQuota: 20\nFee: Free of char
+SRC:ann_886742770489
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-22
 DTEND;VALUE=DATE:2026-09-22
 SUMMARY:REMINDER: Dear 3E\,   Please bring your Grammar…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease bring your Grammar…"\n\n\nNotification set
+SRC:gmail_1a0c7e2f56e9c3db
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Dear 3E\,   Please bring your Grammar Book to class tomorrow. If you would like t...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease bring your Grammar Book to class tomorrow. If you would like to preview what we will be doing tomorrow at home\, you ma
+SRC:ann_873288371872
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-27
 DTEND;VALUE=DATE:2026-09-27
 SUMMARY:REMINDER: Recruitment of STREAM Team Specialists…
 DESCRIPTION:From sheet_csv: From: "Kwok Cho TSANG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Recruitment of STREAM Team Specialists…"\n\n\nNotificatio
+SRC:gmail_1a0c35ffa14d559c
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-20
 DTEND;VALUE=DATE:2026-09-20
 SUMMARY:REMINDER: Students' Association Official and Sub-Committee Member Recruitment
 DESCRIPTION:From sheet_csv: From: Shing Hei Lincoln NG <221144@std.stpaulscollege.edu.hk>\nSubject: Students' Association Official and Sub-Committee Member Recruitment\n\nDear schoo
+SRC:gmail_1a0c34a6608e7b1d
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-27
 DTEND;VALUE=DATE:2026-09-27
 SUMMARY:REMINDER: Recruitment of STREAM Team Specialists Specialists form a core part of the STREA...
 DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Specialists\nSpecialists form a core part of the STREAM team\, bringing focused expertise that helps groups per
+SRC:ann_873247856302
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-20
 DTEND;VALUE=DATE:2026-09-20
 SUMMARY:REMINDER: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)  寫作要求： …
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)\n\n寫作要求：\n…"\n\n\nNotification set
+SRC:gmail_1a0be25a0c65ab29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:REMINDER: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)  寫作要求：  短文寫作 (記敘、描寫、抒情)  要有景、有事、有人、有情、有理   先選一地點，例...
 DESCRIPTION:From sheet_csv: Announcement: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)\n\n寫作要求：\n\n短文寫作 (記敘、描寫、抒情)\n\n要有景、有事、有人、有情、有理 \n\n先選一地點，例如：\n\n麥當勞\n搭地鐵\n圖書館\n食店\n各類店鋪或其他有趣的地方(但不宜太「大」)\n\n寫一篇發生在 [麥當勞  ]
+SRC:ann_886137470234
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: Submit HW on 2 Oct (Friday)
 DESCRIPTION:From sheet_csv: From: "Andrea WONG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Submit HW on 2 Oct (Friday) "\n\n\nNotification settings  \n
+SRC:gmail_1a0b3107e8bde430
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:REMINDER: Submit HW on 2 Oct (Friday)
 DESCRIPTION:From sheet_csv: Announcement: Submit HW on 2 Oct (Friday) 
+SRC:ann_885847033705
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: Dear students\, Kindly pass $3 to me for the IH-CES file. I will collect it on Fr...
 DESCRIPTION:From sheet_csv: Announcement: Dear students\,\nKindly pass $3 to me for the IH-CES file. I will collect it on Friday. Thank you.\nBest regards\,\nMs. Chan
+SRC:ann_884863706223
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
 DTEND;VALUE=DATE:2026-09-15
 SUMMARY:REMINDER: 1 明天上堂繼續用文言閱讀理解  2 誦讀    陶淵明  《五柳先生傳 》  先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好...
 DESCRIPTION:From sheet_csv: Announcement: \n1 明天上堂繼續用文言閱讀理解\n\n2 誦讀  \n\n陶淵明  《五柳先生傳 》\n\n先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好讀書，不求甚解；每有會意，便欣然忘食。\n\n性嗜酒，家貧不能常得。親舊知其如此，或置酒而招之；造飲輒盡，期在必醉
+SRC:ann_872979707722
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:REMINDER: Samsung Solve for Tomorrow 2026-27  今屆 Solve for Tomorrow 2026-2027 以「看見所需，啟動未來」...
 DESCRIPTION:From sheet_csv: Announcement: Samsung Solve for Tomorrow 2026-27\n\n今屆 Solve for Tomorrow 2026-2027 以「看見所需，啟動未來」（See the Need. Prompt the Future.）為主題，呼應聯合國可持續發展目標（SDGs）
+SRC:ann_884854791812
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-13
 DTEND;VALUE=DATE:2026-09-13
 SUMMARY:REMINDER: Dear F.3 Students\,  Just a gentle reminder that the deadline to enroll in this y...
 DESCRIPTION:From sheet_csv: Announcement: Dear F.3 Students\,\n\nJust a gentle reminder that the deadline to enroll in this year's Speech Festival is coming up on September 13!\n\nDon
+SRC:ann_872863357317
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: Please bring $21 to the VA lesson tomorrow
 DESCRIPTION:From sheet_csv: Announcement: Please bring $21 to the VA lesson tomorrow 
+SRC:ann_872830699980
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: Recruitment for Robotics Team Members  We are looking for new members to join th...
 DESCRIPTION:From sheet_csv: Announcement: Recruitment for Robotics Team Members\n\nWe are looking for new members to join the Robotics Team this year. \n\nWhat does the Robotics Team
+SRC:ann_878154314281
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
 DTEND;VALUE=DATE:2026-09-15
 SUMMARY:REMINDER: Recruitment of STREAM Team Captain(s)  We are looking for the STREAM Team Captai...
 DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Captain(s)\n\nWe are looking for the STREAM Team Captain(s) for this school year.\n\nWhat Does the STREAM Team Ca
+SRC:ann_872689728249
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: 明天請帶備150元，為中文科全年影印費用。
 DESCRIPTION:From sheet_csv: Announcement: 明天請帶備150元，為中文科全年影印費用。\n
+SRC:ann_872630841155
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:REMINDER: 中電智能都會創新能源比賽2026-2027  Target: F.4-5 Team of four students  Please see the attac...
 DESCRIPTION:From sheet_csv: Announcement: 中電智能都會創新能源比賽2026-2027\n\nTarget: F.4-5\nTeam of four students\n\nPlease see the attached file for information.\n\nExternal deadline: 16 Oct 202
+SRC:ann_877019189576
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: 豐盛宜居：科技創想大賽(2026-27)  為「沙田豐盛苑及周邊一帶」設計具可行性且貼合長者需要的「智齡及無障礙社區方案」  學校及學生參賽效益與亮點：  跨代...
 DESCRIPTION:From sheet_csv: Announcement: 豐盛宜居：科技創想大賽(2026-27)\n\n為「沙田豐盛苑及周邊一帶」設計具可行性且貼合長者需要的「智齡及無障礙社區方案」\n\n學校及學生參賽效益與亮點：\n\n跨代共創與社區實踐： 學生將與\n50+ 義工攜手，透過實地考察沙田豐盛苑，親身了解長者生活挑戰並構思解決方案。(註：
+SRC:ann_875512054038
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days 2026     Theme  Environmental protection an...
 DESCRIPTION:From sheet_csv: Announcement: IET Hong Kong Faraday Challenge Days 2026\n\n\n\n\nTheme\n\nEnvironmental protection and conservation (kept secret until the day).\n\nTarget Stud
+SRC:ann_874407110665
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-08-20
 DTEND;VALUE=DATE:2026-08-20
 SUMMARY:REMINDER: Dear all English Ambassadors:  Have you ever wanted to get hands-on experience o...
 DESCRIPTION:From sheet_csv: Announcement: Dear all English Ambassadors:\n\nHave you ever wanted to get hands-on experience on how to plan and host events? Or do you want to simply 
+SRC:ann_870369468570
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
 DTEND;VALUE=DATE:2026-09-15
 SUMMARY:REMINDER: Form 3 Class Librarian Information Form
 DESCRIPTION:From Gmail: Dear Form 3 Students\,\n\nI am writing to collect all Form 3 class librarian information\; every class\nshould have 2 class librarians. If you are a cla
+SRC:gmail_611324
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
 DTEND;VALUE=DATE:2026-09-19
 SUMMARY:REMINDER: Chapter 1 - Reflection
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_567358
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Campus Anti-Drug Challenge
 DESCRIPTION:From Gmail: Dear Junior Form Students\,\n\nThe Campus Anti-Drug Challenge\, organized by student mentees from the\nLeadership Institute on Narcotics (L.I.O.N.)\, fou
+SRC:gmail_961368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:REMINDER: Recruitment of STREAM Team Specialists…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_638846
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-11
 DTEND;VALUE=DATE:2026-09-11
 SUMMARY:REMINDER: Applications Open: PAUL’S LEGACY Leadership Programme 26/27
 DESCRIPTION:From Gmail: Dear F.3 to F.5 Students\,\n\nThis is a final reminder that applications for PAUL’S LEGACY close tonight.\nIf you are interested in learning more about
+SRC:gmail_352709
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:REMINDER: Invitation for Self-Nomination: External Student Competitions & Awards (2026–202...
 DESCRIPTION:From Gmail: Dear Students\,\n\nThe Other Learning Experiences Team invites you to indicate your interest\nin participating in several prestigious student competiti
+SRC:gmail_472669
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-22
 DTEND;VALUE=DATE:2026-09-22
 SUMMARY:REMINDER: Dear 3E\,   Please bring your Grammar…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_146222
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-22
 DTEND;VALUE=DATE:2026-09-22
 SUMMARY:REMINDER: Invitation for Self-Nomination: External Student Competitions & Awards (2026–202...
 DESCRIPTION:From Gmail: This is a gentle reminder to complete the form if you are interested in\nbeing nominated for such competitions/awards. Please complete the Google\nFor
+SRC:gmail_745001
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:REMINDER: Dear 3E\,   In Form 3\, we will have a…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_544399
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_526768
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: CityUHK Science Patent Challenge…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_708058
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Online challenge: The image of the…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_203406
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:REMINDER: Dear Students\,  Just a quick reminder…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_282390
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: 中國工農紅軍長征勝利90周年_問答比賽
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_393701
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_340106
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:REMINDER: Submitted work Module 3.1 WS 2: 1\, 4\,…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_648215
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_413328
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Dear 3E\,   Please bring your Writing…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_743228
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: [Reminder] Secure Your Spot for St Paul's College Joint  University Information ...
 DESCRIPTION:From Gmail: Form 3\,\n\nTo ensure you are equipped with accurate\, first-hand strategic information\nfor your university options\, the school will host a Joint Unive
+SRC:gmail_646740
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Student Innovation Competition 2026/27 …
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_749964
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-23
 DTEND;VALUE=DATE:2026-10-23
 SUMMARY:REMINDER: Dear Students\,  The First Term Uniform…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_785542
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-23
 DTEND;VALUE=DATE:2026-10-23
 SUMMARY:REMINDER: STREAM Team members can now order the…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_82947
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_630538
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: [Reminder] Joint University Information Session 2026 to be held  This Evening\, 5...
 DESCRIPTION:From Gmail: Greetings\,\n\nThis is to remind you that the Joint University Information Session 2026\nwill be held this evening:\n*Date: *26 October 2026 (Today)\n*
+SRC:gmail_652763
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Invitation to participate in a Mathematics Competition (December 2026)
 DESCRIPTION:From Gmail: Dear students\,\n\nThis is a reminder that if you are interested in joining the competition\,\nplease complete the Google Form and submit your cheque to
+SRC:gmail_320265
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:REMINDER: Dear 3E\,  Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_702444
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Submission of IH-CES portfolios: …
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_474847
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_177911
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder that we will…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_459908
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_817491
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_924011
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Learning reflection form
 DESCRIPTION:From Gmail: Dear Darren\,\n\nThank you for letting me know\, appreciate it!\n\nBest\,\nMs. Mou\n\nOn Fri\, Oct 30\, 2026 at 5:37 PM Lai Yin Darren CHAN <\n241013@std.s
+SRC:gmail_666394
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to submit…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_192531
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: Reminder: Bring exp WB tomorrow.
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_730655
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_535813
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:REMINDER: Dear 3E\,   May I ask you all to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_592881
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-06
 DTEND;VALUE=DATE:2026-11-06
 SUMMARY:REMINDER: Term Work
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_480333
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-06
 DTEND;VALUE=DATE:2026-11-06
 SUMMARY:REMINDER: IH-CES Form 3 Term Work
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_921799
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-06
 DTEND;VALUE=DATE:2026-11-06
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_639363
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-11
 DTEND;VALUE=DATE:2026-11-11
 SUMMARY:REMINDER: Bring the sketchbook and VA noted to…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_232406
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-12
 DTEND;VALUE=DATE:2026-11-12
 SUMMARY:REMINDER: KidWind Competition  Target: F.3 to F.5…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_258451
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-12
 DTEND;VALUE=DATE:2026-11-12
 SUMMARY:REMINDER: Dear 3E\,    A warm reminder: next…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_249472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-12
 DTEND;VALUE=DATE:2026-11-12
 SUMMARY:REMINDER: Dear Students\,  Please be informed that…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_191132
 END:VEVENT
 END:VCALENDAR
