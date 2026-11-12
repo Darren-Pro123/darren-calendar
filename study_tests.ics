@@ -831,4 +831,22 @@ DTEND;VALUE=DATE:2026-12-04
 SUMMARY:TEST: Uniform Test  Date: 4 Dec 2026 (Fri)…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematic
+DESCRIPTION:From queue recovery
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-24
+DTEND;VALUE=DATE:2026-09-24
+SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concer
+DESCRIPTION:From queue recovery
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑
+DESCRIPTION:From queue recovery
+END:VEVENT
 END:VCALENDAR
