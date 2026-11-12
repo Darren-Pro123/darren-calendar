@@ -100,12 +100,6 @@ SUMMARY:REMINDER: 帶文言文練習、帶iPad
 DESCRIPTION:請帶上文言文練習和 iPad 參加下一堂課 — 老師會檢查練習並使用 iPad 進行互動活動。
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:REMINDER: Bring Oxford English 3A textbook
-DESCRIPTION:Pack your Oxford English 3A textbook for class tomorrow — Ms. Mou reminded the class to bring it for the lesson.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:REMINDER: NORMAL: IH-CES Module 3.2 Learning Focuses
@@ -1040,5 +1034,497 @@ DTSTART;VALUE=DATE:2026-09-04
 DTEND;VALUE=DATE:2026-09-04
 SUMMARY:REMINDER: Laboratory Rules
 DESCRIPTION:Review the laboratory rules PDF attached in Google Classroom before your first lab session — safety guidelines are essential for all experiments.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-29
+DTEND;VALUE=DATE:2026-10-29
+SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring…
+DESCRIPTION:From classroom: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-02
+DTEND;VALUE=DATE:2026-11-02
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to submit…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to submit…"\n\n\nNotification set
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-03
+DTEND;VALUE=DATE:2026-11-03
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to submit your Unit 1 Learning Reflection as soon as ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to submit your Unit 1 Learning Reflection as soon as possible if you haven't yet done so. For tomorrow's clas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-30
+DTEND;VALUE=DATE:2026-10-30
+SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring your Oxford English 3A textbook tomorrow\, as ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nJust a reminder to bring your Oxford English 3A textbook tomorrow\, as mentioned earlier today!\n\nBest\, \nMs. Mou
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-27
+DTEND;VALUE=DATE:2026-10-27
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to bring…"\n\n\nNotification sett
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-28
+DTEND;VALUE=DATE:2026-10-28
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Grammar Book to class tomorrow. We will...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to bring your Grammar Book to class tomorrow. We will first go through the Reading Comprehension where you wi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:REMINDER: Bring Book 1A and 1B tomorrow.
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Bring Book 1A and 1B tomorrow."\n\n\nNotification settings  
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-27
+DTEND;VALUE=DATE:2026-10-27
+SUMMARY:REMINDER: Bring Book 1A and 1B tomorrow.
+DESCRIPTION:From sheet_csv: Announcement: Bring Book 1A and 1B tomorrow.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-25
+DTEND;VALUE=DATE:2026-10-25
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to bring…"\n\n\nNotification sett
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-25
+DTEND;VALUE=DATE:2026-10-25
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Listening Practice Paper 1 (Question-An...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to bring your Listening Practice Paper 1 (Question-Answer book) and Data File to class tomorrow! We will fini
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-30
+DTEND;VALUE=DATE:2026-10-30
+SUMMARY:REMINDER: STREAM Team members can now order the…
+DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "STREAM Team members can now order the…"\n\n\nNotificatio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-30
+DTEND;VALUE=DATE:2026-10-30
+SUMMARY:REMINDER: STREAM Team members can now order the official STREAM Team Tee\, available exclus...
+DESCRIPTION:From sheet_csv: Announcement: STREAM Team members can now order the official STREAM Team Tee\, available exclusively to team members for $65. Please note that all stud
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2027-01-08
+DTEND;VALUE=DATE:2027-01-08
+SUMMARY:REMINDER: Student Innovation Competition 2026/27 …
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Student Innovation Competition 2026/27\n…"\n\n\nNotification
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2027-01-08
+DTEND;VALUE=DATE:2027-01-08
+SUMMARY:REMINDER: Student Innovation Competition 2026/27   隨着科技與社會發展，創科精神已不僅止於課堂學習，更是連結身邊環境、改善生活品質...
+DESCRIPTION:From sheet_csv: Announcement: Student Innovation Competition 2026/27\n\n\n隨着科技與社會發展，創科精神已不僅止於課堂學習，更是連結身邊環境、改善生活品質的重要鑰匙。「學生創新大賽」以為主題，旨在鼓勵學生立足日常、觀察生活，從「家庭」、「校園」及「社區」三大核心場景
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-19
+DTEND;VALUE=DATE:2026-10-19
+SUMMARY:REMINDER: For those who haven’t handed in their…
+DESCRIPTION:From sheet_csv: From: "Paul Siu Hang KOO (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "For those who haven’t handed in their…"\n\n\nNotificat
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-19
+DTEND;VALUE=DATE:2026-10-19
+SUMMARY:REMINDER: Dear class\,   Please be reminded to…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nPlease be reminded to…"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:REMINDER: Dear class\,   Please be reminded to bring your Listening Practice Paper 1 Questi...
+DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nPlease be reminded to bring your Listening Practice Paper 1 Question-Answer Book (we have completed Part A on Thursday las
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:REMINDER: For those who haven’t handed in their Music Festival fee cheque\, please find Mr....
+DESCRIPTION:From sheet_csv: Announcement: For those who haven’t handed in their Music Festival fee cheque\, please find Mr. Koo in the 3/F staff room tomorrow during 1st recess to
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:REMINDER: Psychology and Photography Therapy Workshop
+DESCRIPTION:From sheet_csv: From: Pak Yin Matthew CHAN <221017@std.stpaulscollege.edu.hk>\nSubject: Re: Psychology and Photography Therapy Workshop\n\nDear schoolmates\,\n\nPlease be
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-17
+DTEND;VALUE=DATE:2026-10-17
+SUMMARY:REMINDER: Dear 3E\,   I know that some groups want…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nI know that some groups want…"\n\n\nNotification 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:REMINDER: OLE Team Executive Committee Recruitment 2026-2027
+DESCRIPTION:From sheet_csv: From: Ping Ho CHENG <221035@std.stpaulscollege.edu.hk>\nSubject: Re: OLE Team Executive Committee Recruitment 2026-2027\n\nDear Form 3 and Form 4 student
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-15
+DTEND;VALUE=DATE:2026-10-15
+SUMMARY:REMINDER: Dear class\,   Please be reminded to…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nPlease be reminded to…"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-16
+DTEND;VALUE=DATE:2026-10-16
+SUMMARY:REMINDER: Dear class\,   Please be reminded to bring your Writing Booklet tomorrow for the ...
+DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nPlease be reminded to bring your Writing Booklet tomorrow for the final writing. Remember to submit your Reading Comprehen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2027-01-04
+DTEND;VALUE=DATE:2027-01-04
+SUMMARY:REMINDER: 國民身份認同應用程式設計比賽2026/27   比賽目的：探究創新科技並融入認識國家相關的元素，推動學生認識國家的工作 比賽主題：歷史與自然、體育和藝術、文化遺...
+DESCRIPTION:From sheet_csv: Announcement: 國民身份認同應用程式設計比賽2026/27\n\n\n比賽目的：探究創新科技並融入認識國家相關的元素，推動學生認識國家的工作\n比賽主題：歷史與自然、體育和藝術、文化遺產、科技及航天、美德及習俗和其他主題\n參賽組別：初中組（中一至中三)\n參賽者可以個人或組隊參加，每隊成員上限4人
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:REMINDER: F.3 Chem Exp WB is $49.4\, please give…
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "F.3 Chem Exp WB is $49.4\, please give…"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-15
+DTEND;VALUE=DATE:2026-10-15
+SUMMARY:REMINDER: F.3 Chem Exp WB is $49.4\, please give the treasurer $50 tomorrow.   Would the cl...
+DESCRIPTION:From sheet_csv: Announcement: F.3 Chem Exp WB is $49.4\, please give the treasurer $50 tomorrow. \n\nWould the class treasurer collect the money and give me  $49.4  x 35
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:REMINDER: As we prepare for our school's 175th…
+DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "As we prepare for our school's 175th…"\n\n\nNotification
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:REMINDER: As we prepare for our school's 175th Anniversary Open Day and the upcoming compe...
+DESCRIPTION:From sheet_csv: Announcement: As we prepare for our school's 175th Anniversary Open Day and the upcoming competitions\, we are opening sign-ups for both volunteering a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease continue to bring the…"\n\n\nNotificatio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:REMINDER: Urgent-今天放學去睇中醫
+DESCRIPTION:From sheet_csv: From: Sharon CHEUNG <tzelunsharon@hotmail.com>\nSubject: Urgent-今天放學去睇中醫\n\nDearest Darren\,\n爸爸說今天下午放學後（星期一），自己去中醫診所打脈拿藥！ 因為明天中醫師放假不在診所，所以必須今天（星期一）下午放學後去
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:REMINDER: Urgent-今天放學去睇中醫
+DESCRIPTION:From sheet_csv: From: Lai Yin Darren CHAN <241013@std.stpaulscollege.edu.hk>\nSubject: Re: Urgent-今天放學去睇中醫\n\nNO\n\nOn Mon\, 12 Oct 2026 at 11:39 AM\, Sharon CHEUNG <tzelu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the Listening Booklet to class tomorrow. If ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease continue to bring the Listening Booklet to class tomorrow. If you would like to subscribe to SCMP\, tomorrow is the dea
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:REMINDER: Submitted work Module 3.1 WS 2: 1\, 4\,…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Submitted work Module 3.1 WS 2:\n1\, 4\,…"\n\n\nNotific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:REMINDER: Complete Module 3.1 WS 2 and submit it…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Complete Module 3.1 WS 2 and submit it…"\n\n\nNotifi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:REMINDER: Dear English Ambassadors\,   As mentioned in the briefing\, our first activity\, th...
+DESCRIPTION:From sheet_csv: Announcement: Dear English Ambassadors\, \n\nAs mentioned in the briefing\, our first activity\, the SPC National and World History Game Show\, will be held
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:REMINDER: Complete Module 3.1 WS 2 and submit it to Jayden or Reese.  Complete textbook p....
+DESCRIPTION:From sheet_csv: Announcement: Complete Module 3.1 WS 2 and submit it to Jayden or Reese. \nComplete textbook p. 37-38. Answer checking on Monday.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-16
+DTEND;VALUE=DATE:2026-10-16
+SUMMARY:REMINDER: OLE Team Executive Committee Recruitment 2026-2027
+DESCRIPTION:From sheet_csv: From: Ping Ho CHENG <221035@std.stpaulscollege.edu.hk>\nSubject: OLE Team Executive Committee Recruitment 2026-2027\n\nDear Form 3 and Form 4 students\,\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:REMINDER: Dear Students\,  Just a quick reminder…
+DESCRIPTION:From sheet_csv: From: "Katrina BERTHOLD (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear Students\,\n\nJust a quick reminder…"\n\n\nNotifica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-07
+DTEND;VALUE=DATE:2026-10-07
+SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027  …
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "「綠色空間　由我創造」學生比賽 2026-2027\n\n…"\n\n\nNotification settings  \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-07
+DTEND;VALUE=DATE:2026-10-07
+SUMMARY:REMINDER: Online challenge: The image of the…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Online challenge:\nThe image of the…"\n\n\nNotificat
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:REMINDER: Dear Students\,  Just a quick reminder that the briefing session for Filmit 2027:...
+DESCRIPTION:From sheet_csv: Announcement: Dear Students\,\n\nJust a quick reminder that the briefing session for Filmit 2027: Read to Reel is happening tomorrow\, Thursday\, October 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-12-15
+DTEND;VALUE=DATE:2026-12-15
+SUMMARY:REMINDER: 「綠色空間　由我創造」學生比賽 2026-2027   今屆比賽以「自然正向的理想建築環境」為主題，鼓勵學生運用創意思維重新思考城市與自然的關係，從設計、規劃、...
+DESCRIPTION:From sheet_csv: Announcement: 「綠色空間　由我創造」學生比賽 2026-2027\n\n\n今屆比賽以「自然正向的理想建築環境」為主題，鼓勵學生運用創意思維重新思考城市與自然的關係，從設計、規劃、工程、氣候韌性策略及基於自然的解決方案等角度出發，展現對宜居、可再生、零廢棄及循環建築環境的願景。議會接受多種創
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Announcement about the OPTIONAL SCMP…"\n\n\nNotification set
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-06
+DTEND;VALUE=DATE:2026-10-06
+SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to bring…"\n\n\nNotification s
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP Subscription  If any of you are interested ...
+DESCRIPTION:From sheet_csv: Announcement: Announcement about the OPTIONAL SCMP Subscription\n\nIf any of you are interested in subscribing to the SCMP to broaden your horizons and 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-07
+DTEND;VALUE=DATE:2026-10-07
+SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring your Writing Booklet to class tomorrow.  ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease be reminded to bring your Writing Booklet to class tomorrow. \n\nWarm regards\, \nMs. Mou
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-05
+DTEND;VALUE=DATE:2026-10-05
+SUMMARY:REMINDER: Dear students\, Please note that there…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear students\,\nPlease note that there…"\n\n\nNotifi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-06
+DTEND;VALUE=DATE:2026-10-06
+SUMMARY:REMINDER: Dear students\, Please note that there is a lesson swapping with Ms. Kwok. 5/10 L...
+DESCRIPTION:From sheet_csv: Announcement: Dear students\,\nPlease note that there is a lesson swapping with Ms. Kwok.\n5/10 Lesson 7 --> LYK\n6/10 Lesson 9 --> HYC\nPlease bring your 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-04
+DTEND;VALUE=DATE:2026-10-04
+SUMMARY:REMINDER: Dear class\,   Hope you are enjoying…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear class\, \n\nHope you are enjoying…"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-04
+DTEND;VALUE=DATE:2026-10-04
+SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes…
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Reminder: Bring Chem textbook and notes…"\n\n\nNotification 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-05
+DTEND;VALUE=DATE:2026-10-05
+SUMMARY:REMINDER: Dear class\,   Hope you are enjoying your weekend!   May I remind you to bring yo...
+DESCRIPTION:From sheet_csv: Announcement: Dear class\, \n\nHope you are enjoying your weekend! \n\nMay I remind you to bring your Grammar Book and Grammar Booklet to class tomorrow\, a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-05
+DTEND;VALUE=DATE:2026-10-05
+SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at p...
+DESCRIPTION:From sheet_csv: Announcement: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at period 7-8.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-01
+DTEND;VALUE=DATE:2026-10-01
+SUMMARY:REMINDER: Dear 3E\,   Hope you are all enjoying…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nHope you are all enjoying…"\n\n\nNotification s
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-02
+DTEND;VALUE=DATE:2026-10-02
+SUMMARY:REMINDER: Dear 3E\,   Hope you are all enjoying the holiday!   Please be reminded to bring ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nHope you are all enjoying the holiday! \n\nPlease be reminded to bring your Writing Booklet and Grammar Booklet to class on Fri
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-29
+DTEND;VALUE=DATE:2026-09-29
+SUMMARY:REMINDER: Dear 3E\,   I said by tomorrow morning…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nI said by tomorrow morning…"\n\n\nNotification 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-28
+DTEND;VALUE=DATE:2026-09-28
+SUMMARY:REMINDER: Please find the attached link for the…
+DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Please find the attached link for the…"\n\n\nNotificatio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-28
+DTEND;VALUE=DATE:2026-09-28
+SUMMARY:REMINDER: Dear 3E\,   Please be reminded to…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to…"\n\n\nNotification setting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-29
+DTEND;VALUE=DATE:2026-09-29
+SUMMARY:REMINDER: Dear 3E\,   Please be reminded to complete the Task on writing your own lead para...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease be reminded to complete the Task on writing your own lead paragraph on p.g. 8 of your Writing Booklet tomorrow. We wil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-23
+DTEND;VALUE=DATE:2026-09-23
+SUMMARY:REMINDER: 航天創科體驗日  Date: 24 Oct 2026 (Saturday)…
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "航天創科體驗日\n\nDate: 24 Oct 2026 (Saturday)…"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-25
+DTEND;VALUE=DATE:2026-09-25
+SUMMARY:REMINDER: 2025-2026 S.A. Outstanding Affiliated Clubs
+DESCRIPTION:From sheet_csv: From: Tsz Hin YUEN <211203@std.stpaulscollege.edu.hk>\nSubject: 2025-2026 S.A. Outstanding Affiliated Clubs\n\nDear students\,\n\nS.A. Affiliated Clubs ha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-24
+DTEND;VALUE=DATE:2026-10-24
+SUMMARY:REMINDER: 航天創科體驗日  Date: 24 Oct 2026 (Saturday) Time: 9:30am to 2pm Location: HK Science P...
+DESCRIPTION:From sheet_csv: Announcement: 航天創科體驗日\n\nDate: 24 Oct 2026 (Saturday)\nTime: 9:30am to 2pm\nLocation: HK Science Park 香港科學園\nTarget: F.1 to F.3\nQuota: 20\nFee: Free of char
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-22
+DTEND;VALUE=DATE:2026-09-22
+SUMMARY:REMINDER: Dear 3E\,   Please bring your Grammar…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease bring your Grammar…"\n\n\nNotification set
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-23
+DTEND;VALUE=DATE:2026-09-23
+SUMMARY:REMINDER: Dear 3E\,   Please bring your Grammar Book to class tomorrow. If you would like t...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease bring your Grammar Book to class tomorrow. If you would like to preview what we will be doing tomorrow at home\, you ma
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-27
+DTEND;VALUE=DATE:2026-09-27
+SUMMARY:REMINDER: Recruitment of STREAM Team Specialists…
+DESCRIPTION:From sheet_csv: From: "Kwok Cho TSANG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Recruitment of STREAM Team Specialists…"\n\n\nNotificatio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-20
+DTEND;VALUE=DATE:2026-09-20
+SUMMARY:REMINDER: Students' Association Official and Sub-Committee Member Recruitment
+DESCRIPTION:From sheet_csv: From: Shing Hei Lincoln NG <221144@std.stpaulscollege.edu.hk>\nSubject: Students' Association Official and Sub-Committee Member Recruitment\n\nDear schoo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-27
+DTEND;VALUE=DATE:2026-09-27
+SUMMARY:REMINDER: Recruitment of STREAM Team Specialists Specialists form a core part of the STREA...
+DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Specialists\nSpecialists form a core part of the STREAM team\, bringing focused expertise that helps groups per
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-20
+DTEND;VALUE=DATE:2026-09-20
+SUMMARY:REMINDER: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)  寫作要求： …
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)\n\n寫作要求：\n…"\n\n\nNotification set
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-21
+DTEND;VALUE=DATE:2026-09-21
+SUMMARY:REMINDER: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)  寫作要求：  短文寫作 (記敘、描寫、抒情)  要有景、有事、有人、有情、有理   先選一地點，例...
+DESCRIPTION:From sheet_csv: Announcement: 記得明天帶原稿紙，課堂上完成短篇寫作。(可現在先構思一下)\n\n寫作要求：\n\n短文寫作 (記敘、描寫、抒情)\n\n要有景、有事、有人、有情、有理 \n\n先選一地點，例如：\n\n麥當勞\n搭地鐵\n圖書館\n食店\n各類店鋪或其他有趣的地方(但不宜太「大」)\n\n寫一篇發生在 [麥當勞  ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:REMINDER: Submit HW on 2 Oct (Friday)
+DESCRIPTION:From sheet_csv: From: "Andrea WONG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Submit HW on 2 Oct (Friday) "\n\n\nNotification settings  \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-02
+DTEND;VALUE=DATE:2026-10-02
+SUMMARY:REMINDER: Submit HW on 2 Oct (Friday)
+DESCRIPTION:From sheet_csv: Announcement: Submit HW on 2 Oct (Friday) 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:REMINDER: Dear students\, Kindly pass $3 to me for the IH-CES file. I will collect it on Fr...
+DESCRIPTION:From sheet_csv: Announcement: Dear students\,\nKindly pass $3 to me for the IH-CES file. I will collect it on Friday. Thank you.\nBest regards\,\nMs. Chan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-15
+DTEND;VALUE=DATE:2026-09-15
+SUMMARY:REMINDER: 1 明天上堂繼續用文言閱讀理解  2 誦讀    陶淵明  《五柳先生傳 》  先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好...
+DESCRIPTION:From sheet_csv: Announcement: \n1 明天上堂繼續用文言閱讀理解\n\n2 誦讀  \n\n陶淵明  《五柳先生傳 》\n\n先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好讀書，不求甚解；每有會意，便欣然忘食。\n\n性嗜酒，家貧不能常得。親舊知其如此，或置酒而招之；造飲輒盡，期在必醉
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-16
+DTEND;VALUE=DATE:2026-10-16
+SUMMARY:REMINDER: Samsung Solve for Tomorrow 2026-27  今屆 Solve for Tomorrow 2026-2027 以「看見所需，啟動未來」...
+DESCRIPTION:From sheet_csv: Announcement: Samsung Solve for Tomorrow 2026-27\n\n今屆 Solve for Tomorrow 2026-2027 以「看見所需，啟動未來」（See the Need. Prompt the Future.）為主題，呼應聯合國可持續發展目標（SDGs）
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-13
+DTEND;VALUE=DATE:2026-09-13
+SUMMARY:REMINDER: Dear F.3 Students\,  Just a gentle reminder that the deadline to enroll in this y...
+DESCRIPTION:From sheet_csv: Announcement: Dear F.3 Students\,\n\nJust a gentle reminder that the deadline to enroll in this year's Speech Festival is coming up on September 13!\n\nDon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: Please bring $21 to the VA lesson tomorrow
+DESCRIPTION:From sheet_csv: Announcement: Please bring $21 to the VA lesson tomorrow 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: Recruitment for Robotics Team Members  We are looking for new members to join th...
+DESCRIPTION:From sheet_csv: Announcement: Recruitment for Robotics Team Members\n\nWe are looking for new members to join the Robotics Team this year. \n\nWhat does the Robotics Team
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-15
+DTEND;VALUE=DATE:2026-09-15
+SUMMARY:REMINDER: Recruitment of STREAM Team Captain(s)  We are looking for the STREAM Team Captai...
+DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Captain(s)\n\nWe are looking for the STREAM Team Captain(s) for this school year.\n\nWhat Does the STREAM Team Ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-04
+DTEND;VALUE=DATE:2026-09-04
+SUMMARY:REMINDER: 明天請帶備150元，為中文科全年影印費用。
+DESCRIPTION:From sheet_csv: Announcement: 明天請帶備150元，為中文科全年影印費用。\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-16
+DTEND;VALUE=DATE:2026-10-16
+SUMMARY:REMINDER: 中電智能都會創新能源比賽2026-2027  Target: F.4-5 Team of four students  Please see the attac...
+DESCRIPTION:From sheet_csv: Announcement: 中電智能都會創新能源比賽2026-2027\n\nTarget: F.4-5\nTeam of four students\n\nPlease see the attached file for information.\n\nExternal deadline: 16 Oct 202
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:REMINDER: 豐盛宜居：科技創想大賽(2026-27)  為「沙田豐盛苑及周邊一帶」設計具可行性且貼合長者需要的「智齡及無障礙社區方案」  學校及學生參賽效益與亮點：  跨代...
+DESCRIPTION:From sheet_csv: Announcement: 豐盛宜居：科技創想大賽(2026-27)\n\n為「沙田豐盛苑及周邊一帶」設計具可行性且貼合長者需要的「智齡及無障礙社區方案」\n\n學校及學生參賽效益與亮點：\n\n跨代共創與社區實踐： 學生將與\n50+ 義工攜手，透過實地考察沙田豐盛苑，親身了解長者生活挑戰並構思解決方案。(註：
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-17
+DTEND;VALUE=DATE:2026-10-17
+SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days 2026     Theme  Environmental protection an...
+DESCRIPTION:From sheet_csv: Announcement: IET Hong Kong Faraday Challenge Days 2026\n\n\n\n\nTheme\n\nEnvironmental protection and conservation (kept secret until the day).\n\nTarget Stud
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-08-20
+DTEND;VALUE=DATE:2026-08-20
+SUMMARY:REMINDER: Dear all English Ambassadors:  Have you ever wanted to get hands-on experience o...
+DESCRIPTION:From sheet_csv: Announcement: Dear all English Ambassadors:\n\nHave you ever wanted to get hands-on experience on how to plan and host events? Or do you want to simply 
 END:VEVENT
 END:VCALENDAR
