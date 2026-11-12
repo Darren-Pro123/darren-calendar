@@ -87,4 +87,28 @@ DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: 3E English - Dictation Corrections
 DESCRIPTION:Submit your signed dictation corrections by tomorrow — this is the final chance to hand them in for credit.
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-27
+DTEND;VALUE=DATE:2026-10-27
+SUMMARY:DICTATION: Dear all\,   Please be reminded about…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear all\,\n\n\nPlease be reminded about…"\n\n\nNotif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:DICTATION: Dear 3E\,  Please be reminded to bring…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\,\n\nPlease be reminded to bring…"\n\n\nNotification 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-27
+DTEND;VALUE=DATE:2026-10-27
+SUMMARY:DICTATION: Dear 3E\,  Please be reminded to bring the Data File\, as we will finish the rest ...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nPlease be reminded to bring the Data File\, as we will finish the rest of the Listening Paper tomorrow. If you have not yet sub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:DICTATION: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。  2. 帶原稿紙  3. 字帖 第1\,2頁。暫不用交，下星期會默書。  4. 背...
+DESCRIPTION:From sheet_csv: Announcement: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。\n\n2. 帶原稿紙\n\n3. 字帖 第1\,2頁。暫不用交，下星期會默書。\n\n4. 背誦 《五柳先生傳 》\n先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好讀書，不求
+END:VEVENT
 END:VCALENDAR
