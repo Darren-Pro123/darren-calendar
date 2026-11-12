@@ -8,845 +8,986 @@ DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: 課外閱讀簡短評估 劉紹銘《吃馬鈴薯的日子》
 DESCRIPTION:Bring your iPad tomorrow for the short assessment on 'Days of Eating Potatoes' — the reading is available on Hong Kong Reading City.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Math Chapter 3 Test
 DESCRIPTION:Review Chapter 3 factorization techniques tonight — the test on Thursday covers multi-part problems\, pattern recognition\, and calculator verification (Formula 01).
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: 3E Math - Chapter 3 Test
 DESCRIPTION:Prepare for the Chapter 3 test on Thursday covering all Junior Algebra topics — review the full solution guides on Google Classroom to master the material before the exam.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: 課外閱讀簡短評估《吃馬鈴薯的日子》
 DESCRIPTION:Bring your iPad for the short extracurricular reading assessment on 'The Days of Eating Potatoes' — the assessment covers the e-reading material and is part of your coursework.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: Chinese - Extracurricular Reading Assessment
 DESCRIPTION:Prepare for the extracurricular reading assessment moved to Monday — review your reading materials over the weekend as it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: 中三 中文 第8組 26-27 - 課外閱讀評估
 DESCRIPTION:Prepare for the extracurricular reading assessment on Monday — it has been postponed from the original date.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 中文堂上作文
 DESCRIPTION:今晚準備好草稿 — 明天堂上作文涵蓋指定題目，佔學期成績一部分。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: 課外閱讀簡短評估
 DESCRIPTION:星期五前閱讀劉紹銘《吃馬鈴薯的日子》 — 這是e悅讀計劃的評估，會考核你的閱讀理解。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: Chinese - Extracurricular Reading Quiz (吃馬鈴薯的日子)
 DESCRIPTION:Review the story 《吃馬鈴薯的日子》 on the HK Reading City platform before Friday — the short quiz will test your comprehension and counts for your reading grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 課外閱讀 簡短評估
 DESCRIPTION:Prepare for the short extracurricular reading assessment on Thursday — it covers 《吃馬鈴薯的日子》 from the e-reading platform.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:TEST: English Listening Paper
 DESCRIPTION:Bring your Data File to class tomorrow to complete the Listening Paper — it covers the remaining sections and counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 中文 - 課外閱讀 簡短評估
 DESCRIPTION:Prepare for Thursday's short reading assessment on 《吃馬鈴薯的日子》 — it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: First Term Uniform Test
 DESCRIPTION:Read the uploaded syllabus on Google Classroom thoroughly and begin revision for the First Term Uniform Test on 5 November — this test covers the first term curriculum and is a major assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 小測《爸爸的花兒落了》
 DESCRIPTION:Prepare for the Chinese quiz on 'Father's Flowers Have Fallen' tomorrow — review the text tonight so you're ready for the in-class assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 中文 - 爸爸的花兒落了 小測
 DESCRIPTION:Prepare for tomorrow's Chinese quiz on 'Father's Flowers Have Fallen' — review the text and key passages tonight as it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Chapter 3 Test
 DESCRIPTION:Prepare for the Chapter 3 factorization test on Thursday — it covers multi-part questions and calculator verification\, and counts toward your mid-year exam.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 中三中文 - 《爸爸的花兒落了》小測
 DESCRIPTION:Prepare for the quiz on 'Father's Flowers Fell' next Tuesday — review the text and notes to score well in this Chinese assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:TEST: 中三 中文 第8組 26-27 - 爸爸的花兒落了 小測
 DESCRIPTION:Prepare for the quiz on 《爸爸的花兒落了》 by reviewing the text and notes — the test covers key passages and counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: Final Writing – bring Writing Booklet
 DESCRIPTION:Pack your Writing Booklet tonight so you’re ready for the final writing session tomorrow.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:TEST: Chinese - Reading Assessment on '吃馬鈴薯的日子'
 DESCRIPTION:Complete reading '吃馬鈴薯的日子' on Hong Kong Education City platform — a simple post-reading assessment will be held next week to check understanding.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: Chinese - Quiz on 《爸爸的花兒落了》
 DESCRIPTION:Prepare for the quiz on 《爸爸的花兒落了》 next Tuesday — review the text\, key phrases\, and comprehension questions.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:TEST: 中三中文第8組 - 課外閱讀《吃馬鈴薯的日子》閱後評估
 DESCRIPTION:Complete reading 《吃馬鈴薯的日子》 on the e-Reading platform this week — the post-reading assessment next week will cover the story content and counts towards your Chinese grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: Singing Exam - Hymn Selection (S5 Because He Lives\, S6 I asked the Lord\, S24 Pass It On)
 DESCRIPTION:Prepare your chosen hymn (S5 Because He Lives verses 1-2\, S6 I asked the Lord verses 2-5\, or S24 Pass It On verses 1-2) and practice singing in a pair — the exam starts on 26 Oct and counts toward your Music grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: 3E Music - Singing Exam (Choose 1 hymn\, duet)
 DESCRIPTION:Practice your chosen hymn with a partner and be ready to perform from 26 Oct — the singing exam counts toward your music grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 中三 中文 第8組 - 小測 《爸爸的花兒落了》
 DESCRIPTION:Prepare for the quiz on 《爸爸的花兒落了》 next Tuesday — review the poem and class notes so you’re ready for the test.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 3E Math Chapter 2 Test
 DESCRIPTION:Review Chapter 2 factorization patterns and practice challenging questions before Thursday's test — it covers grouping\, trial & error\, and calculator verification.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 26-27 3E Math - Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October — it covers salaries tax and compound interest\, and counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: Ah Q Reading Assessment
 DESCRIPTION:Prepare for the closed-book reading assessment on 'The True Story of Ah Q' tomorrow — review the text and key themes as it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:TEST: 阿Q正傳 閱讀評估
 DESCRIPTION:Complete the 阿Q正傳 reading assessment form on Google Forms — it's part of your Chinese reading evaluation.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: 中文 《阿Q正傳》閱讀評估
 DESCRIPTION:Prepare for the closed‑book reading assessment on 《阿Q正傳》 tomorrow — review key passages and themes covered in class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: 《阿Q正傳》閱讀評估
 DESCRIPTION:Complete the reading assessment on 'The True Story of Ah Q' this Friday — review the text thoroughly as it counts towards your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: IH-CES Revision Test
 DESCRIPTION:Study for the IH-CES revision test on Friday\, 30 October — focus on the learning focuses outlined by Ms. Chan as this test will cover the key concepts from the unit.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: IH-CES Revision Test Module 3.1
 DESCRIPTION:Study Module 3.1 learning focuses this week — the revision test assesses your understanding of the module and is worth a significant portion of your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: 阿Q正傳 閱讀評估
 DESCRIPTION:Review 《阿Q正傳》 for the reading assessment on Friday — it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October — it covers Salaries Tax and Compound Interest and counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: Physics Chapter 1 Test
 DESCRIPTION:Review Chapter 1 concepts this week — the test on October 16 covers all chapter material and counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: 3E Physics Chapter 1 Test
 DESCRIPTION:Review Chapter 1 tonight — the test covers sections 1.1‑1.4 and counts for a significant portion of your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:TEST: M³ Programme Screening Test
 DESCRIPTION:Attend the M³ screening test on 17 October at HKU from 2:00 pm to 4:00 pm — this test determines eligibility for the advanced mathematics modules running from late October to December.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:TEST: Programming Team Selection Test
 DESCRIPTION:Attend the Programming Team selection test in CR1 and CR2 on Monday 12 October at 15:45 — passing qualifies you for the competitive programming team.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:TEST: Chinese - 《阿Q正傳》 Assessment
 DESCRIPTION:Read 'The True Story of Ah Q' this week — the simple assessment next week covers the text and counts toward your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:TEST: 中三 中文 第8組 26-27 - 《阿Q正傳》簡單評估
 DESCRIPTION:下星期將進行《阿Q正傳》的簡單評估（非本星期五），請提前複習課文重點。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Math Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October covering simple and compound interest — it includes word problems and formula applications.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 3E Math - Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October by reviewing percentage change\, successive change\, and simple/compound interest — this test covers all weekly highlights and contributes to your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Math - Chapter 2 Test
 DESCRIPTION:Prepare for the Chapter 2 test on 15 October — it covers percentage change\, successive change\, and simple/compound interest.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:TEST: HKU M³ Programme Screening Test
 DESCRIPTION:Attend the HKU M³ Programme screening test on 17 October at 2:00 pm — this test qualifies you for the advanced mathematics modules running from late October to December.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 3E 中國歷史 - 測驗一 (P.4-P.39\, 袁世凱事蹟)
 DESCRIPTION:Review pages 4 to 39 for the Chinese History test on October 15 — it covers up to warlord politics and includes multiple-choice and data-based questions on Yuan Shikai.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
 SUMMARY:TEST: Chapter 1 Test
 DESCRIPTION:Prepare for the Chapter 1 Test on Thursday covering laws of integral indices\, scientific notation\, and binary number systems — review the challenging questions we'll tackle next week.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-10
 DTEND;VALUE=DATE:2026-09-10
 SUMMARY:TEST: 中國歷史 - 地圖測驗
 DESCRIPTION:Prepare for the map quiz on Thursday — it covers the regions studied this term and counts toward your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: English Final Writing
 DESCRIPTION:Bring your Writing Booklet to class tomorrow for the final writing exam — it counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:TEST: 中文 小測《爸爸的花兒落了》
 DESCRIPTION:Review the text 《爸爸的花兒落了》 for the Chinese quiz on 2026-10-27 — focus on key passages and vocabulary to perform well in class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Maths Chapter 3 Test
 DESCRIPTION:Prepare for the Chapter 3 test on November 5 — it covers factorization techniques from Chapter 3 and counts toward your mid-year exam. Review multi-part questions and practice using previous results.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: Chinese Quiz - 爸爸的花兒落了
 DESCRIPTION:Review the text '爸爸的花兒落了' tonight — the quiz covers this reading and counts toward your Chinese grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 星期四 課外閱讀 簡短評估
 DESCRIPTION:Prepare for Thursday's short reading assessment on 《吃馬鈴薯的日子》 — review the e‑reading material on Hong Kong Reading City so you can answer the questions confidently.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:TEST: 3E English - Listening Paper
 DESCRIPTION:Bring your Data File to class tomorrow for the Listening Paper — the paper will be completed and counts toward your grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: Chinese - In-class Composition
 DESCRIPTION:Prepare your composition draft tonight and bring manuscript paper to class tomorrow — the in-class writing counts toward your term grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: Chinese - Extracurricular Reading Assessment
 DESCRIPTION:Read 《吃馬鈴薯的日子》 on HKEdCity e-reading platform before Friday — the short assessment will cover key themes and characters.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 閱讀評估 (暑期課業)
 DESCRIPTION:Prepare for the reading assessment on Monday — it covers the summer homework and counts toward your term grade.
+SRC:ann_877596821656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-09
 DTEND;VALUE=DATE:2026-11-09
 SUMMARY:TEST: 3E Music - Singing Exam
 DESCRIPTION:Prepare for your Singing Exam starting 9 November — practice your pieces daily and review the rubric on Google Classroom.
+SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-03-02
 DTEND;VALUE=DATE:2027-03-02
 SUMMARY:TEST: 3E Music - Instrumental Exam
 DESCRIPTION:Rehearse your instrument pieces thoroughly — the instrumental exam starts on 2 March and contributes to your final mark.
+SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-06-01
 DTEND;VALUE=DATE:2027-06-01
 SUMMARY:TEST: 3E Music - Written Exam
 DESCRIPTION:Study for the Written Exam in June — review all theory topics covered this year and practice past papers.
+SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 中文 - 閱讀評估 (暑期課業)
 DESCRIPTION:Prepare for tomorrow's closed-book reading assessment on summer homework — it includes multiple choice and short answer questions covering the summer reading material.
+SRC:ann_877895817088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 3E Music - Written Exam
 DESCRIPTION:Review all theory topics covered this year — the written exam in June will test your comprehensive understanding.
+SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 中三 中文 第8組 26-27 - 閱讀評估 (暑期課業)
 DESCRIPTION:Prepare for the closed-book reading assessment on summer homework tomorrow in class — it includes multiple choice and short answer questions covering the summer reading material.
+SRC:ann_877895817088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 中文 閱讀評估 (暑期課業)
 DESCRIPTION:Prepare for the reading assessment on Monday — it covers the summer homework and counts toward your grade.
+SRC:ann_877596821656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-01
 DTEND;VALUE=DATE:2026-11-01
 SUMMARY:TEST: 1. 明天用星凱文言文練習  2. 帶iPad    課外閱讀 簡短評估…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 明天用星凱文言文練習\n\n2. 帶iPad    課外閱讀 簡短評估…"\n\n\nNotification sett
+SRC:gmail_1a1973d21c96d850
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: 1. 明天用星凱文言文練習  2. 帶iPad    課外閱讀 簡短評估 劉紹銘《吃馬鈴薯的日子》 香港教育城「e 悅讀學校計劃」 https://www.hk...
 DESCRIPTION:From sheet_csv: Announcement: 1. 明天用星凱文言文練習\n\n2. 帶iPad    課外閱讀 簡短評估\n劉紹銘《吃馬鈴薯的日子》\n香港教育城「e 悅讀學校計劃」\nhttps://www.hkreadingcity.net/book/details/5faa445f6a0b62e32c8b4749
+SRC:ann_890747499180
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Dear 3E\,  This week marked the end of…
 DESCRIPTION:From sheet_csv: From: "Jeffrey Ka Lap NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\,\n\nThis week marked the end of…"\n\n\nNotific
+SRC:gmail_1a18f797a24854fb
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:TEST: Dear 3E\,  This week marked the end of all Junior Algebra topics as we officially...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nThis week marked the end of all Junior Algebra topics as we officially transitioned to Geometry\, kicking off Chapter 4: Quadri
+SRC:ann_896846606313
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:TEST: 劉紹銘《吃馬鈴薯的日子》閱後評估
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "劉紹銘《吃馬鈴薯的日子》閱後評估"\n\n\nNotification settings  \n<https://accoun
+SRC:gmail_1a19a321582a8a7c
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 明天堂上繼續完成餘下作文。  原定的課外閱讀評估將順延至星期一。
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "明天堂上繼續完成餘下作文。\n\n原定的課外閱讀評估將順延至星期一。"\n\n\nNotification settings 
+SRC:gmail_1a186946d302cd3d
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: 明天堂上繼續完成餘下作文。  原定的課外閱讀評估將順延至星期一。
 DESCRIPTION:From sheet_csv: Announcement: 明天堂上繼續完成餘下作文。\n\n原定的課外閱讀評估將順延至星期一。
+SRC:ann_896517087053
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-28
 DTEND;VALUE=DATE:2026-10-28
 SUMMARY:TEST: 1. 記得明天堂上作文，宜先作準備，並帶備原稿紙。 …
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 記得明天堂上作文，宜先作準備，並帶備原稿紙。\n…"\n\n\nNotification settings  \n<h
+SRC:gmail_1a18193753c359d7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 1. 記得明天堂上作文，宜先作準備，並帶備原稿紙。  2.暫定星期五課外閱讀 簡短評估 劉紹銘《吃馬鈴薯的日子》 香港教育城「e 悅讀學校計劃」 https:/...
 DESCRIPTION:From sheet_csv: Announcement: 1. 記得明天堂上作文，宜先作準備，並帶備原稿紙。\n\n2.暫定星期五課外閱讀 簡短評估\n劉紹銘《吃馬鈴薯的日子》\n香港教育城「e 悅讀學校計劃」\nhttps://www.hkreadingcity.net/book/details/5faa445f6a0b62e32c8b
+SRC:ann_896280551100
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: 1. 作文改正 (補上一段，並改正錯別字。)  2. 完成寫作工作紙練習一。 …
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 作文改正 (補上一段，並改正錯別字。)\n\n2. 完成寫作工作紙練習一。\n…"\n\n\nNotification s
+SRC:gmail_1a177301d9ed7c41
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 1. 作文改正 (補上一段，並改正錯別字。)  2. 完成寫作工作紙練習一。  3. 星期四 課外閱讀 簡短評估  劉紹銘《吃馬鈴薯的日子》香港教育城「e 悅讀...
 DESCRIPTION:From sheet_csv: Announcement: 1. 作文改正 (補上一段，並改正錯別字。)\n\n2. 完成寫作工作紙練習一。\n\n3. 星期四 課外閱讀 簡短評估\n\n劉紹銘《吃馬鈴薯的日子》香港教育城「e 悅讀學校計劃」\nhttps://www.hkreadingcity.net/book/details/5faa445
+SRC:ann_895751178754
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-21
 DTEND;VALUE=DATE:2026-10-21
 SUMMARY:TEST: Ch1-2 Test corr
 DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Ch1-2 Test corr"\n\n\nNotification settings  \n<https://accoun
+SRC:gmail_1a1580f7bfaa90df
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:TEST: 記得明天  小測《爸爸的花兒落了》
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得明天\n\n小測《爸爸的花兒落了》"\n\n\nNotification settings  \n<https://acc
+SRC:gmail_1a1522beea7afbef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 記得明天  小測《爸爸的花兒落了》
 DESCRIPTION:From sheet_csv: Announcement: 記得明天\n\n小測《爸爸的花兒落了》
+SRC:ann_892946515863
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: 1. 下星期二小測《爸爸的花兒落了》 …
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 下星期二小測《爸爸的花兒落了》\n…"\n\n\nNotification settings  \n<https://
+SRC:gmail_1a143ccd18224888
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:TEST: 1. 下星期二小測《爸爸的花兒落了》  2. 課外閱讀：劉紹銘《吃馬鈴薯的日子》 香港教育城「e 悅讀學校計劃」 https://www.hkreadingci...
 DESCRIPTION:From sheet_csv: Announcement: 1. 下星期二小測《爸爸的花兒落了》\n\n2. 課外閱讀：劉紹銘《吃馬鈴薯的日子》\n香港教育城「e 悅讀學校計劃」\nhttps://www.hkreadingcity.net/book/details/5faa445f6a0b62e32c8b4749\n\n3. 字帖P5-6\n
+SRC:ann_874031607457
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:TEST: 課外閱讀：  劉紹銘《吃馬鈴薯的日子》  香港教育城「e 悅讀學校計劃」…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "課外閱讀：\n\n劉紹銘《吃馬鈴薯的日子》\n\n香港教育城「e 悅讀學校計劃」…"\n\n\nNotification sett
+SRC:gmail_1a1343b1fa683281
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:TEST: Dear 3E\,   Please bring your Writing…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease bring your Writing…"\n\n\nNotification set
+SRC:gmail_1a1341376cadb82f
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:TEST: 1 記得帶iPad 上堂  2. 背詩  3. 字帖 P5-6  4…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1 記得帶iPad 上堂\n\n2. 背詩\n\n3. 字帖 P5-6\n\n4…"\n\n\nNotification settin
+SRC:gmail_1a132883762503ec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:TEST: Dear 3E\,   Please bring your Writing Booklets instead of the Listening book tomo...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease bring your Writing Booklets instead of the Listening book tomorrow\, as well as your marked Test Paper 1 scripts (I hav
+SRC:ann_891767310634
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: Singing Exam:  S5 Because He…
 DESCRIPTION:From sheet_csv: From: "Paul Siu Hang KOO (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Singing Exam:\n\nS5 Because He…"\n\n\nNotification setti
+SRC:gmail_1a12e4eb3ac271f9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。 為鼓勵同學踴躍參與是次難得...
 DESCRIPTION:From sheet_csv: Announcement: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%)\n一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。\n為鼓勵同學踴躍參與是次難得的學習經歷，中史科將為有意觀賞的同學統一購票，學校提供資助。全日制學生門票原價為港幣120元，有興趣觀賞的同學請
+SRC:ann_890496416471
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: Singing Exam:  S5 Because He Lives (Verse 1-2) S6 I asked the Lord (Verse 2-5) S...
 DESCRIPTION:From sheet_csv: Announcement: Singing Exam:\n\nS5 Because He Lives (Verse 1-2)\nS6 I asked the Lord (Verse 2-5)\nS24 Pass It On (Verse 1-2)\n\nChoose 1 hymn\, and sing in a 
+SRC:ann_890489266258
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:TEST: 1 記得帶iPad 上堂  2. 背詩  3. 字帖 P5-6  4 下星期二小測 《爸爸的花兒落了》
 DESCRIPTION:From sheet_csv: Announcement: 1 記得帶iPad 上堂\n\n2. 背詩\n\n3. 字帖 P5-6\n\n4 下星期二小測 《爸爸的花兒落了》
+SRC:ann_891733101925
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:TEST: 1. 明天交字帖  (完成第1-4頁)  2. 明天《阿Q正傳》閱讀評估…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 明天交字帖  (完成第1-4頁)\n\n2. 明天《阿Q正傳》閱讀評估…"\n\n\nNotification sett
+SRC:gmail_1a11a2ce4047aaa0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: 1. 以後上課請帶備iPad  2. 明天交字帖  (完成第1-4頁)  3. 明天《阿Q正傳》閱讀評估  (閉卷 closed-book)  4. 背誦《出塞...
 DESCRIPTION:From sheet_csv: Announcement: 1. 以後上課請帶備iPad\n\n2. 明天交字帖  (完成第1-4頁)\n\n3. 明天《阿Q正傳》閱讀評估  (閉卷 closed-book)\n\n4. 背誦《出塞》 王昌齡 \n\n秦時明月漢時關，萬里長征人未還。\n但使龍城飛將在，不教胡馬度陰山。
+SRC:ann_889882997231
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:TEST: 1. 明天上堂帶iPad  2. 明天交單元筆記(如未交)  3. 星期五…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 明天上堂帶iPad\n\n2. 明天交單元筆記(如未交)\n\n3. 星期五…"\n\n\nNotification set
+SRC:gmail_1a11564ea5e91281
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:TEST: 1. 明天上堂帶iPad  2. 明天交單元筆記(如未交)  3. 星期五 《阿Q正傳》閱讀評估  4. 背誦  《出塞》 王昌齡  秦時明月漢時關，萬里長征人...
 DESCRIPTION:From sheet_csv: Announcement: 1. 明天上堂帶iPad\n\n2. 明天交單元筆記(如未交)\n\n3. 星期五 《阿Q正傳》閱讀評估\n\n4. 背誦\n\n《出塞》 王昌齡 \n秦時明月漢時關，萬里長征人未還。\n但使龍城飛將在，不教胡馬度陰山。
+SRC:ann_873877233551
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:TEST: 1. 明天背默《五柳先生傳》+ 成語P1\,2 (帶原稿紙)  2. 星期五…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 明天背默《五柳先生傳》+ 成語P1\,2 (帶原稿紙)\n\n2. 星期五…"\n\n\nNotification set
+SRC:gmail_1a1102a67571d9aa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:TEST: Dear boys\, I would like to schedule two…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear boys\,\nI would like to schedule two…"\n\n\nNoti
+SRC:gmail_1a10efd4b9b04656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:TEST: 1. 明天背默《五柳先生傳》+ 成語P1\,2 (帶原稿紙)  2. 星期五 《阿Q正傳》閱讀評估
 DESCRIPTION:From sheet_csv: Announcement: 1. 明天背默《五柳先生傳》+ 成語P1\,2 (帶原稿紙)\n\n2. 星期五 《阿Q正傳》閱讀評估
+SRC:ann_873843241131
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: There will be a test for chapter 1 on…
 DESCRIPTION:From sheet_csv: From: "Andrea WONG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "\nThere will be a test for chapter 1 on…"\n\n\nNotification 
+SRC:gmail_1a0fb03f183f8538
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: There will be a test for chapter 1 on the following week (16 Oct) Cheers.
 DESCRIPTION:From sheet_csv: Announcement: \nThere will be a test for chapter 1 on the following week (16 Oct)\nCheers.
+SRC:ann_888682312522
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會…
 DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會…"\n\n\nNotification 
+SRC:gmail_1a0e657b56ea6e12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。  《阿Q正傳》 https://zh.wikisource.org...
 DESCRIPTION:From sheet_csv: Announcement: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。\n\n《阿Q正傳》\nhttps://zh.wikisource.org/zh-hant/%E9%98%BFQ%E6%AD%A3%E5%82%B3\n
+SRC:ann_887642933854
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Dear 3E\,  This week\, we continued…
 DESCRIPTION:From sheet_csv: From: "Jeffrey Ka Lap NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\,\n\nThis week\, we continued…"\n\n\nNotification 
+SRC:gmail_1a0db3b44a826a63
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Dear 3E\,  This week\, we continued Chapter 2 by diving into Simple Interest and C...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nThis week\, we continued Chapter 2 by diving into Simple Interest and Compound Interest.\n(Note on variables: P = Principal\, A =
+SRC:ann_873473313292
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:TEST: Invitation to join the computer-aided design (CAD) course
 DESCRIPTION:From sheet_csv: From: Haoxiang HU <211073@std.stpaulscollege.edu.hk>\nSubject: Invitation to join the computer-aided design (CAD) course\n\nDear fellow students\,\n\nI ho
+SRC:gmail_1a0cfa58801c022b
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-25
 DTEND;VALUE=DATE:2026-09-25
 SUMMARY:TEST: Relief features
 DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Relief features"\n\n\nNotification settings  \n<https://accoun
+SRC:gmail_1a0cc04048b8ee76
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:TEST: oncert Example for Concert Report:  HK…
 DESCRIPTION:From sheet_csv: From: "Paul Siu Hang KOO (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "oncert Example for Concert Report:\n\nHK…"\n\n\nNotifi
+SRC:gmail_1a0cbb8452b75270
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concert: Zitong Wang P...
 DESCRIPTION:From sheet_csv: Announcement: oncert Example for Concert Report:\n\nHK Phil: National Day Concert: Zitong Wang Plays Prokofiev\, Date: 2026/09/24\nHong Kong Sinfonietta —
+SRC:ann_886709318588
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:TEST: Territory-wide Inter-school National…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Territory-wide Inter-school National…"\n\n\nNotifica
+SRC:gmail_1a0c7e84ae34e433
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:TEST: Territory-wide Inter-school National Security Knowledge Challenge (2026/27)  Dea...
 DESCRIPTION:From sheet_csv: Announcement: Territory-wide Inter-school National Security Knowledge Challenge (2026/27)\n\nDear boys\,\n\nYou are cordially invited to complete the capti
+SRC:ann_886495036521
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:TEST: Data File for Test Paper 1
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Data File for Test Paper 1"\n\n\nNotification settings  \n<h
+SRC:gmail_1a0c164c47abc2b3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Dear 3E\, This week\, we wrapped up…
 DESCRIPTION:From sheet_csv: From: "Jeffrey Ka Lap NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\,\nThis week\, we wrapped up…"\n\n\nNotification
+SRC:gmail_1a0b767b38bb1119
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: Dear 3E\, This week\, we wrapped up Chapter 1 and officially kicked off Chapter 2:...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\nThis week\, we wrapped up Chapter 1 and officially kicked off Chapter 2: More about Percentage.\nWeekly Highlights:\nTranslating W
+SRC:ann_873206335652
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:TEST: Hello 3E! For Monday's single lesson…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Hello 3E! For Monday's single lesson…"\n\n\nNotification set
+SRC:gmail_1a0b26d8dfc7f981
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
 DTEND;VALUE=DATE:2026-09-21
 SUMMARY:TEST: Hello 3E! For Monday's single lesson (Period 1)\, please bring your Performance P...
 DESCRIPTION:From sheet_csv: Announcement: Hello 3E! For Monday's single lesson (Period 1)\, please bring your Performance Plus Listening book. We will use the Data File for Test P
+SRC:ann_885829206477
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
 SUMMARY:TEST: 中國歷史測驗一 日期: 2026年10月15日星期四 範圍: P.4-P.39(更新至p.29軍閥政治） 選擇題、資料題（關於袁世凱的事蹟)
 DESCRIPTION:From sheet_csv: Announcement: 中國歷史測驗一\n日期: 2026年10月15日星期四\n範圍: P.4-P.39(更新至p.29軍閥政治）\n選擇題、資料題（關於袁世凱的事蹟)
+SRC:ann_885305300972
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
 SUMMARY:TEST: Dear 3E\,  This week\, we completed Chapter 1: Laws of Integral Indices. Weekly Hi...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nThis week\, we completed Chapter 1: Laws of Integral Indices.\nWeekly Highlights:\nScientific Notation: A concise way to represen
+SRC:ann_884449267450
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-03-20
 DTEND;VALUE=DATE:2027-03-20
 SUMMARY:TEST: 1st Term: Singing Exam (start from the 9th November\, 2026) Concert Report (1st D...
 DESCRIPTION:From sheet_csv: Announcement: 1st Term:\nSinging Exam (start from the 9th November\, 2026)\nConcert Report (1st December 2026)\nWorksheets\n2nd Term:\nInstrumental Exam (st
+SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 記得明天堂上 閱讀評估 (暑期課業)  閉卷測試(close book) 題目型式含選擇題及短問答。
 DESCRIPTION:From sheet_csv: Announcement: 記得明天堂上 閱讀評估 (暑期課業)\n\n閉卷測試(close book)\n題目型式含選擇題及短問答。
+SRC:ann_877895817088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 1. 下星期一 閱讀評估 (暑期課業)   2. 熟讀 ： 《江雪》 千山鳥飛絕，萬徑人蹤滅； 孤舟蓑笠翁，獨釣寒江雪。  《九月九日憶山東兄弟》 獨在異鄉為異...
 DESCRIPTION:From sheet_csv: Announcement: 1. 下星期一 閱讀評估 (暑期課業) \n\n2. 熟讀 ：\n《江雪》\n千山鳥飛絕，萬徑人蹤滅；\n孤舟蓑笠翁，獨釣寒江雪。\n\n《九月九日憶山東兄弟》\n獨在異鄉為異客，每逢佳節倍思親。\n遙知兄弟登高處，遍插茱萸少一人。\n\n\n\n
+SRC:ann_877596821656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-10
 DTEND;VALUE=DATE:2026-09-10
 SUMMARY:TEST: 地圖測驗及交地圖工作紙 --  2026年9月10日星期四
 DESCRIPTION:From sheet_csv: Announcement: 地圖測驗及交地圖工作紙 -- \n2026年9月10日星期四
+SRC:ann_869405951632
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 中國歷史測驗一 日期: 2026年10月15日星期四 範圍: P.4-P.39…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_52688
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematical Minds (M³) Pr...
 DESCRIPTION:From Gmail: Dear Mr. Wan\,\n\nI am interested in joining the HKU M³ Programme screening test on 17\nOctober 2026. I am also interested in the upcoming modules\, par
+SRC:gmail_918967
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
 DTEND;VALUE=DATE:2026-09-19
 SUMMARY:TEST: Answers to Chapter Tests
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_839177
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:TEST: oncert Example for Concert Report:  HK…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_792109
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: Programming Team 2026-2027 Selection Test
 DESCRIPTION:From Gmail: Dear all\,\n\nThe Programming Team is currently initiating its first recruitment cycle to\nidentify and train capable students for upcoming inter-schoo
+SRC:gmail_504500
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:TEST: There will be a test for chapter 1 on…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_536505
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:TEST: 1. 明天交字帖  (完成第1-4頁)  2. 明天《阿Q正傳》閱讀評估…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_660954
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
 DTEND;VALUE=DATE:2026-10-12
 SUMMARY:TEST: Singing Exam:  S5 Because He…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_134672
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:TEST: 阿Q正傳 閱讀評估
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_188342
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:TEST: 2022 TSA 聆聽(分卷1)
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_141672
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: 1. 下星期二小測《爸爸的花兒落了》 …
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_365932
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-19
 DTEND;VALUE=DATE:2026-10-19
 SUMMARY:TEST: 記得明天  小測《爸爸的花兒落了》
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_297452
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-23
 DTEND;VALUE=DATE:2026-10-23
 SUMMARY:TEST: First Term Uniform Test Syllabus
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_652228
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-29
 DTEND;VALUE=DATE:2026-10-29
 SUMMARY:TEST: 明天堂上繼續完成餘下作文。  原定的課外閱讀評估將順延至星期一。
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_134224
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:TEST: Test solutions
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_502077
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-01
 DTEND;VALUE=DATE:2026-11-01
 SUMMARY:TEST: 1. 明天用星凱文言文練習  2. 帶iPad    課外閱讀 簡短評估…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_226140
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:TEST: Ch1-2 Test corr
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_164203
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-03
 DTEND;VALUE=DATE:2026-11-03
 SUMMARY:TEST: Good work: Module 3.1 Revision Test
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_10492
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-10
 DTEND;VALUE=DATE:2026-11-10
 SUMMARY:TEST: 記得本星期完成 e 悅讀，下星期評估  胡燕青 《蝦子香》散文集：…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_353434
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-04
 DTEND;VALUE=DATE:2026-12-04
 SUMMARY:TEST: Uniform Test  Date: 4 Dec 2026 (Fri)…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_158975
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematic
 DESCRIPTION:From queue recovery
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concer
 DESCRIPTION:From queue recovery
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑
 DESCRIPTION:From queue recovery
+SRC:queue_recovery
 END:VEVENT
 END:VCALENDAR
