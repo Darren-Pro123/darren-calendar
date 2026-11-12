@@ -1443,4 +1443,10 @@ DTEND;VALUE=DATE:2026-11-12
 SUMMARY:EVENT: Value: Fruit Sketching
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-04
+DTEND;VALUE=DATE:2026-11-04
+SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入
+DESCRIPTION:From queue recovery
+END:VEVENT
 END:VCALENDAR
