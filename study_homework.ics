@@ -1122,12 +1122,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
-SUMMARY:HOMEWORK: Reading Comprehension 1 Submission
-DESCRIPTION:Hand in your Reading Comprehension 1 to Delton or Reese by tomorrow so the teacher can mark it before the next lesson.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
 SUMMARY:HOMEWORK: Gratitude Cards Submission
 DESCRIPTION:Submit any outstanding Gratitude Cards to Ms. Mou tomorrow — this is the final deadline for the gratitude project.
 END:VEVENT
@@ -1376,5 +1370,239 @@ DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:HOMEWORK: Summer Exercise
 DESCRIPTION:Complete and hand in your Summer Exercise by Monday\, 7 September — it covers Index Notation including zero and negative indices\, which are foundational for upcoming topics.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-09
+DTEND;VALUE=DATE:2026-11-09
+SUMMARY:HOMEWORK: Call for Stories: Campus’ Corner
+DESCRIPTION:From sheet_csv: From: Sung Ching Ambrose KWOK <231080@std.stpaulscollege.edu.hk>\nSubject: Re: Call for Stories: Campus’ Corner\n\nDear all\,\n\nI hope you are enjoying y
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-30
+DTEND;VALUE=DATE:2026-10-30
+SUMMARY:HOMEWORK: Dear 3E\,   Please be reminded to bring…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to bring…"\n\n\nNotification s
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-02
+DTEND;VALUE=DATE:2026-11-02
+SUMMARY:HOMEWORK: Dear 3E\,   Please be reminded to bring your Grammar Book to class on Monday\, and...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nPlease be reminded to bring your Grammar Book to class on Monday\, and finish the assigned Learning Reflection that was just p
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-02
+DTEND;VALUE=DATE:2026-11-02
+SUMMARY:HOMEWORK: 1. 帶文言文練習  2. 帶iPad
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1. 帶文言文練習\n\n2. 帶iPad "\n\n\nNotification settings  \n<https://
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-29
+DTEND;VALUE=DATE:2026-10-29
+SUMMARY:HOMEWORK: Campus Photo
+DESCRIPTION:From sheet_csv: From: "Wing Yan YUEN (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Campus Photo"\n\n\nNotification settings  \n<https://account
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-28
+DTEND;VALUE=DATE:2026-10-28
+SUMMARY:HOMEWORK: Dear 3E\,   Just a reminder that we will…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder that we will…"\n\n\nNotificatio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-29
+DTEND;VALUE=DATE:2026-10-29
+SUMMARY:HOMEWORK: Dear 3E\,   Just a reminder that we will need the Grammar Book tomorrow\, as we wi...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder that we will need the Grammar Book tomorrow\, as we will check the answers of Unit 7 and 11 together. Please a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-27
+DTEND;VALUE=DATE:2026-10-27
+SUMMARY:HOMEWORK: Submission of IH-CES portfolios: …
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Submission of IH-CES portfolios:\n…"\n\n\nNotificati
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-06
+DTEND;VALUE=DATE:2026-11-06
+SUMMARY:HOMEWORK: Submission of IH-CES portfolios:  Please note that the IH-CES portfolios will be...
+DESCRIPTION:From sheet_csv: Announcement: Submission of IH-CES portfolios:\n\nPlease note that the IH-CES portfolios will be collected on 6 Nov (Fri).\n\nThese items will be taken in
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nToday I gave you an…"\n\n\nNotification settings 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 2. Please be reminded to fin...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nToday I gave you an assignment Worksheet 2. Please be reminded to finish it by 26 Oct (Mon) and submit it to Marcus the subje
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nToday I gave you an…"\n\n\nNotification settings 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 1. Please be reminded to fin...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nToday I gave you an assignment Worksheet 1. Please be reminded to finish it by 20 Oct (Tue) and submit it to Marcus the subje
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:HOMEWORK: Important Update: Since you have…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Important Update: Since you have…"\n\n\nNotification setting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:HOMEWORK: Exercise 3 correction
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Exercise 3 correction"\n\n\nNotification settings  \n<https://
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-13
+DTEND;VALUE=DATE:2026-10-13
+SUMMARY:HOMEWORK: First Term Concert Report
+DESCRIPTION:From sheet_csv: From: "Paul Siu Hang KOO (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "First Term Concert Report"\n\n\nNotification settings  
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-16
+DTEND;VALUE=DATE:2026-10-16
+SUMMARY:HOMEWORK: Important Update: Since you have multiple quizzes coming up\, the Grammar Booklet...
+DESCRIPTION:From sheet_csv: Announcement: Important Update: Since you have multiple quizzes coming up\, the Grammar Booklet (pg. 13-14) will be due on FRIDAY instead. \n\nAdd oil wi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:HOMEWORK: Added a private comment on: "Exercise 2 corr
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: Added a private comment on: "Exercise 2 corr"\n\n\nNotification settings  \n<ht
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:HOMEWORK: Let’s practise p.91
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Let’s practise p.91"\n\n\nNotification settings  \n<https://ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:HOMEWORK: Dear 3E\,   I have returned the marked…
+DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nI have returned the marked…"\n\n\nNotification 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:HOMEWORK: Python Notes - Chapter 3: Assignment
+DESCRIPTION:From sheet_csv: From: "Chin Hin KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Python Notes - Chapter 3: Assignment"\n\n\nNotification sett
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:HOMEWORK: Due tomorrow: "中國工農紅軍長征勝利90周年_問答比賽
+DESCRIPTION:From sheet_csv: From: "Pui Shan Sandy HSU (Classroom)" <no-reply@classroom.google.com>\nSubject: Due tomorrow: "中國工農紅軍長征勝利90周年_問答比賽"\n\n\nNotification settings  \n<https
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-06
+DTEND;VALUE=DATE:2026-10-06
+SUMMARY:HOMEWORK: Let’s practise p.89
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Let’s practise p.89"\n\n\nNotification settings  \n<https://ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-07
+DTEND;VALUE=DATE:2026-10-07
+SUMMARY:HOMEWORK: 3E Picnic Day Grouping
+DESCRIPTION:From sheet_csv: From: "Pui Shan Sandy HSU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "3E Picnic Day Grouping"\n\n\nNotification settings  \n<
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:HOMEWORK: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安...
+DESCRIPTION:From sheet_csv: Announcement: 職安健常識問答比賽2026\n\n由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安健的風氣。\n\n比賽重要日期：\n網上簡介會\n日期︰2026年11月4日(星期三)\n時間︰下午4時30分至5時15分
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:HOMEWORK: (Oct 2627) Reflections
+DESCRIPTION:From sheet_csv: From: "Moral and Civic Education SPC (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "(Oct 2627) Reflections"\n\n\nNotification se
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-06
+DTEND;VALUE=DATE:2026-10-06
+SUMMARY:HOMEWORK: Exercise 2 corr
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Exercise 2 corr"\n\n\nNotification settings  \n<https://accoun
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-25
+DTEND;VALUE=DATE:2026-09-25
+SUMMARY:HOMEWORK: Dear 3E\,   For the submission box…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nFor the submission box…"\n\n\nNotification settin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-30
+DTEND;VALUE=DATE:2026-09-30
+SUMMARY:HOMEWORK: Let’s practise P.87
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Let’s practise P.87"\n\n\nNotification settings  \n<https://ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-25
+DTEND;VALUE=DATE:2026-09-25
+SUMMARY:HOMEWORK: Dear 3E\,   For the submission box "Relief features"\, I see some of you just adde...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nFor the submission box "Relief features"\, I see some of you just added attachments this morning. These will not be accepted. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-23
+DTEND;VALUE=DATE:2026-09-23
+SUMMARY:HOMEWORK: Dear 3E\,   For the assignment box…
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nFor the assignment box…"\n\n\nNotification settin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-23
+DTEND;VALUE=DATE:2026-09-23
+SUMMARY:HOMEWORK: Dear 3E\,   For the assignment box "Relief features" I posted on 23 September\, 14...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nFor the assignment box "Relief features" I posted on 23 September\, 14 of you did not submit your work. \n\nThese students who d
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-23
+DTEND;VALUE=DATE:2026-09-23
+SUMMARY:HOMEWORK: Territory-wide Inter-school National…
+DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Territory-wide Inter-school National…"\n\n\nNotificati
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-20
+DTEND;VALUE=DATE:2026-09-20
+SUMMARY:HOMEWORK: Call for Stories: Campus’ Corner
+DESCRIPTION:From sheet_csv: From: Sung Ching Ambrose KWOK <231080@std.stpaulscollege.edu.hk>\nSubject: Call for Stories: Campus’ Corner\n\nDear Students\,\n\nIn celebration of our sc
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:HOMEWORK: Physics Notes
+DESCRIPTION:From sheet_csv: From: Andrea WONG <aw@stpauls.edu.hk>\nSubject: Re: Physics Notes\n\nHi Darren\,\nThanks for reminding me. I will upload it on Google classroom.\n\nMiss W
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-18
+DTEND;VALUE=DATE:2026-09-18
+SUMMARY:HOMEWORK: Added a private comment on: "Let’s practise p.83
+DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: Added a private comment on: "Let’s practise p.83"\n\n\nNotification settings  
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:HOMEWORK: 中國工農紅軍長征勝利90周年_問答比賽
+DESCRIPTION:From sheet_csv: [OFFICIAL ASSIGNMENT]\nTitle: 中國工農紅軍長征勝利90周年_問答比賽\n🚨 DUE: 2026-10-08 15:59 HKT\n中國工農紅軍長征勝利90周年問答比賽完成比賽後，把分數頁截圖呈交。\n比賽日期: 2026-10-2至2026-10-8\n試玩日期: 2026-9-
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-30
+DTEND;VALUE=DATE:2026-09-30
+SUMMARY:HOMEWORK: (Sept 2627) Reflections
+DESCRIPTION:From sheet_csv: [OFFICIAL ASSIGNMENT]\nTitle: (Sept 2627) Reflections\n🚨 DUE: 2026-09-30 15:59 HKT\n\n\n📎 Attachments:\n- Link: Google Forms: Sign-in (https://forms.gle/C3G
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:HOMEWORK: Dear 3E\,  This week\, we reviewed Index Notation and expanded our toolkit to incl...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nThis week\, we reviewed Index Notation and expanded our toolkit to include Zero Indices and Negative Indices.\n\nWeekly Highlight
 END:VEVENT
 END:VCALENDAR
