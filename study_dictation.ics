@@ -8,131 +8,153 @@ DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:DICTATION: IH-CES - Good work: Dictation 1
 DESCRIPTION:Review the Dictation 1 material on Google Classroom to prepare for the upcoming dictation exercise.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:DICTATION: Good work: Dictation 1
 DESCRIPTION:Review the new dictation material posted on Google Classroom and complete Dictation 1 to reinforce your learning.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: Submit Dictation (signed with corrections)
 DESCRIPTION:Submit your signed Dictation with corrections by tomorrow — it's the final chance to hand it in for grading.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: English Dictation (signed with corrections)
 DESCRIPTION:Submit your signed dictation with corrections by tomorrow — this is the final chance to hand it in before grades are finalized.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 背誦《出塞》王昌齡
 DESCRIPTION:Memorize the poem 出塞 by Wang Changling — recitation will be checked in the next Chinese lesson.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 《五柳先生傳》+ 成語P1\,2
 DESCRIPTION:Prepare for tomorrow's dictation on 'The Biography of Five Willows' and Idioms pages 1-2 — bring your manuscript paper to class.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
 SUMMARY:DICTATION: IH-CES Vocabulary Dictation
 DESCRIPTION:Prepare for the IH-CES vocabulary dictation on Friday\, 16 October — review the vocabulary list provided by Ms. Chan to ensure you're ready for this assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:DICTATION: IH-CES Vocabulary List Dictation
 DESCRIPTION:Review the vocabulary list tonight — the dictation covers key terms from the list and counts toward your IH-CES grade.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:DICTATION: 五柳先生傳 + 成語P1\,2
 DESCRIPTION:Prepare the dictation of 《五柳先生傳》 and idioms pages 1‑2 tonight — bring the original manuscript paper for class tomorrow.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
 DTEND;VALUE=DATE:2026-10-08
 SUMMARY:DICTATION: Form 3 English Seen Dictation 1
 DESCRIPTION:Prepare for the first seen dictation on October 8 during Period 1 — review the syllabus material to perform well in this Form 3 English assessment.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:DICTATION: Chinese - 《阿Q正傳》 Dictation
 DESCRIPTION:Prepare for the dictation on 'The True Story of Ah Q' moved to next week — review the text and practice writing key passages.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-28
 DTEND;VALUE=DATE:2026-09-28
 SUMMARY:DICTATION: 中三 中文 第8組 26-27 - 《阿Q正傳》默書
 DESCRIPTION:原定本星期的默書已延至下星期，請於下星期前完成默書練習。
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:DICTATION: 字帖 第1\,2頁 默書
 DESCRIPTION:Prepare pages 1‑2 of the character copybook for a dictation next week — the teacher will test your handwriting and character recall.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: 3E English - Dictation Corrections
 DESCRIPTION:Submit your signed dictation corrections by tomorrow — this is the final chance to hand them in for credit.
+SRC:0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: Dear all\,   Please be reminded about…
 DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear all\,\n\n\nPlease be reminded about…"\n\n\nNotif
+SRC:gmail_1a17aab8fc3a0160
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:DICTATION: Dear 3E\,  Please be reminded to bring…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\,\n\nPlease be reminded to bring…"\n\n\nNotification 
+SRC:gmail_1a177aa5e6820ae8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:DICTATION: Dear 3E\,  Please be reminded to bring the Data File\, as we will finish the rest ...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\,\n\nPlease be reminded to bring the Data File\, as we will finish the rest of the Listening Paper tomorrow. If you have not yet sub
+SRC:ann_895760923271
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:DICTATION: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。  2. 帶原稿紙  3. 字帖 第1\,2頁。暫不用交，下星期會默書。  4. 背...
 DESCRIPTION:From sheet_csv: Announcement: 1. 完成寫作練習工作紙 (也許 / 彷彿 / 似乎)  十句或更多。明天交。\n\n2. 帶原稿紙\n\n3. 字帖 第1\,2頁。暫不用交，下星期會默書。\n\n4. 背誦 《五柳先生傳 》\n先生不知何許人也，亦不詳其姓字，宅邊有五柳樹，因以爲號焉。閒靜少言，不慕榮利。好讀書，不求
+SRC:ann_885580728714
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-29
 DTEND;VALUE=DATE:2026-09-29
 SUMMARY:DICTATION: Dictation 1 (Seen) Syllabus
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_238466
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:DICTATION: Dictation 1 (Seen) Answer Key
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_505505
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-08
 DTEND;VALUE=DATE:2026-11-08
 SUMMARY:DICTATION: 記得明天默書、帶字帖
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_609192
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-09
 DTEND;VALUE=DATE:2026-11-09
 SUMMARY:DICTATION: 帶iPad、默書、字帖
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_708899
 END:VEVENT
 END:VCALENDAR
