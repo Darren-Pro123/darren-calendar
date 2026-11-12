@@ -963,4 +963,34 @@ DTEND;VALUE=DATE:2026-09-13
 SUMMARY:EVENT: Speech Festival Enrollment Deadline
 DESCRIPTION:Sign up for the Speech Festival by September 13 using Class Code i27snjy4 — participating builds confidence and speaking skills for future interviews and presentations.
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2027-01-04
+DTEND;VALUE=DATE:2027-01-04
+SUMMARY:EVENT: 國民身份認同應用程式設計比賽2026/27  …
+DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "國民身份認同應用程式設計比賽2026/27\n\n…"\n\n\nNotification settings  \n<htt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-15
+DTEND;VALUE=DATE:2026-10-15
+SUMMARY:EVENT: 上堂帶iPad.  可以的話也提提你的同組同學。
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "上堂帶iPad. \n可以的話也提提你的同組同學。"\n\n\nNotification settings  \n<http
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-12
+DTEND;VALUE=DATE:2026-10-12
+SUMMARY:EVENT: 記得上堂帶iPad
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得上堂帶iPad"\n\n\nNotification settings  \n<https://accounts.go
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-08
+DTEND;VALUE=DATE:2026-10-08
+SUMMARY:EVENT: 記得帶iPad
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得帶iPad\n"\n\n\nNotification settings  \n<https://accounts.goo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-30
+DTEND;VALUE=DATE:2026-09-30
+SUMMARY:EVENT: 記得今天上堂帶ipad
+DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "記得今天上堂帶ipad"\n\n\nNotification settings  \n<https://accounts.
+END:VEVENT
 END:VCALENDAR
