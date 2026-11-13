@@ -2047,4 +2047,18 @@ SUMMARY:HOMEWORK: Submission of portfolio
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_477046
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 1. Pleas
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 2. Pleas
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
+END:VEVENT
 END:VCALENDAR
