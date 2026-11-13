@@ -990,4 +990,25 @@ SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的�
 DESCRIPTION:From queue recovery
 SRC:queue_recovery
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-02
+DTEND;VALUE=DATE:2026-10-02
+SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。  《阿Q正傳》 https://z
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-26
+DTEND;VALUE=DATE:2026-10-26
+SUMMARY:TEST: Singing Exam:  S5 Because He Lives (Verse 1-2) S6 I asked the Lo
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-29
+DTEND;VALUE=DATE:2026-10-29
+SUMMARY:TEST: 1. 記得明天堂上作文，宜先作準備，並帶備原稿紙。  2.暫定星期五課外閱讀 簡短評估 劉紹銘《吃馬鈴薯的日子》 香港教育城「e
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
+END:VEVENT
 END:VCALENDAR
