@@ -1851,4 +1851,11 @@ SUMMARY:EVENT: 「綠色空間　由我創造」學生比賽 2026-2027   今屆�
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-17
+DTEND;VALUE=DATE:2026-11-17
+SUMMARY:EVENT: Sports Day (175th Anniversary)
+DESCRIPTION:Sports Day on 17 Nov per Gmail announcement from Nov 2. Ch2 Chemistry test moved to 24 Nov. Source: Gmail 'As there will be sports day on 17 Nov'.
+SRC:gmail_sports_day_17nov
+END:VEVENT
 END:VCALENDAR
