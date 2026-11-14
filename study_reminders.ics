@@ -102,13 +102,6 @@ DESCRIPTION:Pack your classical Chinese exercises and iPad for the next Chinese 
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-03
-DTEND;VALUE=DATE:2026-11-03
-SUMMARY:REMINDER: Bring Grammar Book and Oxford Textbook
-DESCRIPTION:Pack your Grammar Book and Oxford textbook for tomorrow's English class — you'll need them for the lesson activities.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-02
 DTEND;VALUE=DATE:2026-11-02
 SUMMARY:REMINDER: 帶文言文練習、帶iPad
@@ -949,13 +942,6 @@ DESCRIPTION:Submit your application via Google Form by Monday 8:00 PM — only 2
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-19
-DTEND;VALUE=DATE:2026-10-19
-SUMMARY:REMINDER: NORMAL: iGEM Human Practice Survey Participation
-DESCRIPTION:Complete the anonymous sunscreen usage survey via the Google Form link to help the iGEM team improve their biological sunscreen project before the November jamboree.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
 DTEND;VALUE=DATE:2026-10-20
 SUMMARY:REMINDER: Music Festival Fee Cheque Submission
@@ -1002,13 +988,6 @@ DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: NORMAL: IH-CES - Correction Format Guidelines
 DESCRIPTION:Review the correction format for dictations and assignments — use a different coloured pen\, copy dictation Part A answers five times\, and mark corrections clearly with numbers or letters.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-28
-DTEND;VALUE=DATE:2026-10-28
-SUMMARY:REMINDER: NORMAL: History Learning Materials - First and Second World Wars
-DESCRIPTION:Review the attached History learning materials on the First and Second World Wars in Google Classroom to prepare for upcoming lessons.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1238,13 +1217,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
-SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
-DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nJust a reminder to bring…"\n\n\nNotification sett
-SRC:gmail_1a17058332892b72
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-25
-DTEND;VALUE=DATE:2026-10-25
 SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Listening Practice Paper 1 (Question-An...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nJust a reminder to bring your Listening Practice Paper 1 (Question-Answer book) and Data File to class tomorrow! We will fini
 SRC:ann_895650237180
@@ -1252,23 +1224,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
-SUMMARY:REMINDER: STREAM Team members can now order the…
-DESCRIPTION:From sheet_csv: From: "Ethan Thomas NG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "STREAM Team members can now order the…"\n\n\nNotificatio
-SRC:gmail_1a167dcd90b8af9c
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:REMINDER: STREAM Team members can now order the official STREAM Team Tee\, available exclus...
-DESCRIPTION:From sheet_csv: Announcement: STREAM Team members can now order the official STREAM Team Tee\, available exclusively to team members for $65. Please note that all stud
-SRC:ann_893737379221
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2027-01-08
-DTEND;VALUE=DATE:2027-01-08
-SUMMARY:REMINDER: Student Innovation Competition 2026/27 …
-DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Student Innovation Competition 2026/27\n…"\n\n\nNotification
-SRC:gmail_1a157c8b91cf033a
+SUMMARY:REMINDER: STREAM Team members can now order the official STREAM Team T
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2027-01-08
@@ -1371,9 +1329,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
-SUMMARY:REMINDER: As we prepare for our school's 175th Anniversary Open Day and the upcoming compe...
-DESCRIPTION:From sheet_csv: Announcement: As we prepare for our school's 175th Anniversary Open Day and the upcoming competitions\, we are opening sign-ups for both volunteering a
-SRC:ann_873944620286
+SUMMARY:REMINDER: As we prepare for our school's 175th Anniversary Open Day an
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
@@ -1476,9 +1434,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
-SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP…
-DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Announcement about the OPTIONAL SCMP…"\n\n\nNotification set
-SRC:gmail_1a1106c57d816ad0
+SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP Subscription  If any of you are interested ...
+DESCRIPTION:From sheet_csv: Announcement: Announcement about the OPTIONAL SCMP Subscription\n\nIf any of you are interested in subscribing to the SCMP to broaden your horizons and 
+SRC:ann_873844847344
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
@@ -1486,13 +1444,6 @@ DTEND;VALUE=DATE:2026-10-06
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nPlease be reminded to bring…"\n\n\nNotification s
 SRC:gmail_1a11067f0bd8c513
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-13
-DTEND;VALUE=DATE:2026-10-13
-SUMMARY:REMINDER: Announcement about the OPTIONAL SCMP Subscription  If any of you are interested ...
-DESCRIPTION:From sheet_csv: Announcement: Announcement about the OPTIONAL SCMP Subscription\n\nIf any of you are interested in subscribing to the SCMP to broaden your horizons and 
-SRC:ann_873844847344
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
@@ -1539,9 +1490,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
-SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at p...
-DESCRIPTION:From sheet_csv: Announcement: Reminder: Bring Chem textbook and notes tomorrow\, there will be Chem lesson at period 7-8.
-SRC:ann_888951625767
+SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes tomorrow\, there will
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-01
@@ -1623,9 +1574,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-27
 DTEND;VALUE=DATE:2026-09-27
-SUMMARY:REMINDER: Recruitment of STREAM Team Specialists…
-DESCRIPTION:From sheet_csv: From: "Kwok Cho TSANG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Recruitment of STREAM Team Specialists…"\n\n\nNotificatio
-SRC:gmail_1a0c35ffa14d559c
+SUMMARY:REMINDER: Recruitment of STREAM Team Specialists Specialists form a co
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-20
@@ -1633,13 +1584,6 @@ DTEND;VALUE=DATE:2026-09-20
 SUMMARY:REMINDER: Students' Association Official and Sub-Committee Member Recruitment
 DESCRIPTION:From sheet_csv: From: Shing Hei Lincoln NG <221144@std.stpaulscollege.edu.hk>\nSubject: Students' Association Official and Sub-Committee Member Recruitment\n\nDear schoo
 SRC:gmail_1a0c34a6608e7b1d
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-27
-DTEND;VALUE=DATE:2026-09-27
-SUMMARY:REMINDER: Recruitment of STREAM Team Specialists Specialists form a core part of the STREA...
-DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Specialists\nSpecialists form a core part of the STREAM team\, bringing focused expertise that helps groups per
-SRC:ann_873247856302
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-20
@@ -1707,16 +1651,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: Recruitment for Robotics Team Members  We are looking for new members to join th...
-DESCRIPTION:From sheet_csv: Announcement: Recruitment for Robotics Team Members\n\nWe are looking for new members to join the Robotics Team this year. \n\nWhat does the Robotics Team
-SRC:ann_878154314281
+SUMMARY:REMINDER: Recruitment for Robotics Team Members …
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_370292
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
 DTEND;VALUE=DATE:2026-09-15
-SUMMARY:REMINDER: Recruitment of STREAM Team Captain(s)  We are looking for the STREAM Team Captai...
-DESCRIPTION:From sheet_csv: Announcement: Recruitment of STREAM Team Captain(s)\n\nWe are looking for the STREAM Team Captain(s) for this school year.\n\nWhat Does the STREAM Team Ca
-SRC:ann_872689728249
+SUMMARY:REMINDER: Recruitment of STREAM Team Captain(s)  We are looking for th
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-04
@@ -1819,9 +1763,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
-SUMMARY:REMINDER: CityUHK Science Patent Challenge…
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_708058
+SUMMARY:REMINDER: CityUHK Science Patent Challenge 2026-27   The CityUHK Scien
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
@@ -1850,13 +1794,6 @@ DTEND;VALUE=DATE:2026-10-08
 SUMMARY:REMINDER: Dear 3E\,   Please be reminded to bring…
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_340106
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:REMINDER: Submitted work Module 3.1 WS 2: 1\, 4\,…
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_648215
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-12
@@ -1903,9 +1840,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-25
 DTEND;VALUE=DATE:2026-10-25
-SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring…
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_630538
+SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Listening Practice 
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
@@ -2050,28 +1987,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: Recruitment for Robotics Team Members  We are looking for ne
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-09
-DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days 2026     Theme  Environ
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_854360
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-13
 DTEND;VALUE=DATE:2026-09-13
 SUMMARY:REMINDER: Dear F.3 Students\,  Just a gentle reminder that the deadline
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-15
-DTEND;VALUE=DATE:2026-09-15
-SUMMARY:REMINDER: Recruitment of STREAM Team Captain(s)  We are looking for th
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
@@ -2104,13 +2027,6 @@ DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-27
-DTEND;VALUE=DATE:2026-09-27
-SUMMARY:REMINDER: Recruitment of STREAM Team Specialists Specialists form a co
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
 SUMMARY:REMINDER: Dear 3E\,   Hope you are all enjoying the holiday!   Please b
@@ -2121,13 +2037,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:REMINDER: Dear class\,   Hope you are enjoying your weekend!   May I re
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-05
-DTEND;VALUE=DATE:2026-10-05
-SUMMARY:REMINDER: Reminder: Bring Chem textbook and notes tomorrow\, there will
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
@@ -2167,13 +2076,6 @@ DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:REMINDER: CityUHK Science Patent Challenge 2026-27   The CityUHK Scien
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:REMINDER: Dear 3E\,   Please continue to bring the Listening Booklet to
@@ -2184,13 +2086,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
 SUMMARY:REMINDER: Dear 3E\,   Please bring your Writing Booklets instead of the
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-14
-DTEND;VALUE=DATE:2026-10-14
-SUMMARY:REMINDER: As we prepare for our school's 175th Anniversary Open Day an
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
@@ -2223,13 +2118,6 @@ DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-25
-DTEND;VALUE=DATE:2026-10-25
-SUMMARY:REMINDER: Dear 3E\,   Just a reminder to bring your Listening Practice 
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-27
 DTEND;VALUE=DATE:2026-10-27
 SUMMARY:REMINDER: Dear 3E\,  Please be reminded to bring the Data File\, as we w
@@ -2254,13 +2142,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-30
 DTEND;VALUE=DATE:2026-10-30
 SUMMARY:REMINDER: Dear 3E\,  Just a reminder to bring your Oxford English 3A te
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:REMINDER: STREAM Team members can now order the official STREAM Team T
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
@@ -2321,32 +2202,11 @@ DESCRIPTION:From Gmail rescan: Dear Schoolmates\,\n\n\nThis is a reminder tha
 SRC:gmail_rescan_715079
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-09
-DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: Please bring $21 to the VA lesson…
-DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_rescan_548089
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-09
 DTEND;VALUE=DATE:2026-11-09
 SUMMARY:REMINDER: Parent Signature Check — Collect and hand in parent's signatures for all 3 previous tests
 DESCRIPTION:From Gmail announcement: Jeffrey Ka Lap NG (Classroom)\, 3E Math\, 06 Nov 2026. Collect and hand in your parent's signatures for all 3 previous tests on 9 November (Monday).
 SRC:gmail_jeffrey_06nov_parentsign
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-09
-DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days…
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_854360
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-09
-DTEND;VALUE=DATE:2026-09-09
-SUMMARY:REMINDER: Recruitment for Robotics Team Members …
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_370292
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
@@ -2487,12 +2347,5 @@ DTEND;VALUE=DATE:2026-11-25
 SUMMARY:REMINDER: Registration for participation in the SPC 175th Musical Performance
 DESCRIPTION:From Gmail full rescan: Dear all students\,\n\nWe are looking for various talents to perform in the 175th Anniversary\nMusical. Besides singers and instrumentalists\, we also w
 SRC:gmail_full_rescan_811179
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-13
-DTEND;VALUE=DATE:2026-11-13
-SUMMARY:REMINDER: 「第29屆香港青少年科技創新大賽」   Please feel free to join the briefing session if you have in...
-DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 「第29屆香港青少年科技創新大賽」\n\n\nPlease feel free to join the briefing session if you have interest. You should register the briefing session by your
-SRC:scan_queue_897620
 END:VEVENT
 END:VCALENDAR
