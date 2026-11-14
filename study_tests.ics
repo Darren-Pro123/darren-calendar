@@ -1039,4 +1039,18 @@ SUMMARY:TEST: Master the English Language HKDSE with SCMP's Mock Exam – Limite
 DESCRIPTION:From Gmail full rescan: View in browser https://subscriptionstudentandgrowth.cmail20.com/t/t-e-ydjdidtt-irttltbth-q/\n\nDear Student\,\n\nIt's time to get exam ready with the 
 SRC:gmail_full_rescan_939419
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-14
+DTEND;VALUE=DATE:2026-10-14
+SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。 為鼓勵同學踴躍參與是次難得...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%)\n一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。\n為鼓勵同學踴躍參與是次難得的學習經歷，中史科將為有意觀賞的同學統一購票，學校提供資助。全日制學生門票原價為港幣120元，有興趣觀賞的同學請
+SRC:scan_queue_497706
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-24
+DTEND;VALUE=DATE:2026-09-24
+SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concert: Zitong Wang P...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: oncert Example for Concert Report:\n\nHK Phil: National Day Concert: Zitong Wang Plays Prokofiev\, Date: 2026/09/24\nHong Kong Sinfonietta —
+SRC:scan_queue_149528
+END:VEVENT
 END:VCALENDAR
