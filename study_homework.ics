@@ -2061,4 +2061,18 @@ SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 2. Pleas
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-04
+DTEND;VALUE=DATE:2026-09-04
+SUMMARY:HOMEWORK: F.3 Exp WB
+DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_rescan_841862
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-10
+DTEND;VALUE=DATE:2026-09-10
+SUMMARY:HOMEWORK: Acrylic sheet
+DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_rescan_491133
+END:VEVENT
 END:VCALENDAR
