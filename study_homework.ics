@@ -1026,13 +1026,6 @@ DESCRIPTION:Fill out the Google Form by 9 Oct to join the STEM+E Competition —
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-09
-DTEND;VALUE=DATE:2026-10-09
-SUMMARY:HOMEWORK: STEM+E Competition Registration
-DESCRIPTION:Complete the Google Form by 9 October to join the STEM+E Competition — teams will be formed after sign-ups close.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-25
 DTEND;VALUE=DATE:2026-09-25
 SUMMARY:HOMEWORK: Geography - Relief features assignment
@@ -1072,13 +1065,6 @@ DTSTART;VALUE=DATE:2026-09-22
 DTEND;VALUE=DATE:2026-09-22
 SUMMARY:HOMEWORK: Biology - Chapter 2 Worksheet
 DESCRIPTION:Complete the Chapter 2 worksheet (ws_ch2_e.pdf) to review cell structure — it will help prepare for the upcoming test.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-07
-DTEND;VALUE=DATE:2026-10-07
-SUMMARY:HOMEWORK: Territory-wide Inter-school National Security Knowledge Challenge (2026/27)
-DESCRIPTION:Complete the 20 MCQs on the National Security Challenge website by 7 Oct 09:59 — upload your screenshot to Google Classroom to represent the school in the territory-wide competition.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1334,13 +1320,6 @@ DESCRIPTION:Get your parent's signature on the corrected Chapter 2 test paper an
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: Integrated Humanities History Form
-DESCRIPTION:Check the new announcement in Google Classroom and complete the linked Google Form for Integrated Humanities History.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-06
 DTEND;VALUE=DATE:2026-11-06
 SUMMARY:HOMEWORK: IH-CES - Portfolio Submission
@@ -1551,13 +1530,6 @@ DESCRIPTION:Preview page 3 of the "爸爸的花兒落了" unit notes before the 
 SRC:ann_878019251333
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-04
-DTEND;VALUE=DATE:2026-09-04
-SUMMARY:HOMEWORK: Integrated Humanities - Welcome to Learn His-story Expectations
-DESCRIPTION:Write a 100‑word reflection on your expectations for Integrated Humanities and submit it on Google Classroom — this helps the teacher understand your interests and tailor the course.
-SRC:cw_877535059792
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:HOMEWORK: Summer Exercise
@@ -1630,23 +1602,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
-SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an…
-DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nToday I gave you an…"\n\n\nNotification settings 
-SRC:gmail_1a15737cc9cc4f62
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-26
-DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an assignment Worksheet 2. Please be reminded to fin...
 DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nToday I gave you an assignment Worksheet 2. Please be reminded to finish it by 26 Oct (Mon) and submit it to Marcus the subje
 SRC:ann_893213765476
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-20
-DTEND;VALUE=DATE:2026-10-20
-SUMMARY:HOMEWORK: Dear 3E\,   Today I gave you an…
-DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nToday I gave you an…"\n\n\nNotification settings 
-SRC:gmail_1a139709d759d8ef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-20
@@ -1742,9 +1700,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-25
 DTEND;VALUE=DATE:2026-09-25
-SUMMARY:HOMEWORK: Dear 3E\,   For the submission box…
-DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nFor the submission box…"\n\n\nNotification settin
-SRC:gmail_1a0f006cfa6eaa5e
+SUMMARY:HOMEWORK: Dear 3E\,   For the submission box "Relief features"\, I see some of you just adde...
+DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nFor the submission box "Relief features"\, I see some of you just added attachments this morning. These will not be accepted. 
+SRC:ann_873603673004
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-30
@@ -1752,20 +1710,6 @@ DTEND;VALUE=DATE:2026-09-30
 SUMMARY:HOMEWORK: Let’s practise P.87
 DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Let’s practise P.87"\n\n\nNotification settings  \n<https://ac
 SRC:gmail_1a0efd37b6724e31
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-25
-DTEND;VALUE=DATE:2026-09-25
-SUMMARY:HOMEWORK: Dear 3E\,   For the submission box "Relief features"\, I see some of you just adde...
-DESCRIPTION:From sheet_csv: Announcement: Dear 3E\, \n\nFor the submission box "Relief features"\, I see some of you just added attachments this morning. These will not be accepted. 
-SRC:ann_873603673004
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-23
-DTEND;VALUE=DATE:2026-09-23
-SUMMARY:HOMEWORK: Dear 3E\,   For the assignment box…
-DESCRIPTION:From sheet_csv: From: "Wing Hin YU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Dear 3E\, \n\nFor the assignment box…"\n\n\nNotification settin
-SRC:gmail_1a0e70dfb00190a4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
