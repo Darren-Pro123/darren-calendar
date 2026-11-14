@@ -2061,4 +2061,11 @@ SUMMARY:EVENT: Careers Book Exhibition @ School library (26 Oct - 6 Nov)
 DESCRIPTION:From Gmail full rescan: Dear students\,\n\nI am delighted to invite you to this year's 'Careers Book Exhibition'\,\nwhich will be held from 26 October to 6 November in the scho
 SRC:gmail_full_rescan_905424
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-04
+DTEND;VALUE=DATE:2026-11-04
+SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 職安健常識問答比賽2026\n\n由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安健的風氣。\n\n比賽重要日期：\n網上簡介會\n日期︰2026年11月4日(星期三)\n時間︰下午4時30分至5時15分
+SRC:scan_queue_762132
+END:VEVENT
 END:VCALENDAR
