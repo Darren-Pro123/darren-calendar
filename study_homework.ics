@@ -1977,4 +1977,39 @@ SUMMARY:HOMEWORK: 1.  星期一交 描寫練習  參考P3.38 《老屋》   �
 DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_full_rescan_460410
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-07
+DTEND;VALUE=DATE:2026-10-07
+SUMMARY:HOMEWORK: Territory-wide Inter-school National…
+DESCRIPTION:From Gmail New assignment notification: Territory-wide Inter-school National… — Due Oct 7
+SRC:gmail_coursework_territory_wide
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-31
+DTEND;VALUE=DATE:2026-10-31
+SUMMARY:HOMEWORK: (Oct 2627) Reflections
+DESCRIPTION:From Gmail New assignment notification: (Oct 2627) Reflections — Due Oct 31
+SRC:gmail_coursework_oct_reflections
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-21
+DTEND;VALUE=DATE:2026-10-21
+SUMMARY:HOMEWORK: Ch1-2 Test corr
+DESCRIPTION:From Gmail New assignment notification: Ch1-2 Test corr — Due Oct 21
+SRC:gmail_coursework_ch1_2_test_corr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-03
+DTEND;VALUE=DATE:2026-10-03
+SUMMARY:HOMEWORK: Unit 1: Learning and Reflection
+DESCRIPTION:From Gmail New assignment notification: Unit 1: Learning and Reflection — Due Oct 3
+SRC:gmail_coursework_unit1_reflection
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-06
+DTEND;VALUE=DATE:2026-10-06
+SUMMARY:HOMEWORK: Ex 4 corr
+DESCRIPTION:From Gmail New assignment notification: Ex 4 corr — Due Oct 6
+SRC:gmail_coursework_ex4_corr
+END:VEVENT
 END:VCALENDAR
