@@ -2327,4 +2327,11 @@ SUMMARY:REMINDER: Please bring $21 to the VA lesson…
 DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_rescan_548089
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-09
+DTEND;VALUE=DATE:2026-11-09
+SUMMARY:REMINDER: Parent Signature Check — Collect and hand in parent's signatures for all 3 previous tests
+DESCRIPTION:From Gmail announcement: Jeffrey Ka Lap NG (Classroom)\, 3E Math\, 06 Nov 2026. Collect and hand in your parent's signatures for all 3 previous tests on 9 November (Monday).
+SRC:gmail_jeffrey_06nov_parentsign
+END:VEVENT
 END:VCALENDAR
