@@ -417,13 +417,6 @@ DESCRIPTION:Rehearse your instrument pieces thoroughly — the instrumental exam
 SRC:ann_878000845365
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2027-06-01
-DTEND;VALUE=DATE:2027-06-01
-SUMMARY:TEST: 3E Music - Written Exam
-DESCRIPTION:Study for the Written Exam in June — review all theory topics covered this year and practice past papers.
-SRC:ann_878000845365
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 中文 - 閱讀評估 (暑期課業)
@@ -1017,5 +1010,19 @@ DTEND;VALUE=DATE:2026-11-24
 SUMMARY:TEST: Ch2 Chemistry Test (rescheduled to 24 Nov due to Sports Day)
 DESCRIPTION:Ch2 test rescheduled from original date to 24 Nov because of Sports Day on 17 Nov. Source: Gmail announcement from Nov 2.
 SRC:gmail_ch2_test_rescheduled
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-05
+DTEND;VALUE=DATE:2026-09-05
+SUMMARY:TEST: Mathematics Team 2026-2027 Selection Test
+DESCRIPTION:From Gmail rescan: Hello I am from 1D 20 Hayden Lui\, I want to do the form for the maths team\ntoday but it said unavailable\,but the deline is 7th of sep on or before\,ca
+SRC:gmail_rescan_756556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-07
+DTEND;VALUE=DATE:2026-09-07
+SUMMARY:TEST: 1st Term: Singing Exam (start from the…
+DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_rescan_270388
 END:VEVENT
 END:VCALENDAR
