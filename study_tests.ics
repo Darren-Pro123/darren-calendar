@@ -389,13 +389,6 @@ DESCRIPTION:Prepare your composition draft tonight and bring manuscript paper to
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-30
-DTEND;VALUE=DATE:2026-10-30
-SUMMARY:TEST: Chinese - Extracurricular Reading Assessment
-DESCRIPTION:Read 《吃馬鈴薯的日子》 on HKEdCity e-reading platform before Friday — the short assessment will cover key themes and characters.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
 SUMMARY:TEST: 閱讀評估 (暑期課業)
@@ -573,9 +566,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
-SUMMARY:TEST: 1 記得帶iPad 上堂  2. 背詩  3. 字帖 P5-6  4…
-DESCRIPTION:From sheet_csv: From: "Tze On CHU (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "1 記得帶iPad 上堂\n\n2. 背詩\n\n3. 字帖 P5-6\n\n4…"\n\n\nNotification settin
-SRC:gmail_1a132883762503ec
+SUMMARY:TEST: 1 記得帶iPad 上堂  2. 背詩  3. 字帖 P5-6  4 下星期二小測 《爸爸的花兒落了》
+DESCRIPTION:From sheet_csv: Announcement: 1 記得帶iPad 上堂\n\n2. 背詩\n\n3. 字帖 P5-6\n\n4 下星期二小測 《爸爸的花兒落了》
+SRC:ann_891733101925
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
@@ -604,13 +597,6 @@ DTEND;VALUE=DATE:2026-10-26
 SUMMARY:TEST: Singing Exam:  S5 Because He Lives (Verse 1-2) S6 I asked the Lord (Verse 2-5) S...
 DESCRIPTION:From sheet_csv: Announcement: Singing Exam:\n\nS5 Because He Lives (Verse 1-2)\nS6 I asked the Lord (Verse 2-5)\nS24 Pass It On (Verse 1-2)\n\nChoose 1 hymn\, and sing in a 
 SRC:ann_890489266258
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-13
-DTEND;VALUE=DATE:2026-10-13
-SUMMARY:TEST: 1 記得帶iPad 上堂  2. 背詩  3. 字帖 P5-6  4 下星期二小測 《爸爸的花兒落了》
-DESCRIPTION:From sheet_csv: Announcement: 1 記得帶iPad 上堂\n\n2. 背詩\n\n3. 字帖 P5-6\n\n4 下星期二小測 《爸爸的花兒落了》
-SRC:ann_891733101925
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-08
@@ -664,13 +650,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-16
 DTEND;VALUE=DATE:2026-10-16
-SUMMARY:TEST: There will be a test for chapter 1 on…
-DESCRIPTION:From sheet_csv: From: "Andrea WONG (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "\nThere will be a test for chapter 1 on…"\n\n\nNotification 
-SRC:gmail_1a0fb03f183f8538
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
 SUMMARY:TEST: There will be a test for chapter 1 on the following week (16 Oct) Cheers.
 DESCRIPTION:From sheet_csv: Announcement: \nThere will be a test for chapter 1 on the following week (16 Oct)\nCheers.
 SRC:ann_888682312522
@@ -685,9 +664,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-02
 DTEND;VALUE=DATE:2026-10-02
-SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。  《阿Q正傳》 https://zh.wikisource.org...
-DESCRIPTION:From sheet_csv: Announcement: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。\n\n《阿Q正傳》\nhttps://zh.wikisource.org/zh-hant/%E9%98%BFQ%E6%AD%A3%E5%82%B3\n
-SRC:ann_887642933854
+SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。  《阿Q正傳》 https://z
+DESCRIPTION:Recovered from queue
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
@@ -728,15 +707,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-24
 DTEND;VALUE=DATE:2026-09-24
 SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concert: Zitong Wang P...
-DESCRIPTION:From sheet_csv: Announcement: oncert Example for Concert Report:\n\nHK Phil: National Day Concert: Zitong Wang Plays Prokofiev\, Date: 2026/09/24\nHong Kong Sinfonietta —
-SRC:ann_886709318588
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-23
-DTEND;VALUE=DATE:2026-09-23
-SUMMARY:TEST: Territory-wide Inter-school National…
-DESCRIPTION:From sheet_csv: From: "Hiu Yee\, Joyce CHAN (Classroom)" <no-reply@classroom.google.com>\nSubject: New announcement: "Territory-wide Inter-school National…"\n\n\nNotifica
-SRC:gmail_1a0c7e84ae34e433
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: oncert Example for Concert Report:\n\nHK Phil: National Day Concert: Zitong Wang Plays Prokofiev\, Date: 2026/09/24\nHong Kong Sinfonietta —
+SRC:scan_queue_149528
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
@@ -832,9 +804,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
-SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematical Minds (M³) Pr...
-DESCRIPTION:From Gmail: Dear Mr. Wan\,\n\nI am interested in joining the HKU M³ Programme screening test on 17\nOctober 2026. I am also interested in the upcoming modules\, par
-SRC:gmail_918967
+SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematic
+DESCRIPTION:From queue recovery
+SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
@@ -842,13 +814,6 @@ DTEND;VALUE=DATE:2026-09-19
 SUMMARY:TEST: Answers to Chapter Tests
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_839177
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-24
-DTEND;VALUE=DATE:2026-09-24
-SUMMARY:TEST: oncert Example for Concert Report:  HK…
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_792109
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
@@ -963,32 +928,11 @@ DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.co
 SRC:gmail_158975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-18
-DTEND;VALUE=DATE:2026-09-18
-SUMMARY:TEST: New Modules and Screening Test - HKU Multidimensional Mathematic
-DESCRIPTION:From queue recovery
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-24
-DTEND;VALUE=DATE:2026-09-24
-SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concer
-DESCRIPTION:From queue recovery
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
-SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑
-DESCRIPTION:From queue recovery
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-02
-DTEND;VALUE=DATE:2026-10-02
-SUMMARY:TEST: 本星期請閱讀《阿Q正傳》，下星期會簡單評估(不是本星期五)，原定本星期的默書亦會改為下星期。  《阿Q正傳》 https://z
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。 為鼓勵同學踴躍參與是次難得...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%)\n一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。\n為鼓勵同學踴躍參與是次難得的學習經歷，中史科將為有意觀賞的同學統一購票，學校提供資助。全日制學生門票原價為港幣120元，有興趣觀賞的同學請
+SRC:scan_queue_497706
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
@@ -1038,19 +982,5 @@ DTEND;VALUE=DATE:2026-10-09
 SUMMARY:TEST: Master the English Language HKDSE with SCMP's Mock Exam – Limited Early Bird Off...
 DESCRIPTION:From Gmail full rescan: View in browser https://subscriptionstudentandgrowth.cmail20.com/t/t-e-ydjdidtt-irttltbth-q/\n\nDear Student\,\n\nIt's time to get exam ready with the 
 SRC:gmail_full_rescan_939419
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-14
-DTEND;VALUE=DATE:2026-10-14
-SUMMARY:TEST: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%) 一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。 為鼓勵同學踴躍參與是次難得...
-DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 舞台劇——「無名碑」(參與的同學將獲加下次的測驗分數10%)\n一齣以本校校友、革命烈士楊衢雲的生平事蹟為藍本的舞台劇——「無名碑」。\n為鼓勵同學踴躍參與是次難得的學習經歷，中史科將為有意觀賞的同學統一購票，學校提供資助。全日制學生門票原價為港幣120元，有興趣觀賞的同學請
-SRC:scan_queue_497706
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-24
-DTEND;VALUE=DATE:2026-09-24
-SUMMARY:TEST: oncert Example for Concert Report:  HK Phil: National Day Concert: Zitong Wang P...
-DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: oncert Example for Concert Report:\n\nHK Phil: National Day Concert: Zitong Wang Plays Prokofiev\, Date: 2026/09/24\nHong Kong Sinfonietta —
-SRC:scan_queue_149528
 END:VEVENT
 END:VCALENDAR
