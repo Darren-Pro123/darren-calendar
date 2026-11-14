@@ -1025,4 +1025,11 @@ SUMMARY:TEST: 1st Term: Singing Exam (start from the…
 DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_rescan_270388
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-27
+DTEND;VALUE=DATE:2026-11-27
+SUMMARY:TEST: Chapter 4 Test - Quadrilaterals (Rescheduled)
+DESCRIPTION:Chapter 4 Test rescheduled to 27 November (Thursday). Source: Gmail announcement from Jeffrey Ka Lap NG (Classroom)\, 3E Math\, posted 14 Nov 2026.
+SRC:gmail_latest_announcement_ch4test
+END:VEVENT
 END:VCALENDAR
