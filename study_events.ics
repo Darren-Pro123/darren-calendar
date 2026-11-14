@@ -984,13 +984,6 @@ DESCRIPTION:Remember your Chinese class for Group 8 is held at GP3 on the 5th fl
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-28
-DTEND;VALUE=DATE:2026-08-28
-SUMMARY:EVENT: STREAM Team - 豐盛宜居科技創想大賽線上簡介會
-DESCRIPTION:Attend the Zoom briefing on 28 Aug at 4 PM to learn competition details\, training schedule\, team matching\, and judging criteria — essential for forming a successful team.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-17
 DTEND;VALUE=DATE:2026-10-17
 SUMMARY:EVENT: IET Faraday Challenge Second Round
@@ -1002,27 +995,6 @@ DTSTART;VALUE=DATE:2026-11-07
 DTEND;VALUE=DATE:2026-11-07
 SUMMARY:EVENT: IET Faraday Challenge Grand Final
 DESCRIPTION:Compete in the Grand Final at VTC Tsing Yi Complex on 7 November 14:00-17:00 — winning teams can earn cash prizes up to HK$2\,000.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-14
-DTEND;VALUE=DATE:2026-08-14
-SUMMARY:EVENT: 三菱電機綠續創科盃 2026 公眾投票開始
-DESCRIPTION:Vote for Team S04 CARBONMATE 碳索足迹 on the competition website starting August 14 — your support helps them win the Public Favorite award.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-07-28
-DTEND;VALUE=DATE:2026-07-28
-SUMMARY:EVENT: Project Legacy x STEAM - SF Express Immersion Experience
-DESCRIPTION:Sign up for the three‑day SF Express immersion (July 28‑30) to shadow the General Manager\, explore AI‑driven logistics\, and experience real‑world business decision‑making.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-20
-DTEND;VALUE=DATE:2026-08-20
-SUMMARY:EVENT: English Society Committee Sign-up
-DESCRIPTION:Sign up via the Google Form by August 20 to join the English Society committee and help plan school-wide English events.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1688,13 +1660,6 @@ DTSTART;VALUE=DATE:2026-11-04
 DTEND;VALUE=DATE:2026-11-04
 SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入
 DESCRIPTION:From queue recovery
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-20
-DTEND;VALUE=DATE:2026-08-20
-SUMMARY:EVENT: Dear all English Ambassadors:  Have you ever wanted to get hand
-DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
 BEGIN:VEVENT
