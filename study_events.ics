@@ -515,13 +515,6 @@ DESCRIPTION:Attend the Filmit 2027 information session at the History Room durin
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-08
-DTEND;VALUE=DATE:2026-10-08
-SUMMARY:EVENT: English - Filmit 2027 Info Session (After School)
-DESCRIPTION:Attend the Filmit 2027 information session at the History Room after school to learn about the short film competition and how to join the team.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-05
 DTEND;VALUE=DATE:2026-10-05
 SUMMARY:EVENT: Chemistry Lesson (Period 7-8)
@@ -1637,9 +1630,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-04
 DTEND;VALUE=DATE:2026-11-04
-SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入
-DESCRIPTION:From queue recovery
-SRC:queue_recovery
+SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 職安健常識問答比賽2026\n\n由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安健的風氣。\n\n比賽重要日期：\n網上簡介會\n日期︰2026年11月4日(星期三)\n時間︰下午4時30分至5時15分
+SRC:scan_queue_762132
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-03
@@ -1651,9 +1644,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-07
 DTEND;VALUE=DATE:2026-09-07
-SUMMARY:EVENT: Dear 3E\,  This week\, we reviewed Index Notation and expanded ou
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:EVENT: Dear 3E\,  This week\, we reviewed Index…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_607802
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
@@ -1672,9 +1665,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-17
 DTEND;VALUE=DATE:2026-09-17
-SUMMARY:EVENT: Dear 3E\,  This week\, we completed Chapter 1: Laws of Integral I
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:EVENT: Dear 3E\,  This week\, we completed…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_653558
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
@@ -1714,9 +1707,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-14
 DTEND;VALUE=DATE:2026-10-14
-SUMMARY:EVENT: Dear F.1 & F.2 English Ambassadors\,  Following up on this morni
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:EVENT: Dear F.1 & F.2 English Ambassadors\, …
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_821316
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
@@ -1728,16 +1721,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
-SUMMARY:EVENT: Dear 3E\, This week\, we began Chapter 3: More about Factorizatio
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:EVENT: Dear 3E\, This week\, we began Chapter 3:…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_770561
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
-SUMMARY:EVENT: Dear 3E\,  This week\, we concluded Chapter 2: More about Percent
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
+SUMMARY:EVENT: Dear 3E\,  This week\, we concluded…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_736435
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
@@ -1750,13 +1743,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:EVENT: Dear 3E\, This week\, we wrapped up Chapter 1 and officially kick
-DESCRIPTION:Recovered from queue
-SRC:queue_recovery
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-16
-DTEND;VALUE=DATE:2026-10-16
-SUMMARY:EVENT: Samsung Solve for Tomorrow 2026-27  今屆 Solve for Tomorrow 2026-
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
@@ -1831,13 +1817,6 @@ DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accoun
 SRC:gmail_full_rescan_271999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-07
-DTEND;VALUE=DATE:2026-09-07
-SUMMARY:EVENT: Dear 3E\,  This week\, we reviewed Index…
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_607802
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-11
 DTEND;VALUE=DATE:2026-09-11
 SUMMARY:EVENT: Re: Payment of Printing Fee to the…
@@ -1864,13 +1843,6 @@ DTEND;VALUE=DATE:2026-10-15
 SUMMARY:EVENT: 2026 Imperial Global Hackathon Hong…
 DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_full_rescan_578370
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-17
-DTEND;VALUE=DATE:2026-09-17
-SUMMARY:EVENT: Dear 3E\,  This week\, we completed…
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_653558
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
@@ -1915,13 +1887,6 @@ DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accoun
 SRC:gmail_full_rescan_187629
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:EVENT: Dear 3E\,  This week\, we concluded…
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_736435
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:EVENT: Dear English Ambassadors\,  A quick…
@@ -1941,20 +1906,6 @@ DTEND;VALUE=DATE:2026-10-30
 SUMMARY:EVENT: 2026 青少年創科實踐挑戰賽  Target: F.1 to F.5…
 DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_full_rescan_87741
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:EVENT: Dear 3E\, This week\, we began Chapter 3:…
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_770561
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-14
-DTEND;VALUE=DATE:2026-10-14
-SUMMARY:EVENT: Dear F.1 & F.2 English Ambassadors\, …
-DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_full_rescan_821316
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-13
@@ -2022,13 +1973,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-19
 DTEND;VALUE=DATE:2026-09-19
-SUMMARY:EVENT: SPC Cantopop Club x Trevi Music: Elka @ Lolly Talk Busking Session
-DESCRIPTION:From Gmail full rescan: Dear schoolmates\,\n\nOn behalf of Cantopop Club\, we are pleased to announce an exclusive\nupcoming event: *SPC Cantopop Club x Trevi Music: Elka @ Lol
-SRC:gmail_full_rescan_555363
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-19
-DTEND;VALUE=DATE:2026-09-19
 SUMMARY:EVENT: [Last Call!] SPC Cantopop Club x Trevi Music: Elka @ Lolly Talk  Busking Session
 DESCRIPTION:From Gmail full rescan: [‼️Remaining slots are very limited‼️]\n\nDear schoolmates\,\n\nOn behalf of Cantopop Club\, we are pleased to announce an exclusive\nupcoming event: *S
 SRC:gmail_full_rescan_291399
@@ -2060,12 +2004,5 @@ DTEND;VALUE=DATE:2026-10-26
 SUMMARY:EVENT: Careers Book Exhibition @ School library (26 Oct - 6 Nov)
 DESCRIPTION:From Gmail full rescan: Dear students\,\n\nI am delighted to invite you to this year's 'Careers Book Exhibition'\,\nwhich will be held from 26 October to 6 November in the scho
 SRC:gmail_full_rescan_905424
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-04
-DTEND;VALUE=DATE:2026-11-04
-SUMMARY:EVENT: 職安健常識問答比賽2026  由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安...
-DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 職安健常識問答比賽2026\n\n由職安局及勞工處合辦的「職安健常識問答比賽」致力以比賽形式，提升學生的職安健水平，將安全文化融入工作與日常生活中，營造社會重視職安健的風氣。\n\n比賽重要日期：\n網上簡介會\n日期︰2026年11月4日(星期三)\n時間︰下午4時30分至5時15分
-SRC:scan_queue_762132
 END:VEVENT
 END:VCALENDAR
