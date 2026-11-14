@@ -2012,4 +2012,32 @@ SUMMARY:HOMEWORK: Ex 4 corr
 DESCRIPTION:From Gmail New assignment notification: Ex 4 corr — Due Oct 6
 SRC:gmail_coursework_ex4_corr
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-12-11
+DTEND;VALUE=DATE:2026-12-11
+SUMMARY:HOMEWORK: First Term Work — 3E Integrated Humanities
+DESCRIPTION:From Google Classroom CourseWork: First Term Work — Due 11 Dec 2026
+SRC:coursework_first_term_work
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-06
+DTEND;VALUE=DATE:2026-11-06
+SUMMARY:HOMEWORK: Campus Photo — 3E VA
+DESCRIPTION:From Google Classroom CourseWork: Campus Photo — Due 6 Nov 2026
+SRC:coursework_campus_photo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-30
+DTEND;VALUE=DATE:2026-11-30
+SUMMARY:HOMEWORK: (Nov 2627) Reflections — F3 Moral and Civic Education
+DESCRIPTION:From Google Classroom CourseWork: (Nov 2627) Reflections — Due 30 Nov 2026
+SRC:coursework_nov_reflections
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-08
+DTEND;VALUE=DATE:2026-11-08
+SUMMARY:HOMEWORK: Unit 2 - Text 2 (Oxford Textbook) Vocabulary Worksheet
+DESCRIPTION:From Google Classroom CourseWork: Unit 2 - Text 2 Vocabulary Worksheet — Due 8 Nov 2026
+SRC:coursework_unit2_text2
+END:VEVENT
 END:VCALENDAR
