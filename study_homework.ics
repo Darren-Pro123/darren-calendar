@@ -154,7 +154,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-11-05
 DTEND;VALUE=DATE:2026-11-05
 SUMMARY:HOMEWORK: Campus Photo
-DESCRIPTION:Submit three artistic campus photos applying composition techniques by November 5 — your chosen photo will become the reference for the upcoming sketching unit.
+DESCRIPTION:Upload three artistic campus photos that use the composition techniques from our last lesson by 2026-11-05 02:30 — one photo will be chosen as the reference for the upcoming sketching unit.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-15
 DTEND;VALUE=DATE:2026-10-15
 SUMMARY:HOMEWORK: Python Notes - Chapter 4: Assignment
-DESCRIPTION:Complete the Python Notes for Chapter 4 assignment and submit it on Google Classroom by today — this covers key programming concepts for your ICT course.
+DESCRIPTION:Complete the Python Notes Chapter 4 assignment using the provided template and submit by 15 Oct 04:35 HKT — this covers assignment statements and counts toward your ICT grade.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -627,13 +627,6 @@ DESCRIPTION:Complete copybook pages 5‑6 and hand them in at the next lesson �
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-05
-DTEND;VALUE=DATE:2026-11-05
-SUMMARY:HOMEWORK: Campus Photo
-DESCRIPTION:Upload three artistic campus photos that use the composition techniques from our last lesson by 2026-11-05 02:30 — one photo will be chosen as the reference for the upcoming sketching unit.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-09
 DTEND;VALUE=DATE:2026-10-09
 SUMMARY:HOMEWORK: 阿Q正傳 閱讀評估
@@ -798,7 +791,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:HOMEWORK: 3E 中國歷史 - Picnic Day Grouping
-DESCRIPTION:Complete the Picnic Day grouping assignment in Google Classroom by October 7 — this determines your group for the upcoming school picnic.
+DESCRIPTION:Complete the picnic day grouping spreadsheet and submit it via Google Drive by 3:59 PM on 7 Oct — the teacher needs the groups finalized for the outing.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -813,13 +806,6 @@ DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:HOMEWORK: English - SCMP Subscription Form & Cheque
 DESCRIPTION:Fill out the e‑Notice form and give a $250 cheque to your English teacher by 13 October — the optional SCMP subscription expands your reading horizons and boosts English proficiency.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-15
-DTEND;VALUE=DATE:2026-10-15
-SUMMARY:HOMEWORK: Python Notes - Chapter 4: Assignment
-DESCRIPTION:Complete the Python Notes Chapter 4 assignment using the provided template and submit by 15 Oct 04:35 HKT — this covers assignment statements and counts toward your ICT grade.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -911,13 +897,6 @@ DTSTART;VALUE=DATE:2026-09-30
 DTEND;VALUE=DATE:2026-09-30
 SUMMARY:HOMEWORK: Geography - Let's practise P.87
 DESCRIPTION:Complete the practice exercises on page 87 for Geography class — check Google Classroom for the full details and submission instructions.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-07
-DTEND;VALUE=DATE:2026-10-07
-SUMMARY:HOMEWORK: 3E 中國歷史 - Picnic Day Grouping
-DESCRIPTION:Complete the picnic day grouping spreadsheet and submit it via Google Drive by 3:59 PM on 7 Oct — the teacher needs the groups finalized for the outing.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,7 +1064,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-23
 DTEND;VALUE=DATE:2026-09-23
 SUMMARY:HOMEWORK: Exercise 1 corr
-DESCRIPTION:Upload your Exercise 1 correction PDF to Google Classroom by Sep 23 — it covers three pages and counts toward your chemistry grade.
+DESCRIPTION:Upload the corrected Exercise 1 PDF to the class platform by 23 Sep — the teacher will review it before the next chemistry lab.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1100,13 +1079,6 @@ DTSTART;VALUE=DATE:2026-10-07
 DTEND;VALUE=DATE:2026-10-07
 SUMMARY:HOMEWORK: Territory-wide Inter-school National Security Knowledge Challenge (2026/27)
 DESCRIPTION:Complete the 20 MCQs on the National Security Challenge website by 7 Oct 09:59 — upload your screenshot to Google Classroom to represent the school in the territory-wide competition.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-23
-DTEND;VALUE=DATE:2026-09-23
-SUMMARY:HOMEWORK: Exercise 1 corr
-DESCRIPTION:Upload the corrected Exercise 1 PDF to the class platform by 23 Sep — the teacher will review it before the next chemistry lab.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,8 +1148,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:HOMEWORK: Let's practise p.83
-DESCRIPTION:Review the teacher's private comment on the page 83 practice in Google Classroom — the feedback explains why contour line spacing indicates steeper gradients and will help with future gradient calculations.
-SRC:0
+DESCRIPTION:Review your graded practice on page 83 — check the feedback to see where you can improve.
+SRC:gmail_1a0b2feeab8a4823
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-21
@@ -1544,13 +1516,6 @@ DESCRIPTION:Review your submitted answers for Module 3.1 Worksheet 2 — questio
 SRC:gmail_1a11f1f4926a9a54
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-09-18
-DTEND;VALUE=DATE:2026-09-18
-SUMMARY:HOMEWORK: Let's practise p.83
-DESCRIPTION:Review your graded practice on page 83 — check the feedback to see where you can improve.
-SRC:gmail_1a0b2feeab8a4823
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: Integrated Humanities - Google Form
@@ -1698,13 +1663,6 @@ DESCRIPTION:From sheet_csv: From: "Candace MOU (Classroom)" <no-reply@classroom.
 SRC:gmail_1a1344607450311c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-14
-DTEND;VALUE=DATE:2026-10-14
-SUMMARY:HOMEWORK: Exercise 3 correction
-DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Exercise 3 correction"\n\n\nNotification settings  \n<https://
-SRC:gmail_1a133e46c32ffcc1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-13
 DTEND;VALUE=DATE:2026-10-13
 SUMMARY:HOMEWORK: First Term Concert Report
@@ -1780,13 +1738,6 @@ DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: (Oct 2627) Reflections
 DESCRIPTION:From sheet_csv: From: "Moral and Civic Education SPC (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "(Oct 2627) Reflections"\n\n\nNotification se
 SRC:gmail_1a10b06471ccedd7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-06
-DTEND;VALUE=DATE:2026-10-06
-SUMMARY:HOMEWORK: Exercise 2 corr
-DESCRIPTION:From sheet_csv: From: "Lai Yi KWOK (Classroom)" <no-reply@classroom.google.com>\nSubject: New assignment: "Exercise 2 corr"\n\n\nNotification settings  \n<https://accoun
-SRC:gmail_1a10a9897e980168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-25
@@ -1922,25 +1873,11 @@ DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.co
 SRC:gmail_600487
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-13
-DTEND;VALUE=DATE:2026-10-13
-SUMMARY:HOMEWORK: Exercise 2 corr
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_204481
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-26
 DTEND;VALUE=DATE:2026-10-26
 SUMMARY:HOMEWORK: 1. 作文改正 (補上一段，並改正錯別字。)  2. 完成寫作工作紙練習一。 …
 DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_469309
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-11-01
-DTEND;VALUE=DATE:2026-11-01
-SUMMARY:HOMEWORK: Unit 1: Learning and Reflection
-DESCRIPTION:From Gmail: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
-SRC:gmail_216915
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-31
