@@ -914,20 +914,6 @@ DESCRIPTION:Stay in your classroom for the first lesson — the teacher will tak
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-31
-DTEND;VALUE=DATE:2026-08-31
-SUMMARY:REMINDER: STREAM Team Application Form
-DESCRIPTION:Fill in the Google form to continue as a STREAM Team member — junior students need one activity or workshop\, seniors need one external competition to qualify for membership.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-28
-DTEND;VALUE=DATE:2026-08-28
-SUMMARY:REMINDER: Join Goodnotes Classroom and review Junior Mathematics Subject Outline
-DESCRIPTION:Join the Goodnotes Classroom using the provided link and review the Junior Mathematics Subject Outline PDF to understand the course expectations and resources.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-18
 DTEND;VALUE=DATE:2026-09-18
 SUMMARY:REMINDER: STREAM Team - 豐盛宜居科技創想大賽隊伍申請截止
@@ -939,20 +925,6 @@ DTSTART;VALUE=DATE:2026-09-09
 DTEND;VALUE=DATE:2026-09-09
 SUMMARY:REMINDER: IET Faraday Challenge Team Registration
 DESCRIPTION:Form your team of 3-6 students and email the team leader for registration by 9 September — spots are limited and the challenge starts 17 October.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-20
-DTEND;VALUE=DATE:2026-08-20
-SUMMARY:REMINDER: NORMAL: 三菱電機綠續創科盃 2026 公眾投票截止
-DESCRIPTION:Submit your vote for Team S04 CARBONMATE 碳索足迹 by August 20 23:59 — the public voting period ends then.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-07-10
-DTEND;VALUE=DATE:2026-07-10
-SUMMARY:REMINDER: ICT Course Farewell
-DESCRIPTION:Read the farewell announcement from Miss Lam in the ICT classroom — she celebrates your four months together and encourages you to keep learning and shining.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1775,13 +1747,6 @@ DESCRIPTION:From sheet_csv: Announcement: IET Hong Kong Faraday Challenge Days 2
 SRC:ann_874407110665
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-08-20
-DTEND;VALUE=DATE:2026-08-20
-SUMMARY:REMINDER: Dear all English Ambassadors:  Have you ever wanted to get hands-on experience o...
-DESCRIPTION:From sheet_csv: Announcement: Dear all English Ambassadors:\n\nHave you ever wanted to get hands-on experience on how to plan and host events? Or do you want to simply 
-SRC:ann_870369468570
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-09-15
 DTEND;VALUE=DATE:2026-09-15
 SUMMARY:REMINDER: Form 3 Class Librarian Information Form
@@ -2319,5 +2284,47 @@ DTEND;VALUE=DATE:2026-11-13
 SUMMARY:REMINDER: STREAM Team tees arrived — collect shirts at recess
 DESCRIPTION:Students who placed an order are requested to collect their STREAM Team shirts from Ethan Thomas NG during recess at 5F Classroom tomorrow (Nov 13) or throughout next week. Source: Gmail announcement from Nov 12 HKT.
 SRC:gmail_latest_announcement
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-10
+DTEND;VALUE=DATE:2026-09-10
+SUMMARY:REMINDER: IMPORTANT Reminder: Individual Photo-Taking Schedule and Guidelines  (Thu & Fri)
+DESCRIPTION:From Gmail rescan: Dear Students\,\n\nThe individual photo-taking sessions will be held this *Thursday* and *Friday\n*according to the schedule below.\n\nAs a large numbe
+SRC:gmail_rescan_733308
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: IMPORTANT Reminder: Individual Photo-Taking Schedule and  Guidelines (Thu & Fri)
+DESCRIPTION:From Gmail rescan: Students of 1A and 1B\, please come to the Hall quickly and quietly *after\nyour roll call*.\n\nFor all other students\, your cooperation is highly appr
+SRC:gmail_rescan_360721
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-11
+DTEND;VALUE=DATE:2026-09-11
+SUMMARY:REMINDER: Reminder for deadline to apply Music Instrumental Class (2026–2027)
+DESCRIPTION:From Gmail rescan: Dear students\,\n\nIt is a reminder that the deadline for applying to music instrumental class\nis tomorrow. For interested applicants\, please make sur
+SRC:gmail_rescan_808693
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-11
+DTEND;VALUE=DATE:2026-09-11
+SUMMARY:REMINDER: IMPORTANT Reminder: Individual Photo-Taking Schedule and  Guidelines (Thu & Fri)
+DESCRIPTION:From Gmail rescan: Dear Students\,\n\nThank you for your cooperation yesterday. The photo sessions were completed\nsmoothly. Please remember today's schedule:\n\n*11 Sept
+SRC:gmail_rescan_86400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-24
+DTEND;VALUE=DATE:2026-11-24
+SUMMARY:REMINDER: Reminder—S.A. Sponsored Walk Enrollment
+DESCRIPTION:From Gmail rescan: Dear Schoolmates\,\n\n\nThis is a reminder that students who would like to join the S.A. 175th\nAnniversary Sponsored Walk must collect the Sponsored W
+SRC:gmail_rescan_715079
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: Please bring $21 to the VA lesson…
+DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_rescan_548089
 END:VEVENT
 END:VCALENDAR
