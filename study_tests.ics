@@ -1011,4 +1011,11 @@ SUMMARY:TEST: 1. 記得明天堂上作文，宜先作準備，並帶備原稿紙
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-24
+DTEND;VALUE=DATE:2026-11-24
+SUMMARY:TEST: Ch2 Chemistry Test (rescheduled to 24 Nov due to Sports Day)
+DESCRIPTION:Ch2 test rescheduled from original date to 24 Nov because of Sports Day on 17 Nov. Source: Gmail announcement from Nov 2.
+SRC:gmail_ch2_test_rescheduled
+END:VEVENT
 END:VCALENDAR
