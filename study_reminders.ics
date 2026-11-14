@@ -2488,4 +2488,11 @@ SUMMARY:REMINDER: Registration for participation in the SPC 175th Musical Perfor
 DESCRIPTION:From Gmail full rescan: Dear all students\,\n\nWe are looking for various talents to perform in the 175th Anniversary\nMusical. Besides singers and instrumentalists\, we also w
 SRC:gmail_full_rescan_811179
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-13
+DTEND;VALUE=DATE:2026-11-13
+SUMMARY:REMINDER: 「第29屆香港青少年科技創新大賽」   Please feel free to join the briefing session if you have in...
+DESCRIPTION:From study_scan_queue (source=sheet_csv): Announcement: 「第29屆香港青少年科技創新大賽」\n\n\nPlease feel free to join the briefing session if you have interest. You should register the briefing session by your
+SRC:scan_queue_897620
+END:VEVENT
 END:VCALENDAR
