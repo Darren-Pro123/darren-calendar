@@ -2075,4 +2075,11 @@ SUMMARY:HOMEWORK: Acrylic sheet
 DESCRIPTION:From Gmail rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
 SRC:gmail_rescan_491133
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-16
+DTEND;VALUE=DATE:2026-11-16
+SUMMARY:HOMEWORK: HW7 - Previous Exam Questions (Chapter 4 Quadrilaterals)
+DESCRIPTION:HW7: Previous Exam Questions from Internal Exams — Due 16 November (Monday). Source: Gmail announcement from Jeffrey Ka Lap NG (Classroom)\, 3E Math\, posted 14 Nov 2026.
+SRC:gmail_latest_announcement_hw7
+END:VEVENT
 END:VCALENDAR
