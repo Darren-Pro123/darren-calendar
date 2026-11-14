@@ -2082,4 +2082,11 @@ SUMMARY:HOMEWORK: HW7 - Previous Exam Questions (Chapter 4 Quadrilaterals)
 DESCRIPTION:HW7: Previous Exam Questions from Internal Exams — Due 16 November (Monday). Source: Gmail announcement from Jeffrey Ka Lap NG (Classroom)\, 3E Math\, posted 14 Nov 2026.
 SRC:gmail_latest_announcement_hw7
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-10
+DTEND;VALUE=DATE:2026-11-10
+SUMMARY:HOMEWORK: HW6 — Supp. Ex. 4A Q22 4B Q25 4C Q19\,24
+DESCRIPTION:From Gmail announcement: Jeffrey Ka Lap NG (Classroom)\, 3E Math\, 06 Nov 2026. Homework (HW6): Supp. Ex. 4A Q22 4B Q25 4C Q19\,24 — Due 10 November (Tuesday).
+SRC:gmail_jeffrey_06nov_hw6
+END:VEVENT
 END:VCALENDAR
