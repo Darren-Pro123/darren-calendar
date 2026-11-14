@@ -2089,4 +2089,11 @@ SUMMARY:HOMEWORK: HW6 — Supp. Ex. 4A Q22 4B Q25 4C Q19\,24
 DESCRIPTION:From Gmail announcement: Jeffrey Ka Lap NG (Classroom)\, 3E Math\, 06 Nov 2026. Homework (HW6): Supp. Ex. 4A Q22 4B Q25 4C Q19\,24 — Due 10 November (Tuesday).
 SRC:gmail_jeffrey_06nov_hw6
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-16
+DTEND;VALUE=DATE:2026-11-16
+SUMMARY:HOMEWORK: 1.  星期一交 描寫練習  參考P3.38 《老屋》   練習1 我的…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_460410
+END:VEVENT
 END:VCALENDAR
