@@ -2313,4 +2313,11 @@ SUMMARY:REMINDER: Submission of IH-CES portfolios:  Please note that the IH-CE
 DESCRIPTION:Recovered from queue
 SRC:queue_recovery
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-13
+DTEND;VALUE=DATE:2026-11-13
+SUMMARY:REMINDER: STREAM Team tees arrived — collect shirts at recess
+DESCRIPTION:Students who placed an order are requested to collect their STREAM Team shirts from Ethan Thomas NG during recess at 5F Classroom tomorrow (Nov 13) or throughout next week. Source: Gmail announcement from Nov 12 HKT.
+SRC:gmail_latest_announcement
+END:VEVENT
 END:VCALENDAR
