@@ -1032,4 +1032,11 @@ SUMMARY:TEST: Chapter 4 Test - Quadrilaterals (Rescheduled)
 DESCRIPTION:Chapter 4 Test rescheduled to 27 November (Thursday). Source: Gmail announcement from Jeffrey Ka Lap NG (Classroom)\, 3E Math\, posted 14 Nov 2026.
 SRC:gmail_latest_announcement_ch4test
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:TEST: Master the English Language HKDSE with SCMP's Mock Exam – Limited Early Bird Off...
+DESCRIPTION:From Gmail full rescan: View in browser https://subscriptionstudentandgrowth.cmail20.com/t/t-e-ydjdidtt-irttltbth-q/\n\nDear Student\,\n\nIt's time to get exam ready with the 
+SRC:gmail_full_rescan_939419
+END:VEVENT
 END:VCALENDAR
