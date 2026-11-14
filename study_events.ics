@@ -354,13 +354,6 @@ DESCRIPTION:Attend the Filmit 2027 briefing at the History Room during lunchtime
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-08
-DTEND;VALUE=DATE:2026-10-08
-SUMMARY:EVENT: F.3 English - Filmit 2027 Read to Reel Briefing
-DESCRIPTION:Attend the Filmit 2027 briefing at the History Room after school (3:45 PM) to learn about the filmmaking competition celebrating Hong Kong's heritage.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-31
 DTEND;VALUE=DATE:2026-12-31
 SUMMARY:EVENT: 「綠色空間　由我創造」學生比賽 2026-2027 官方報名截止
@@ -403,13 +396,6 @@ DESCRIPTION:Attend the Filmit 2027 briefing in the History Room at 1:15 PM to le
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-08
-DTEND;VALUE=DATE:2026-10-08
-SUMMARY:EVENT: Filmit 2027 Read to Reel Briefing Session
-DESCRIPTION:Attend the Filmit 2027 briefing in the History Room at 3:45 PM to learn about the filmmaking competition celebrating Hong Kong's heritage — no experience needed\, just passion.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-12-31
 DTEND;VALUE=DATE:2026-12-31
 SUMMARY:EVENT: 2026-27 STREAM Team - Green Space Competition Registration Deadline
@@ -448,7 +434,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:EVENT: English Ambassadors Briefing Session
-DESCRIPTION:Review the briefing slides attached to the Classroom post — they contain the teacher advisor's contact details and key information for upcoming activities.
+DESCRIPTION:Attend the English Ambassadors briefing at the 5/F Balcony on Tuesday at 1:15 PM — Ms Mohammad will kick off the year and share important duties. Mark your attendance with a committee member upon arrival. Email Ms Mohammad or Gordon Tung (5D) at least one day ahead if you cannot make it.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
@@ -505,13 +491,6 @@ DTSTART;VALUE=DATE:2026-10-06
 DTEND;VALUE=DATE:2026-10-06
 SUMMARY:EVENT: IH-CES - Lesson 9 swapped to HYC
 DESCRIPTION:Note the lesson swap for Lesson 9 on 6 Oct — the class will be taught by HYC instead of the usual teacher.
-SRC:0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:2026-10-06
-DTEND;VALUE=DATE:2026-10-06
-SUMMARY:EVENT: English Ambassadors Briefing Session
-DESCRIPTION:Attend the English Ambassadors briefing at the 5/F Balcony on Tuesday at 1:15 PM — Ms Mohammad will kick off the year and share important duties. Mark your attendance with a committee member upon arrival. Email Ms Mohammad or Gordon Tung (5D) at least one day ahead if you cannot make it.
 SRC:0
 END:VEVENT
 BEGIN:VEVENT
