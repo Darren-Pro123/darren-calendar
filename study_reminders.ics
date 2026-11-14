@@ -2334,4 +2334,60 @@ SUMMARY:REMINDER: Parent Signature Check — Collect and hand in parent's signat
 DESCRIPTION:From Gmail announcement: Jeffrey Ka Lap NG (Classroom)\, 3E Math\, 06 Nov 2026. Collect and hand in your parent's signatures for all 3 previous tests on 9 November (Monday).
 SRC:gmail_jeffrey_06nov_parentsign
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: IET Hong Kong Faraday Challenge Days…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_854360
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-09-09
+DTEND;VALUE=DATE:2026-09-09
+SUMMARY:REMINDER: Recruitment for Robotics Team Members …
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_370292
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-09
+DTEND;VALUE=DATE:2026-10-09
+SUMMARY:REMINDER: STEM+E Competition 2026/27  Throughout…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_478728
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-01
+DTEND;VALUE=DATE:2026-10-01
+SUMMARY:REMINDER: Dear Form 3 Students\,  Are you…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_39212
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-10-20
+DTEND;VALUE=DATE:2026-10-20
+SUMMARY:REMINDER: Next Meeting on 20th October (Tue) Next…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_768533
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-05
+DTEND;VALUE=DATE:2026-11-05
+SUMMARY:REMINDER: Dear Students\,  The First Term Uniform…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_525778
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-06
+DTEND;VALUE=DATE:2026-11-06
+SUMMARY:REMINDER: Dear 3E\,   May I ask you all to bring…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_811033
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:2026-11-13
+DTEND;VALUE=DATE:2026-11-13
+SUMMARY:REMINDER: Dear Students\,  Please be informed that…
+DESCRIPTION:From Gmail full rescan: \nNotification settings  \n<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s?email%3D241013@std.stpaulscollege.edu.h
+SRC:gmail_full_rescan_533373
+END:VEVENT
 END:VCALENDAR
